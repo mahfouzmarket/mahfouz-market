@@ -2,6 +2,7 @@
   "version": 2,
   "weight": {
     "per_delivery_kg": 1.0,
+    "default_item_weight_kg": 0.005,
     "notes": "deliveries = ceil(total_weight_kg / per_delivery_kg)"
   },
   "distance": {
