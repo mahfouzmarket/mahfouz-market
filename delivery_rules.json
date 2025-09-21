@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "weight": {
+    "per_delivery_kg": 1.0,
+    "notes": "deliveries = ceil(total_weight_kg / per_delivery_kg)"
+  },
+  "distance": {
+    "unit": "meters",
+    "max_applicable": 3150,
+    "bands": [
+      { "code": "A1", "min_inclusive": 0,    "max_inclusive": 850,  "label": "0–850 m" },
+      { "code": "B2", "min_inclusive": 851,  "max_inclusive": 1500, "label": "851–1500 m" },
+      { "code": "C3", "min_inclusive": 1501, "max_inclusive": 2100, "label": "1501–2100 m" },
+      { "code": "D4", "min_inclusive": 2101, "max_inclusive": 2500, "label": "2101–2500 m" },
+      { "code": "E5", "min_inclusive": 2501, "max_inclusive": 2850, "label": "2501–2850 m" },
+      { "code": "F6", "min_inclusive": 2851, "max_inclusive": 3150, "label": "2851–3150 m" }
+    ]
+  },
+  "pricing_lbp": {
+    "currency": "LBP",
+    "base_price": 50000,
+    "band_multipliers": {
+      "A1": 1,
+      "B2": 2,
+      "C3": 3,
+      "D4": 4,
+      "E5": 5,
+      "F6": 6
+    },
+    "per_branch_price_override": [
+      { "branch_id": "medawar", "overrides": { "A1": 35000 } },
+      { "branch_id": "geitawi", "overrides": { "A1": 50000 } }
+    ]
+  },
+  "branches": [
+    {
+      "id": "medawar",
+      "name": "Mahfouz Market - Medawar",
+      "maps_url": "https://maps.app.goo.gl/prkQoeF1HtyA5Fvc8?g_st=ipc",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "geitawi",
+      "name": "Mahfouz Market - Geitawi",
+      "maps_url": "https://maps.app.goo.gl/YM7ySnSbdvxx8UiN9?g_st=ipc",
+      "lat": null,
+      "lng": null
+    }
+  ]
+}
