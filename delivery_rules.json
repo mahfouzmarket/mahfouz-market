@@ -7,19 +7,55 @@
   },
   "distance": {
     "unit": "meters",
-    "max_applicable": 3150,
+    "max_applicable": 3700,
     "bands": [
-      { "code": "A1", "min_inclusive": 0,    "max_inclusive": 850,  "label": "0–850 m" },
-      { "code": "B2", "min_inclusive": 851,  "max_inclusive": 1500, "label": "851–1500 m" },
-      { "code": "C3", "min_inclusive": 1501, "max_inclusive": 2100, "label": "1501–2100 m" },
-      { "code": "D4", "min_inclusive": 2101, "max_inclusive": 2500, "label": "2101–2500 m" },
-      { "code": "E5", "min_inclusive": 2501, "max_inclusive": 2850, "label": "2501–2850 m" },
-      { "code": "F6", "min_inclusive": 2851, "max_inclusive": 3150, "label": "2851–3150 m" }
+      {
+        "code": "A1",
+        "min_inclusive": 0,
+        "max_inclusive": 850,
+        "label": "0–850 m"
+      },
+      {
+        "code": "B2",
+        "min_inclusive": 851,
+        "max_inclusive": 1500,
+        "label": "851–1500 m"
+      },
+      {
+        "code": "C3",
+        "min_inclusive": 1501,
+        "max_inclusive": 2100,
+        "label": "1501–2100 m"
+      },
+      {
+        "code": "D4",
+        "min_inclusive": 2101,
+        "max_inclusive": 2500,
+        "label": "2101–2500 m"
+      },
+      {
+        "code": "E5",
+        "min_inclusive": 2501,
+        "max_inclusive": 2900,
+        "label": "2501–2850 m"
+      },
+      {
+        "code": "F6",
+        "min_inclusive": 2901,
+        "max_inclusive": 3300,
+        "label": "2851–3150 m"
+      },
+      {
+        "code": "B7",
+        "min_inclusive": 3301,
+        "max_inclusive": 3700,
+        "label": "3301-3700 m"
+      }
     ]
   },
   "pricing_lbp": {
     "currency": "LBP",
-    "base_price": 50000,
+    "base_price": 30000,
     "band_multipliers": {
       "A1": 1,
       "B2": 2,
@@ -29,8 +65,18 @@
       "F6": 6
     },
     "per_branch_price_override": [
-      { "branch_id": "medawar", "overrides": { "A1": 35000 } },
-      { "branch_id": "geitawi", "overrides": { "A1": 50000 } }
+      {
+        "branch_id": "medawar",
+        "overrides": {
+          "A1": 35000
+        }
+      },
+      {
+        "branch_id": "geitawi",
+        "overrides": {
+          "A1": 50000
+        }
+      }
     ]
   },
   "branches": [
