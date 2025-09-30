@@ -46,10 +46,16 @@
         "label": "2851–3150 m"
       },
       {
-        "code": "B7",
+        "code": "G7",
         "min_inclusive": 3301,
         "max_inclusive": 3700,
         "label": "3301-3700 m"
+      },
+      {
+        "code": "B8",
+        "min_inclusive": 3701,
+        "max_inclusive": 4100,
+        "label": ""
       }
     ]
   },
@@ -62,7 +68,9 @@
       "C3": 3,
       "D4": 4,
       "E5": 5,
-      "F6": 6
+      "F6": 6,
+      "G7": 7,
+      "B8": 8
     },
     "per_branch_price_override": [
       {
