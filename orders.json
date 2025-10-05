@@ -21,5 +21,28 @@
     ],
     "totalUsd": 2.02,
     "totalLbp": 180000
+  },
+  {
+    "orderId": "ord-1759700299172",
+    "ts": "2025-10-05T21:38:19.172749Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "a",
+      "phone": "5",
+      "address": "g, y, Floor h, Elevator",
+      "location": "https://www.google.com/maps?q=33.891425018127734,35.52830870258805"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1512",
+        "name": "BIG BABOL MEGA TUTTI FRUTTI",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12
+      }
+    ],
+    "totalUsd": 1.12,
+    "totalLbp": 100000
   }
 ]
