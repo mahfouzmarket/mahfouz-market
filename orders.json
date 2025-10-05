@@ -44,5 +44,42 @@
     ],
     "totalUsd": 1.91,
     "totalLbp": 170000
+  },
+  {
+    "orderId": "ord-1759701210102",
+    "ts": "2025-10-05T21:53:30.102500Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "a",
+      "phone": "5",
+      "address": "g, y, Floor h, Elevator",
+      "location": "https://www.google.com/maps?q=33.891425018127734,35.52830870258805"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4446",
+        "name": "BREAK CHOC 3 FINGERS 21.5 GR",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44
+      },
+      {
+        "id": "16251",
+        "name": "BREAK BREAKSTA 2 PACK",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34
+      },
+      {
+        "id": "15500",
+        "name": "BREAK TIME 13 G",
+        "qty": 4,
+        "unitUsd": 0.22,
+        "totalUsd": 0.88
+      }
+    ],
+    "totalUsd": 1.66,
+    "totalLbp": 150000
   }
 ]
