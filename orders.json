@@ -1,0 +1,25 @@
+[
+  {
+    "orderId": "ord-1759699306744",
+    "ts": "2025-10-05T21:21:46.744419Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "a",
+      "phone": "5",
+      "address": "g, y, Floor h, Elevator",
+      "location": "https://www.google.com/maps?q=33.891425018127734,35.52830870258805"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46
+      }
+    ],
+    "totalUsd": 2.02,
+    "totalLbp": 180000
+  }
+]
