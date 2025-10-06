@@ -129,5 +129,37 @@
     ],
     "totalUsd": 11.35,
     "totalLbp": 1015000
+  },
+  {
+    "orderId": "ord-1759736434799",
+    "ts": "2025-10-06T07:40:34.799321Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "g, f, Floor ff, Elevator",
+      "location": "https://www.google.com/maps?q=33.891507837548886,35.52829427536362"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20172",
+        "name": "AILA MILK CHOCOLATE LE PETIT ECOLIER 12 PCS",
+        "qty": 2,
+        "unitUsd": 3.24,
+        "totalUsd": 6.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20172.jpg"
+      },
+      {
+        "id": "1512",
+        "name": "BIG BABOL MEGA TUTTI FRUTTI",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1512.jpg"
+      }
+    ],
+    "totalUsd": 9.67,
+    "totalLbp": 865000
   }
 ]
