@@ -249,5 +249,29 @@
     ],
     "totalUsd": 1.01,
     "totalLbp": 90000
+  },
+  {
+    "orderId": "ord-1759868908740",
+    "ts": "2025-10-07T20:28:28.740602Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mahfouz Android",
+      "phone": "70185604",
+      "address": "kar, med, Floor 0, No elevator",
+      "location": "https://www.google.com/maps?q=33.8915127,35.5282464"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20217",
+        "name": "ADIDAS DRY MAX WOMAN CONTTON TOUCH 24H",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20217.jpg"
+      }
+    ],
+    "totalUsd": 2.79,
+    "totalLbp": 250000
   }
 ]
