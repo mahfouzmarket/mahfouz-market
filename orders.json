@@ -273,5 +273,61 @@
     ],
     "totalUsd": 2.79,
     "totalLbp": 250000
+  },
+  {
+    "orderId": "ord-1759868927818",
+    "ts": "2025-10-07T20:28:47.818254Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mahfouz Android",
+      "phone": "70185604",
+      "address": "kar, med, Floor 0, No elevator",
+      "location": "https://www.google.com/maps?q=33.8915127,35.5282464"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1512",
+        "name": "BIG BABOL MEGA TUTTI FRUTTI",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1512.jpg"
+      },
+      {
+        "id": "13868",
+        "name": "DOLSI CHIPS VINEGAR 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13868.jpg"
+      },
+      {
+        "id": "17637",
+        "name": "MASTER BUFFIES CHEESE POPCORN 170 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17637.jpg"
+      },
+      {
+        "id": "499",
+        "name": "CAFE NAJJAR 180 GR",
+        "qty": 1,
+        "unitUsd": 3.63,
+        "totalUsd": 3.63,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID499.jpg"
+      },
+      {
+        "id": "4823",
+        "name": "ADICTO GOLD 36 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4823.jpg"
+      }
+    ],
+    "totalUsd": 6.77,
+    "totalLbp": 605000
   }
 ]
