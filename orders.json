@@ -193,5 +193,37 @@
     ],
     "totalUsd": 20.27,
     "totalLbp": 1805000
+  },
+  {
+    "orderId": "ord-1759864676873",
+    "ts": "2025-10-07T19:17:56.873294Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "g, f, Floor ff, Elevator",
+      "location": "https://www.google.com/maps?q=33.891507837548886,35.52829427536362"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "5155",
+        "name": "FRESCO CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5155.jpg"
+      },
+      {
+        "id": "1512",
+        "name": "BIG BABOL MEGA TUTTI FRUTTI",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1512.jpg"
+      }
+    ],
+    "totalUsd": 2.13,
+    "totalLbp": 190000
   }
 ]
