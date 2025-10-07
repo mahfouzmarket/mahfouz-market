@@ -225,5 +225,29 @@
     ],
     "totalUsd": 2.13,
     "totalLbp": 190000
+  },
+  {
+    "orderId": "ord-1759868204488",
+    "ts": "2025-10-07T20:16:44.488038Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mahfouz Android",
+      "phone": "70185604",
+      "address": "kar, med, Floor 0, No elevator",
+      "location": "https://www.google.com/maps?q=33.8915127,35.5282464"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4823",
+        "name": "ADICTO GOLD 36 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4823.jpg"
+      }
+    ],
+    "totalUsd": 1.01,
+    "totalLbp": 90000
   }
 ]
