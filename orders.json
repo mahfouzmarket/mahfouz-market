@@ -161,5 +161,37 @@
     ],
     "totalUsd": 9.67,
     "totalLbp": 865000
+  },
+  {
+    "orderId": "ord-1759857667581",
+    "ts": "2025-10-07T17:21:07.581884Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "g, f, Floor ff, Elevator",
+      "location": "https://www.google.com/maps?q=33.891507837548886,35.52829427536362"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 14,
+        "unitUsd": 0.73,
+        "totalUsd": 10.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 13,
+        "unitUsd": 0.73,
+        "totalUsd": 9.49,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      }
+    ],
+    "totalUsd": 20.27,
+    "totalLbp": 1805000
   }
 ]
