@@ -329,5 +329,37 @@
     ],
     "totalUsd": 6.77,
     "totalLbp": 605000
+  },
+  {
+    "orderId": "ord-1759957643319",
+    "ts": "2025-10-08T21:07:23.319505Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Pascal Bouzeid",
+      "phone": "76147514",
+      "address": "nabhan, mja3ess, Floor 4, No elevator",
+      "location": "https://www.google.com/maps?q=33.900866,35.5278425"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4719",
+        "name": "AILA CHOCOLAT 40G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4719.jpg"
+      },
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      }
+    ],
+    "totalUsd": 1.45,
+    "totalLbp": 130000
   }
 ]
