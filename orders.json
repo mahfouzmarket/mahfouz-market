@@ -705,5 +705,29 @@
     ],
     "totalUsd": 3.48,
     "totalLbp": 310000
+  },
+  {
+    "orderId": "ord-1760116871383",
+    "ts": "2025-10-10T17:21:11.383473Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Toni sakr",
+      "phone": "03309020",
+      "address": "cap sur ville, tower x, Floor 5, Elevator · VHF5+3C5, Lebanon",
+      "location": "https://www.google.com/maps?q=33.87267457331309,35.55812135338783"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19782",
+        "name": "DOLSI CHIPS ONION RINGS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19782.jpg"
+      }
+    ],
+    "totalUsd": 1.29,
+    "totalLbp": 115000
   }
 ]
