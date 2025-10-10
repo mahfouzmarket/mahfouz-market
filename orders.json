@@ -425,5 +425,53 @@
     ],
     "totalUsd": 4.94,
     "totalLbp": 440000
+  },
+  {
+    "orderId": "ord-1760082993781",
+    "ts": "2025-10-10T07:56:33.781269Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "alber kahela",
+      "phone": "81271961",
+      "address": "rmeel, 1721, Floor 3, No elevator",
+      "location": "https://www.google.com/maps?q=33.89383637458963,35.52866522690043"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "13866",
+        "name": "DOLSI CHIPS KETCHUP PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13866.jpg"
+      },
+      {
+        "id": "13898",
+        "name": "DOLSI CHIPS PIZZA PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13898.jpg"
+      }
+    ],
+    "totalUsd": 3.48,
+    "totalLbp": 310000
   }
 ]
