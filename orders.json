@@ -361,5 +361,69 @@
     ],
     "totalUsd": 1.45,
     "totalLbp": 130000
+  },
+  {
+    "orderId": "ord-1760082615370",
+    "ts": "2025-10-10T07:50:15.370416Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "alber kahela",
+      "phone": "81271961",
+      "address": "rmel, remil1721, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.89384855511765,35.52860274993732"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "13866",
+        "name": "DOLSI CHIPS KETCHUP PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13866.jpg"
+      },
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      },
+      {
+        "id": "13898",
+        "name": "DOLSI CHIPS PIZZA PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13898.jpg"
+      },
+      {
+        "id": "19782",
+        "name": "DOLSI CHIPS ONION RINGS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19782.jpg"
+      }
+    ],
+    "totalUsd": 4.94,
+    "totalLbp": 440000
   }
 ]
