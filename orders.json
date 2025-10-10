@@ -729,5 +729,37 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1760116893152",
+    "ts": "2025-10-10T17:21:33.152455Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elie Nehme",
+      "phone": "70231601",
+      "address": "1103 B, Touma soueidan, Floor 4, Elevator · RHW3+FV Faiyadiyeh, Lebanon",
+      "location": "https://www.google.com/maps?q=33.846199753938215,35.55467538535595"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18442",
+        "name": "DOLSI SWEETY CORN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18442.jpg"
+      },
+      {
+        "id": "14846",
+        "name": "FANTASIA SALT& VINEGAR CHIPS 65 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14846.jpg"
+      }
+    ],
+    "totalUsd": 1.68,
+    "totalLbp": 150000
   }
 ]
