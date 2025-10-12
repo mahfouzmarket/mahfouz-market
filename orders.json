@@ -897,5 +897,69 @@
     ],
     "totalUsd": 12.33,
     "totalLbp": 1100000
+  },
+  {
+    "orderId": "ord-1760250730280",
+    "ts": "2025-10-12T06:32:10.280745Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "saint luis, michel madeh, Floor 5, Elevator · VGRH+G39, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89394291863413,35.528525188565254"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "1226",
+        "name": "LIPTON ICE TEA PEACH CAN",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1226.jpg"
+      },
+      {
+        "id": "16965",
+        "name": "CASTANIA CRUNCHY MIX 170 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16965.jpg"
+      },
+      {
+        "id": "13396",
+        "name": "CASTANIA SUNFLOWER SEED SALT & VINEGAR 150",
+        "qty": 2,
+        "unitUsd": 1.51,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13396.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "16849",
+        "name": "TURKEY AND CHEESE WHITE",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16849.jpg"
+      }
+    ],
+    "totalUsd": 11.18,
+    "totalLbp": 1000000
   }
 ]
