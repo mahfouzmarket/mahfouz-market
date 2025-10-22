@@ -961,5 +961,29 @@
     ],
     "totalUsd": 11.18,
     "totalLbp": 1000000
+  },
+  {
+    "orderId": "ord-1761141631967",
+    "ts": "2025-10-22T14:00:31.967425Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "abc, def, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16057",
+        "name": "ADAM WILD CUCUMBERS 600 G",
+        "qty": 2,
+        "unitUsd": 2.79,
+        "totalUsd": 5.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16057.jpg"
+      }
+    ],
+    "totalUsd": 7.81,
+    "totalLbp": 700000
   }
 ]
