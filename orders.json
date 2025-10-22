@@ -1033,5 +1033,29 @@
     ],
     "totalUsd": 3.51,
     "totalLbp": 315000
+  },
+  {
+    "orderId": "ord-1761169759532",
+    "ts": "2025-10-22T21:49:19.532828Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Rehban, Rehban, Floor 0, No Elevator · WG2H+84F, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.90085151252945,35.52790861576796"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16057",
+        "name": "ADAM WILD CUCUMBERS 600 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16057.jpg"
+      }
+    ],
+    "totalUsd": 3.18,
+    "totalLbp": 285000
   }
 ]
