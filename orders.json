@@ -1081,5 +1081,29 @@
     ],
     "totalUsd": 3.63,
     "totalLbp": 325000
+  },
+  {
+    "orderId": "ord-1761213582618",
+    "ts": "2025-10-23T09:59:42.618020Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Android",
+      "phone": "70775141",
+      "address": "rehban, trhban, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.9008789,35.5278849"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14845",
+        "name": "FANTASIA ORIGINAL CHIPS 65 GR",
+        "qty": 3,
+        "unitUsd": 0.56,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14845.jpg"
+      }
+    ],
+    "totalUsd": 2.07,
+    "totalLbp": 185000
   }
 ]
