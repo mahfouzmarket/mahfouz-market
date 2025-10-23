@@ -1057,5 +1057,29 @@
     ],
     "totalUsd": 3.18,
     "totalLbp": 285000
+  },
+  {
+    "orderId": "ord-1761210269426",
+    "ts": "2025-10-23T09:04:29.426670Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Android",
+      "phone": "70775141",
+      "address": "rehban, trhban, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.9008789,35.5278849"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20171",
+        "name": "AILA LE PETIT ECOLIER 12 PCS",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20171.jpg"
+      }
+    ],
+    "totalUsd": 3.63,
+    "totalLbp": 325000
   }
 ]
