@@ -1409,5 +1409,61 @@
     ],
     "totalUsd": 21.96,
     "totalLbp": 1965000
+  },
+  {
+    "orderId": "ord-1761334882321",
+    "ts": "2025-10-24T19:41:22.321390Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "firas shib",
+      "phone": "71067636",
+      "address": "nv, jch, Floor vchv, Elevator · vhc",
+      "location": "https://www.google.com/maps?q=33.9008653,35.5278997"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17374",
+        "name": "ADIDAS 6IN1 48 H",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17374.jpg"
+      },
+      {
+        "id": "17753",
+        "name": "A++ ADULT DIAPERS LARGE",
+        "qty": 1,
+        "unitUsd": 5.47,
+        "totalUsd": 5.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17753.jpg"
+      },
+      {
+        "id": "17755",
+        "name": "A+++ ADULT DIAPERS MED",
+        "qty": 1,
+        "unitUsd": 5.47,
+        "totalUsd": 5.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17755.jpg"
+      },
+      {
+        "id": "10033",
+        "name": "873 2M",
+        "qty": 1,
+        "unitUsd": 6.03,
+        "totalUsd": 6.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10033.jpg"
+      },
+      {
+        "id": "18541",
+        "name": "4GANG GROUP SOCKET WT EARTHED 3M",
+        "qty": 1,
+        "unitUsd": 9.55,
+        "totalUsd": 9.55,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18541.jpg"
+      }
+    ],
+    "totalUsd": 30.15,
+    "totalLbp": 2700000
   }
 ]
