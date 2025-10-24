@@ -1313,5 +1313,37 @@
     ],
     "totalUsd": 175.01,
     "totalLbp": 15665000
+  },
+  {
+    "orderId": "ord-1761334800012",
+    "ts": "2025-10-24T19:40:00.012834Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "rehban, rehban, Floor 5, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900753686120325,35.5279483714119"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "18442",
+        "name": "DOLSI SWEETY CORN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18442.jpg"
+      },
+      {
+        "id": "15172",
+        "name": "FANTASIA HOT&SPICY 65G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15172.jpg"
+      }
+    ],
+    "totalUsd": 1.29,
+    "totalLbp": 115000
   }
 ]
