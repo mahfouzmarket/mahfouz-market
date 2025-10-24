@@ -1209,5 +1209,29 @@
     ],
     "totalUsd": 5.37,
     "totalLbp": 480000
+  },
+  {
+    "orderId": "ord-1761333701288",
+    "ts": "2025-10-24T19:21:41.288603Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "rehban, rehban, Floor 5, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900753686120325,35.5279483714119"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19806",
+        "name": "AILA WAVE MILK CHOCOLATE NO ADDED SUGAR 40",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19806.jpg"
+      }
+    ],
+    "totalUsd": 0.95,
+    "totalLbp": 85000
   }
 ]
