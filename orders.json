@@ -1281,5 +1281,37 @@
     ],
     "totalUsd": 0.95,
     "totalLbp": 85000
+  },
+  {
+    "orderId": "ord-1761334569191",
+    "ts": "2025-10-24T19:36:09.191119Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "elie mraf",
+      "phone": "78806904",
+      "address": "Raymond royphael, abed building, Floor 5, No Elevator",
+      "location": "https://www.google.com/maps?q=33.9007695,35.5280341"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "334",
+        "name": "JAMESON IRISH 1LTR",
+        "qty": 2,
+        "unitUsd": 26.98,
+        "totalUsd": 53.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID334.jpg"
+      },
+      {
+        "id": "302",
+        "name": "JAMESON IRISH WISKEYE 70CL",
+        "qty": 6,
+        "unitUsd": 20.11,
+        "totalUsd": 120.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID302.jpg"
+      }
+    ],
+    "totalUsd": 175.01,
+    "totalLbp": 15665000
   }
 ]
