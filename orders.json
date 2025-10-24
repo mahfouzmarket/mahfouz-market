@@ -1105,5 +1105,69 @@
     ],
     "totalUsd": 2.07,
     "totalLbp": 185000
+  },
+  {
+    "orderId": "ord-1761303238106",
+    "ts": "2025-10-24T10:53:58.107030Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Mimi",
+      "phone": "81157388",
+      "address": "saint louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.8915177,35.5282756"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15172",
+        "name": "FANTASIA HOT&SPICY 65G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15172.jpg"
+      },
+      {
+        "id": "14845",
+        "name": "FANTASIA ORIGINAL CHIPS 65 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14845.jpg"
+      },
+      {
+        "id": "15735",
+        "name": "FANTASIA KETCHUP 65 G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15735.jpg"
+      },
+      {
+        "id": "15403",
+        "name": "KETTLE COOKED SEA SALT & VINEGAR 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15403.jpg"
+      },
+      {
+        "id": "20151",
+        "name": "MARETTI MUSHROOMS & CREAM 70 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20151.jpg"
+      },
+      {
+        "id": "19054",
+        "name": "MASTER BUIES CHEEZ BALLS 140G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19054.jpg"
+      }
+    ],
+    "totalUsd": 6.61,
+    "totalLbp": 590000
   }
 ]
