@@ -1169,5 +1169,45 @@
     ],
     "totalUsd": 6.61,
     "totalLbp": 590000
+  },
+  {
+    "orderId": "ord-1761315568601",
+    "ts": "2025-10-24T14:19:28.601369Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "saint Louis, 3763, Floor 0, Elevator · WG2H+84F, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89149816070301,35.52828690979252"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "14757",
+        "name": "PARPAR ALL INSPECT KILLER 45 ML",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14757.jpg"
+      },
+      {
+        "id": "19312",
+        "name": "PAR PAR 30 MATS",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19312.jpg"
+      },
+      {
+        "id": "19464",
+        "name": "PAR PAR MOSQUITO MAT 30",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19464.jpg"
+      }
+    ],
+    "totalUsd": 5.37,
+    "totalLbp": 480000
   }
 ]
