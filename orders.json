@@ -1345,5 +1345,69 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1761334818274",
+    "ts": "2025-10-24T19:40:18.274155Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "maher",
+      "phone": "70202859",
+      "address": "vhh, hdjd, Floor hdhx, Elevator · hzh",
+      "location": "https://www.google.com/maps?q=33.9008697,35.5278883"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19222",
+        "name": "FAHITA SANDWICH WHITE",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19222.jpg"
+      },
+      {
+        "id": "16652",
+        "name": "CUSTARD VANILLE",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16652.jpg"
+      },
+      {
+        "id": "16653",
+        "name": "CUSTARD CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16653.jpg"
+      },
+      {
+        "id": "16914",
+        "name": "CRAB SALAD",
+        "qty": 1,
+        "unitUsd": 5.59,
+        "totalUsd": 5.59,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16914.jpg"
+      },
+      {
+        "id": "19248",
+        "name": "CHOCO BAG NT 100G",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19248.jpg"
+      },
+      {
+        "id": "16998",
+        "name": "CHICKEN AVOCADO SANDWISH BROWN",
+        "qty": 1,
+        "unitUsd": 5.36,
+        "totalUsd": 5.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16998.jpg"
+      }
+    ],
+    "totalUsd": 21.96,
+    "totalLbp": 1965000
   }
 ]
