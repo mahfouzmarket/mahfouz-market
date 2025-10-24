@@ -1257,5 +1257,29 @@
     ],
     "totalUsd": 1.51,
     "totalLbp": 135000
+  },
+  {
+    "orderId": "ord-1761333884191",
+    "ts": "2025-10-24T19:24:44.191759Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "fyc",
+      "phone": "59595",
+      "address": "ft, tc, Floor r, Elevator",
+      "location": "https://www.google.com/maps?q=33.9008185,35.5279187"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      }
+    ],
+    "totalUsd": 0.95,
+    "totalLbp": 85000
   }
 ]
