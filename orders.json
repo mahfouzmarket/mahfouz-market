@@ -1465,5 +1465,53 @@
     ],
     "totalUsd": 30.15,
     "totalLbp": 2700000
+  },
+  {
+    "orderId": "ord-1761392596008",
+    "ts": "2025-10-25T11:43:16.008736Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "maena lnayf",
+      "phone": "76736122",
+      "address": "ff, fgs, Floor fhd, No Elevator · fgd",
+      "location": "https://www.google.com/maps?q=33.8938712,35.5286308"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20472",
+        "name": "AL VIN DOR CLOR CREAM 8.1",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20472.jpg"
+      },
+      {
+        "id": "20444",
+        "name": "BRIX UNIVERSAL SOCKET 2500 W",
+        "qty": 1,
+        "unitUsd": 8.38,
+        "totalUsd": 8.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20444.jpg"
+      },
+      {
+        "id": "20487",
+        "name": "BRONARA FAHEM 400 G",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20487.jpg"
+      },
+      {
+        "id": "20446",
+        "name": "AOUN SUGAR CRISTAL 900 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20446.jpg"
+      }
+    ],
+    "totalUsd": 14.64,
+    "totalLbp": 1310000
   }
 ]
