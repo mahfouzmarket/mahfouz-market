@@ -1513,5 +1513,45 @@
     ],
     "totalUsd": 14.64,
     "totalLbp": 1310000
+  },
+  {
+    "orderId": "ord-1761431283513",
+    "ts": "2025-10-25T22:28:03.513580Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "maena lnayf",
+      "phone": "76736122",
+      "address": "ff, fgs, Floor fhd, No Elevator · fgd",
+      "location": "https://www.google.com/maps?q=33.8938712,35.5286308"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20444",
+        "name": "BRIX UNIVERSAL SOCKET 2500 W",
+        "qty": 1,
+        "unitUsd": 8.38,
+        "totalUsd": 8.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20444.jpg"
+      },
+      {
+        "id": "20487",
+        "name": "BRONARA FAHEM 400 G",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20487.jpg"
+      },
+      {
+        "id": "20488",
+        "name": "BRONARA FAHEM HEXAGONAL 400 G",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20488.jpg"
+      }
+    ],
+    "totalUsd": 13.4,
+    "totalLbp": 1200000
   }
 ]
