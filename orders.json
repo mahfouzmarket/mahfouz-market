@@ -1793,5 +1793,29 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1761739307157",
+    "ts": "2025-10-29T12:01:47.157996Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "v",
+      "phone": "5",
+      "address": "b, b, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.89139034654931,35.528290777319874"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20508",
+        "name": "AL KANATER LOUKOUM MASTIC",
+        "qty": 1,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20508.jpg"
+      }
+    ],
+    "totalUsd": 3.13,
+    "totalLbp": 280000
   }
 ]
