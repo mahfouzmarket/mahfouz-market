@@ -1625,5 +1625,29 @@
     ],
     "totalUsd": 2.12,
     "totalLbp": 190000
+  },
+  {
+    "orderId": "ord-1761728066139",
+    "ts": "2025-10-29T08:54:26.139896Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "f",
+      "phone": "5",
+      "address": "g, g, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.89140732441831,35.52823655650818"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      }
+    ],
+    "totalUsd": 1.29,
+    "totalLbp": 115000
   }
 ]
