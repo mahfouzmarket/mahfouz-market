@@ -1697,5 +1697,29 @@
     ],
     "totalUsd": 2.12,
     "totalLbp": 190000
+  },
+  {
+    "orderId": "ord-1761736970560",
+    "ts": "2025-10-29T11:22:50.560978Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "g",
+      "phone": "8",
+      "address": "v, v, Floor 8, Elevator",
+      "location": "https://www.google.com/maps?q=33.89135574971822,35.528318074191496"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13675",
+        "name": "FRESCO STRAWBERRY",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13675.jpg"
+      }
+    ],
+    "totalUsd": 1.01,
+    "totalLbp": 90000
   }
 ]
