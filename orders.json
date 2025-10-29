@@ -1577,5 +1577,29 @@
     ],
     "totalUsd": 3.35,
     "totalLbp": 300000
+  },
+  {
+    "orderId": "ord-1761724819314",
+    "ts": "2025-10-29T08:00:19.314288Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "g",
+      "phone": "8",
+      "address": "g, g, Floor 2, Elevator",
+      "location": "https://www.google.com/maps?q=33.89139206383735,35.52832968924892"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18540",
+        "name": "3GANG GROUP SOCKET WITHOUT",
+        "qty": 1,
+        "unitUsd": 7.32,
+        "totalUsd": 7.32,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18540.jpg"
+      }
+    ],
+    "totalUsd": 7.88,
+    "totalLbp": 705000
   }
 ]
