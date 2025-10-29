@@ -1745,5 +1745,29 @@
     ],
     "totalUsd": 1.51,
     "totalLbp": 135000
+  },
+  {
+    "orderId": "ord-1761738405194",
+    "ts": "2025-10-29T11:46:45.194799Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "g",
+      "phone": "5",
+      "address": "h, h, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.89133445041594,35.52832945389656"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      }
+    ],
+    "totalUsd": 0.84,
+    "totalLbp": 75000
   }
 ]
