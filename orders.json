@@ -1673,5 +1673,29 @@
     ],
     "totalUsd": 2.24,
     "totalLbp": 200000
+  },
+  {
+    "orderId": "ord-1761735487429",
+    "ts": "2025-10-29T10:58:07.429378Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "g",
+      "phone": "8",
+      "address": "g, b, Floor 2, Elevator",
+      "location": "https://www.google.com/maps?q=33.89141681075176,35.5282970511224"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16054",
+        "name": "ADAM VINEGAR GUARANTEE PURE GRAPE 50CL",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16054.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000
   }
 ]
