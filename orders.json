@@ -1817,5 +1817,29 @@
     ],
     "totalUsd": 3.13,
     "totalLbp": 280000
+  },
+  {
+    "orderId": "ord-1761751770342",
+    "ts": "2025-10-29T15:29:30.342639Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "a",
+      "phone": "0",
+      "address": "c, c, Floor 8, Elevator",
+      "location": "https://www.google.com/maps?q=33.89149495354814,35.52828623867696"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16738",
+        "name": "AL KAZZI KERNELS 30 GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16738.jpg"
+      }
+    ],
+    "totalUsd": 1.29,
+    "totalLbp": 115000
   }
 ]
