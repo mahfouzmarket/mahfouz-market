@@ -1649,5 +1649,29 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1761734810918",
+    "ts": "2025-10-29T10:46:50.918471Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "g",
+      "phone": "8",
+      "address": "c, h, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891366045166976,35.52830960913407"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2648",
+        "name": "ARUBA BERRIES 500 gr",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2648.jpg"
+      }
+    ],
+    "totalUsd": 2.24,
+    "totalLbp": 200000
   }
 ]
