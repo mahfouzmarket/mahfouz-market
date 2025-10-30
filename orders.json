@@ -1889,5 +1889,29 @@
     ],
     "totalUsd": 2.68,
     "totalLbp": 240000
+  },
+  {
+    "orderId": "ord-1761842172063",
+    "ts": "2025-10-30T16:36:12.063388Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "f",
+      "phone": "8",
+      "address": "c, d, Floor 47, Elevator",
+      "location": "https://www.google.com/maps?q=33.891481909185245,35.528216544834294"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18280",
+        "name": "AILA LE PETIT ECOLIER DARK CHOCOLATE 20GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18280.jpg"
+      }
+    ],
+    "totalUsd": 0.84,
+    "totalLbp": 75000
   }
 ]
