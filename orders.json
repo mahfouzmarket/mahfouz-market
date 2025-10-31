@@ -1953,5 +1953,29 @@
     ],
     "totalUsd": 2.97,
     "totalLbp": 265000
+  },
+  {
+    "orderId": "ord-1761924167789",
+    "ts": "2025-10-31T15:22:47.789693Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Rehban, Rehban, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=34.13518459387407,36.126323140639165"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "15735",
+        "name": "FANTASIA KETCHUP 65 G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15735.jpg"
+      }
+    ],
+    "totalUsd": 0.56,
+    "totalLbp": 50000
   }
 ]
