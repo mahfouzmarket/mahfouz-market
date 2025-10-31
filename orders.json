@@ -1913,5 +1913,45 @@
     ],
     "totalUsd": 0.84,
     "totalLbp": 75000
+  },
+  {
+    "orderId": "ord-1761924092233",
+    "ts": "2025-10-31T15:21:32.233099Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Rehban, Rehban, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=34.13518459387407,36.126323140639165"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "20546",
+        "name": "DORITOS SWEET CHILI PEPPER",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20546.jpg"
+      },
+      {
+        "id": "20545",
+        "name": "DORITOS NACHO CHEESE FLAVOR 43 GR",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20545.jpg"
+      }
+    ],
+    "totalUsd": 2.97,
+    "totalLbp": 265000
   }
 ]
