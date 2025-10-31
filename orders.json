@@ -1977,5 +1977,61 @@
     ],
     "totalUsd": 0.56,
     "totalLbp": 50000
+  },
+  {
+    "orderId": "ord-1761926969244",
+    "ts": "2025-10-31T16:09:29.244901Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "alber",
+      "phone": "81271961",
+      "address": "rmel, 1721, Floor 3, Elevator · VGWJ+G6X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.90017334019289,35.53409647196531"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      },
+      {
+        "id": "18280",
+        "name": "AILA LE PETIT ECOLIER DARK CHOCOLATE 20GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18280.jpg"
+      },
+      {
+        "id": "4719",
+        "name": "AILA CHOCOLAT 40G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4719.jpg"
+      },
+      {
+        "id": "18279",
+        "name": "AILA LE PETIT ECOLIER BISCUIT WITH MILK CHOCO",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18279.jpg"
+      },
+      {
+        "id": "4823",
+        "name": "ADICTO GOLD 36 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4823.jpg"
+      }
+    ],
+    "totalUsd": 2.4,
+    "totalLbp": 215000
   }
 ]
