@@ -2089,5 +2089,37 @@
     ],
     "totalUsd": 2.35,
     "totalLbp": 210000
+  },
+  {
+    "orderId": "ord-1762075052467",
+    "ts": "2025-11-02T09:17:32.467196Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "firas shib",
+      "phone": "71067636",
+      "address": "nv, jch, Floor vchv, Elevator · vhc",
+      "location": "https://www.google.com/maps?q=33.9008653,35.5278997"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18772",
+        "name": "AL AHLAM GRAPE LEAVES WITH RICE 400 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18772.jpg"
+      },
+      {
+        "id": "2381",
+        "name": "AL FORNO MINI BRIOCHE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2381.jpg"
+      }
+    ],
+    "totalUsd": 5.42,
+    "totalLbp": 485000
   }
 ]
