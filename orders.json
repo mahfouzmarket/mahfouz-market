@@ -2169,5 +2169,77 @@
     ],
     "totalUsd": 16.52,
     "totalLbp": 1480000
+  },
+  {
+    "orderId": "ord-1762185041536",
+    "ts": "2025-11-03T15:50:41.536885Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891533,35.528090"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15550",
+        "name": "AL KAZZI PEANUTS INSHELL 70 G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15550.jpg"
+      },
+      {
+        "id": "16738",
+        "name": "AL KAZZI KERNELS 30 GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16738.jpg"
+      },
+      {
+        "id": "18897",
+        "name": "BONJUS CHOCOTOP PISTACHIO",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18897.jpg"
+      },
+      {
+        "id": "17229",
+        "name": "BONJUS FUJI CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17229.jpg"
+      },
+      {
+        "id": "17349",
+        "name": "AQUAFINA WATER 0.5 L x 12 pcs",
+        "qty": 6,
+        "unitUsd": 2.12,
+        "totalUsd": 12.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17349.jpg"
+      },
+      {
+        "id": "20327",
+        "name": "SANNINE 2 L x 6 pcs",
+        "qty": 6,
+        "unitUsd": 2.23,
+        "totalUsd": 13.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20327.jpg"
+      },
+      {
+        "id": "18227",
+        "name": "SANNINE WATER 0.5L x 12 pcs",
+        "qty": 6,
+        "unitUsd": 2.23,
+        "totalUsd": 13.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18227.jpg"
+      }
+    ],
+    "totalUsd": 52.61,
+    "totalLbp": 4715000
   }
 ]
