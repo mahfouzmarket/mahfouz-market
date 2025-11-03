@@ -2145,5 +2145,29 @@
     ],
     "totalUsd": 3.58,
     "totalLbp": 320000
+  },
+  {
+    "orderId": "ord-1762159022973",
+    "ts": "2025-11-03T08:37:02.973840Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Pascal Bouzeid",
+      "phone": "76147514",
+      "address": "nabhan, mja3ess, Floor 4, No Elevator · VGVJ+G8J Helipad, Bayrut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89419700895981,35.53086340427399"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17349",
+        "name": "AQUAFINA WATER 0.5 L x 12 pcs",
+        "qty": 6,
+        "unitUsd": 2.12,
+        "totalUsd": 12.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17349.jpg"
+      }
+    ],
+    "totalUsd": 16.52,
+    "totalLbp": 1480000
   }
 ]
