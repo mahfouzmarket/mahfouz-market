@@ -2241,5 +2241,125 @@
     ],
     "totalUsd": 52.61,
     "totalLbp": 4715000
+  },
+  {
+    "orderId": "ord-1762874113571",
+    "ts": "2025-11-11T15:15:13.571849Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mona bacosli",
+      "phone": "03226213",
+      "address": "home\nqoubayet, raja dalal, Floor 2, No Elevator · VGWJ+G45, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89634575350203,35.53016301244498"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2811",
+        "name": "KHOURY LABAN BALADY 1KG",
+        "qty": 2,
+        "unitUsd": 2.57,
+        "totalUsd": 5.14,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2811.jpg"
+      },
+      {
+        "id": "2942",
+        "name": "KHOURY SHANKLISH 125GR",
+        "qty": 1,
+        "unitUsd": 2.15,
+        "totalUsd": 2.15,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2942.jpg"
+      },
+      {
+        "id": "18197",
+        "name": "EMMENTAL ZOTT 200GR",
+        "qty": 1,
+        "unitUsd": 3.74,
+        "totalUsd": 3.74,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18197.jpg"
+      },
+      {
+        "id": "18606",
+        "name": "BIHAR SHEEP KASHKAVAL CHEESE 180 G",
+        "qty": 1,
+        "unitUsd": 6.59,
+        "totalUsd": 6.59,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18606.jpg"
+      },
+      {
+        "id": "18822",
+        "name": "BIHAR COW KASHKAVAL CHEESE 200 G",
+        "qty": 1,
+        "unitUsd": 4.53,
+        "totalUsd": 4.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18822.jpg"
+      },
+      {
+        "id": "17333",
+        "name": "RIMEX TOILET TISSUE 4 R",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17333.jpg"
+      },
+      {
+        "id": "10666",
+        "name": "MIMOSA INTERFOLD 200 SHEETS",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10666.jpg"
+      },
+      {
+        "id": "20297",
+        "name": "LA CROIX EAU DE JAVEL 1L 20 %",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20297.jpg"
+      },
+      {
+        "id": "15774",
+        "name": "BA2DOUNIS",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15774.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      },
+      {
+        "id": "15767",
+        "name": "ENJAS",
+        "qty": 1,
+        "unitUsd": 3.35,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15767.jpg"
+      },
+      {
+        "id": "15770",
+        "name": "CLEMENTINE",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15770.jpg"
+      }
+    ],
+    "totalUsd": 33.66,
+    "totalLbp": 3012000
   }
 ]
