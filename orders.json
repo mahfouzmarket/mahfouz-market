@@ -2481,5 +2481,37 @@
     ],
     "totalUsd": 9.16,
     "totalLbp": 820000
+  },
+  {
+    "orderId": "ord-1763476329183",
+    "ts": "2025-11-18T14:32:09.183860Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891478,35.528291"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "4006",
+        "name": "KINDER BUENO 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4006.jpg"
+      },
+      {
+        "id": "16710",
+        "name": "SKITTLES FRUITS 38 G",
+        "qty": 4,
+        "unitUsd": 0.73,
+        "totalUsd": 2.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16710.jpg"
+      }
+    ],
+    "totalUsd": 3.93,
+    "totalLbp": 350000
   }
 ]
