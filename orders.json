@@ -2513,5 +2513,29 @@
     ],
     "totalUsd": 3.93,
     "totalLbp": 350000
+  },
+  {
+    "orderId": "ord-1763482208712",
+    "ts": "2025-11-18T16:10:08.712794Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891478,35.528291"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      }
+    ],
+    "totalUsd": 2.46,
+    "totalLbp": 220000
   }
 ]
