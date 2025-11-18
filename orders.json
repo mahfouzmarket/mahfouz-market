@@ -2633,5 +2633,29 @@
     ],
     "totalUsd": 5.76,
     "totalLbp": 515000
+  },
+  {
+    "orderId": "ord-1763484438307",
+    "ts": "2025-11-18T16:47:18.307389Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "maher",
+      "phone": "70202859",
+      "address": "vhh, hdjd, Floor hdhx, Elevator · hzh",
+      "location": "https://www.google.com/maps?q=33.9008697,35.5278883"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 2,
+        "unitUsd": 2.79,
+        "totalUsd": 5.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      }
+    ],
+    "totalUsd": 5.97,
+    "totalLbp": 535000
   }
 ]
