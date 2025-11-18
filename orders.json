@@ -2577,5 +2577,37 @@
     ],
     "totalUsd": 3.68,
     "totalLbp": 330000
+  },
+  {
+    "orderId": "ord-1763483973713",
+    "ts": "2025-11-18T16:39:33.713209Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "firas shib",
+      "phone": "71067636",
+      "address": "nv, jch, Floor vchv, Elevator · vhc",
+      "location": "https://www.google.com/maps?q=33.9008653,35.5278997"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19904",
+        "name": "ALOE VERA LYCHEE 350ML",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19904.jpg"
+      },
+      {
+        "id": "19903",
+        "name": "ALOE VERA NATURAL WITH MINT OF HONEY 350ML",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19903.jpg"
+      }
+    ],
+    "totalUsd": 4.46,
+    "totalLbp": 400000
   }
 ]
