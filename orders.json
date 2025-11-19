@@ -2681,5 +2681,37 @@
     ],
     "totalUsd": 6.43,
     "totalLbp": 575000
+  },
+  {
+    "orderId": "ord-1763546509508",
+    "ts": "2025-11-19T10:01:49.508653Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "aabc",
+      "phone": "455",
+      "address": "home\ngj, cj, Floor 5, Elevator · jfjhfgjvcm. n b g",
+      "location": "https://www.google.com/maps?q=33.89154558228415,35.509397350251675"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13921",
+        "name": "DOUBLE SHOCK STRAWBERRY",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13921.jpg"
+      },
+      {
+        "id": "5112",
+        "name": "DOUBLE SHOCK CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5112.jpg"
+      }
+    ],
+    "totalUsd": 2.52,
+    "totalLbp": 225000
   }
 ]
