@@ -2713,5 +2713,61 @@
     ],
     "totalUsd": 2.52,
     "totalLbp": 225000
+  },
+  {
+    "orderId": "ord-1763558046010",
+    "ts": "2025-11-19T13:14:06.010856Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "mia",
+      "phone": "71110775",
+      "address": "home\nmokhtar ziadeh, bineye li aa het furn oscar, Floor 2, No Elevator · mafi bouwebe madkhali zaroub abyad bi albo fi khezen may",
+      "location": "https://www.google.com/maps?q=33.892682,35.529408"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13136",
+        "name": "NESCAFE 2IN1  SUGAR FREE",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13136.jpg"
+      },
+      {
+        "id": "15137",
+        "name": "TEREA AMBER",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15137.jpg"
+      },
+      {
+        "id": "14392",
+        "name": "POPPINS CHOCO BUMPS 25 GR",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14392.jpg"
+      },
+      {
+        "id": "19886",
+        "name": "BAKE ROLZ SPICY LIME FLAVOR 48-52G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19886.jpg"
+      },
+      {
+        "id": "16730",
+        "name": "DRAYKE THYME & SESAME FLAVOR 80 G",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16730.jpg"
+      }
+    ],
+    "totalUsd": 5.91,
+    "totalLbp": 530000
   }
 ]
