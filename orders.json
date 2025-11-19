@@ -2657,5 +2657,29 @@
     ],
     "totalUsd": 5.97,
     "totalLbp": 535000
+  },
+  {
+    "orderId": "ord-1763511762297",
+    "ts": "2025-11-19T00:22:42.297198Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "maena lnayf",
+      "phone": "76736122",
+      "address": "ff, fgs, Floor fhd, No Elevator · fgd",
+      "location": "https://www.google.com/maps?q=33.8938712,35.5286308"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "86",
+        "name": "MERNAYA VODKA 100CL",
+        "qty": 1,
+        "unitUsd": 5.87,
+        "totalUsd": 5.87,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID86.jpg"
+      }
+    ],
+    "totalUsd": 6.43,
+    "totalLbp": 575000
   }
 ]
