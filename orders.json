@@ -2953,5 +2953,69 @@
     ],
     "totalUsd": 10.35,
     "totalLbp": 925000
+  },
+  {
+    "orderId": "ord-1763634194473",
+    "ts": "2025-11-20T10:23:14.473250Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Naryman Wansa",
+      "phone": "76346395",
+      "address": "work\nkhodor street, sleep comfort, Floor 6, Elevator",
+      "location": "https://www.google.com/maps?q=33.900021,35.534067"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20546",
+        "name": "DORITOS SWEET CHILI PEPPER",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20546.jpg"
+      },
+      {
+        "id": "3759",
+        "name": "PRINGLES HOT & SPICY 40g",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3759.jpg"
+      },
+      {
+        "id": "19574",
+        "name": "LEGACY DUAL FUSION",
+        "qty": 2,
+        "unitUsd": 1.06,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19574.jpg"
+      },
+      {
+        "id": "5810",
+        "name": "KLATCHI CHINESE MIX HOT 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5810.jpg"
+      },
+      {
+        "id": "805",
+        "name": "MR JUICE PINEAPPLE 180 ML",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID805.jpg"
+      },
+      {
+        "id": "13608",
+        "name": "SEVEN UP DIET CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13608.jpg"
+      }
+    ],
+    "totalUsd": 8.27,
+    "totalLbp": 740000
   }
 ]
