@@ -3137,5 +3137,45 @@
     ],
     "totalUsd": 16.26,
     "totalLbp": 1455000
+  },
+  {
+    "orderId": "ord-1763664975705",
+    "ts": "2025-11-20T18:56:15.705778Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Arly Issa",
+      "phone": "76509121",
+      "address": "home\nobservatoire street, maidar bldg, Floor 6, Elevator · Next to samak bel baher, sheri3 El knisset El Arman",
+      "location": "https://www.google.com/maps?q=33.892677,35.530107"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12728",
+        "name": "ALPH KING SIZE SLIM",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12728.jpg"
+      },
+      {
+        "id": "19845",
+        "name": "CROISSANT CRISPY CHEESE",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19845.jpg"
+      },
+      {
+        "id": "12868",
+        "name": "CROISSANT CRISPY CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12868.jpg"
+      }
+    ],
+    "totalUsd": 2.34,
+    "totalLbp": 210000
   }
 ]
