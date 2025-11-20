@@ -2897,5 +2897,61 @@
     ],
     "totalUsd": 11.67,
     "totalLbp": 1045000
+  },
+  {
+    "orderId": "ord-1763630430768",
+    "ts": "2025-11-20T09:20:30.768452Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Nina Aridi",
+      "phone": "76080559",
+      "address": "Home\nStreet.51, Laziza Park Stairs, Floor 1, No Elevator · VGWH+878, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.8957360064729,35.52811414003373"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19428",
+        "name": "NF TIRAMISU",
+        "qty": 1,
+        "unitUsd": 5.59,
+        "totalUsd": 5.59,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19428.jpg"
+      },
+      {
+        "id": "19144",
+        "name": "NF BLUEBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19144.jpg"
+      },
+      {
+        "id": "13907",
+        "name": "I LOVE MY CAT CHUNKS WITH TUNA 400GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13907.jpg"
+      },
+      {
+        "id": "13905",
+        "name": "I LOVE MY CAT CHUNKS WITH CHICKEN 400GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13905.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      }
+    ],
+    "totalUsd": 10.35,
+    "totalLbp": 925000
   }
 ]
