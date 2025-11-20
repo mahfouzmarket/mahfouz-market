@@ -3041,5 +3041,29 @@
     ],
     "totalUsd": 1.67,
     "totalLbp": 150000
+  },
+  {
+    "orderId": "ord-1763663201945",
+    "ts": "2025-11-20T18:26:41.945751Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "aabc",
+      "phone": "455",
+      "address": "home\ngj, cj, Floor 5, Elevator · jfjhfgjvcm. n b g",
+      "location": "https://www.google.com/maps?q=33.891546,35.509397"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18279",
+        "name": "AILA LE PETIT ECOLIER BISCUIT WITH MILK CHOCO",
+        "qty": 4,
+        "unitUsd": 0.22,
+        "totalUsd": 0.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18279.jpg"
+      }
+    ],
+    "totalUsd": 2.11,
+    "totalLbp": 190000
   }
 ]
