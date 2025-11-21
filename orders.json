@@ -3345,5 +3345,53 @@
     ],
     "totalUsd": 10.57,
     "totalLbp": 945000
+  },
+  {
+    "orderId": "ord-1763751056019",
+    "ts": "2025-11-21T18:50:56.019267Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "13871",
+        "name": "KLATCHI EGYPTIAN SEEDS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13871.jpg"
+      },
+      {
+        "id": "12637",
+        "name": "MAZAYA LEMON +MINT",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12637.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 4,
+        "unitUsd": 0.22,
+        "totalUsd": 0.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 1.0,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      }
+    ],
+    "totalUsd": 7.14,
+    "totalLbp": 640000
   }
 ]
