@@ -3457,5 +3457,29 @@
     ],
     "totalUsd": 5.99,
     "totalLbp": 535000
+  },
+  {
+    "orderId": "ord-1763762716793",
+    "ts": "2025-11-21T22:05:16.793030Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18165",
+        "name": "PENASOL ROSE WINE 75 CL",
+        "qty": 1,
+        "unitUsd": 4.86,
+        "totalUsd": 4.86,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18165.jpg"
+      }
+    ],
+    "totalUsd": 5.75,
+    "totalLbp": 515000
   }
 ]
