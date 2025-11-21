@@ -3313,5 +3313,37 @@
     ],
     "totalUsd": 4.97,
     "totalLbp": 445000
+  },
+  {
+    "orderId": "ord-1763749643240",
+    "ts": "2025-11-21T18:27:23.240501Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Ziad Bacha",
+      "phone": "03332270",
+      "address": "achrafieh, fassouh, facing zahar, harati building, first floor\nSaint louis street, Harati Building, Floor 1, Elevator · VGV2+GP Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2381",
+        "name": "AL FORNO MINI BRIOCHE 4PCS",
+        "qty": 3,
+        "unitUsd": 0.73,
+        "totalUsd": 2.19,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2381.jpg"
+      },
+      {
+        "id": "13502",
+        "name": "DANWAY SPREAD 750 GR",
+        "qty": 1,
+        "unitUsd": 6.15,
+        "totalUsd": 6.15,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13502.jpg"
+      }
+    ],
+    "totalUsd": 10.57,
+    "totalLbp": 945000
   }
 ]
