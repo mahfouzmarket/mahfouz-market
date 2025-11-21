@@ -3393,5 +3393,69 @@
     ],
     "totalUsd": 7.14,
     "totalLbp": 640000
+  },
+  {
+    "orderId": "ord-1763756861108",
+    "ts": "2025-11-21T20:27:41.108713Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17265",
+        "name": "MASTER KETTLE COOKED SEA SALT & VINEGAR 270",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17265.jpg"
+      },
+      {
+        "id": "13674",
+        "name": "FRESCO VANILLE",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13674.jpg"
+      },
+      {
+        "id": "13675",
+        "name": "FRESCO STRAWBERRY",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13675.jpg"
+      },
+      {
+        "id": "13673",
+        "name": "THE CUP VANILLE",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13673.jpg"
+      },
+      {
+        "id": "14364",
+        "name": "MARLBORO CRAFTED BLUE",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14364.jpg"
+      },
+      {
+        "id": "13587",
+        "name": "LIPTON ICE TEA PEACH DIET 320 ML CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13587.jpg"
+      }
+    ],
+    "totalUsd": 5.99,
+    "totalLbp": 535000
   }
 ]
