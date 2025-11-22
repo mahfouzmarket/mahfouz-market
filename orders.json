@@ -3481,5 +3481,53 @@
     ],
     "totalUsd": 5.75,
     "totalLbp": 515000
+  },
+  {
+    "orderId": "ord-1763776252520",
+    "ts": "2025-11-22T01:50:52.520961Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "tony antoun",
+      "phone": "71817397",
+      "address": "hospital\ngeitaoui, hospital, Floor 0, No Elevator · emergency",
+      "location": "https://www.google.com/maps?q=33.8938619324019,35.530406422913074"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15979",
+        "name": "MASTER SALT 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15979.jpg"
+      },
+      {
+        "id": "18953",
+        "name": "RIM FRUIT ZERO MANGO ADDED SUGAR 330 ML",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18953.jpg"
+      },
+      {
+        "id": "19142",
+        "name": "NF STRAWBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19142.jpg"
+      },
+      {
+        "id": "13400",
+        "name": "CASTANIA IN-SHELL PEANUTS 150 GR",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13400.jpg"
+      }
+    ],
+    "totalUsd": 5.2,
+    "totalLbp": 465000
   }
 ]
