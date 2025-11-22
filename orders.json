@@ -3529,5 +3529,29 @@
     ],
     "totalUsd": 5.2,
     "totalLbp": 465000
+  },
+  {
+    "orderId": "ord-1763809393229",
+    "ts": "2025-11-22T11:03:13.229651Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "issraa",
+      "phone": "81796619",
+      "address": "work\nkarantina, karantina hospital, Floor 1, Elevator · karantina",
+      "location": "https://www.google.com/maps?q=33.902817,35.530081"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10875",
+        "name": "PRIVATE MAXI POCKET NIGHT 8",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10875.jpg"
+      }
+    ],
+    "totalUsd": 1.67,
+    "totalLbp": 150000
   }
 ]
