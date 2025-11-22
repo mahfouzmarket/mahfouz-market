@@ -3601,5 +3601,29 @@
     ],
     "totalUsd": 16.39,
     "totalLbp": 1465000
+  },
+  {
+    "orderId": "ord-1763824711043",
+    "ts": "2025-11-22T15:18:31.043116Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "karim sabeh",
+      "phone": "76931642",
+      "address": "barazi\nmedawar, barazu, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900185,35.533616"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1173",
+        "name": "PEPSI 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1173.jpg"
+      }
+    ],
+    "totalUsd": 1.67,
+    "totalLbp": 150000
   }
 ]
