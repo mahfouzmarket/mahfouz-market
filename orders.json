@@ -3553,5 +3553,53 @@
     ],
     "totalUsd": 1.67,
     "totalLbp": 150000
+  },
+  {
+    "orderId": "ord-1763810665803",
+    "ts": "2025-11-22T11:24:25.803860Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "hussein gharib",
+      "phone": "03447798",
+      "address": "home\nbrazil street, gate 9, Floor 2, Elevator · WG2G+5CX, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.90067703046173,35.5255975574255"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1205",
+        "name": "RED BULL 250ML",
+        "qty": 4,
+        "unitUsd": 1.68,
+        "totalUsd": 6.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1205.jpg"
+      },
+      {
+        "id": "18109",
+        "name": "CUP COLD PREMIUM ICE",
+        "qty": 4,
+        "unitUsd": 0.34,
+        "totalUsd": 1.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18109.jpg"
+      },
+      {
+        "id": "15138",
+        "name": "TEREA PURPLE WAVE",
+        "qty": 2,
+        "unitUsd": 2.74,
+        "totalUsd": 5.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15138.jpg"
+      },
+      {
+        "id": "13598",
+        "name": "PEPSI DIET PLASTIC 330 ML",
+        "qty": 4,
+        "unitUsd": 0.61,
+        "totalUsd": 2.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13598.jpg"
+      }
+    ],
+    "totalUsd": 16.39,
+    "totalLbp": 1465000
   }
 ]
