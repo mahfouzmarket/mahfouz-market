@@ -3873,5 +3873,45 @@
     ],
     "totalUsd": 13.06,
     "totalLbp": 1170000
+  },
+  {
+    "orderId": "ord-1763903768227",
+    "ts": "2025-11-23T13:16:08.227212Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Stephay salem",
+      "phone": "71783023",
+      "address": "home\nrmeil street, bechara maalouf, Floor 3, No Elevator · call when arrived",
+      "location": "https://www.google.com/maps?q=33.896276,35.527056"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19145",
+        "name": "PERRIER CAN SPARKLING  WATER 33CL",
+        "qty": 3,
+        "unitUsd": 1.01,
+        "totalUsd": 3.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19145.jpg"
+      },
+      {
+        "id": "15136",
+        "name": "TEREA YELLOW",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15136.jpg"
+      },
+      {
+        "id": "20784",
+        "name": "DUBAI ULKER 35G",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20784.jpg"
+      }
+    ],
+    "totalUsd": 7.61,
+    "totalLbp": 680000
   }
 ]
