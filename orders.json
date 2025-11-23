@@ -3913,5 +3913,37 @@
     ],
     "totalUsd": 7.61,
     "totalLbp": 680000
+  },
+  {
+    "orderId": "ord-1763922840377",
+    "ts": "2025-11-23T18:34:00.377945Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ali noureddine",
+      "phone": "71580166",
+      "address": "mstashfa j3etewe\nrmeil, j3etewe, Floor 0, No Elevator · taware2",
+      "location": "https://www.google.com/maps?q=33.8942703,35.5308509"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12956",
+        "name": "AL FORNO MARKOUK BAG 5",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12956.jpg"
+      },
+      {
+        "id": "13600",
+        "name": "SEVEN UP PLASTIC 330 ML",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13600.jpg"
+      }
+    ],
+    "totalUsd": 2.68,
+    "totalLbp": 240000
   }
 ]
