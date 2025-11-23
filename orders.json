@@ -3945,5 +3945,53 @@
     ],
     "totalUsd": 2.68,
     "totalLbp": 240000
+  },
+  {
+    "orderId": "ord-1763925379523",
+    "ts": "2025-11-23T19:16:19.523014Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13587",
+        "name": "LIPTON ICE TEA PEACH DIET 320 ML CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13587.jpg"
+      },
+      {
+        "id": "12728",
+        "name": "ALPH KING SIZE SLIM",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12728.jpg"
+      },
+      {
+        "id": "12772",
+        "name": "ALPH KING SIZE SLIM BROWN",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12772.jpg"
+      },
+      {
+        "id": "13674",
+        "name": "FRESCO VANILLE",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13674.jpg"
+      }
+    ],
+    "totalUsd": 2.86,
+    "totalLbp": 255000
   }
 ]
