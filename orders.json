@@ -3681,5 +3681,37 @@
     ],
     "totalUsd": 12.12,
     "totalLbp": 1085000
+  },
+  {
+    "orderId": "ord-1763857196080",
+    "ts": "2025-11-23T00:19:56.080843Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16955",
+        "name": "MASTER SITOS NACHO CHEESE 210 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16955.jpg"
+      },
+      {
+        "id": "16166",
+        "name": "MASTER HOT CHILI 180G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16166.jpg"
+      }
+    ],
+    "totalUsd": 2.58,
+    "totalLbp": 230000
   }
 ]
