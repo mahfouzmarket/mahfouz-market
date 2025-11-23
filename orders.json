@@ -3809,5 +3809,29 @@
     ],
     "totalUsd": 3.82,
     "totalLbp": 340000
+  },
+  {
+    "orderId": "ord-1763883638276",
+    "ts": "2025-11-23T07:40:38.276629Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "zeina el hajj",
+      "phone": "76572151",
+      "address": "achrafieh\nqoubayat, riachi, Floor 0, No Elevator · wara l saint marc fi zaroub 3al yamin msakar btenzal bi nosso bouwebe bayda",
+      "location": "https://www.google.com/maps?q=33.893920,35.531694"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "611",
+        "name": "CUP OF HOT CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID611.jpg"
+      }
+    ],
+    "totalUsd": 1.34,
+    "totalLbp": 120000
   }
 ]
