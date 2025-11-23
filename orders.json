@@ -3737,5 +3737,37 @@
     ],
     "totalUsd": 2.46,
     "totalLbp": 220000
+  },
+  {
+    "orderId": "ord-1763866357938",
+    "ts": "2025-11-23T02:52:37.938785Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Jad Brji",
+      "phone": "70262898",
+      "address": "Badawi, Kurd Street\nGround Floor, Bineye Bawebe Zar2a ma3 2ash, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894820,35.533768"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13595",
+        "name": "SEVEN UP 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13595.jpg"
+      },
+      {
+        "id": "12702",
+        "name": "CEDARS PLUS",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12702.jpg"
+      }
+    ],
+    "totalUsd": 4.19,
+    "totalLbp": 375000
   }
 ]
