@@ -4201,5 +4201,37 @@
     ],
     "totalUsd": 1.95,
     "totalLbp": 175000
+  },
+  {
+    "orderId": "ord-1763997332620",
+    "ts": "2025-11-24T15:15:32.620424Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "hoda sabeh",
+      "phone": "76672188",
+      "address": "home\nmdawar, barazi, Floor 11, Elevator",
+      "location": "https://www.google.com/maps?q=33.900199,35.533426"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13851",
+        "name": "RIMAS BROWNIES 60GR",
+        "qty": 4,
+        "unitUsd": 0.39,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13851.jpg"
+      },
+      {
+        "id": "20642",
+        "name": "UNO CHOCOLATE MILKSHAKE",
+        "qty": 4,
+        "unitUsd": 0.34,
+        "totalUsd": 1.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20642.jpg"
+      }
+    ],
+    "totalUsd": 3.31,
+    "totalLbp": 295000
   }
 ]
