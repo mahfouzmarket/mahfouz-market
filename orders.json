@@ -4161,5 +4161,45 @@
     ],
     "totalUsd": 2.58,
     "totalLbp": 230000
+  },
+  {
+    "orderId": "ord-1763978034095",
+    "ts": "2025-11-24T09:53:54.095228Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "wassim sabeh",
+      "phone": "4368864659929",
+      "address": "home\nmedawar, barazi, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900175,35.533392"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4918",
+        "name": "WANTED CARAMEL 32G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4918.jpg"
+      },
+      {
+        "id": "14795",
+        "name": "LUNA ICE COFFEE ORIGINAL 190 ML",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14795.jpg"
+      },
+      {
+        "id": "4577",
+        "name": "BREAK TIFFANY",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4577.jpg"
+      }
+    ],
+    "totalUsd": 1.95,
+    "totalLbp": 175000
   }
 ]
