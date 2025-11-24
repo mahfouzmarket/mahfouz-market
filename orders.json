@@ -4265,5 +4265,61 @@
     ],
     "totalUsd": 3.55,
     "totalLbp": 315000
+  },
+  {
+    "orderId": "ord-1763998622753",
+    "ts": "2025-11-24T15:37:02.753779Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "dunia abbass",
+      "phone": "71275900",
+      "address": "home\nmashghara/ khodor, abbass, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901672,35.531958"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13921",
+        "name": "DOUBLE SHOCK STRAWBERRY",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13921.jpg"
+      },
+      {
+        "id": "19574",
+        "name": "LEGACY DUAL FUSION",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19574.jpg"
+      },
+      {
+        "id": "14843",
+        "name": "FANTASIA POPCORN SALTED 60 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14843.jpg"
+      },
+      {
+        "id": "18901",
+        "name": "MINI MAX VANILLA SMALL",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18901.jpg"
+      },
+      {
+        "id": "20640",
+        "name": "MILKA YOGHURT 100G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20640.jpg"
+      }
+    ],
+    "totalUsd": 4.41,
+    "totalLbp": 395000
   }
 ]
