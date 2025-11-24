@@ -4321,5 +4321,45 @@
     ],
     "totalUsd": 4.41,
     "totalLbp": 395000
+  },
+  {
+    "orderId": "ord-1764001301187",
+    "ts": "2025-11-24T16:21:41.187294Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Victoria Loutfi",
+      "phone": "76790775",
+      "address": "Home\nIskandar Farah, Samaha Building, Floor 1, Elevator · Azouri Pharmacy",
+      "location": "https://www.google.com/maps?q=33.89265,35.528131"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "227",
+        "name": "DARK BLUE 500 ML",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID227.jpg"
+      },
+      {
+        "id": "14795",
+        "name": "LUNA ICE COFFEE ORIGINAL 190 ML",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14795.jpg"
+      },
+      {
+        "id": "710",
+        "name": "MACCAW PINEAPPLE JUICE 250ML",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID710.jpg"
+      }
+    ],
+    "totalUsd": 2.95,
+    "totalLbp": 265000
   }
 ]
