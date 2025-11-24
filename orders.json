@@ -3993,5 +3993,61 @@
     ],
     "totalUsd": 2.86,
     "totalLbp": 255000
+  },
+  {
+    "orderId": "ord-1763968368904",
+    "ts": "2025-11-24T07:12:48.904232Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17240",
+        "name": "TAANAYEL LABNEH BALADIEH 500 G",
+        "qty": 1,
+        "unitUsd": 4.02,
+        "totalUsd": 4.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17240.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 2,
+        "unitUsd": 1.45,
+        "totalUsd": 2.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "13037",
+        "name": "LA CROIX DE JAVEL 3.79 L",
+        "qty": 1,
+        "unitUsd": 3.8,
+        "totalUsd": 3.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13037.jpg"
+      },
+      {
+        "id": "20062",
+        "name": "TORNADO WASH EVER SOFT LAVENDER FRAGRANC",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20062.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      }
+    ],
+    "totalUsd": 12.56,
+    "totalLbp": 1125000
   }
 ]
