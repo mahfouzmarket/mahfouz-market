@@ -4409,5 +4409,45 @@
     ],
     "totalUsd": 7.94,
     "totalLbp": 710000
+  },
+  {
+    "orderId": "ord-1764024378470",
+    "ts": "2025-11-24T22:46:18.470814Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "rmeil\nkhazinayn, tony saliba building, Floor 1, No Elevator · afte ashrafiye school",
+      "location": "https://www.google.com/maps?q=33.896169,35.527038"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18019",
+        "name": "ALPH WHITE ROACH NEW LIMITED EDITION",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18019.jpg"
+      },
+      {
+        "id": "16887",
+        "name": "KAZOUZA POMEGRANATE 250 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16887.jpg"
+      },
+      {
+        "id": "16889",
+        "name": "KAZOUZA TROPICAL BLUE 275 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16889.jpg"
+      }
+    ],
+    "totalUsd": 3.13,
+    "totalLbp": 280000
   }
 ]
