@@ -4233,5 +4233,37 @@
     ],
     "totalUsd": 3.31,
     "totalLbp": 295000
+  },
+  {
+    "orderId": "ord-1763997403091",
+    "ts": "2025-11-24T15:16:43.091266Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "hoda sabeh",
+      "phone": "76672188",
+      "address": "home\nmdawar, barazi, Floor 11, Elevator",
+      "location": "https://www.google.com/maps?q=33.900199,35.533426"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4823",
+        "name": "ADICTO GOLD 36 G",
+        "qty": 4,
+        "unitUsd": 0.45,
+        "totalUsd": 1.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4823.jpg"
+      },
+      {
+        "id": "20642",
+        "name": "UNO CHOCOLATE MILKSHAKE",
+        "qty": 4,
+        "unitUsd": 0.34,
+        "totalUsd": 1.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20642.jpg"
+      }
+    ],
+    "totalUsd": 3.55,
+    "totalLbp": 315000
   }
 ]
