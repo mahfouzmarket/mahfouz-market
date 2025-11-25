@@ -4681,5 +4681,61 @@
     ],
     "totalUsd": 10.85,
     "totalLbp": 970000
+  },
+  {
+    "orderId": "ord-1764108092102",
+    "ts": "2025-11-25T22:01:32.102061Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ahmad fawaz",
+      "phone": "03604507",
+      "address": "home\nalroum hospital street, mayne bulding, Floor 4, Elevator · facing nation station mafra2 aakes ser tene beneye aal yamin",
+      "location": "https://www.google.com/maps?q=33.894301,35.525192"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7308",
+        "name": "AL FORNO TANNOUR WHITE/ BROWN",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7308.jpg"
+      },
+      {
+        "id": "18202",
+        "name": "LA PIARA TURKEY SMOKED 200G",
+        "qty": 1,
+        "unitUsd": 4.64,
+        "totalUsd": 4.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18202.jpg"
+      },
+      {
+        "id": "6724",
+        "name": "ARUBA JELLY STRAWBERY DIET 12GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6724.jpg"
+      },
+      {
+        "id": "20504",
+        "name": "CAPTAIN FISHER SHRIMP LARGE",
+        "qty": 1,
+        "unitUsd": 11.06,
+        "totalUsd": 11.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20504.jpg"
+      },
+      {
+        "id": "16537",
+        "name": "MASSOUD PICKLED CUCUMBER 450 GR",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16537.jpg"
+      }
+    ],
+    "totalUsd": 20.56,
+    "totalLbp": 1840000
   }
 ]
