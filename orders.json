@@ -4553,5 +4553,45 @@
     ],
     "totalUsd": 4.64,
     "totalLbp": 415000
+  },
+  {
+    "orderId": "ord-1764084553238",
+    "ts": "2025-11-25T15:29:13.238558Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13826",
+        "name": "ZUBROWKA VODKA 700 ML",
+        "qty": 1,
+        "unitUsd": 4.97,
+        "totalUsd": 4.97,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13826.jpg"
+      },
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 6,
+        "unitUsd": 0.45,
+        "totalUsd": 2.7,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      }
+    ],
+    "totalUsd": 9.12,
+    "totalLbp": 815000
   }
 ]
