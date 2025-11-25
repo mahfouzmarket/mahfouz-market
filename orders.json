@@ -4521,5 +4521,37 @@
     ],
     "totalUsd": 4.64,
     "totalLbp": 415000
+  },
+  {
+    "orderId": "ord-1764080506509",
+    "ts": "2025-11-25T14:21:46.509397Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "wassim sabeh",
+      "phone": "4368864659929",
+      "address": "home\nmedawar, barazi, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900175,35.533392"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 2,
+        "unitUsd": 1.68,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      }
+    ],
+    "totalUsd": 4.64,
+    "totalLbp": 415000
   }
 ]
