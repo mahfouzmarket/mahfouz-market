@@ -5001,5 +5001,45 @@
     ],
     "totalUsd": 41.69,
     "totalLbp": 3730000
+  },
+  {
+    "orderId": "ord-1764187376775",
+    "ts": "2025-11-26T20:02:56.775626Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1879",
+        "name": "KSARA RDC 37.5CL",
+        "qty": 1,
+        "unitUsd": 5.75,
+        "totalUsd": 5.75,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1879.jpg"
+      },
+      {
+        "id": "12625",
+        "name": "NAKHLA 2 APPLES 50G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12625.jpg"
+      },
+      {
+        "id": "6104",
+        "name": "AL KAZZI EXTRA 300GR",
+        "qty": 1,
+        "unitUsd": 2.74,
+        "totalUsd": 2.74,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6104.jpg"
+      }
+    ],
+    "totalUsd": 12.29,
+    "totalLbp": 1100000
   }
 ]
