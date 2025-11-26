@@ -4817,5 +4817,117 @@
     ],
     "totalUsd": 2.35,
     "totalLbp": 210000
+  },
+  {
+    "orderId": "ord-1764163174210",
+    "ts": "2025-11-26T13:19:34.210314Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "samah Khreiss",
+      "phone": "70941901",
+      "address": "em adam\nkouz street, adham el khatib, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900149,35.526671"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "3758",
+        "name": "PRINGLES ORIGINAL 40 GR",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3758.jpg"
+      },
+      {
+        "id": "4413",
+        "name": "GANDOUR UNICA DARK",
+        "qty": 3,
+        "unitUsd": 0.22,
+        "totalUsd": 0.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4413.jpg"
+      },
+      {
+        "id": "17250",
+        "name": "HALLEY ULKER 26 G",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17250.jpg"
+      },
+      {
+        "id": "4747",
+        "name": "HALLEY 66GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4747.jpg"
+      },
+      {
+        "id": "20804",
+        "name": "KINDER BUENO WHITE 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20804.jpg"
+      },
+      {
+        "id": "18082",
+        "name": "MALTESERS 37G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18082.jpg"
+      },
+      {
+        "id": "16710",
+        "name": "SKITTLES FRUITS 38 G",
+        "qty": 3,
+        "unitUsd": 0.73,
+        "totalUsd": 2.19,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16710.jpg"
+      },
+      {
+        "id": "4142",
+        "name": "SKITTLES FRUITS 38G",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4142.jpg"
+      },
+      {
+        "id": "4203",
+        "name": "TUTTI FRUTTI B",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4203.jpg"
+      },
+      {
+        "id": "17572",
+        "name": "TWIX CHOCOLATE 50 G",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17572.jpg"
+      },
+      {
+        "id": "4918",
+        "name": "WANTED CARAMEL 32G",
+        "qty": 3,
+        "unitUsd": 0.45,
+        "totalUsd": 1.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4918.jpg"
+      },
+      {
+        "id": "4026",
+        "name": "NOUBA 17.5G",
+        "qty": 3,
+        "unitUsd": 0.39,
+        "totalUsd": 1.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4026.jpg"
+      }
+    ],
+    "totalUsd": 15.56,
+    "totalLbp": 1390000
   }
 ]
