@@ -4785,5 +4785,37 @@
     ],
     "totalUsd": 5.04,
     "totalLbp": 450000
+  },
+  {
+    "orderId": "ord-1764139458291",
+    "ts": "2025-11-26T06:44:18.291122Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "dunia abbass",
+      "phone": "71275900",
+      "address": "home\nmashghara/ khodor, abbass, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901672,35.531958"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19507",
+        "name": "ALO BABY WET WIPES 15 PCS",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19507.jpg"
+      },
+      {
+        "id": "19323",
+        "name": "MIMOSA TISSUES SMALL",
+        "qty": 1,
+        "unitUsd": 0.17,
+        "totalUsd": 0.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19323.jpg"
+      }
+    ],
+    "totalUsd": 2.35,
+    "totalLbp": 210000
   }
 ]
