@@ -4929,5 +4929,77 @@
     ],
     "totalUsd": 15.56,
     "totalLbp": 1390000
+  },
+  {
+    "orderId": "ord-1764176694024",
+    "ts": "2025-11-26T17:04:54.024074Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 2,
+        "unitUsd": 1.45,
+        "totalUsd": 2.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "18197",
+        "name": "EMMENTAL ZOTT 200GR",
+        "qty": 1,
+        "unitUsd": 3.74,
+        "totalUsd": 3.74,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18197.jpg"
+      },
+      {
+        "id": "18193",
+        "name": "LA PIARA TURKEY 200 GR",
+        "qty": 2,
+        "unitUsd": 4.64,
+        "totalUsd": 9.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18193.jpg"
+      },
+      {
+        "id": "18195",
+        "name": "KHASHKAVAL MONI 200GR",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18195.jpg"
+      },
+      {
+        "id": "17916",
+        "name": "PERSIL POWER GEL ROSE 2.5L",
+        "qty": 1,
+        "unitUsd": 6.48,
+        "totalUsd": 6.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17916.jpg"
+      },
+      {
+        "id": "10510",
+        "name": "FL GIPSY 300SH SOFT PLUS",
+        "qty": 3,
+        "unitUsd": 2.35,
+        "totalUsd": 7.05,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10510.jpg"
+      },
+      {
+        "id": "468",
+        "name": "CAFE NAJJAR CLASSIC NORMAL 400G",
+        "qty": 1,
+        "unitUsd": 7.99,
+        "totalUsd": 7.99,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID468.jpg"
+      }
+    ],
+    "totalUsd": 41.69,
+    "totalLbp": 3730000
   }
 ]
