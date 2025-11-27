@@ -5353,5 +5353,29 @@
     ],
     "totalUsd": 0.95,
     "totalLbp": 85000
+  },
+  {
+    "orderId": "ord-1764283789675",
+    "ts": "2025-11-27T22:49:49.675893Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ali noureddine",
+      "phone": "71580166",
+      "address": "mstashfa j3etewe\nrmeil, j3etewe, Floor 0, No Elevator · taware2",
+      "location": "https://www.google.com/maps?q=33.8942703,35.5308509"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16080",
+        "name": "PLEIN SOLEIL FRUIT COCKTAIL 425GR",
+        "qty": 1,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16080.jpg"
+      }
+    ],
+    "totalUsd": 3.13,
+    "totalLbp": 280000
   }
 ]
