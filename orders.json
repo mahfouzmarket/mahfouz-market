@@ -5081,5 +5081,53 @@
     ],
     "totalUsd": 8.5,
     "totalLbp": 760000
+  },
+  {
+    "orderId": "ord-1764204621666",
+    "ts": "2025-11-27T00:50:21.666786Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15403",
+        "name": "KETTLE COOKED SEA SALT & VINEGAR 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15403.jpg"
+      },
+      {
+        "id": "13972",
+        "name": "FRESCO PISTACHIO",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13972.jpg"
+      },
+      {
+        "id": "7323",
+        "name": "KAAK SESAME LONG 250G FORNO",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7323.jpg"
+      },
+      {
+        "id": "13897",
+        "name": "PUCK DANISH WHITE 200 GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13897.jpg"
+      }
+    ],
+    "totalUsd": 5.15,
+    "totalLbp": 460000
   }
 ]
