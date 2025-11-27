@@ -5041,5 +5041,45 @@
     ],
     "totalUsd": 12.29,
     "totalLbp": 1100000
+  },
+  {
+    "orderId": "ord-1764204009605",
+    "ts": "2025-11-27T00:40:09.605830Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "tony antoun",
+      "phone": "71817397",
+      "address": "hospital\ngeitaoui, hospital, Floor 0, No Elevator · emergency",
+      "location": "https://www.google.com/maps?q=33.8938619324019,35.530406422913074"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "3077",
+        "name": "KHOURYKASHKAVAL CHEESE 200 G",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3077.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "19143",
+        "name": "NF RASPBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19143.jpg"
+      }
+    ],
+    "totalUsd": 8.5,
+    "totalLbp": 760000
   }
 ]
