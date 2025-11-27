@@ -5377,5 +5377,101 @@
     ],
     "totalUsd": 3.13,
     "totalLbp": 280000
+  },
+  {
+    "orderId": "ord-1764285635526",
+    "ts": "2025-11-27T23:20:35.526881Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Donna jabbour",
+      "phone": "71907526",
+      "address": "work\ngeitawi hospital, geitawi hospital, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4823",
+        "name": "ADICTO GOLD 36 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4823.jpg"
+      },
+      {
+        "id": "14007",
+        "name": "CADBURY SNACK SANDWICH 22 GR",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14007.jpg"
+      },
+      {
+        "id": "4036",
+        "name": "CHOCO PRINCE 25G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4036.jpg"
+      },
+      {
+        "id": "15509",
+        "name": "ETI POP KEK BANANA 45 G",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15509.jpg"
+      },
+      {
+        "id": "13447",
+        "name": "GANDOUR DABKE LUKUM 28.7 GR",
+        "qty": 1,
+        "unitUsd": 0.17,
+        "totalUsd": 0.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13447.jpg"
+      },
+      {
+        "id": "4549",
+        "name": "KINDER DELICE",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4549.jpg"
+      },
+      {
+        "id": "4006",
+        "name": "KINDER BUENO 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4006.jpg"
+      },
+      {
+        "id": "20637",
+        "name": "KINDER TRONKY",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20637.jpg"
+      },
+      {
+        "id": "13909",
+        "name": "MENTOS 3D FINSEAL FRESHMINT 5PCS",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13909.jpg"
+      },
+      {
+        "id": "5121",
+        "name": "LES FOLIS STRAWBERRY CHEESE CAKE",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5121.jpg"
+      }
+    ],
+    "totalUsd": 9.4,
+    "totalLbp": 840000
   }
 ]
