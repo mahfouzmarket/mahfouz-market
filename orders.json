@@ -5617,5 +5617,37 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1764359633657",
+    "ts": "2025-11-28T19:53:53.657285Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.892994456492936,35.52769102156162"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16997",
+        "name": "CHICKEN AVOCADO SANDWISH",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16997.jpg"
+      },
+      {
+        "id": "20001",
+        "name": "CLUB SANDWICH TUNA BROWN",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20001.jpg"
+      }
+    ],
+    "totalUsd": 8.61,
+    "totalLbp": 770000
   }
 ]
