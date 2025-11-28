@@ -5561,5 +5561,37 @@
     ],
     "totalUsd": 2.85,
     "totalLbp": 255000
+  },
+  {
+    "orderId": "ord-1764334035994",
+    "ts": "2025-11-28T12:47:15.994502Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "عماد بتال",
+      "phone": "81332910",
+      "address": "جعيتاوي\nشارع المختار شارل زيادة, مستودع الشمع, الطابق 2, بدون مصعد",
+      "location": "https://www.google.com/maps?q=33.892345,35.529191"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "17075",
+        "name": "MARLBORO CRAFTED BLUE SLIMS",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17075.jpg"
+      }
+    ],
+    "totalUsd": 3.3,
+    "totalLbp": 295000
   }
 ]
