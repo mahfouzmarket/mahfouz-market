@@ -5529,5 +5529,37 @@
     ],
     "totalUsd": 0.95,
     "totalLbp": 85000
+  },
+  {
+    "orderId": "ord-1764323824094",
+    "ts": "2025-11-28T09:57:04.094790Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2834",
+        "name": "KHOURY IRAN",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2834.jpg"
+      },
+      {
+        "id": "13476",
+        "name": "KLATCHI PEANUTS SUDANI 200 GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13476.jpg"
+      }
+    ],
+    "totalUsd": 2.85,
+    "totalLbp": 255000
   }
 ]
