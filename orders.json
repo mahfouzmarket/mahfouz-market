@@ -5649,5 +5649,53 @@
     ],
     "totalUsd": 8.61,
     "totalLbp": 770000
+  },
+  {
+    "orderId": "ord-1764361974663",
+    "ts": "2025-11-28T20:32:54.663709Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.886890705567126,35.52797097712755"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16997",
+        "name": "CHICKEN AVOCADO SANDWISH",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16997.jpg"
+      },
+      {
+        "id": "20444",
+        "name": "BRIX UNIVERSAL SOCKET 2500 W",
+        "qty": 1,
+        "unitUsd": 8.38,
+        "totalUsd": 8.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20444.jpg"
+      },
+      {
+        "id": "20472",
+        "name": "AL VIN DOR CLOR CREAM 8.1",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20472.jpg"
+      },
+      {
+        "id": "86",
+        "name": "MERNAYA VODKA 100CL",
+        "qty": 1,
+        "unitUsd": 5.87,
+        "totalUsd": 5.87,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID86.jpg"
+      }
+    ],
+    "totalUsd": 22.63,
+    "totalLbp": 2025000
   }
 ]
