@@ -6225,5 +6225,117 @@
     ],
     "totalUsd": 2.91,
     "totalLbp": 260000
+  },
+  {
+    "orderId": "ord-1764446292191",
+    "ts": "2025-11-29T19:58:12.191375Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elen allal",
+      "phone": "81074558",
+      "address": "Home\nGeitawi, Building 46, Floor 2, Elevator · Please call upon arrival or you can ring the intercom.",
+      "location": "https://www.google.com/maps?q=33.894901,35.528417"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18772",
+        "name": "AL AHLAM GRAPE LEAVES WITH RICE 400 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18772.jpg"
+      },
+      {
+        "id": "7874",
+        "name": "BURGHUL WHITE KHICHIN AOUN 1 KG",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7874.jpg"
+      },
+      {
+        "id": "17200",
+        "name": "DERONI PASTA PENNE RIGATE 500 G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17200.jpg"
+      },
+      {
+        "id": "13547",
+        "name": "DERONI RED SPLIT LENTILS 900 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13547.jpg"
+      },
+      {
+        "id": "18987",
+        "name": "MECHAALANY PICKLED TURNIPS 600G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18987.jpg"
+      },
+      {
+        "id": "2262",
+        "name": "SAJ MN ZAMAN",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2262.jpg"
+      },
+      {
+        "id": "17387",
+        "name": "TAANAYEL LES FERMES LABAN 900 G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17387.jpg"
+      },
+      {
+        "id": "14827",
+        "name": "LENTIL 3ARID 900 GR",
+        "qty": 1,
+        "unitUsd": 2.51,
+        "totalUsd": 2.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14827.jpg"
+      },
+      {
+        "id": "18280",
+        "name": "AILA LE PETIT ECOLIER DARK CHOCOLATE 20GR",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18280.jpg"
+      },
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      },
+      {
+        "id": "19906",
+        "name": "ALOE VERA POMEGRANATE 350ML",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19906.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 1.0,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      }
+    ],
+    "totalUsd": 19.92,
+    "totalLbp": 1785000
   }
 ]
