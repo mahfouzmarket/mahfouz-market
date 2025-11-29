@@ -5833,5 +5833,29 @@
     ],
     "totalUsd": 24.71,
     "totalLbp": 2210000
+  },
+  {
+    "orderId": "ord-1764401936613",
+    "ts": "2025-11-29T07:38:56.613976Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "الياس",
+      "phone": "70185604",
+      "address": "Home\nسان لويس, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891478,35.528291"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20574",
+        "name": "CHEETOS CHEESE FLAVOR 90 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20574.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000
   }
 ]
