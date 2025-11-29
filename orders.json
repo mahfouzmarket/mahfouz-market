@@ -6033,5 +6033,61 @@
     ],
     "totalUsd": 8.61,
     "totalLbp": 770000
+  },
+  {
+    "orderId": "ord-1764436022077",
+    "ts": "2025-11-29T17:07:02.077471Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18472",
+        "name": "CHOCOLATE BOMB",
+        "qty": 2,
+        "unitUsd": 5.08,
+        "totalUsd": 10.16,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18472.jpg"
+      },
+      {
+        "id": "18160",
+        "name": "CHRISTMAS STARS SABLE",
+        "qty": 2,
+        "unitUsd": 5.03,
+        "totalUsd": 10.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18160.jpg"
+      },
+      {
+        "id": "20772",
+        "name": "NF ARRANGEMENT MUG",
+        "qty": 1,
+        "unitUsd": 10.06,
+        "totalUsd": 10.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20772.jpg"
+      },
+      {
+        "id": "20607",
+        "name": "NF CHRISTMAS BONBON",
+        "qty": 2,
+        "unitUsd": 2.79,
+        "totalUsd": 5.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20607.jpg"
+      },
+      {
+        "id": "20623",
+        "name": "NF GINGER COOKIE BOX NT 130G",
+        "qty": 1,
+        "unitUsd": 10.06,
+        "totalUsd": 10.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20623.jpg"
+      }
+    ],
+    "totalUsd": 46.48,
+    "totalLbp": 4160000
   }
 ]
