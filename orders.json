@@ -6089,5 +6089,45 @@
     ],
     "totalUsd": 46.48,
     "totalLbp": 4160000
+  },
+  {
+    "orderId": "ord-1764436436325",
+    "ts": "2025-11-29T17:13:56.325288Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Nour Attieh",
+      "phone": "76761489",
+      "address": "Lebanon, Beyrouth, Achrafieh, Geatawi, kata2ib rmeil, asseily street number 50, building Farid Younnes, 6 floor, home Béchara Attieh.\n50, Farid Youness, Floor 6, Elevator · VGWG+4W5, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89536976654496,35.527517683804035"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12637",
+        "name": "MAZAYA LEMON +MINT",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12637.jpg"
+      },
+      {
+        "id": "19111",
+        "name": "LES FOLIES CHOCOLATE & CHOCOLATE CHIP 1L",
+        "qty": 1,
+        "unitUsd": 5.81,
+        "totalUsd": 5.81,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19111.jpg"
+      },
+      {
+        "id": "13649",
+        "name": "SEVEN UP DIET 2.25",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13649.jpg"
+      }
+    ],
+    "totalUsd": 9.39,
+    "totalLbp": 840000
   }
 ]
