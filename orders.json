@@ -5993,5 +5993,45 @@
     ],
     "totalUsd": 3.64,
     "totalLbp": 325000
+  },
+  {
+    "orderId": "ord-1764418301056",
+    "ts": "2025-11-29T12:11:41.056464Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "nathalia abou jaoude",
+      "phone": "03155366",
+      "address": "mdawar\nRaymond rouphael, makhlouf, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899820,35.527175"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "8310",
+        "name": "DER GENERAL   1.5 L",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8310.jpg"
+      },
+      {
+        "id": "12956",
+        "name": "AL FORNO MARKOUK BAG 5",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12956.jpg"
+      },
+      {
+        "id": "14819",
+        "name": "NESCAFE GOLD BLEND 100 GR",
+        "qty": 1,
+        "unitUsd": 4.92,
+        "totalUsd": 4.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14819.jpg"
+      }
+    ],
+    "totalUsd": 8.61,
+    "totalLbp": 770000
   }
 ]
