@@ -5921,5 +5921,37 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1764415398478",
+    "ts": "2025-11-29T11:23:18.478687Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "الياس",
+      "phone": "70185604",
+      "address": "Home\nسان لويس, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891478,35.528291"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20690",
+        "name": "WHITE BLUE SUNFLOWER OIL 5 L",
+        "qty": 1,
+        "unitUsd": 10.73,
+        "totalUsd": 10.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20690.jpg"
+      },
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 4,
+        "unitUsd": 2.79,
+        "totalUsd": 11.16,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      }
+    ],
+    "totalUsd": 22.45,
+    "totalLbp": 2010000
   }
 ]
