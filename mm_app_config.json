@@ -1,6 +1,9 @@
 {
-  "minimumVersion": "1.0.0",
-  "latestVersion": "1.3.4",
-  "updateUrl": "https://apps.apple.com/lb/app/mahfouz-market/id6749769654"
+  "minimumVersion": "1.0.0",                             // global fallback
+  "minimumVersionAndroid": "1.3.4",                      // ⬅️ force-update on Android
+  "minimumVersionIos": "1.0.0",                          // ⬅️ iOS not forced (change if you want)
+  "latestVersion": "1.3.4",                              // soft prompt (optional)
+  "updateUrlAndroid": "https://play.google.com/store/apps/details?id=com.mahfouzmarket.mahfouz_market",
+  "updateUrlIos": "https://apps.apple.com/lb/app/mahfouz-market/id6749769654"
 }
-  
+
