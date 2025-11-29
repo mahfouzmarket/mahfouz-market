@@ -5857,5 +5857,45 @@
     ],
     "totalUsd": 2.12,
     "totalLbp": 190000
+  },
+  {
+    "orderId": "ord-1764402415009",
+    "ts": "2025-11-29T07:46:55.009951Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Nour Matar",
+      "phone": "71065081",
+      "address": "Ashrafieh - Karem Zeitoun\nTotalEnergies - Karen Zeitoun, Imad Chamoun, Floor 2, No Elevator · After TotalEnergies Station, Petit Pain then to right down the street",
+      "location": "https://www.google.com/maps?q=33.889742,35.530963"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      },
+      {
+        "id": "13809",
+        "name": "WHITE EGGS 1PC x 30 pcs",
+        "qty": 1,
+        "unitUsd": 5.14,
+        "totalUsd": 5.14,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13809.jpg"
+      },
+      {
+        "id": "7010",
+        "name": "AL WADI HOMMOS TAHINA 850GR",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7010.jpg"
+      }
+    ],
+    "totalUsd": 8.66,
+    "totalLbp": 775000
   }
 ]
