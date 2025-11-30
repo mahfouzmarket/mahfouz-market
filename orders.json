@@ -6889,5 +6889,93 @@
     ],
     "totalUsd": 5.2,
     "totalLbp": 465000
+  },
+  {
+    "orderId": "ord-1764522361467",
+    "ts": "2025-11-30T17:06:01.467374Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Farah",
+      "phone": "03747320",
+      "address": "home\nورا صيدلية سان مارك، مقرف يمين، اول بناية عالشمال, بوابة خضرا, Floor 2, No Elevator · وراء السان مارك، اول مفرق يمين، بوابة خضرا",
+      "location": "https://www.google.com/maps?q=33.893714,35.531292"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19054",
+        "name": "MASTER BUIES CHEEZ BALLS 140G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19054.jpg"
+      },
+      {
+        "id": "13617",
+        "name": "MASTER CURVY CHIPS SALT 80G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13617.jpg"
+      },
+      {
+        "id": "3317",
+        "name": "DIGESTIVE DARK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 3.46,
+        "totalUsd": 3.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3317.jpg"
+      },
+      {
+        "id": "13871",
+        "name": "KLATCHI EGYPTIAN SEEDS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13871.jpg"
+      },
+      {
+        "id": "14385",
+        "name": "KLATCHI SUNFLOWER UNSALTED 250G",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14385.jpg"
+      },
+      {
+        "id": "14938",
+        "name": "MAGGI CHICKEN NOODLE SOUP 50 G",
+        "qty": 4,
+        "unitUsd": 0.56,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14938.jpg"
+      },
+      {
+        "id": "15077",
+        "name": "CYLON TEA HORSE HEAD 350G",
+        "qty": 1,
+        "unitUsd": 6.2,
+        "totalUsd": 6.2,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15077.jpg"
+      },
+      {
+        "id": "13868",
+        "name": "DOLSI CHIPS VINEGAR 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13868.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      }
+    ],
+    "totalUsd": 19.62,
+    "totalLbp": 1755000
   }
 ]
