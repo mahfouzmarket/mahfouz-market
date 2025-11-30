@@ -6753,5 +6753,45 @@
     ],
     "totalUsd": 4.24,
     "totalLbp": 380000
+  },
+  {
+    "orderId": "ord-1764504099291",
+    "ts": "2025-11-30T12:01:39.291895Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "solyne shehadeh",
+      "phone": "03951217",
+      "address": "home\ngeitawi before dominos pizza, same bldg of ketib el 3adel elie khoury, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.892069,35.527458"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "19427",
+        "name": "EVERVESS TONIC 250 ML",
+        "qty": 5,
+        "unitUsd": 0.67,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19427.jpg"
+      },
+      {
+        "id": "14818",
+        "name": "WHITE BELL 0.82 L",
+        "qty": 1,
+        "unitUsd": 2.07,
+        "totalUsd": 2.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14818.jpg"
+      }
+    ],
+    "totalUsd": 10.44,
+    "totalLbp": 935000
   }
 ]
