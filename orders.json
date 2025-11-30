@@ -7161,5 +7161,45 @@
     ],
     "totalUsd": 3.01,
     "totalLbp": 270000
+  },
+  {
+    "orderId": "ord-1764541817532",
+    "ts": "2025-11-30T22:30:17.532860Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      },
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "18226",
+        "name": "SANNINE WATER 0.5L",
+        "qty": 4,
+        "unitUsd": 0.22,
+        "totalUsd": 0.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18226.jpg"
+      }
+    ],
+    "totalUsd": 3.01,
+    "totalLbp": 270000
   }
 ]
