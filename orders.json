@@ -6577,5 +6577,45 @@
     ],
     "totalUsd": 30.11,
     "totalLbp": 2695000
+  },
+  {
+    "orderId": "ord-1764493050414",
+    "ts": "2025-11-30T08:57:30.414896Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14225",
+        "name": "ALPH 120 FILTERS 6MM",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14225.jpg"
+      },
+      {
+        "id": "13144",
+        "name": "ALPH 818 MONSTER LIGHTER CLICK",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13144.jpg"
+      },
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      }
+    ],
+    "totalUsd": 2.35,
+    "totalLbp": 210000
   }
 ]
