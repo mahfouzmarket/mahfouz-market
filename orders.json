@@ -7057,5 +7057,45 @@
     ],
     "totalUsd": 3.99,
     "totalLbp": 357000
+  },
+  {
+    "orderId": "ord-1764524082310",
+    "ts": "2025-11-30T17:34:42.310026Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ahmad ibrahim",
+      "phone": "70950196",
+      "address": "hom\ng, badour, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895802,35.532014"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16910",
+        "name": "PERSIL POWER GEL DEEP CLEAN 2.5L",
+        "qty": 1,
+        "unitUsd": 6.48,
+        "totalUsd": 6.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16910.jpg"
+      },
+      {
+        "id": "8521",
+        "name": "COMFORT PINK 1L",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8521.jpg"
+      },
+      {
+        "id": "13649",
+        "name": "SEVEN UP DIET 2.25",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13649.jpg"
+      }
+    ],
+    "totalUsd": 11.9,
+    "totalLbp": 1065000
   }
 ]
