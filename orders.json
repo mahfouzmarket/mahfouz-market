@@ -6793,5 +6793,45 @@
     ],
     "totalUsd": 10.44,
     "totalLbp": 935000
+  },
+  {
+    "orderId": "ord-1764506731362",
+    "ts": "2025-11-30T12:45:31.362833Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nour ghaith",
+      "phone": "71357429",
+      "address": "home\ngeitawi st, rmeil 1308 awwal bineye aal yameen, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893301,35.529461"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "3087",
+        "name": "DAIRY KHOURY LABNEH LACTOSE FREE 330G",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3087.jpg"
+      },
+      {
+        "id": "7320",
+        "name": "KAAK CRUNCHY 250G",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7320.jpg"
+      },
+      {
+        "id": "4638",
+        "name": "KITKAT CHUNCKY CRISPYY",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4638.jpg"
+      }
+    ],
+    "totalUsd": 6.44,
+    "totalLbp": 575000
   }
 ]
