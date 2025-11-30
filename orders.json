@@ -6505,5 +6505,77 @@
     ],
     "totalUsd": 3.25,
     "totalLbp": 290000
+  },
+  {
+    "orderId": "ord-1764486040033",
+    "ts": "2025-11-30T07:00:40.033476Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7614",
+        "name": "TAWOUS TOMATO PASTE 400G",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7614.jpg"
+      },
+      {
+        "id": "20504",
+        "name": "CAPTAIN FISHER SHRIMP LARGE",
+        "qty": 1,
+        "unitUsd": 11.06,
+        "totalUsd": 11.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20504.jpg"
+      },
+      {
+        "id": "19307",
+        "name": "AOUN BASMATI RICE BLUE 900 G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19307.jpg"
+      },
+      {
+        "id": "17671",
+        "name": "PUCK COOKING CREAM 1 ltr",
+        "qty": 1,
+        "unitUsd": 7.26,
+        "totalUsd": 7.26,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17671.jpg"
+      },
+      {
+        "id": "14781",
+        "name": "BARILLA #1 500GR",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14781.jpg"
+      },
+      {
+        "id": "15039",
+        "name": "MOULIN DOR WHOLE WHEAT BREAD",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15039.jpg"
+      },
+      {
+        "id": "15427",
+        "name": "BARILLA PENNE RIGATE 500 G",
+        "qty": 2,
+        "unitUsd": 1.62,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15427.jpg"
+      }
+    ],
+    "totalUsd": 30.11,
+    "totalLbp": 2695000
   }
 ]
