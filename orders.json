@@ -7097,5 +7097,29 @@
     ],
     "totalUsd": 11.9,
     "totalLbp": 1065000
+  },
+  {
+    "orderId": "ord-1764524434030",
+    "ts": "2025-11-30T17:40:34.030701Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Paula Saba",
+      "phone": "76956381",
+      "address": ", mar mkhayel, pink house\nQOBAYAT STREET, pink building, Floor 1, No Elevator · call when you arrive",
+      "location": "https://www.google.com/maps?q=33.896411,35.528686"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17635",
+        "name": "BLANC CHIC CANDELS",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17635.jpg"
+      }
+    ],
+    "totalUsd": 2.45,
+    "totalLbp": 220000
   }
 ]
