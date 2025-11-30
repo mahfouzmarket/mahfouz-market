@@ -6833,5 +6833,61 @@
     ],
     "totalUsd": 6.44,
     "totalLbp": 575000
+  },
+  {
+    "orderId": "ord-1764511409142",
+    "ts": "2025-11-30T14:03:29.142519Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Naryman Wansa",
+      "phone": "76346395",
+      "address": "work\nkhodor street, sleep comfort, Floor 6, Elevator",
+      "location": "https://www.google.com/maps?q=33.900021,35.534067"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6189",
+        "name": "ARCHI MIXED NUTS 200G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6189.jpg"
+      },
+      {
+        "id": "13953",
+        "name": "X-TRA ORANGE 250 ML",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13953.jpg"
+      },
+      {
+        "id": "20642",
+        "name": "UNO CHOCOLATE MILKSHAKE",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20642.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "14843",
+        "name": "FANTASIA POPCORN SALTED 60 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14843.jpg"
+      }
+    ],
+    "totalUsd": 5.2,
+    "totalLbp": 465000
   }
 ]
