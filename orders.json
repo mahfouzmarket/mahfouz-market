@@ -6977,5 +6977,85 @@
     ],
     "totalUsd": 19.62,
     "totalLbp": 1755000
+  },
+  {
+    "orderId": "ord-1764523188797",
+    "ts": "2025-11-30T17:19:48.797407Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "abbass",
+      "phone": "81068714",
+      "address": "geitawi hospital\ngeitawi, geitawi, Floor 2, Elevator",
+      "location": "https://www.google.com/maps?q=33.894345,35.531058"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14128",
+        "name": "WHITE BELL WHITE MEAT TUNA 185 GR",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14128.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 0.1,
+        "unitUsd": 2.46,
+        "totalUsd": 0.25,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.1,
+        "unitUsd": 2.57,
+        "totalUsd": 0.26,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 0.1,
+        "unitUsd": 1.45,
+        "totalUsd": 0.14,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      },
+      {
+        "id": "15763",
+        "name": "TEFFEH AHMAR",
+        "qtyKg": 0.1,
+        "unitUsd": 2.79,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15763.jpg"
+      },
+      {
+        "id": "15770",
+        "name": "CLEMENTINE",
+        "qtyKg": 0.1,
+        "unitUsd": 1.34,
+        "totalUsd": 0.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15770.jpg"
+      },
+      {
+        "id": "20675",
+        "name": "NEKTARINE",
+        "qtyKg": 0.1,
+        "unitUsd": 3.35,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20675.jpg"
+      },
+      {
+        "id": "15750",
+        "name": "BATATA",
+        "qtyKg": 0.1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.08,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15750.jpg"
+      }
+    ],
+    "totalUsd": 3.99,
+    "totalLbp": 357000
   }
 ]
