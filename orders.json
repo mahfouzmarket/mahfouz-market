@@ -6465,5 +6465,45 @@
     ],
     "totalUsd": 19.6,
     "totalLbp": 1755000
+  },
+  {
+    "orderId": "ord-1764485851935",
+    "ts": "2025-11-30T06:57:31.935821Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      },
+      {
+        "id": "13972",
+        "name": "FRESCO PISTACHIO",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13972.jpg"
+      },
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      }
+    ],
+    "totalUsd": 3.25,
+    "totalLbp": 290000
   }
 ]
