@@ -5166,5 +5166,29 @@
     ],
     "totalUsd": 13.69,
     "totalLbp": 1225000
+  },
+  {
+    "orderId": "ord-1764619879721",
+    "ts": "2025-12-01T20:11:19.721565Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "wassim sabeh",
+      "phone": "4368864659929",
+      "address": "home\nmedawar, barazi, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900175,35.533392"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12608",
+        "name": "WINSTON ULTRA LIGHT",
+        "qty": 2,
+        "unitUsd": 2.12,
+        "totalUsd": 4.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12608.jpg"
+      }
+    ],
+    "totalUsd": 4.63,
+    "totalLbp": 415000
   }
 ]
