@@ -4798,5 +4798,53 @@
     ],
     "totalUsd": 15.52,
     "totalLbp": 1385000
+  },
+  {
+    "orderId": "ord-1764594773643",
+    "ts": "2025-12-01T13:12:53.643474Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nadine",
+      "phone": "03029200",
+      "address": "قريب من سوبر ماركت ضو الأشرفية جعيتاوي\nشارع إسكندر فرح, بناية يعقبيان طابق ٢ رقم ستوديو <201>, Floor 2, No Elevator · call before coming",
+      "location": "https://www.google.com/maps?q=33.893010,35.529086"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "12772",
+        "name": "ALPH KING SIZE SLIM BROWN",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12772.jpg"
+      },
+      {
+        "id": "13034",
+        "name": "LIGHTER WITH LAMP",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13034.jpg"
+      }
+    ],
+    "totalUsd": 7.21,
+    "totalLbp": 645000
   }
 ]
