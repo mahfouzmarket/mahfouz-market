@@ -7529,5 +7529,45 @@
     ],
     "totalUsd": 4.47,
     "totalLbp": 400000
+  },
+  {
+    "orderId": "ord-1764589258601",
+    "ts": "2025-12-01T11:40:58.601379Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "a",
+      "phone": "8",
+      "address": "f\nc, c, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891400,35.528296"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20779",
+        "name": "NF CHOCO COOKIES NT 230G",
+        "qty": 1,
+        "unitUsd": 7.82,
+        "totalUsd": 7.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20779.jpg"
+      },
+      {
+        "id": "20607",
+        "name": "NF CHRISTMAS BONBON",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20607.jpg"
+      },
+      {
+        "id": "20602",
+        "name": "NF CHRISTMAS BOX",
+        "qty": 1,
+        "unitUsd": 3.35,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20602.jpg"
+      }
+    ],
+    "totalUsd": 14.52,
+    "totalLbp": 1300000
   }
 ]
