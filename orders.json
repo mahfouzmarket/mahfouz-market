@@ -5286,5 +5286,93 @@
     ],
     "totalUsd": 5.81,
     "totalLbp": 520000
+  },
+  {
+    "orderId": "ord-1764629601861",
+    "ts": "2025-12-01T22:53:21.861989Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Rouslan Bou Diab",
+      "phone": "81238414",
+      "address": "home\ngetawi, tony el rai building, Floor 1, No Elevator · yosal 3al location fi beneyi bi nos tare2 el 7ay ermid el madkhal a7mar w maktob 3al maktab 25",
+      "location": "https://www.google.com/maps?q=33.89159289512303,35.532224625349045"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20637",
+        "name": "KINDER TRONKY",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20637.jpg"
+      },
+      {
+        "id": "4120",
+        "name": "KINDER JOY",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4120.jpg"
+      },
+      {
+        "id": "20598",
+        "name": "KINDER HAPPY HIPPO 20.7G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20598.jpg"
+      },
+      {
+        "id": "20804",
+        "name": "KINDER BUENO WHITE 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20804.jpg"
+      },
+      {
+        "id": "17696",
+        "name": "PEPSI ZERO 1.5LTR",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17696.jpg"
+      },
+      {
+        "id": "13734",
+        "name": "MASTER CHIPS CHILI 80G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13734.jpg"
+      },
+      {
+        "id": "3738",
+        "name": "MASTER CHIPS KETCHUP 85G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3738.jpg"
+      },
+      {
+        "id": "17468",
+        "name": "MASTER COCKTAIL 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17468.jpg"
+      },
+      {
+        "id": "20433",
+        "name": "SIMBA CAT WITH REAL TUNA 100G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20433.jpg"
+      }
+    ],
+    "totalUsd": 8.99,
+    "totalLbp": 805000
   }
 ]
