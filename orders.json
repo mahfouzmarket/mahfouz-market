@@ -7457,5 +7457,29 @@
     ],
     "totalUsd": 6.26,
     "totalLbp": 560000
+  },
+  {
+    "orderId": "ord-1764588342738",
+    "ts": "2025-12-01T11:25:42.738878Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "عمر",
+      "phone": "81978148",
+      "address": "كرنتينا\nالرهبان, عصام نويهد, الطابق 1, بدون مصعد · بوش فوج الحرس",
+      "location": "https://www.google.com/maps?q=33.893810,35.528559"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20840",
+        "name": "AL WADI FRENCH FRIES 1KG",
+        "qty": 2,
+        "unitUsd": 3.02,
+        "totalUsd": 6.04,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20840.jpg"
+      }
+    ],
+    "totalUsd": 6.6,
+    "totalLbp": 590000
   }
 ]
