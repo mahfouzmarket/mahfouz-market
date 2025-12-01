@@ -4742,5 +4742,61 @@
     ],
     "totalUsd": 1.29,
     "totalLbp": 115000
+  },
+  {
+    "orderId": "ord-1764592521217",
+    "ts": "2025-12-01T12:35:21.217891Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "nathalia abou jaoude",
+      "phone": "03155366",
+      "address": "mdawar\nRaymond rouphael, makhlouf, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899820,35.527175"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13609",
+        "name": "SEVEN UP CAN 330ML",
+        "qty": 3,
+        "unitUsd": 0.73,
+        "totalUsd": 2.19,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13609.jpg"
+      },
+      {
+        "id": "13608",
+        "name": "SEVEN UP DIET CAN 330ML",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13608.jpg"
+      },
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 3,
+        "unitUsd": 0.73,
+        "totalUsd": 2.19,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      },
+      {
+        "id": "14565",
+        "name": "PERRIER 330 ML GLASS",
+        "qty": 4,
+        "unitUsd": 1.68,
+        "totalUsd": 6.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14565.jpg"
+      },
+      {
+        "id": "2811",
+        "name": "KHOURY LABAN BALADY 1KG",
+        "qty": 1,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2811.jpg"
+      }
+    ],
+    "totalUsd": 15.52,
+    "totalLbp": 1385000
   }
 ]
