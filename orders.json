@@ -5190,5 +5190,37 @@
     ],
     "totalUsd": 4.63,
     "totalLbp": 415000
+  },
+  {
+    "orderId": "ord-1764622630099",
+    "ts": "2025-12-01T20:57:10.099702Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "albert Massaad",
+      "phone": "70147917",
+      "address": "home\niskandar Farah, chehwan bldg, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.892786,35.527994"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "13604",
+        "name": "SEVEN UP 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13604.jpg"
+      }
+    ],
+    "totalUsd": 4.07,
+    "totalLbp": 365000
   }
 ]
