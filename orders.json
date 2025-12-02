@@ -5374,5 +5374,61 @@
     ],
     "totalUsd": 8.99,
     "totalLbp": 805000
+  },
+  {
+    "orderId": "ord-1764638896448",
+    "ts": "2025-12-02T01:28:16.448353Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "mia",
+      "phone": "71110775",
+      "address": "home\nmukhtar ziadeh, bineye li aa het joscar bakery, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892678,35.529419"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18667",
+        "name": "ETI GONG POPS 80G",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18667.jpg"
+      },
+      {
+        "id": "16731",
+        "name": "DRAYKE BLACK SEED FLAVOR 80 G",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16731.jpg"
+      },
+      {
+        "id": "17308",
+        "name": "TETA\"S KITCHEN HUMMUS BOX 350 G",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17308.jpg"
+      },
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "20654",
+        "name": "BANADOURA JABALIYEH",
+        "qtyKg": 0.1,
+        "unitUsd": 2.79,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20654.jpg"
+      }
+    ],
+    "totalUsd": 5.98,
+    "totalLbp": 535000
   }
 ]
