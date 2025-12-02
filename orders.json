@@ -5806,5 +5806,29 @@
     ],
     "totalUsd": 7.04,
     "totalLbp": 630000
+  },
+  {
+    "orderId": "ord-1764716210124",
+    "ts": "2025-12-02T22:56:50.124702Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ali noureddine",
+      "phone": "71580166",
+      "address": "mstashfa j3etewe\nrmeil, j3etewe, Floor 0, No Elevator · taware2",
+      "location": "https://www.google.com/maps?q=33.8942703,35.5308509"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "499",
+        "name": "CAFE NAJJAR 180 GR",
+        "qty": 1,
+        "unitUsd": 3.63,
+        "totalUsd": 3.63,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID499.jpg"
+      }
+    ],
+    "totalUsd": 4.19,
+    "totalLbp": 375000
   }
 ]
