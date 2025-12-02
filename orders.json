@@ -5558,5 +5558,37 @@
     ],
     "totalUsd": 1.12,
     "totalLbp": 100000
+  },
+  {
+    "orderId": "ord-1764673026941",
+    "ts": "2025-12-02T10:57:06.941506Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Angela Toro",
+      "phone": "81839623",
+      "address": "Work-Karantina\nmedawar-Beside Hospital karantina, tannios Saba, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901954,35.528367"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1316",
+        "name": "H2O LEMON & LIME 330 ML",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1316.jpg"
+      },
+      {
+        "id": "16171",
+        "name": "PEPSI CAN ZERO SUGAR 330 ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16171.jpg"
+      }
+    ],
+    "totalUsd": 1.73,
+    "totalLbp": 155000
   }
 ]
