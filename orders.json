@@ -5534,5 +5534,29 @@
     ],
     "totalUsd": 1.95,
     "totalLbp": 175000
+  },
+  {
+    "orderId": "ord-1764671698896",
+    "ts": "2025-12-02T10:34:58.896615Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20736",
+        "name": "DIGNO UNIK PEN BLUE",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20736.jpg"
+      }
+    ],
+    "totalUsd": 1.12,
+    "totalLbp": 100000
   }
 ]
