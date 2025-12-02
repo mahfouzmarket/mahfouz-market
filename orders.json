@@ -5750,5 +5750,29 @@
     ],
     "totalUsd": 6.03,
     "totalLbp": 540000
+  },
+  {
+    "orderId": "ord-1764701845639",
+    "ts": "2025-12-02T18:57:25.639411Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mona Karaki",
+      "phone": "71174644",
+      "address": "home\neskandar houbeiche, Yellow building, Floor 0, No Elevator · whatsapp when arrive",
+      "location": "https://www.google.com/maps?q=33.893012,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15980",
+        "name": "MASTER CERVY BABECUE 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15980.jpg"
+      }
+    ],
+    "totalUsd": 1.57,
+    "totalLbp": 140000
   }
 ]
