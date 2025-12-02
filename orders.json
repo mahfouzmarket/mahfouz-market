@@ -5502,5 +5502,37 @@
     ],
     "totalUsd": 26.68,
     "totalLbp": 2390000
+  },
+  {
+    "orderId": "ord-1764670415345",
+    "ts": "2025-12-02T10:13:35.345559Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "ibrahim shaaban",
+      "phone": "81980649",
+      "address": "beirut , port\nbrazil, gate 9, Floor 2, Elevator",
+      "location": "https://www.google.com/maps?q=33.901079,35.525904"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20619",
+        "name": "CUP OF CAPPUCCINO",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20619.jpg"
+      },
+      {
+        "id": "611",
+        "name": "CUP OF HOT CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID611.jpg"
+      }
+    ],
+    "totalUsd": 1.95,
+    "totalLbp": 175000
   }
 ]
