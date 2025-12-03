@@ -6030,5 +6030,37 @@
     ],
     "totalUsd": 4.1,
     "totalLbp": 365000
+  },
+  {
+    "orderId": "ord-1764767008676",
+    "ts": "2025-12-03T13:03:28.676804Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "samar mroueh",
+      "phone": "81226529",
+      "address": "geitawi achrafieh\nanis kfoury, abdelmasih building, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894078,35.525238"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1173",
+        "name": "PEPSI 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1173.jpg"
+      },
+      {
+        "id": "12712",
+        "name": "MARLBORO CRAFTED RED",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12712.jpg"
+      }
+    ],
+    "totalUsd": 3.46,
+    "totalLbp": 310000
   }
 ]
