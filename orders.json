@@ -6598,5 +6598,125 @@
     ],
     "totalUsd": 3.18,
     "totalLbp": 285000
+  },
+  {
+    "orderId": "ord-1764804428564",
+    "ts": "2025-12-03T23:27:08.564475Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "jalal amacha",
+      "phone": "03051382",
+      "address": "home\njeitawi ,, bwej malhamet liliane btenzal tene bineye, Floor 0, No Elevator · bawebe 5adra tene bineye bel nazel had mini market na2shet",
+      "location": "https://www.google.com/maps?q=33.891994,35.531179"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 3,
+        "unitUsd": 0.84,
+        "totalUsd": 2.52,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "16294",
+        "name": "ROSANA PREMIUM QUALITY 200 GR",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16294.jpg"
+      },
+      {
+        "id": "20828",
+        "name": "ELSADA HAND SOAP PINE ANTIBAC",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20828.jpg"
+      },
+      {
+        "id": "18149",
+        "name": "MERMAID STAINLESS SCOURER",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18149.jpg"
+      },
+      {
+        "id": "19123",
+        "name": "PRIL ULTRA POWER ANTIBACTERIAL 650ML",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19123.jpg"
+      },
+      {
+        "id": "181",
+        "name": "BUZZ EXTRA STRONG  LEMON 10% 275 ML",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID181.jpg"
+      },
+      {
+        "id": "139",
+        "name": "BUZZ YELLOW VODKA MIX CAN 10% 250ML",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID139.jpg"
+      },
+      {
+        "id": "13653",
+        "name": "BUZZ LEMON VODKA ICE 5.5% 275 ML",
+        "qty": 2,
+        "unitUsd": 1.06,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13653.jpg"
+      },
+      {
+        "id": "147",
+        "name": "BUZZ BLUE HAWAI 5.5%  275ML",
+        "qty": 3,
+        "unitUsd": 1.06,
+        "totalUsd": 3.18,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID147.jpg"
+      },
+      {
+        "id": "714",
+        "name": "MACCAW APPLE JUICE 180ML",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID714.jpg"
+      },
+      {
+        "id": "784",
+        "name": "MACCAW PINEAPPLE JUICE 180ML",
+        "qty": 3,
+        "unitUsd": 0.34,
+        "totalUsd": 1.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID784.jpg"
+      },
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 5,
+        "unitUsd": 0.22,
+        "totalUsd": 1.1,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      }
+    ],
+    "totalUsd": 18.37,
+    "totalLbp": 1645000
   }
 ]
