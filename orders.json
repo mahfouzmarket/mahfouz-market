@@ -5830,5 +5830,37 @@
     ],
     "totalUsd": 4.19,
     "totalLbp": 375000
+  },
+  {
+    "orderId": "ord-1764745292847",
+    "ts": "2025-12-03T07:01:32.847770Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Ruaa Amini",
+      "phone": "79303129",
+      "address": "Mar Mikhael, Brazil street, Gate 9, Studio 504\nBrazil street, Gate 9, Floor 504, Elevator · Please call on arrival",
+      "location": "https://www.google.com/maps?q=33.900398,35.526014"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17349",
+        "name": "AQUAFINA WATER 0.5 L x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17349.jpg"
+      },
+      {
+        "id": "17180",
+        "name": "AQUAFINA WATER 2 L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17180.jpg"
+      }
+    ],
+    "totalUsd": 4.63,
+    "totalLbp": 415000
   }
 ]
