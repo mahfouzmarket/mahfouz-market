@@ -6382,5 +6382,61 @@
     ],
     "totalUsd": 4.87,
     "totalLbp": 435000
+  },
+  {
+    "orderId": "ord-1764790458416",
+    "ts": "2025-12-03T19:34:18.416172Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "wassim sabeh",
+      "phone": "4368864659929",
+      "address": "home\nmedawar, barazi, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900175,35.533392"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4577",
+        "name": "BREAK TIFFANY",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4577.jpg"
+      },
+      {
+        "id": "4446",
+        "name": "BREAK CHOC 3 FINGERS 21.5 GR",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4446.jpg"
+      },
+      {
+        "id": "12608",
+        "name": "WINSTON ULTRA LIGHT",
+        "qty": 2,
+        "unitUsd": 2.12,
+        "totalUsd": 4.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12608.jpg"
+      },
+      {
+        "id": "19499",
+        "name": "SNIPS CORN COBS SWEET CHILI CORN 220G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19499.jpg"
+      },
+      {
+        "id": "1082",
+        "name": "ICEBERG  MILK SHAKE CHOCO 225ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1082.jpg"
+      }
+    ],
+    "totalUsd": 6.75,
+    "totalLbp": 605000
   }
 ]
