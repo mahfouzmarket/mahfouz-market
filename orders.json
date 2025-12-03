@@ -6342,5 +6342,45 @@
     ],
     "totalUsd": 7.69,
     "totalLbp": 687000
+  },
+  {
+    "orderId": "ord-1764786618856",
+    "ts": "2025-12-03T18:30:18.856304Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "131",
+        "name": "BOOM BOOM ENERGY DRINK",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID131.jpg"
+      },
+      {
+        "id": "3956",
+        "name": "GALAXY  HAZELNUT 40G",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3956.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      }
+    ],
+    "totalUsd": 4.87,
+    "totalLbp": 435000
   }
 ]
