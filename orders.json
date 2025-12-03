@@ -6262,5 +6262,37 @@
     ],
     "totalUsd": 13.18,
     "totalLbp": 1180000
+  },
+  {
+    "orderId": "ord-1764785498342",
+    "ts": "2025-12-03T18:11:38.342789Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "samir geagea",
+      "phone": "70660083",
+      "address": "home\nassaily, abou ghayda, Floor 6, Elevator · VGWG+6WW, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89554676415332,35.52738290280104"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6518",
+        "name": "BORDON CORNED BEEF 340GR",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6518.jpg"
+      },
+      {
+        "id": "15039",
+        "name": "MOULIN DOR WHOLE WHEAT BREAD",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15039.jpg"
+      }
+    ],
+    "totalUsd": 5.31,
+    "totalLbp": 475000
   }
 ]
