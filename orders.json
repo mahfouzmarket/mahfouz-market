@@ -5966,5 +5966,69 @@
     ],
     "totalUsd": 48.21,
     "totalLbp": 4312000
+  },
+  {
+    "orderId": "ord-1764766609310",
+    "ts": "2025-12-03T12:56:49.310390Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "May jaber",
+      "phone": "71965996",
+      "address": "work\nkarantina, sleep comfort, Floor 0, No Elevator · entrance to the showroom",
+      "location": "https://www.google.com/maps?q=33.899764,35.533967"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14845",
+        "name": "FANTASIA ORIGINAL CHIPS 65 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14845.jpg"
+      },
+      {
+        "id": "18712",
+        "name": "ZBIB AOUN 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18712.jpg"
+      },
+      {
+        "id": "708",
+        "name": "MACCAW BAN&STRW JUICE 180ML",
+        "qty": 2,
+        "unitUsd": 0.34,
+        "totalUsd": 0.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID708.jpg"
+      },
+      {
+        "id": "14445",
+        "name": "ENGLISH CAKE CHOCOLATE CHIP 40 GR",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14445.jpg"
+      },
+      {
+        "id": "19678",
+        "name": "ETI POP KEK CARAMEL 35 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19678.jpg"
+      },
+      {
+        "id": "17353",
+        "name": "MARS  51G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17353.jpg"
+      }
+    ],
+    "totalUsd": 4.1,
+    "totalLbp": 365000
   }
 ]
