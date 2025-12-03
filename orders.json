@@ -6438,5 +6438,117 @@
     ],
     "totalUsd": 6.75,
     "totalLbp": 605000
+  },
+  {
+    "orderId": "ord-1764792332697",
+    "ts": "2025-12-03T20:05:32.697059Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13502",
+        "name": "DANWAY SPREAD 750 GR",
+        "qty": 1,
+        "unitUsd": 6.15,
+        "totalUsd": 6.15,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13502.jpg"
+      },
+      {
+        "id": "20309",
+        "name": "TANNOUR BROWN BREAD",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20309.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 2,
+        "unitUsd": 1.68,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "6984",
+        "name": "TARTINA CHEESE 133G",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6984.jpg"
+      },
+      {
+        "id": "13057",
+        "name": "PUCK DANISH WHITE 500G",
+        "qty": 1,
+        "unitUsd": 3.18,
+        "totalUsd": 3.18,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13057.jpg"
+      },
+      {
+        "id": "14620",
+        "name": "NAJJAR INSTANT COFFEE RED 190 GR",
+        "qty": 1,
+        "unitUsd": 5.53,
+        "totalUsd": 5.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14620.jpg"
+      },
+      {
+        "id": "961",
+        "name": "KHOURY MILKL NON FAT 1",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID961.jpg"
+      },
+      {
+        "id": "6449",
+        "name": "GHANDOUR MARIE",
+        "qty": 3,
+        "unitUsd": 0.28,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6449.jpg"
+      },
+      {
+        "id": "4693",
+        "name": "MASTRO MARIE 49G",
+        "qty": 5,
+        "unitUsd": 0.22,
+        "totalUsd": 1.1,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4693.jpg"
+      },
+      {
+        "id": "14842",
+        "name": "FANTASIA PEANUT CURLS 80 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14842.jpg"
+      },
+      {
+        "id": "15979",
+        "name": "MASTER SALT 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15979.jpg"
+      },
+      {
+        "id": "1894",
+        "name": "WINE KSARA ROSE 75CL",
+        "qty": 1,
+        "unitUsd": 5.47,
+        "totalUsd": 5.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1894.jpg"
+      }
+    ],
+    "totalUsd": 32.4,
+    "totalLbp": 2900000
   }
 ]
