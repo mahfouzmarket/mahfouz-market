@@ -6294,5 +6294,53 @@
     ],
     "totalUsd": 5.31,
     "totalLbp": 475000
+  },
+  {
+    "orderId": "ord-1764786008180",
+    "ts": "2025-12-03T18:20:08.180638Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "الياس",
+      "phone": "70185604",
+      "address": "Home\nسان لويس, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891478,35.528291"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "20544",
+        "name": "CHEETOS CRUNCHY CHEESE 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20544.jpg"
+      },
+      {
+        "id": "12927",
+        "name": "AKKAWI ROBOU3 TAANAYEL",
+        "qtyKg": 0.7,
+        "unitUsd": 5.7,
+        "totalUsd": 3.99,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12927.jpg"
+      }
+    ],
+    "totalUsd": 7.69,
+    "totalLbp": 687000
   }
 ]
