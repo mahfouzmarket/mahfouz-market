@@ -7334,5 +7334,37 @@
     ],
     "totalUsd": 12.72,
     "totalLbp": 1140000
+  },
+  {
+    "orderId": "ord-1764879315713",
+    "ts": "2025-12-04T20:15:15.713289Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19971",
+        "name": "YAMAMA WHITE VINEGAR BLANC 1L",
+        "qty": 1,
+        "unitUsd": 0.95,
+        "totalUsd": 0.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19971.jpg"
+      },
+      {
+        "id": "9572",
+        "name": "JAVEL LA CROIX TRADIT. 1L",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID9572.jpg"
+      }
+    ],
+    "totalUsd": 3.07,
+    "totalLbp": 275000
   }
 ]
