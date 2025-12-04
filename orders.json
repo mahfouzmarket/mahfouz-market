@@ -6718,5 +6718,45 @@
     ],
     "totalUsd": 18.37,
     "totalLbp": 1645000
+  },
+  {
+    "orderId": "ord-1764814848188",
+    "ts": "2025-12-04T02:20:48.188412Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      },
+      {
+        "id": "16965",
+        "name": "CASTANIA CRUNCHY MIX 170 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16965.jpg"
+      }
+    ],
+    "totalUsd": 2.35,
+    "totalLbp": 210000
   }
 ]
