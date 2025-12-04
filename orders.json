@@ -7366,5 +7366,85 @@
     ],
     "totalUsd": 3.07,
     "totalLbp": 275000
+  },
+  {
+    "orderId": "ord-1764890791334",
+    "ts": "2025-12-04T23:26:31.334629Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "hussam",
+      "phone": "79170042",
+      "address": "jetawi\nnear to Mahfouz market, saadee bulging, Floor 2, Elevator · VGWH+55Q, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894890488319604,35.52825819182821"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18452",
+        "name": "ROSHEN BRUT DARK CHOCOLATE 80%",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18452.jpg"
+      },
+      {
+        "id": "20511",
+        "name": "MCVITIES NIBBLES DARK CHOCOLATE 110 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20511.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "5121",
+        "name": "LES FOLIS STRAWBERRY CHEESE CAKE",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5121.jpg"
+      },
+      {
+        "id": "5117",
+        "name": "LES FOLIES 130 ML",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5117.jpg"
+      },
+      {
+        "id": "13369",
+        "name": "REXONA ANTIBACTERIAL ADVANCED PROTECTION",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13369.jpg"
+      },
+      {
+        "id": "4692",
+        "name": "BISCOLATA STIX 27.5G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4692.jpg"
+      }
+    ],
+    "totalUsd": 17.49,
+    "totalLbp": 1565000
   }
 ]
