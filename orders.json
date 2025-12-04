@@ -6910,5 +6910,53 @@
     ],
     "totalUsd": 2.18,
     "totalLbp": 195000
+  },
+  {
+    "orderId": "ord-1764850335316",
+    "ts": "2025-12-04T12:12:15.316064Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "mz supplies",
+      "phone": "70209181",
+      "address": "work\nmedawar, abi saleh, Floor 2, Elevator · medawar",
+      "location": "https://www.google.com/maps?q=33.899863,35.526307"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20827",
+        "name": "ELSADA HAND WASH RASBERRY & VANILLA ANTIBA",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20827.jpg"
+      },
+      {
+        "id": "20828",
+        "name": "ELSADA HAND SOAP PINE ANTIBAC",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20828.jpg"
+      },
+      {
+        "id": "20721",
+        "name": "TAHITI EXALTANTE PASSION 250 ML",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20721.jpg"
+      },
+      {
+        "id": "17869",
+        "name": "TAHITI DOUCHE EAU DE COCO 250 ML",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17869.jpg"
+      }
+    ],
+    "totalUsd": 7.42,
+    "totalLbp": 665000
   }
 ]
