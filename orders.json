@@ -6806,5 +6806,61 @@
     ],
     "totalUsd": 3.08,
     "totalLbp": 275000
+  },
+  {
+    "orderId": "ord-1764828865093",
+    "ts": "2025-12-04T06:14:25.093275Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "16687",
+        "name": "KEE PEANUT BUTTER SPREAD 400 G",
+        "qty": 1,
+        "unitUsd": 3.52,
+        "totalUsd": 3.52,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16687.jpg"
+      },
+      {
+        "id": "19513",
+        "name": "ARUBA ICE TEA PEACH 500 G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19513.jpg"
+      },
+      {
+        "id": "15522",
+        "name": "MAN CODE ROLL ARCTIC WIND 50 ML",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15522.jpg"
+      }
+    ],
+    "totalUsd": 9.95,
+    "totalLbp": 890000
   }
 ]
