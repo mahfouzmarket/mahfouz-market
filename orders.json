@@ -7214,5 +7214,85 @@
     ],
     "totalUsd": 10.68,
     "totalLbp": 955000
+  },
+  {
+    "orderId": "ord-1764871212140",
+    "ts": "2025-12-04T18:00:12.140181Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      },
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "13898",
+        "name": "DOLSI CHIPS PIZZA PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13898.jpg"
+      },
+      {
+        "id": "14468",
+        "name": "CASTANIA SUNFLOWER SEED UNSALTED  150 GR",
+        "qty": 2,
+        "unitUsd": 1.28,
+        "totalUsd": 2.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14468.jpg"
+      },
+      {
+        "id": "15869",
+        "name": "AL KAZZI CRI CRI 70 G",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15869.jpg"
+      },
+      {
+        "id": "16294",
+        "name": "ROSANA PREMIUM QUALITY 200 GR",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16294.jpg"
+      },
+      {
+        "id": "17916",
+        "name": "PERSIL POWER GEL ROSE 2.5L",
+        "qty": 1,
+        "unitUsd": 6.48,
+        "totalUsd": 6.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17916.jpg"
+      },
+      {
+        "id": "12582",
+        "name": "CEDARS OLD",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12582.jpg"
+      }
+    ],
+    "totalUsd": 15.69,
+    "totalLbp": 1405000
   }
 ]
