@@ -7166,5 +7166,53 @@
     ],
     "totalUsd": 16.14,
     "totalLbp": 1442000
+  },
+  {
+    "orderId": "ord-1764862863110",
+    "ts": "2025-12-04T15:41:03.110214Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "nathalia abou jaoude",
+      "phone": "03155366",
+      "address": "mdawar\nRaymond rouphael, makhlouf, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899820,35.527175"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10629",
+        "name": "MIMOSA EASY TIE TRASH BAG 20 LARGE- BLUE",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10629.jpg"
+      },
+      {
+        "id": "14371",
+        "name": "VIA SPARKLING WATER BY TANNOURINE 33 CL",
+        "qty": 4,
+        "unitUsd": 0.67,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14371.jpg"
+      },
+      {
+        "id": "17494",
+        "name": "SAN BENDETTO CLEMENTINA JUICE 330 ML",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17494.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 1.0,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      }
+    ],
+    "totalUsd": 10.68,
+    "totalLbp": 955000
   }
 ]
