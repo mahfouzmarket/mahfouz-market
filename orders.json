@@ -6862,5 +6862,53 @@
     ],
     "totalUsd": 9.95,
     "totalLbp": 890000
+  },
+  {
+    "orderId": "ord-1764846448770",
+    "ts": "2025-12-04T11:07:28.770039Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15498",
+        "name": "BREAK BREAKSTA 13 G",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15498.jpg"
+      },
+      {
+        "id": "18280",
+        "name": "AILA LE PETIT ECOLIER DARK CHOCOLATE 20GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18280.jpg"
+      },
+      {
+        "id": "20414",
+        "name": "DOLSI CRUNCHY BLACK TRUFFLE",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20414.jpg"
+      },
+      {
+        "id": "2834",
+        "name": "KHOURY IRAN",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2834.jpg"
+      }
+    ],
+    "totalUsd": 2.18,
+    "totalLbp": 195000
   }
 ]
