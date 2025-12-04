@@ -6958,5 +6958,109 @@
     ],
     "totalUsd": 7.42,
     "totalLbp": 665000
+  },
+  {
+    "orderId": "ord-1764850850226",
+    "ts": "2025-12-04T12:20:50.226787Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "3081",
+        "name": "LABNEH KHOURY 330 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3081.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      },
+      {
+        "id": "14938",
+        "name": "MAGGI CHICKEN NOODLE SOUP 50 G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14938.jpg"
+      },
+      {
+        "id": "17958",
+        "name": "DERONI rigati PASTA 500 GR",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17958.jpg"
+      },
+      {
+        "id": "19884",
+        "name": "ARUBA BERRIES DRINK 30GR",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19884.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 0.5,
+        "unitUsd": 2.46,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.4,
+        "unitUsd": 2.57,
+        "totalUsd": 1.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      },
+      {
+        "id": "15756",
+        "name": "LOUBYE",
+        "qtyKg": 0.2,
+        "unitUsd": 1.68,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15756.jpg"
+      }
+    ],
+    "totalUsd": 11.75,
+    "totalLbp": 1052000
   }
 ]
