@@ -7694,5 +7694,77 @@
     ],
     "totalUsd": 7.63,
     "totalLbp": 682000
+  },
+  {
+    "orderId": "ord-1764956100775",
+    "ts": "2025-12-05T17:35:00.775292Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2265",
+        "name": "AL FORNO WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2265.jpg"
+      },
+      {
+        "id": "7320",
+        "name": "KAAK CRUNCHY 250G",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7320.jpg"
+      },
+      {
+        "id": "17603",
+        "name": "KAZOUZA SPARKLING FLAVORED DRINK 275 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17603.jpg"
+      },
+      {
+        "id": "13609",
+        "name": "SEVEN UP CAN 330ML",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13609.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "3648",
+        "name": "MASTER FRENCH CHEESE 70G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3648.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 0.4,
+        "unitUsd": 1.01,
+        "totalUsd": 0.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      }
+    ],
+    "totalUsd": 7.67,
+    "totalLbp": 686000
   }
 ]
