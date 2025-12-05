@@ -7550,5 +7550,53 @@
     ],
     "totalUsd": 6.93,
     "totalLbp": 620000
+  },
+  {
+    "orderId": "ord-1764953790299",
+    "ts": "2025-12-05T16:56:30.299597Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Rayan Zaatari",
+      "phone": "03094534",
+      "address": "Home\nRehban street, Al Barazi Residence, Floor 6, Elevator · near Blue tails",
+      "location": "https://www.google.com/maps?q=33.900153,35.533518"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13649",
+        "name": "SEVEN UP DIET 2.25",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13649.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "17257",
+        "name": "SNIPS FENCH CHEESE 165gr",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17257.jpg"
+      }
+    ],
+    "totalUsd": 7.55,
+    "totalLbp": 675000
   }
 ]
