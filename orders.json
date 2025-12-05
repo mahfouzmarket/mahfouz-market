@@ -7862,5 +7862,45 @@
     ],
     "totalUsd": 13.52,
     "totalLbp": 1210000
+  },
+  {
+    "orderId": "ord-1764971196734",
+    "ts": "2025-12-05T21:46:36.734763Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19501",
+        "name": "SNIPS PRETZELS THINS HONEY MUSTARD 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19501.jpg"
+      },
+      {
+        "id": "16965",
+        "name": "CASTANIA CRUNCHY MIX 170 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16965.jpg"
+      },
+      {
+        "id": "13849",
+        "name": "COLD PREMIUM ICE 2 KG",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13849.jpg"
+      }
+    ],
+    "totalUsd": 3.92,
+    "totalLbp": 350000
   }
 ]
