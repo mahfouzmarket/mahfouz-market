@@ -7446,5 +7446,37 @@
     ],
     "totalUsd": 17.49,
     "totalLbp": 1565000
+  },
+  {
+    "orderId": "ord-1764895208643",
+    "ts": "2025-12-05T00:40:08.643937Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16965",
+        "name": "CASTANIA CRUNCHY MIX 170 G",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16965.jpg"
+      },
+      {
+        "id": "19503",
+        "name": "SNIPS PRETZELS THINS CHEESE 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19503.jpg"
+      }
+    ],
+    "totalUsd": 3.92,
+    "totalLbp": 350000
   }
 ]
