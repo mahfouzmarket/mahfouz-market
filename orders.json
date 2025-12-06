@@ -8366,5 +8366,53 @@
     ],
     "totalUsd": 3.36,
     "totalLbp": 300000
+  },
+  {
+    "orderId": "ord-1765051589811",
+    "ts": "2025-12-06T20:06:29.811940Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Ana Maria",
+      "phone": "76930842",
+      "address": "home\nSt. Peter street, Jambojian 51, Floor 5, No Elevator · Yellow building, grey entrance door, Blue shutters, inter phone (Rizk)",
+      "location": "https://www.google.com/maps?q=33.890817,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13670",
+        "name": "SANDWICH CHOCOLATE 100 GR",
+        "qty": 4,
+        "unitUsd": 1.01,
+        "totalUsd": 4.04,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13670.jpg"
+      },
+      {
+        "id": "18019",
+        "name": "ALPH WHITE ROACH NEW LIMITED EDITION",
+        "qty": 2,
+        "unitUsd": 1.23,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18019.jpg"
+      },
+      {
+        "id": "1217",
+        "name": "LAZIZA PEACH 33 CL",
+        "qty": 4,
+        "unitUsd": 0.95,
+        "totalUsd": 3.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1217.jpg"
+      },
+      {
+        "id": "17603",
+        "name": "KAZOUZA SPARKLING FLAVORED DRINK 275 ML",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17603.jpg"
+      }
+    ],
+    "totalUsd": 12.53,
+    "totalLbp": 1120000
   }
 ]
