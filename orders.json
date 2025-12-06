@@ -8102,5 +8102,45 @@
     ],
     "totalUsd": 2.64,
     "totalLbp": 235000
+  },
+  {
+    "orderId": "ord-1765038174438",
+    "ts": "2025-12-06T16:22:54.438645Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      },
+      {
+        "id": "1437",
+        "name": "RIM WATER 500ML",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1437.jpg"
+      }
+    ],
+    "totalUsd": 4.57,
+    "totalLbp": 410000
   }
 ]
