@@ -8414,5 +8414,101 @@
     ],
     "totalUsd": 12.53,
     "totalLbp": 1120000
+  },
+  {
+    "orderId": "ord-1765060478114",
+    "ts": "2025-12-06T22:34:38.114624Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "jalal amacha",
+      "phone": "03051382",
+      "address": "home\njeitawi ,, bwej malhamet liliane btenzal tene bineye, Floor 0, No Elevator · bawebe 5adra tene bineye bel nazel had mini market na2shet",
+      "location": "https://www.google.com/maps?q=33.891994,35.531179"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19945",
+        "name": "I LOVE MY DOG CHUNKS WITH BEEF 400G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19945.jpg"
+      },
+      {
+        "id": "14833",
+        "name": "I LOVE MY DOG CHUNKS WITH LAMB 400GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14833.jpg"
+      },
+      {
+        "id": "20441",
+        "name": "SPARKY DOG CHUNKS WITH BEEF 415 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20441.jpg"
+      },
+      {
+        "id": "19138",
+        "name": "BLANC CHIC SOFT FACIA TISSUES 600",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19138.jpg"
+      },
+      {
+        "id": "1981",
+        "name": "COFFEE MATE ORIGINAL450GR",
+        "qty": 1,
+        "unitUsd": 2.96,
+        "totalUsd": 2.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1981.jpg"
+      },
+      {
+        "id": "14621",
+        "name": "NAJJAR INSTANT COFFEE RED 95 GR",
+        "qty": 1,
+        "unitUsd": 3.46,
+        "totalUsd": 3.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14621.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "784",
+        "name": "MACCAW PINEAPPLE JUICE 180ML",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID784.jpg"
+      },
+      {
+        "id": "19978",
+        "name": "ALPH LIGHTERS",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19978.jpg"
+      },
+      {
+        "id": "10500",
+        "name": "FENIX LIGHTER",
+        "qty": 2,
+        "unitUsd": 0.34,
+        "totalUsd": 0.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10500.jpg"
+      }
+    ],
+    "totalUsd": 14.45,
+    "totalLbp": 1290000
   }
 ]
