@@ -8022,5 +8022,29 @@
     ],
     "totalUsd": 2.12,
     "totalLbp": 190000
+  },
+  {
+    "orderId": "ord-1765028916761",
+    "ts": "2025-12-06T13:48:36.761549Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19082",
+        "name": "SCOUR POWER",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19082.jpg"
+      }
+    ],
+    "totalUsd": 2.24,
+    "totalLbp": 200000
   }
 ]
