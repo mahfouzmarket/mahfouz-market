@@ -7958,5 +7958,37 @@
     ],
     "totalUsd": 5.86,
     "totalLbp": 525000
+  },
+  {
+    "orderId": "ord-1764980951418",
+    "ts": "2025-12-06T00:29:11.418579Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Ana Maria",
+      "phone": "76930842",
+      "address": "home\nSt. Peter street, Jambojian 51, Floor 5, No Elevator · Yellow building, grey entrance door, Blue shutters, inter phone (Rizk)",
+      "location": "https://www.google.com/maps?q=33.890817,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13670",
+        "name": "SANDWICH CHOCOLATE 100 GR",
+        "qty": 6,
+        "unitUsd": 1.01,
+        "totalUsd": 6.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13670.jpg"
+      },
+      {
+        "id": "16884",
+        "name": "KAZOUZA MANGO 275 ML",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16884.jpg"
+      }
+    ],
+    "totalUsd": 8.29,
+    "totalLbp": 740000
   }
 ]
