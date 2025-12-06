@@ -8334,5 +8334,37 @@
     ],
     "totalUsd": 34.02,
     "totalLbp": 3045000
+  },
+  {
+    "orderId": "ord-1765048804128",
+    "ts": "2025-12-06T19:20:04.128114Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "TRACY KHALLY",
+      "phone": "76168244",
+      "address": "geitaoui\nfacing st mark, burgundy building facing ahwet el maalem, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892840,35.531353"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "18662",
+        "name": "AILA WAVE CRUNCHY CHOCOLATE WAFER",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18662.jpg"
+      }
+    ],
+    "totalUsd": 3.36,
+    "totalLbp": 300000
   }
 ]
