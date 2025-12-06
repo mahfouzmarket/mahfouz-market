@@ -7990,5 +7990,37 @@
     ],
     "totalUsd": 8.29,
     "totalLbp": 740000
+  },
+  {
+    "orderId": "ord-1765028858965",
+    "ts": "2025-12-06T13:47:38.965042Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16668",
+        "name": "BAMBOO TOOTHPICK",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16668.jpg"
+      },
+      {
+        "id": "19970",
+        "name": "CESAR SIF",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19970.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000
   }
 ]
