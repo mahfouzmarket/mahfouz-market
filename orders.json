@@ -8070,5 +8070,37 @@
     ],
     "totalUsd": 1.12,
     "totalLbp": 100000
+  },
+  {
+    "orderId": "ord-1765035286577",
+    "ts": "2025-12-06T15:34:46.577059Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "renee karam",
+      "phone": "78954698",
+      "address": "home\nrouphael, georges el helou, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899909,35.527181"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15716",
+        "name": "ARUBA HOT CHOCOLATE CARAMEL LIGHT 10 G",
+        "qty": 4,
+        "unitUsd": 0.34,
+        "totalUsd": 1.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15716.jpg"
+      },
+      {
+        "id": "18944",
+        "name": "AL FORNO MINI BRIOCHE CHOCOLATE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18944.jpg"
+      }
+    ],
+    "totalUsd": 2.64,
+    "totalLbp": 235000
   }
 ]
