@@ -8510,5 +8510,77 @@
     ],
     "totalUsd": 14.45,
     "totalLbp": 1290000
+  },
+  {
+    "orderId": "ord-1765065561131",
+    "ts": "2025-12-06T23:59:21.131883Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Michel Nasrallah",
+      "phone": "76657861",
+      "address": "Geitaoui Hospital\nGeitaoui, Emergency Department, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894269,35.531062"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13477",
+        "name": "KLATCHI CRI CRI 200 GR",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13477.jpg"
+      },
+      {
+        "id": "13476",
+        "name": "KLATCHI PEANUTS SUDANI 200 GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13476.jpg"
+      },
+      {
+        "id": "12602",
+        "name": "MARLBORO FLIP TOP BOX",
+        "qty": 3,
+        "unitUsd": 2.68,
+        "totalUsd": 8.04,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12602.jpg"
+      },
+      {
+        "id": "12912",
+        "name": "ALPH LIGHTER",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12912.jpg"
+      },
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      },
+      {
+        "id": "16936",
+        "name": "SNIPS POTATO CHIPS HOT CHILI 165 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16936.jpg"
+      },
+      {
+        "id": "17071",
+        "name": "MASTER CURVY CHIPS LABNEH & HERBS 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17071.jpg"
+      }
+    ],
+    "totalUsd": 14.81,
+    "totalLbp": 1325000
   }
 ]
