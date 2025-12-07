@@ -8646,5 +8646,29 @@
     ],
     "totalUsd": 8.73,
     "totalLbp": 780000
+  },
+  {
+    "orderId": "ord-1765068409934",
+    "ts": "2025-12-07T00:46:49.934475Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Ruaa Amini",
+      "phone": "79303129",
+      "address": "Mar Mikhael, Brazil street, Gate 9, Studio 504\nBrazil street, Gate 9, Floor 504, Elevator · Please call on arrival",
+      "location": "https://www.google.com/maps?q=33.900398,35.526014"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13185",
+        "name": "AL OUMDA",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13185.jpg"
+      }
+    ],
+    "totalUsd": 3.35,
+    "totalLbp": 300000
   }
 ]
