@@ -9358,5 +9358,45 @@
     ],
     "totalUsd": 25.5,
     "totalLbp": 2285000
+  },
+  {
+    "orderId": "ord-1765147230098",
+    "ts": "2025-12-07T22:40:30.098969Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17265",
+        "name": "MASTER KETTLE COOKED SEA SALT & VINEGAR 270",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17265.jpg"
+      },
+      {
+        "id": "7247",
+        "name": "MOULIN D'OR BROWN BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7247.jpg"
+      },
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      }
+    ],
+    "totalUsd": 4.64,
+    "totalLbp": 415000
   }
 ]
