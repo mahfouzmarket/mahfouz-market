@@ -8670,5 +8670,53 @@
     ],
     "totalUsd": 3.35,
     "totalLbp": 300000
+  },
+  {
+    "orderId": "ord-1765070962435",
+    "ts": "2025-12-07T01:29:22.435708Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "rawan obeid",
+      "phone": "71768144",
+      "address": "Al Khoury building\nGeitawi, Facing urgence geitswi, Floor 2, No Elevator · interphone : apartment 5",
+      "location": "https://www.google.com/maps?q=33.893456,35.530887"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      },
+      {
+        "id": "3866",
+        "name": "MASTER KETTLE COOKED HONEY MUSTARD 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3866.jpg"
+      },
+      {
+        "id": "13833",
+        "name": "CORNETTY",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13833.jpg"
+      },
+      {
+        "id": "12597",
+        "name": "DAVIDOFF SLIMS",
+        "qty": 1,
+        "unitUsd": 3.74,
+        "totalUsd": 3.74,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12597.jpg"
+      }
+    ],
+    "totalUsd": 8.94,
+    "totalLbp": 800000
   }
 ]
