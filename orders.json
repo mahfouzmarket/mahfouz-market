@@ -9022,5 +9022,69 @@
     ],
     "totalUsd": 14.85,
     "totalLbp": 1330000
+  },
+  {
+    "orderId": "ord-1765113444128",
+    "ts": "2025-12-07T13:17:24.128216Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Nour Matar",
+      "phone": "71065081",
+      "address": "Ashrafieh - Karem Zeitoun\nTotalEnergies - Karen Zeitoun, Imad Chamoun, Floor 2, No Elevator · After TotalEnergies Station, Petit Pain then to right down the street",
+      "location": "https://www.google.com/maps?q=33.889742,35.530963"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7310",
+        "name": "AL FORNO MARKOUK OAT 190GR 7 PCS",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7310.jpg"
+      },
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      },
+      {
+        "id": "18198",
+        "name": "LA PIARA JAMBON 200 GR",
+        "qty": 1,
+        "unitUsd": 3.07,
+        "totalUsd": 3.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18198.jpg"
+      },
+      {
+        "id": "17308",
+        "name": "TETA\"S KITCHEN HUMMUS BOX 350 G",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17308.jpg"
+      },
+      {
+        "id": "13918",
+        "name": "LABNEH KHOURY LIGHT NO FAT 330 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13918.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      }
+    ],
+    "totalUsd": 12.78,
+    "totalLbp": 1145000
   }
 ]
