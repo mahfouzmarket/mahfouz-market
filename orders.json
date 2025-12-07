@@ -8902,5 +8902,93 @@
     ],
     "totalUsd": 10.15,
     "totalLbp": 910000
+  },
+  {
+    "orderId": "ord-1765100158220",
+    "ts": "2025-12-07T09:35:58.220481Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Nouh Saab",
+      "phone": "76841927",
+      "address": "XX\ngeitewi, Ayoub Building, Floor 1, No Elevator · near Armenian Evangelical Church\nlast building before Mar Mkhayel stairs",
+      "location": "https://www.google.com/maps?q=33.89685447566534,35.52710596472025"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14353",
+        "name": "MEDICAL CHOICE GLOVES NITRAL POWDER FREE S",
+        "qty": 1,
+        "unitUsd": 4.86,
+        "totalUsd": 4.86,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14353.jpg"
+      },
+      {
+        "id": "15755",
+        "name": "TOMATE CERISE",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15755.jpg"
+      },
+      {
+        "id": "18611",
+        "name": "AL WADI BROCCOLI 400 G frozen",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18611.jpg"
+      },
+      {
+        "id": "2381",
+        "name": "AL FORNO MINI BRIOCHE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2381.jpg"
+      },
+      {
+        "id": "16845",
+        "name": "AL FORNO SOFT WHITE SESAME 5 PCS",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16845.jpg"
+      },
+      {
+        "id": "15747",
+        "name": "ZAHRA-ARNABIT",
+        "qtyKg": 0.5,
+        "unitUsd": 1.12,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15747.jpg"
+      },
+      {
+        "id": "15757",
+        "name": "BATENJEN MDAABAL",
+        "qtyKg": 0.4,
+        "unitUsd": 1.12,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15757.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 0.5,
+        "unitUsd": 1.01,
+        "totalUsd": 0.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      },
+      {
+        "id": "15443",
+        "name": "KHOURY AKKAOUI",
+        "qtyKg": 0.2,
+        "unitUsd": 15.36,
+        "totalUsd": 3.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15443.jpg"
+      }
+    ],
+    "totalUsd": 16.54,
+    "totalLbp": 1480000
   }
 ]
