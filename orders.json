@@ -8990,5 +8990,37 @@
     ],
     "totalUsd": 16.54,
     "totalLbp": 1480000
+  },
+  {
+    "orderId": "ord-1765112054148",
+    "ts": "2025-12-07T12:54:14.148302Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "الياس",
+      "phone": "70185604",
+      "address": "Home\nسان لويس, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891478,35.528291"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "6035",
+        "name": "SEA SALT 900 G",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6035.jpg"
+      },
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 5,
+        "unitUsd": 2.79,
+        "totalUsd": 13.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      }
+    ],
+    "totalUsd": 14.85,
+    "totalLbp": 1330000
   }
 ]
