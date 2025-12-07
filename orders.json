@@ -8830,5 +8830,77 @@
     ],
     "totalUsd": 9.94,
     "totalLbp": 890000
+  },
+  {
+    "orderId": "ord-1765096967609",
+    "ts": "2025-12-07T08:42:47.609398Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Farah",
+      "phone": "03747320",
+      "address": "home\nورا صيدلية سان مارك، مقرف يمين، اول بناية عالشمال, بوابة خضرا, Floor 2, No Elevator · وراء السان مارك، اول مفرق يمين، بوابة خضرا",
+      "location": "https://www.google.com/maps?q=33.893714,35.531292"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "12728",
+        "name": "ALPH KING SIZE SLIM",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12728.jpg"
+      },
+      {
+        "id": "13120",
+        "name": "ALPH ORGANIC HEMP",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13120.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "2538",
+        "name": "ARUBA SODA BICRBONATE 85G",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2538.jpg"
+      },
+      {
+        "id": "13600",
+        "name": "SEVEN UP PLASTIC 330 ML",
+        "qty": 4,
+        "unitUsd": 0.61,
+        "totalUsd": 2.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13600.jpg"
+      }
+    ],
+    "totalUsd": 10.15,
+    "totalLbp": 910000
   }
 ]
