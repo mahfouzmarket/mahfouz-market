@@ -9198,5 +9198,29 @@
     ],
     "totalUsd": 10.33,
     "totalLbp": 925000
+  },
+  {
+    "orderId": "ord-1765140195523",
+    "ts": "2025-12-07T20:43:15.523721Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "arsen Khachadourian",
+      "phone": "81845498",
+      "address": "اشرفيه\nشارع صلاح لبكي, الهاشم, الطابق 1, بدون مصعد · من مقابل مدرسة تلت قمار  بتفوت بال شارع في مطعم moules Et frites",
+      "location": "https://www.google.com/maps?q=33.894914,35.520192"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12951",
+        "name": "YEHYA COCOSHELLS CHARCOAL 1 KG",
+        "qty": 1,
+        "unitUsd": 3.58,
+        "totalUsd": 3.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12951.jpg"
+      }
+    ],
+    "totalUsd": 4.47,
+    "totalLbp": 400000
   }
 ]
