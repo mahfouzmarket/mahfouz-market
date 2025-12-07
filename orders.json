@@ -8774,5 +8774,61 @@
     ],
     "totalUsd": 13.7,
     "totalLbp": 1225000
+  },
+  {
+    "orderId": "ord-1765093695580",
+    "ts": "2025-12-07T07:48:15.580486Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "rita roukouz",
+      "phone": "71087752",
+      "address": "hopital geitawi\ngeitawi, hospital, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894258,35.531103"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20607",
+        "name": "NF CHRISTMAS BONBON",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20607.jpg"
+      },
+      {
+        "id": "20634",
+        "name": "ERKO CHRISTMAS POLO W/ TWIST MALLOW 75G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20634.jpg"
+      },
+      {
+        "id": "20633",
+        "name": "ERKO CHRISTMAS BAGS ASSORTED",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20633.jpg"
+      },
+      {
+        "id": "20602",
+        "name": "NF CHRISTMAS BOX",
+        "qty": 1,
+        "unitUsd": 3.35,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20602.jpg"
+      },
+      {
+        "id": "20635",
+        "name": "ERKO CHRISTMAS STAR BAG WITH JAM FILLING 70",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20635.jpg"
+      }
+    ],
+    "totalUsd": 9.94,
+    "totalLbp": 890000
   }
 ]
