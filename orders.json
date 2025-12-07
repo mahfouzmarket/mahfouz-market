@@ -8718,5 +8718,61 @@
     ],
     "totalUsd": 8.94,
     "totalLbp": 800000
+  },
+  {
+    "orderId": "ord-1765091515217",
+    "ts": "2025-12-07T07:11:55.217443Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18195",
+        "name": "KHASHKAVAL MONI 200GR",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18195.jpg"
+      },
+      {
+        "id": "18193",
+        "name": "LA PIARA TURKEY 200 GR",
+        "qty": 1,
+        "unitUsd": 4.64,
+        "totalUsd": 4.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18193.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 1.0,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      }
+    ],
+    "totalUsd": 13.7,
+    "totalLbp": 1225000
   }
 ]
