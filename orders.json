@@ -9582,5 +9582,69 @@
     ],
     "totalUsd": 6.98,
     "totalLbp": 625000
+  },
+  {
+    "orderId": "ord-1765216040999",
+    "ts": "2025-12-08T17:47:20.999746Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Faisal Khodor",
+      "phone": "76318625",
+      "address": "Home\nRehban street, Formetal, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.900528,35.530640"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12779",
+        "name": "MAZAYA",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12779.jpg"
+      },
+      {
+        "id": "4974",
+        "name": "BISKREM 50%ULKER",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4974.jpg"
+      },
+      {
+        "id": "13851",
+        "name": "RIMAS BROWNIES 60GR",
+        "qty": 2,
+        "unitUsd": 0.39,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13851.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20G)",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      },
+      {
+        "id": "19502",
+        "name": "SNIPS PRETZELS THINS PIZZA 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19502.jpg"
+      },
+      {
+        "id": "13941",
+        "name": "XXL ENERGY REGULAR 330 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13941.jpg"
+      }
+    ],
+    "totalUsd": 5.69,
+    "totalLbp": 510000
   }
 ]
