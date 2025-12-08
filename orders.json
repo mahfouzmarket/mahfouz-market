@@ -9646,5 +9646,45 @@
     ],
     "totalUsd": 5.69,
     "totalLbp": 510000
+  },
+  {
+    "orderId": "ord-1765219354566",
+    "ts": "2025-12-08T18:42:34.566500Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "pressila abboud",
+      "phone": "81581584",
+      "address": "maseken l dobbat\ngitawi street, saba saba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895522,35.528674"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2608",
+        "name": "ARUBA HOT CHOCOLATE DRINK DARK 3 IN 1 SACHE",
+        "qty": 3,
+        "unitUsd": 0.34,
+        "totalUsd": 1.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2608.jpg"
+      },
+      {
+        "id": "5990",
+        "name": "ATTAR ZHOURAT SHAMIA",
+        "qty": 1,
+        "unitUsd": 2.07,
+        "totalUsd": 2.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5990.jpg"
+      },
+      {
+        "id": "16498",
+        "name": "NESTLE TRADICIONAL 370 G",
+        "qty": 1,
+        "unitUsd": 2.85,
+        "totalUsd": 2.85,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16498.jpg"
+      }
+    ],
+    "totalUsd": 6.5,
+    "totalLbp": 580000
   }
 ]
