@@ -9430,5 +9430,69 @@
     ],
     "totalUsd": 3.81,
     "totalLbp": 340000
+  },
+  {
+    "orderId": "ord-1765205924668",
+    "ts": "2025-12-08T14:58:44.668843Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "renee karam",
+      "phone": "78954698",
+      "address": "home\nrouphael, georges el helou, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899909,35.527181"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4814",
+        "name": "DIGESTIVE 324 G",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4814.jpg"
+      },
+      {
+        "id": "5005",
+        "name": "ETI NERO 91 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5005.jpg"
+      },
+      {
+        "id": "20043",
+        "name": "MILKA LEO FINGER 33.3G",
+        "qty": 4,
+        "unitUsd": 1.12,
+        "totalUsd": 4.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20043.jpg"
+      },
+      {
+        "id": "14007",
+        "name": "CADBURY SNACK SANDWICH 22 GR",
+        "qty": 4,
+        "unitUsd": 0.67,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14007.jpg"
+      },
+      {
+        "id": "5784",
+        "name": "KLATCHI SUNFLOWER SALTED 250G",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5784.jpg"
+      },
+      {
+        "id": "13602",
+        "name": "PEPSI DIET 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13602.jpg"
+      }
+    ],
+    "totalUsd": 12.97,
+    "totalLbp": 1160000
   }
 ]
