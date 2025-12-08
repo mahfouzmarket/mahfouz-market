@@ -9398,5 +9398,37 @@
     ],
     "totalUsd": 4.64,
     "totalLbp": 415000
+  },
+  {
+    "orderId": "ord-1765157279482",
+    "ts": "2025-12-08T01:27:59.482671Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16965",
+        "name": "CASTANIA CRUNCHY MIX 170 G",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16965.jpg"
+      },
+      {
+        "id": "18592",
+        "name": "MASTER CURVY CHIPS FRENCH CHEESES",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18592.jpg"
+      }
+    ],
+    "totalUsd": 3.81,
+    "totalLbp": 340000
   }
 ]
