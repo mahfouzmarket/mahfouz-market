@@ -10254,5 +10254,45 @@
     ],
     "totalUsd": 9.93,
     "totalLbp": 890000
+  },
+  {
+    "orderId": "ord-1765319726868",
+    "ts": "2025-12-09T22:35:26.868855Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "3081",
+        "name": "LABNEH KHOURY 330 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3081.jpg"
+      },
+      {
+        "id": "10440",
+        "name": "SALTZ CLASSIC 36 G",
+        "qty": 2,
+        "unitUsd": 0.34,
+        "totalUsd": 0.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10440.jpg"
+      }
+    ],
+    "totalUsd": 5.71,
+    "totalLbp": 510000
   }
 ]
