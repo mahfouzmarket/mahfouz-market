@@ -10446,5 +10446,45 @@
     ],
     "totalUsd": 7.96,
     "totalLbp": 710000
+  },
+  {
+    "orderId": "ord-1765364605103",
+    "ts": "2025-12-10T11:03:25.103492Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14666",
+        "name": "XXL ENERGY 25 CL CAN SUGAR FREE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14666.jpg"
+      },
+      {
+        "id": "18294",
+        "name": "KEE CHOCO WHITH",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18294.jpg"
+      },
+      {
+        "id": "13292",
+        "name": "ALBENI 40 GR",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13292.jpg"
+      }
+    ],
+    "totalUsd": 2.46,
+    "totalLbp": 220000
   }
 ]
