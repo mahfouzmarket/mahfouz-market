@@ -10486,5 +10486,45 @@
     ],
     "totalUsd": 2.46,
     "totalLbp": 220000
+  },
+  {
+    "orderId": "ord-1765365493051",
+    "ts": "2025-12-10T11:18:13.051891Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "mz supplies",
+      "phone": "70209181",
+      "address": "work\nmedawar, abi saleh, Floor 2, Elevator · medawar",
+      "location": "https://www.google.com/maps?q=33.899863,35.526307"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 3,
+        "unitUsd": 2.23,
+        "totalUsd": 6.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 12,
+        "unitUsd": 0.45,
+        "totalUsd": 5.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      }
+    ],
+    "totalUsd": 14.55,
+    "totalLbp": 1300000
   }
 ]
