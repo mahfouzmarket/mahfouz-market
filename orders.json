@@ -10374,5 +10374,77 @@
     ],
     "totalUsd": 4.86,
     "totalLbp": 435000
+  },
+  {
+    "orderId": "ord-1765357192272",
+    "ts": "2025-12-10T08:59:52.272498Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18080",
+        "name": "BAITNA COOKED CHICKPEAS IN BRINE 400 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18080.jpg"
+      },
+      {
+        "id": "19649",
+        "name": "BAITNA FAVE BEANS 400 G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19649.jpg"
+      },
+      {
+        "id": "18078",
+        "name": "BAITNA COOKED FAVE BEANS 400 G",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18078.jpg"
+      },
+      {
+        "id": "19033",
+        "name": "BAITNA BABA GHANOUJ 400 G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19033.jpg"
+      },
+      {
+        "id": "17333",
+        "name": "RIMEX TOILET TISSUE 4 R",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17333.jpg"
+      },
+      {
+        "id": "13185",
+        "name": "AL OUMDA",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13185.jpg"
+      },
+      {
+        "id": "5449",
+        "name": "WHITE EGGS 1PC",
+        "qty": 7,
+        "unitUsd": 0.17,
+        "totalUsd": 1.19,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5449.jpg"
+      }
+    ],
+    "totalUsd": 7.96,
+    "totalLbp": 710000
   }
 ]
