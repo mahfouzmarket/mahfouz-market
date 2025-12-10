@@ -10294,5 +10294,45 @@
     ],
     "totalUsd": 5.71,
     "totalLbp": 510000
+  },
+  {
+    "orderId": "ord-1765349272496",
+    "ts": "2025-12-10T06:47:52.496204Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "rita roukouz",
+      "phone": "71087752",
+      "address": "hopital geitawi\ngeitawi, hospital, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894258,35.531103"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1873",
+        "name": "KSARA SUNSET 750ML",
+        "qty": 1,
+        "unitUsd": 6.65,
+        "totalUsd": 6.65,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1873.jpg"
+      },
+      {
+        "id": "20772",
+        "name": "NF ARRANGEMENT MUG",
+        "qty": 1,
+        "unitUsd": 10.06,
+        "totalUsd": 10.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20772.jpg"
+      },
+      {
+        "id": "20860",
+        "name": "KEE MERRY CHRISTMAS",
+        "qty": 1,
+        "unitUsd": 9.16,
+        "totalUsd": 9.16,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20860.jpg"
+      }
+    ],
+    "totalUsd": 26.43,
+    "totalLbp": 2365000
   }
 ]
