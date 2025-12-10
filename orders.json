@@ -10526,5 +10526,37 @@
     ],
     "totalUsd": 14.55,
     "totalLbp": 1300000
+  },
+  {
+    "orderId": "ord-1765392090658",
+    "ts": "2025-12-10T18:41:30.658255Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ali noureddine",
+      "phone": "71580166",
+      "address": "mstashfa j3etewe\nrmeil, j3etewe, Floor 0, No Elevator · taware2",
+      "location": "https://www.google.com/maps?q=33.8942703,35.5308509"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2811",
+        "name": "KHOURY LABAN BALADY 1KG",
+        "qty": 1,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2811.jpg"
+      },
+      {
+        "id": "2265",
+        "name": "AL FORNO WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2265.jpg"
+      }
+    ],
+    "totalUsd": 4.02,
+    "totalLbp": 360000
   }
 ]
