@@ -10334,5 +10334,45 @@
     ],
     "totalUsd": 26.43,
     "totalLbp": 2365000
+  },
+  {
+    "orderId": "ord-1765354691752",
+    "ts": "2025-12-10T08:18:11.752171Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "كريم نوفل",
+      "phone": "71369377",
+      "address": "المنزل\nمستشفى الروم - شارع الوزير طارق متري, بناية ريشا, Floor 3, Elevator · النزلة بوجه بيت الكتائب - بأخر النزلة عاليسار البناية مقابل الخياط ميشال",
+      "location": "https://www.google.com/maps?q=33.895998,35.525400"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20898",
+        "name": "HACKER ALLINSECT KILLER 720 HOURS",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20898.jpg"
+      },
+      {
+        "id": "7348",
+        "name": "AL WAFA BROWN BREAD SMALL",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7348.jpg"
+      },
+      {
+        "id": "19123",
+        "name": "PRIL ULTRA POWER ANTIBACTERIAL 650ML",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19123.jpg"
+      }
+    ],
+    "totalUsd": 4.86,
+    "totalLbp": 435000
   }
 ]
