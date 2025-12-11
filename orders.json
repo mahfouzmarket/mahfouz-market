@@ -10750,5 +10750,69 @@
     ],
     "totalUsd": 2.52,
     "totalLbp": 225000
+  },
+  {
+    "orderId": "ord-1765486204151",
+    "ts": "2025-12-11T20:50:04.151379Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "كريم نوفل",
+      "phone": "71369377",
+      "address": "المنزل\nمستشفى الروم - شارع الوزير طارق متري, بناية ريشا, الطابق 3, مصعد · النزلة بوجه بيت الكتائب - بأخر النزلة عاليسار البناية مقابل الخياط ميشال",
+      "location": "https://www.google.com/maps?q=33.895998,35.525400"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2814",
+        "name": "KHOURY LABAN 0 FAT",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2814.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 2,
+        "unitUsd": 1.45,
+        "totalUsd": 2.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "1082",
+        "name": "ICEBERG  MILK SHAKE CHOCO 225ML",
+        "qty": 3,
+        "unitUsd": 0.56,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1082.jpg"
+      },
+      {
+        "id": "1083",
+        "name": "ICEBERG  MILK SHAKE STRAW 225ML",
+        "qty": 3,
+        "unitUsd": 0.56,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1083.jpg"
+      },
+      {
+        "id": "13185",
+        "name": "AL OUMDA",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13185.jpg"
+      }
+    ],
+    "totalUsd": 13.64,
+    "totalLbp": 1220000
   }
 ]
