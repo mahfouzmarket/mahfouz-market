@@ -10582,5 +10582,69 @@
     ],
     "totalUsd": 5.64,
     "totalLbp": 505000
+  },
+  {
+    "orderId": "ord-1765456304617",
+    "ts": "2025-12-11T12:31:44.617750Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Nour Matar",
+      "phone": "71065081",
+      "address": "Ashrafieh - Karem Zeitoun\nTotalEnergies - Karen Zeitoun, Imad Chamoun, Floor 2, No Elevator · After TotalEnergies Station, Petit Pain then to right down the street",
+      "location": "https://www.google.com/maps?q=33.889742,35.530963"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "12963",
+        "name": "TANNOURINE WATER 0.5 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "18953",
+        "name": "RIM FRUIT ZERO MANGO ADDED SUGAR 330 ML",
+        "qty": 5,
+        "unitUsd": 1.01,
+        "totalUsd": 5.05,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18953.jpg"
+      },
+      {
+        "id": "17308",
+        "name": "TETA\"S KITCHEN HUMMUS BOX 350 G",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17308.jpg"
+      },
+      {
+        "id": "18741",
+        "name": "MAK BAR PRO CHOCO VANILLA 18 G",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18741.jpg"
+      }
+    ],
+    "totalUsd": 16.83,
+    "totalLbp": 1505000
   }
 ]
