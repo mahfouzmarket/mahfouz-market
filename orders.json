@@ -11374,5 +11374,45 @@
     ],
     "totalUsd": 8.72,
     "totalLbp": 780000
+  },
+  {
+    "orderId": "ord-1765562001511",
+    "ts": "2025-12-12T17:53:21.511330Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Maritta Saade",
+      "phone": "78838199",
+      "address": "Home\nHannah Al Khazen, Geryes Doumet, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894643,35.531203"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12747",
+        "name": "ALLURE BLACK SUPER SLIM",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12747.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 2.07,
+        "totalUsd": 2.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "8168",
+        "name": "FLASH 1 LITER",
+        "qty": 1,
+        "unitUsd": 3.35,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8168.jpg"
+      }
+    ],
+    "totalUsd": 7.04,
+    "totalLbp": 630000
   }
 ]
