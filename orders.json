@@ -11926,5 +11926,61 @@
     ],
     "totalUsd": 3.96,
     "totalLbp": 350000
+  },
+  {
+    "orderId": "ord-1765645708988",
+    "ts": "2025-12-13T17:08:28.988104Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Maher Bassil",
+      "phone": "71491246",
+      "address": "home\nraymond roufael, georges el helo, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899894,35.5272"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16927",
+        "name": "AL TAGHZIAH CHICKEN HOTDOG 210 G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16927.jpg"
+      },
+      {
+        "id": "13360",
+        "name": "ALWADI MAYONNAISE LIGHT 235 ML",
+        "qty": 1,
+        "unitUsd": 1.9,
+        "totalUsd": 1.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13360.jpg"
+      },
+      {
+        "id": "665",
+        "name": "CAFE21 LOW FAT SACHET",
+        "qty": 5,
+        "unitUsd": 0.22,
+        "totalUsd": 1.1,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID665.jpg"
+      },
+      {
+        "id": "15980",
+        "name": "MASTER CERVY BABECUE 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15980.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      }
+    ],
+    "totalUsd": 8.03,
+    "totalLbp": 720000
   }
 ]
