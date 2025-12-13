@@ -12006,5 +12006,61 @@
     ],
     "totalUsd": 1.17,
     "totalLbp": 105000
+  },
+  {
+    "orderId": "ord-1765649729997",
+    "ts": "2025-12-13T18:15:29.997283Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Jessica Abdo",
+      "phone": "71872806",
+      "address": "Home\nSt. Louis, Lavo shop pink building, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892773,35.531549"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 2.07,
+        "totalUsd": 2.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "17264",
+        "name": "MASTER KETTLE COOKED HONEY MUSTARD 270 G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17264.jpg"
+      },
+      {
+        "id": "15979",
+        "name": "MASTER SALT 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15979.jpg"
+      },
+      {
+        "id": "6436",
+        "name": "INDOMI CHICKEN FLAVOR 70 GR",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6436.jpg"
+      },
+      {
+        "id": "13112",
+        "name": "INDOMIE VEGETABLES WITH OIL 75GR",
+        "qty": 2,
+        "unitUsd": 0.39,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13112.jpg"
+      }
+    ],
+    "totalUsd": 6.99,
+    "totalLbp": 625000
   }
 ]
