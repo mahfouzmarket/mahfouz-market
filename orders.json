@@ -11750,5 +11750,45 @@
     ],
     "totalUsd": 12.35,
     "totalLbp": 1105000
+  },
+  {
+    "orderId": "ord-1765613714541",
+    "ts": "2025-12-13T08:15:14.541215Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "كريم نوفل",
+      "phone": "71369377",
+      "address": "المنزل\nمستشفى الروم - شارع الوزير طارق متري, بناية ريشا, الطابق 3, مصعد · النزلة بوجه بيت الكتائب - بأخر النزلة عاليسار البناية مقابل الخياط ميشال",
+      "location": "https://www.google.com/maps?q=33.895998,35.525400"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7304",
+        "name": "AL FORNO WHITE SMALL BREAD",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7304.jpg"
+      },
+      {
+        "id": "960",
+        "name": "KHOURY LOW FAT 1 L",
+        "qty": 2,
+        "unitUsd": 1.68,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID960.jpg"
+      },
+      {
+        "id": "15751",
+        "name": "BASAL YEBIS",
+        "qtyKg": 0.2,
+        "unitUsd": 0.78,
+        "totalUsd": 0.16,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15751.jpg"
+      }
+    ],
+    "totalUsd": 4.63,
+    "totalLbp": 414000
   }
 ]
