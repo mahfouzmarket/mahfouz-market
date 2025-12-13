@@ -11670,5 +11670,85 @@
     ],
     "totalUsd": 4.42,
     "totalLbp": 395000
+  },
+  {
+    "orderId": "ord-1765609546293",
+    "ts": "2025-12-13T07:05:46.293189Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7248",
+        "name": "MOULIN D'OR BROWN BREAD SMALL",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7248.jpg"
+      },
+      {
+        "id": "17298",
+        "name": "DER GENERAL RODE BLOSSOM 3 L",
+        "qty": 1,
+        "unitUsd": 3.46,
+        "totalUsd": 3.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17298.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "2160",
+        "name": "BELLA CHEESE 8 PORTIONS 120 G",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2160.jpg"
+      },
+      {
+        "id": "19144",
+        "name": "NF BLUEBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19144.jpg"
+      },
+      {
+        "id": "16652",
+        "name": "CUSTARD VANILLE",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16652.jpg"
+      },
+      {
+        "id": "4081",
+        "name": "HANIMELLER",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4081.jpg"
+      },
+      {
+        "id": "16935",
+        "name": "SNIPS POTATO CHIPS SALT 165G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16935.jpg"
+      }
+    ],
+    "totalUsd": 12.35,
+    "totalLbp": 1105000
   }
 ]
