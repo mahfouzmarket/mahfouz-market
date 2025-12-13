@@ -11790,5 +11790,45 @@
     ],
     "totalUsd": 4.63,
     "totalLbp": 414000
+  },
+  {
+    "orderId": "ord-1765616928015",
+    "ts": "2025-12-13T09:08:48.015732Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mona Karaki",
+      "phone": "71174644",
+      "address": "home\neskandar houbeiche, Yellow building, Floor 0, No Elevator · whatsapp when arrive",
+      "location": "https://www.google.com/maps?q=33.893012,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "9602",
+        "name": "RAMBO 650 ML",
+        "qty": 1,
+        "unitUsd": 3.46,
+        "totalUsd": 3.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID9602.jpg"
+      },
+      {
+        "id": "13838",
+        "name": "ALLURE  WHITE SUPERSLIM",
+        "qty": 10,
+        "unitUsd": 1.06,
+        "totalUsd": 10.6,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13838.jpg"
+      },
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 4,
+        "unitUsd": 0.45,
+        "totalUsd": 1.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      }
+    ],
+    "totalUsd": 16.42,
+    "totalLbp": 1470000
   }
 ]
