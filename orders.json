@@ -12462,5 +12462,29 @@
     ],
     "totalUsd": 46.03,
     "totalLbp": 4120000
+  },
+  {
+    "orderId": "ord-1765721894191",
+    "ts": "2025-12-14T14:18:14.191293Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSt Louis, 3763, Floor 5, Elevator · VGRH+P6P, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89139291931919,35.52828373070856"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20879",
+        "name": "ALLURE GUEEN BLUE",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20879.jpg"
+      }
+    ],
+    "totalUsd": 1.17,
+    "totalLbp": 105000
   }
 ]
