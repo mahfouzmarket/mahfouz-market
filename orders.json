@@ -12550,5 +12550,45 @@
     ],
     "totalUsd": 8.42,
     "totalLbp": 755000
+  },
+  {
+    "orderId": "ord-1765725550839",
+    "ts": "2025-12-14T15:19:10.839760Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mona bacosli",
+      "phone": "03226213",
+      "address": "home\nqoubayet, raja dalal, Floor 2, No Elevator · VGWJ+G45, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891471,35.528307"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18427",
+        "name": "MINI MENTOS",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18427.jpg"
+      },
+      {
+        "id": "19682",
+        "name": "MENTOS PURE FRESH WATERMELON 87.5G",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19682.jpg"
+      },
+      {
+        "id": "14214",
+        "name": "JUNIOR MINI CROISSANT 30 GR",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14214.jpg"
+      }
+    ],
+    "totalUsd": 5.81,
+    "totalLbp": 520000
   }
 ]
