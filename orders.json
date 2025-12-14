@@ -12350,5 +12350,117 @@
     ],
     "totalUsd": 46.03,
     "totalLbp": 4120000
+  },
+  {
+    "orderId": "ord-1765719922885",
+    "ts": "2025-12-14T13:45:22.885385Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSt Louis, 3763, Floor 5, Elevator · VGRH+P6P, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89139291931919,35.52828373070856"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18205",
+        "name": "MOZARELLA MONI 200gr",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18205.jpg"
+      },
+      {
+        "id": "19144",
+        "name": "NF BLUEBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19144.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      },
+      {
+        "id": "499",
+        "name": "CAFE NAJJAR 180 GR",
+        "qty": 2,
+        "unitUsd": 3.63,
+        "totalUsd": 7.26,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID499.jpg"
+      },
+      {
+        "id": "13871",
+        "name": "KLATCHI EGYPTIAN SEEDS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13871.jpg"
+      },
+      {
+        "id": "15710",
+        "name": "ARUBA COCOA POWDER 100 G",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15710.jpg"
+      },
+      {
+        "id": "16060",
+        "name": "SEPTOL ANTISEPTIC DISINFECTANT 600CC",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16060.jpg"
+      },
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 5,
+        "unitUsd": 2.79,
+        "totalUsd": 13.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      },
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 6,
+        "unitUsd": 0.45,
+        "totalUsd": 2.7,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "15768",
+        "name": "FRAISE",
+        "qty": 1,
+        "unitUsd": 4.47,
+        "totalUsd": 4.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15768.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 1.0,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      },
+      {
+        "id": "20675",
+        "name": "NEKTARINE",
+        "qtyKg": 0.1,
+        "unitUsd": 3.35,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20675.jpg"
+      }
+    ],
+    "totalUsd": 46.03,
+    "totalLbp": 4120000
   }
 ]
