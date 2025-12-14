@@ -12118,5 +12118,125 @@
     ],
     "totalUsd": 8.05,
     "totalLbp": 720000
+  },
+  {
+    "orderId": "ord-1765719213302",
+    "ts": "2025-12-14T13:33:33.302545Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "nathalia abou jaoude",
+      "phone": "03155366",
+      "address": "mdawar\nRaymond rouphael, makhlouf, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899820,35.527175"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15776",
+        "name": "ICEBERG KHASS",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15776.jpg"
+      },
+      {
+        "id": "8158",
+        "name": "ALUMINUM CLASSIC 75 SQFT",
+        "qty": 1,
+        "unitUsd": 3.63,
+        "totalUsd": 3.63,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8158.jpg"
+      },
+      {
+        "id": "10429",
+        "name": "NATURAL COTTON",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10429.jpg"
+      },
+      {
+        "id": "7308",
+        "name": "AL FORNO TANNOUR WHITE/ BROWN",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7308.jpg"
+      },
+      {
+        "id": "7348",
+        "name": "AL WAFA BROWN BREAD SMALL",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7348.jpg"
+      },
+      {
+        "id": "13587",
+        "name": "LIPTON ICE TEA PEACH DIET 320 ML CAN",
+        "qty": 4,
+        "unitUsd": 0.73,
+        "totalUsd": 2.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13587.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 1.0,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      },
+      {
+        "id": "15751",
+        "name": "BASAL YEBIS",
+        "qtyKg": 1.0,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15751.jpg"
+      },
+      {
+        "id": "15752",
+        "name": "HAMOUD",
+        "qtyKg": 1.0,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15752.jpg"
+      },
+      {
+        "id": "15764",
+        "name": "TEFFEH AKHDAR",
+        "qtyKg": 1.0,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15764.jpg"
+      },
+      {
+        "id": "20677",
+        "name": "3ENAB AHMAR",
+        "qtyKg": 1.0,
+        "unitUsd": 4.19,
+        "totalUsd": 4.19,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20677.jpg"
+      },
+      {
+        "id": "20684",
+        "name": "BALAH",
+        "qtyKg": 1.0,
+        "unitUsd": 8.38,
+        "totalUsd": 8.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20684.jpg"
+      },
+      {
+        "id": "15750",
+        "name": "BATATA",
+        "qtyKg": 2.0,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15750.jpg"
+      }
+    ],
+    "totalUsd": 32.18,
+    "totalLbp": 2880000
   }
 ]
