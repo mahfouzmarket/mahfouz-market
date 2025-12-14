@@ -12590,5 +12590,45 @@
     ],
     "totalUsd": 5.81,
     "totalLbp": 520000
+  },
+  {
+    "orderId": "ord-1765732664731",
+    "ts": "2025-12-14T17:17:44.731241Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Ana Maria",
+      "phone": "76930842",
+      "address": "home\nSt. Peter street, Jambojian 51, Floor 5, No Elevator · Yellow building, grey entrance door, Blue shutters, inter phone (Rizk)",
+      "location": "https://www.google.com/maps?q=33.890817,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1217",
+        "name": "LAZIZA PEACH 33 CL",
+        "qty": 2,
+        "unitUsd": 0.95,
+        "totalUsd": 1.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1217.jpg"
+      },
+      {
+        "id": "14223",
+        "name": "LAZIZA POMEGRENATE 33 CL",
+        "qty": 1,
+        "unitUsd": 0.95,
+        "totalUsd": 0.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14223.jpg"
+      },
+      {
+        "id": "14222",
+        "name": "LAZIZA STRAWBERRY 33 CL",
+        "qty": 1,
+        "unitUsd": 0.95,
+        "totalUsd": 0.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14222.jpg"
+      }
+    ],
+    "totalUsd": 4.69,
+    "totalLbp": 420000
   }
 ]
