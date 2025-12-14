@@ -12630,5 +12630,53 @@
     ],
     "totalUsd": 4.69,
     "totalLbp": 420000
+  },
+  {
+    "orderId": "ord-1765733041546",
+    "ts": "2025-12-14T17:24:01.546077Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Maha Karaki",
+      "phone": "76090638",
+      "address": "home\nqobayat street, 256, Floor 1, Elevator",
+      "location": "https://www.google.com/maps?q=33.891892,35.532837"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4132",
+        "name": "CHOCO DUO 170G",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4132.jpg"
+      },
+      {
+        "id": "20423",
+        "name": "FITNESS OAT BISCUITS WITH CHOCOLATE 15 G",
+        "qty": 5,
+        "unitUsd": 0.56,
+        "totalUsd": 2.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20423.jpg"
+      },
+      {
+        "id": "16788",
+        "name": "SNIPS PEANUT CURLS 250 G",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16788.jpg"
+      },
+      {
+        "id": "18953",
+        "name": "RIM FRUIT ZERO MANGO ADDED SUGAR 330 ML",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18953.jpg"
+      }
+    ],
+    "totalUsd": 8.56,
+    "totalLbp": 765000
   }
 ]
