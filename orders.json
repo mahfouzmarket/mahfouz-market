@@ -12062,5 +12062,61 @@
     ],
     "totalUsd": 6.99,
     "totalLbp": 625000
+  },
+  {
+    "orderId": "ord-1765687548489",
+    "ts": "2025-12-14T04:45:48.489299Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2265",
+        "name": "AL FORNO WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2265.jpg"
+      },
+      {
+        "id": "3081",
+        "name": "LABNEH KHOURY 330 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3081.jpg"
+      },
+      {
+        "id": "5449",
+        "name": "WHITE EGGS 1PC",
+        "qty": 6,
+        "unitUsd": 0.17,
+        "totalUsd": 1.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5449.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 1.0,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.5,
+        "unitUsd": 2.23,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      }
+    ],
+    "totalUsd": 8.05,
+    "totalLbp": 720000
   }
 ]
