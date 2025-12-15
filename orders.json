@@ -13022,5 +13022,125 @@
     ],
     "totalUsd": 6.87,
     "totalLbp": 615000
+  },
+  {
+    "orderId": "ord-1765828226306",
+    "ts": "2025-12-15T19:50:26.306276Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "yassin bokhari",
+      "phone": "71727416",
+      "address": "بعد سوبر ماركت نقشت شمال شمال عند مكبات الزبالة البناء الملون\nبعد المكبات, بناء ملون, Floor 5, No Elevator",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13898",
+        "name": "DOLSI CHIPS PIZZA PUFFS 80GR",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13898.jpg"
+      },
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      },
+      {
+        "id": "13866",
+        "name": "DOLSI CHIPS KETCHUP PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13866.jpg"
+      },
+      {
+        "id": "16926",
+        "name": "AL TAGHZIAH BEEF LUNCHEON MEAT 840G",
+        "qty": 1,
+        "unitUsd": 5.08,
+        "totalUsd": 5.08,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16926.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "17238",
+        "name": "TAANAYEL LABNEH 400 G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17238.jpg"
+      },
+      {
+        "id": "14153",
+        "name": "SMEDS PROCESSED CHEESE 400 GR",
+        "qty": 1,
+        "unitUsd": 3.46,
+        "totalUsd": 3.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14153.jpg"
+      },
+      {
+        "id": "2785",
+        "name": "PIPORE MATE 250G",
+        "qty": 1,
+        "unitUsd": 1.84,
+        "totalUsd": 1.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2785.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      },
+      {
+        "id": "6216",
+        "name": "AL KAZZI BLANCHED PEANUTS 200GR",
+        "qty": 2,
+        "unitUsd": 1.34,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6216.jpg"
+      },
+      {
+        "id": "6153",
+        "name": "AL KAZZI SUNFLOWER SEEDS 200 G",
+        "qty": 2,
+        "unitUsd": 1.23,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6153.jpg"
+      },
+      {
+        "id": "15548",
+        "name": "ALKAZZI LOW SALTED PEANUTS 250 G",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15548.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 1.1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      }
+    ],
+    "totalUsd": 29.61,
+    "totalLbp": 2649000
   }
 ]
