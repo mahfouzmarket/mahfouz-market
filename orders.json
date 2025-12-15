@@ -12910,5 +12910,85 @@
     ],
     "totalUsd": 3.63,
     "totalLbp": 325000
+  },
+  {
+    "orderId": "ord-1765811694445",
+    "ts": "2025-12-15T15:14:54.445967Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "nathalia abou jaoude",
+      "phone": "03155366",
+      "address": "mdawar\nRaymond rouphael, makhlouf, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899820,35.527175"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20577",
+        "name": "DORITOS NASHO CHEESE 100 G",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20577.jpg"
+      },
+      {
+        "id": "3817",
+        "name": "MASTER KETTLE 90G",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3817.jpg"
+      },
+      {
+        "id": "17468",
+        "name": "MASTER COCKTAIL 100 G",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17468.jpg"
+      },
+      {
+        "id": "7247",
+        "name": "MOULIN D'OR BROWN BREAD LARGE",
+        "qty": 2,
+        "unitUsd": 1.4,
+        "totalUsd": 2.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7247.jpg"
+      },
+      {
+        "id": "14371",
+        "name": "VIA SPARKLING WATER BY TANNOURINE 33 CL",
+        "qty": 3,
+        "unitUsd": 0.67,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14371.jpg"
+      },
+      {
+        "id": "463",
+        "name": "GAS CYLINDER 10K",
+        "qty": 1,
+        "unitUsd": 13.97,
+        "totalUsd": 13.97,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID463.jpg"
+      },
+      {
+        "id": "10429",
+        "name": "NATURAL COTTON",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10429.jpg"
+      },
+      {
+        "id": "20501",
+        "name": "CAPTAIN FISHER CRAB CLAWS 250 G",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20501.jpg"
+      }
+    ],
+    "totalUsd": 33.03,
+    "totalLbp": 2955000
   }
 ]
