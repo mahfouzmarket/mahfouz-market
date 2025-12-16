@@ -13486,5 +13486,45 @@
     ],
     "totalUsd": 6.03,
     "totalLbp": 540000
+  },
+  {
+    "orderId": "ord-1765924506487",
+    "ts": "2025-12-16T22:35:06.487903Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "jason korkiss",
+      "phone": "76691353",
+      "address": "achrafieh fasouh\nmessara, yazbik bi wej moukhtar sadea, Floor 3, No Elevator · VGQG+V64, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.889662,35.525386"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6210",
+        "name": "ARCHI EXTRA NUTS 225 GR",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6210.jpg"
+      },
+      {
+        "id": "16475",
+        "name": "CASTANIA HONEY ROASTED PEANUTS 18 G",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16475.jpg"
+      },
+      {
+        "id": "702",
+        "name": "MACCAW MANGO 1L",
+        "qty": 1,
+        "unitUsd": 1.84,
+        "totalUsd": 1.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID702.jpg"
+      }
+    ],
+    "totalUsd": 4.29,
+    "totalLbp": 385000
   }
 ]
