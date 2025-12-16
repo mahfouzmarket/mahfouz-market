@@ -13286,5 +13286,53 @@
     ],
     "totalUsd": 3.8,
     "totalLbp": 340000
+  },
+  {
+    "orderId": "ord-1765896287555",
+    "ts": "2025-12-16T14:44:47.555451Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "عماد بتال",
+      "phone": "81332910",
+      "address": "جعيتاوي\nشارع المختار شارل زيادة, مستودع الشمع, الطابق 2, بدون مصعد",
+      "location": "https://www.google.com/maps?q=33.892345,35.529191"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6474",
+        "name": "ZWAN LUNCHOUN CHICKEN 340G",
+        "qty": 1,
+        "unitUsd": 3.58,
+        "totalUsd": 3.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6474.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "13843",
+        "name": "GAULOISES RED",
+        "qty": 1,
+        "unitUsd": 1.9,
+        "totalUsd": 1.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13843.jpg"
+      },
+      {
+        "id": "17075",
+        "name": "MARLBORO CRAFTED BLUE SLIMS",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17075.jpg"
+      }
+    ],
+    "totalUsd": 8.78,
+    "totalLbp": 785000
   }
 ]
