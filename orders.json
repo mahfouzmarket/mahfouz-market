@@ -13254,5 +13254,37 @@
     ],
     "totalUsd": 9.72,
     "totalLbp": 870000
+  },
+  {
+    "orderId": "ord-1765889235094",
+    "ts": "2025-12-16T12:47:15.094400Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10919",
+        "name": "PRIVATE MAXI POCKET",
+        "qty": 1,
+        "unitUsd": 1.17,
+        "totalUsd": 1.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10919.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 2.07,
+        "totalUsd": 2.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      }
+    ],
+    "totalUsd": 3.8,
+    "totalLbp": 340000
   }
 ]
