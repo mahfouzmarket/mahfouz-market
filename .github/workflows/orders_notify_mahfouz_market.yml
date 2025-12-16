@@ -1,41 +1,11 @@
-name: Orders Notify (mahfouz_market)
-
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - orders.json
-
-permissions:
-  contents: read
-
-jobs:
-  notify:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout (full history for diff)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install deps
-        run: npm i firebase-admin@12
-
       - name: Notify managers + owner, then escalate after 5 minutes if still NEW
         env:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           ORDERS_PATH: "orders.json"
           BRAND_ID: "mahfouz_market"
           OWNER_TOPIC: "owner_all_orders"
-        run: node - <<'NODE'
+        run: |
+          node <<'NODE'
           const fs = require('fs');
           const { execFileSync } = require('child_process');
           const admin = require('firebase-admin');
@@ -154,4 +124,4 @@ jobs:
             console.error(err);
             process.exit(1);
           });
-NODE
+          NODE
