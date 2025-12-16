@@ -13174,5 +13174,53 @@
     ],
     "totalUsd": 2.52,
     "totalLbp": 225000
+  },
+  {
+    "orderId": "ord-1765885208518",
+    "ts": "2025-12-16T11:40:08.518714Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nadine",
+      "phone": "03029200",
+      "address": "قريب من سوبر ماركت ضو الأشرفية جعيتاوي\nشارع إسكندر فرح, بناية يعقبيان طابق ٢ رقم ستوديو <201>, Floor 2, No Elevator · call before coming",
+      "location": "https://www.google.com/maps?q=33.892939,35.529282"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12772",
+        "name": "ALPH KING SIZE SLIM BROWN",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12772.jpg"
+      },
+      {
+        "id": "12767",
+        "name": "CEDARS SLIM BLUE",
+        "qty": 9,
+        "unitUsd": 0.84,
+        "totalUsd": 7.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12767.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "12728",
+        "name": "ALPH KING SIZE SLIM",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12728.jpg"
+      }
+    ],
+    "totalUsd": 10.7,
+    "totalLbp": 955000
   }
 ]
