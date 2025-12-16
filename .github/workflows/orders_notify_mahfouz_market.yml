@@ -1,11 +1,12 @@
 name: Orders Notify (mahfouz_market)
 
 on:
+  workflow_dispatch:
   push:
-    branches: ["main"]
+    branches:
+      - main
     paths:
-      - "orders.json"
-  workflow_dispatch: {}
+      - orders.json
 
 permissions:
   contents: read
@@ -113,44 +114,5 @@ jobs:
           (async () => {
             // ---- immediate notify ----
             for (const o of newOrders) {
-              const branch = normalizeBranch(o.branch); // must exist in order
-              const managerTopic = `orders_${brandId}_${branch}`;
-
-              const orderId = safe(o.orderId);
-              const totalUsd = safe(o.totalUsd);
-              const pickup = o.pickup ? 'PICKUP' : 'DELIVERY';
-
-              const title = `🛒 New Order (${branch})`;
-              const body  = `${pickup} • ${orderId} • $${totalUsd}`;
-
-              await sendToTopic(managerTopic, title, body, { kind:'new_order', brandId, branch, orderId });
-              await sendToTopic(ownerTopic, `👑 ${title}`, body, { kind:'new_order_owner', brandId, branch, orderId });
-            }
-
-            // ---- wait 5 minutes ----
-            await sleep(5 * 60 * 1000);
-
-            // Pull latest main version
-            execFileSync('git', ['fetch', 'origin', 'main'], { stdio: 'inherit' });
-            const latestText = gitShow('origin/main', filePath) || currText;
-            const latestJson = JSON.parse(latestText);
-            const latestOrders = Array.isArray(latestJson) ? latestJson : (latestJson.orders || []);
-            const byKey = new Map(latestOrders.map(o => [keyOf(o), o]));
-
-            for (const o of newOrders) {
-              const latest = byKey.get(keyOf(o));
-              if (!latest) continue;
-
-              if (statusOf(latest) === 'NEW') {
-                const branch = normalizeBranch(latest.branch);
-                const orderId = safe(latest.orderId);
-                await sendToTopic(ownerTopic, `⚠️ Not taken in 5 min (${branch})`, `Order ${orderId} still NEW`, {
-                  kind:'escalation_not_taken_5m', brandId, branch, orderId
-                });
-              }
-            }
-          })().catch(err => {
-            console.error(err);
-            process.exit(1);
-          });
-NODE
+              const branch = normalizeBranch(o.branch);
+              const managerTopic =
