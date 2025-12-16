@@ -13414,5 +13414,77 @@
     ],
     "totalUsd": 8.39,
     "totalLbp": 750000
+  },
+  {
+    "orderId": "ord-1765916015771",
+    "ts": "2025-12-16T20:13:35.771221Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSt Louis, 3763, Floor 5, Elevator · VGRH+P6P, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89139291931919,35.52828373070856"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20816",
+        "name": "BISKREM MINI ORIGINAL 90G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20816.jpg"
+      },
+      {
+        "id": "4818",
+        "name": "CAKE OZMO ogopogo",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4818.jpg"
+      },
+      {
+        "id": "19677",
+        "name": "ETI KOMBO 44.5 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19677.jpg"
+      },
+      {
+        "id": "3925",
+        "name": "GALAXY FLUTES",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3925.jpg"
+      },
+      {
+        "id": "20598",
+        "name": "KINDER HAPPY HIPPO 20.7G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20598.jpg"
+      },
+      {
+        "id": "16827",
+        "name": "OZMO FUN G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16827.jpg"
+      },
+      {
+        "id": "20920",
+        "name": "AOUN MEAT SHAWRMA SPICES 50 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20920.jpg"
+      }
+    ],
+    "totalUsd": 6.03,
+    "totalLbp": 540000
   }
 ]
