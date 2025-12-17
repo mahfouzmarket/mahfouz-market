@@ -14127,6 +14127,43 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
+    },
+  {
+    "orderId": "ord-1765989592760",
+    "ts": "2025-12-17T16:39:52.753530Z",
+    "createdAt": "2025-12-17T16:39:52.753530Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-17T16:39:52.753530Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "home\nSaint Louis, 3763, Floor 5, Elevator · VGRH+JFP, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89135243430488,35.528714284300804"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20575",
+        "name": "CHEETOS CRUNCHY HOT 35 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20575.jpg"
+      }
+    ],
+    "totalUsd": 1.4,
+    "totalLbp": 125000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
     }
   }
 ]
