@@ -14287,5 +14287,29 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766001364499",
+    "ts": "2025-12-17T19:56:04.499344Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "android",
+      "phone": "5",
+      "address": "h\ng, g, Floor 6, No Elevator",
+      "location": "https://www.google.com/maps?q=33.891371,35.528215"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14712",
+        "name": "PRINGLES KETCHUP 165 GR",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14712.jpg"
+      }
+    ],
+    "totalUsd": 3.02,
+    "totalLbp": 270000
   }
 ]
