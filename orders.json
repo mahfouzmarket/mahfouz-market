@@ -13956,5 +13956,29 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1765984394153",
+    "ts": "2025-12-17T15:13:14.153350Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Arly Issa",
+      "phone": "76509121",
+      "address": "home\nobservatoire street, maidar bldg, Floor 6, Elevator · Next to samak bel baher, sheri3 El knisset El Arman",
+      "location": "https://www.google.com/maps?q=33.892677,35.530107"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12578",
+        "name": "KENT BLUE",
+        "qty": 1,
+        "unitUsd": 1.84,
+        "totalUsd": 1.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12578.jpg"
+      }
+    ],
+    "totalUsd": 2.4,
+    "totalLbp": 215000
   }
 ]
