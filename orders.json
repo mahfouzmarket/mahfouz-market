@@ -13564,5 +13564,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1765961875608",
+    "ts": "2025-12-17T08:57:55.608694Z",
+    "createdAt": "2025-12-17T08:57:55.608694Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-17T08:57:55.608694Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSt Louis, 3763, Floor 5, Elevator · VGRH+P6P, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89139291931919,35.52828373070856"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20965",
+        "name": "ALKORRA EXTRA VIRGIN OLIVE OIL 500 ML",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20965.jpg"
+      }
+    ],
+    "totalUsd": 3.35,
+    "totalLbp": 300000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
