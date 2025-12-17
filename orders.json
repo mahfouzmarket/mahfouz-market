@@ -13678,5 +13678,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1765965238264",
+    "ts": "2025-12-17T09:53:58.264772Z",
+    "createdAt": "2025-12-17T09:53:58.264772Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-17T09:53:58.264772Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891406,35.528249"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20150",
+        "name": "MARETTI PIZZA FLAVOUR 70 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20150.jpg"
+      }
+    ],
+    "totalUsd": 1.57,
+    "totalLbp": 140000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
