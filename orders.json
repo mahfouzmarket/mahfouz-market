@@ -13980,5 +13980,43 @@
     ],
     "totalUsd": 2.4,
     "totalLbp": 215000
+  },
+  {
+    "orderId": "ord-1765986465029",
+    "ts": "2025-12-17T15:47:45.029347Z",
+    "createdAt": "2025-12-17T15:47:45.029347Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-17T15:47:45.029347Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891375,35.528319"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20542",
+        "name": "CHEETOS BUFFS CHEESE 20 G",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20542.jpg"
+      }
+    ],
+    "totalUsd": 0.95,
+    "totalLbp": 85000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
