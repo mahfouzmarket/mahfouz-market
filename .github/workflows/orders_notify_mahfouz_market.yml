@@ -35,6 +35,9 @@ jobs:
           ORDERS_PATH: "orders.json"
           BRAND_ID: "mahfouz_market"
           OWNER_TOPIC: "owner_all_orders"
+          # OPTIONAL (recommended if iOS still doesn't show):
+          # Put your iOS bundle id here as a GitHub Secret and uncomment next line
+          # APNS_TOPIC: ${{ secrets.APNS_TOPIC }}
         run: |
           cat > notify.js <<'EOF'
           const fs = require('fs');
@@ -63,53 +66,74 @@ jobs:
             return String(o?.status || 'NEW').toUpperCase();
           }
 
-          function safe(v) {
+          function safeStr(v) {
             return v == null ? '' : String(v);
           }
 
           // ---- Firebase init ----
           const saRaw = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
           if (!saRaw) throw new Error('Missing secret: FIREBASE_SERVICE_ACCOUNT_JSON');
-          const sa = JSON.parse(saRaw);
+
+          let sa;
+          try {
+            sa = JSON.parse(saRaw);
+          } catch (e) {
+            throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON is not valid JSON');
+          }
 
           admin.initializeApp({ credential: admin.credential.cert(sa) });
 
+          // ✅ PATCHED FUNCTION (full version)
           async function sendToTopic(topic, title, body, data = {}) {
-  const message = {
-    topic,
-    notification: { title, body },
+            const apnsHeaders = {
+              'apns-priority': '10',
+              'apns-push-type': 'alert',
+            };
 
-    // data must be strings
-    data: Object.fromEntries(
-      Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])
-    ),
+            // OPTIONAL: if APNS_TOPIC is provided, set apns-topic
+            // This can fix iOS drops when APNs requires the topic explicitly.
+            if (process.env.APNS_TOPIC) {
+              apnsHeaders['apns-topic'] = String(process.env.APNS_TOPIC);
+            }
 
-    android: {
-      priority: 'high',
-      notification: {
-        sound: 'default',
-      },
-    },
+            const message = {
+              topic,
+              notification: { title, body },
 
-    apns: {
-      headers: {
-        'apns-priority': '10',
-        'apns-push-type': 'alert',
-      },
-      payload: {
-        aps: {
-          alert: { title, body },
-          sound: 'default',
-          badge: 1,
-        },
-      },
-    },
-  };
+              // data must be strings
+              data: Object.fromEntries(
+                Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])
+              ),
 
-  const id = await admin.messaging().send(message);
-  console.log(`✅ Sent to topic=${topic} msgId=${id}`);
-}
+              android: {
+                priority: 'high',
+                notification: { sound: 'default' },
+              },
 
+              apns: {
+                headers: apnsHeaders,
+                payload: {
+                  aps: {
+                    alert: { title, body },
+                    sound: 'default',
+                    badge: 1,
+                  },
+                },
+              },
+            };
+
+            try {
+              const id = await admin.messaging().send(message);
+              console.log(`✅ Sent to topic=${topic} msgId=${id}`);
+              return id;
+            } catch (err) {
+              console.error(`❌ Failed sending to topic=${topic}`);
+              console.error(err?.message || err);
+              if (err?.errorInfo) console.error('errorInfo:', err.errorInfo);
+              if (err?.code) console.error('code:', err.code);
+              throw err;
+            }
+          }
 
           // ---- Load current + previous orders ----
           const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
@@ -120,10 +144,12 @@ jobs:
           const currJson = JSON.parse(currText);
           const currOrders = Array.isArray(currJson) ? currJson : (currJson.orders || []);
 
-          const prevText = (before && !before.startsWith('0000000')) ? gitShow(before, filePath) : null;
-          const prevOrders = prevText
-            ? (Array.isArray(JSON.parse(prevText)) ? JSON.parse(prevText) : (JSON.parse(prevText).orders || []))
-            : [];
+          const prevText = (before && !String(before).startsWith('0000000')) ? gitShow(before, filePath) : null;
+          let prevOrders = [];
+          if (prevText) {
+            const prevJson = JSON.parse(prevText);
+            prevOrders = Array.isArray(prevJson) ? prevJson : (prevJson.orders || []);
+          }
 
           const prevKeys = new Set(prevOrders.map(keyOf).filter(Boolean));
           const newOrders = currOrders.filter(o => {
@@ -143,8 +169,8 @@ jobs:
               const branch = normalizeBranch(o.branch);
               const managerTopic = `orders_${brandId}_${branch}`;
 
-              const orderId = safe(o.orderId);
-              const totalUsd = safe(o.totalUsd);
+              const orderId = safeStr(o.orderId);
+              const totalUsd = safeStr(o.totalUsd);
               const pickup = o.pickup ? 'PICKUP' : 'DELIVERY';
 
               const title = `🛒 New Order (${branch})`;
@@ -157,6 +183,7 @@ jobs:
             // ---- wait 5 minutes ----
             await sleep(5 * 60 * 1000);
 
+            // refresh origin/main
             execFileSync('git', ['fetch', 'origin', 'main'], { stdio: 'inherit' });
 
             const latestText = gitShow('origin/main', filePath) || currText;
@@ -170,7 +197,8 @@ jobs:
 
               if (statusOf(latest) === 'NEW') {
                 const branch = normalizeBranch(latest.branch);
-                const orderId = safe(latest.orderId);
+                const orderId = safeStr(latest.orderId);
+
                 await sendToTopic(
                   ownerTopic,
                   `⚠️ Not taken in 5 min (${branch})`,
