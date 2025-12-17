@@ -14130,12 +14130,12 @@
     }
   },
   {
-  "orderId": "ord-TEST-1766000001",
-  "branch": "geitawi",
-  "totalUsd": "1.00",
-  "pickup": false,
-  "status": "NEW"
-},
+    "orderId": "ord-TEST-1766000001",
+    "branch": "geitawi",
+    "totalUsd": "1.00",
+    "pickup": false,
+    "status": "NEW"
+  },
   {
     "orderId": "ord-1765993880908",
     "ts": "2025-12-17T17:51:20.908025Z",
@@ -14168,6 +14168,44 @@
     ],
     "totalUsd": 3.35,
     "totalLbp": 300000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
+  },
+  {
+    "orderId": "ord-1765998063510",
+    "ts": "2025-12-17T19:01:03.510500Z",
+    "createdAt": "2025-12-17T19:01:03.510500Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-17T19:01:03.510500Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "home\nSaint Louis, 3763, Floor 5, Elevator · VGRH+JFP, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89135243430488,35.528714284300804"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20576",
+        "name": "CHEETOS CRUNCHY HOT 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20576.jpg"
+      }
+    ],
+    "totalUsd": 2.24,
+    "totalLbp": 200000,
     "notifs": {
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
