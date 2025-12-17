@@ -75,16 +75,41 @@ jobs:
           admin.initializeApp({ credential: admin.credential.cert(sa) });
 
           async function sendToTopic(topic, title, body, data = {}) {
-            const msg = {
-              topic,
-              notification: { title, body },
-              data: Object.fromEntries(Object.entries(data).map(([k,v]) => [k, safe(v)])),
-              android: { priority: 'high' },
-              apns: { headers: { 'apns-priority': '10' } },
-            };
-            const id = await admin.messaging().send(msg);
-            console.log(`✅ sent topic=${topic} msgId=${id}`);
-          }
+  const message = {
+    topic,
+    notification: { title, body },
+
+    // data must be strings
+    data: Object.fromEntries(
+      Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])
+    ),
+
+    android: {
+      priority: 'high',
+      notification: {
+        sound: 'default',
+      },
+    },
+
+    apns: {
+      headers: {
+        'apns-priority': '10',
+        'apns-push-type': 'alert',
+      },
+      payload: {
+        aps: {
+          alert: { title, body },
+          sound: 'default',
+          badge: 1,
+        },
+      },
+    },
+  };
+
+  const id = await admin.messaging().send(message);
+  console.log(`✅ Sent to topic=${topic} msgId=${id}`);
+}
+
 
           // ---- Load current + previous orders ----
           const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
