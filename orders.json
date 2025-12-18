@@ -14463,5 +14463,37 @@
     ],
     "totalUsd": 4.81,
     "totalLbp": 430000
+  },
+  {
+    "orderId": "ord-1766097262478",
+    "ts": "2025-12-18T22:34:22.478870Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Robin",
+      "phone": "78883403",
+      "address": "rmeil\nrmeil, aleco, Floor 0, No Elevator · VGWG+FPV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896296773527474,35.52667513489724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10858",
+        "name": "PRI MAXI POCKETNORMAL 10",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10858.jpg"
+      },
+      {
+        "id": "3950",
+        "name": "GALAXY MILK 40G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3950.jpg"
+      }
+    ],
+    "totalUsd": 2.57,
+    "totalLbp": 230000
   }
 ]
