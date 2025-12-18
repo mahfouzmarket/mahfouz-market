@@ -14495,5 +14495,77 @@
     ],
     "totalUsd": 2.57,
     "totalLbp": 230000
+  },
+  {
+    "orderId": "ord-1766097506646",
+    "ts": "2025-12-18T22:38:26.646965Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Fadi",
+      "phone": "81215392",
+      "address": "Home\nGeitaoui street, Tony, Floor 1, Elevator · Facing Geitaoui hospital",
+      "location": "https://www.google.com/maps?q=33.893356730845845,35.53063180929724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "13507",
+        "name": "ALTAGHZIAH MEAT LUNCHEON 340 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13507.jpg"
+      },
+      {
+        "id": "6495",
+        "name": "FOUL MDAMMAS AL WADI 860G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6495.jpg"
+      },
+      {
+        "id": "5449",
+        "name": "WHITE EGGS 1PC",
+        "qty": 11,
+        "unitUsd": 0.17,
+        "totalUsd": 1.87,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5449.jpg"
+      },
+      {
+        "id": "19499",
+        "name": "SNIPS CORN COBS SWEET CHILI CORN 220G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19499.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      }
+    ],
+    "totalUsd": 9.91,
+    "totalLbp": 885000
   }
 ]
