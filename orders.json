@@ -14407,5 +14407,61 @@
     ],
     "totalUsd": 3.92,
     "totalLbp": 350000
+  },
+  {
+    "orderId": "ord-1766057408426",
+    "ts": "2025-12-18T11:30:08.426569Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 3,
+        "unitUsd": 0.67,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      },
+      {
+        "id": "19503",
+        "name": "SNIPS PRETZELS THINS CHEESE 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19503.jpg"
+      },
+      {
+        "id": "4966",
+        "name": "ETI CRAX PRETZEL 32G",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4966.jpg"
+      },
+      {
+        "id": "19057",
+        "name": "FRETZEL CLASSIC CHILI & LEMON",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19057.jpg"
+      },
+      {
+        "id": "18555",
+        "name": "FRETZEL CLASSIC TOMATOES 42 G",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18555.jpg"
+      }
+    ],
+    "totalUsd": 4.81,
+    "totalLbp": 430000
   }
 ]
