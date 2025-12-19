@@ -15057,5 +15057,29 @@
     ],
     "totalUsd": 4.7,
     "totalLbp": 420000
+  },
+  {
+    "orderId": "ord-1766161625934",
+    "ts": "2025-12-19T16:27:05.934927Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.895902984641445,35.52336797118187"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16997",
+        "name": "CHICKEN AVOCADO SANDWISH",
+        "qty": 3,
+        "unitUsd": 5.03,
+        "totalUsd": 15.09,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16997.jpg"
+      }
+    ],
+    "totalUsd": 15.65,
+    "totalLbp": 1400000
   }
 ]
