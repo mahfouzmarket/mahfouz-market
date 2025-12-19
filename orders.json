@@ -15217,5 +15217,53 @@
     ],
     "totalUsd": 8.78,
     "totalLbp": 785000
+  },
+  {
+    "orderId": "ord-1766178814498",
+    "ts": "2025-12-19T21:13:34.498630Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "albert Massaad",
+      "phone": "70147917",
+      "address": "home\niskandar Farah, chehwan bldg, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.892786,35.527994"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13734",
+        "name": "MASTER CHIPS CHILI 80G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13734.jpg"
+      },
+      {
+        "id": "402",
+        "name": "BEER ALMAZA 50CL",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID402.jpg"
+      },
+      {
+        "id": "403",
+        "name": "BEER ALMAZA 33 CL",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID403.jpg"
+      },
+      {
+        "id": "15754",
+        "name": "FLAYFLE HARRA",
+        "qtyKg": 0.2,
+        "unitUsd": 1.68,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15754.jpg"
+      }
+    ],
+    "totalUsd": 4.24,
+    "totalLbp": 380000
   }
 ]
