@@ -14931,5 +14931,29 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766141060616",
+    "ts": "2025-12-19T10:44:20.616148Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Kassem alkassem",
+      "phone": "78973694",
+      "address": "karantina\nkhodor street, no name, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901970,35.531730"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12956",
+        "name": "AL FORNO MARKOUK BAG 5",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12956.jpg"
+      }
+    ],
+    "totalUsd": 1.9,
+    "totalLbp": 170000
   }
 ]
