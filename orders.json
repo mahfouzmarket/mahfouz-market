@@ -15367,5 +15367,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766186174352",
+    "ts": "2025-12-19T23:16:14.352349Z",
+    "createdAt": "2025-12-19T23:16:14.352349Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-19T23:16:14.352349Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6216",
+        "name": "AL KAZZI BLANCHED PEANUTS 200GR",
+        "qty": 4,
+        "unitUsd": 1.34,
+        "totalUsd": 5.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6216.jpg"
+      }
+    ],
+    "totalUsd": 5.92,
+    "totalLbp": 530000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
