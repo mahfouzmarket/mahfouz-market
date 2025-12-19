@@ -14993,5 +14993,37 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766148326674",
+    "ts": "2025-12-19T12:45:26.674473Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18205",
+        "name": "MOZARELLA MONI 200gr",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18205.jpg"
+      },
+      {
+        "id": "15403",
+        "name": "KETTLE COOKED SEA SALT & VINEGAR 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15403.jpg"
+      }
+    ],
+    "totalUsd": 4.7,
+    "totalLbp": 420000
   }
 ]
