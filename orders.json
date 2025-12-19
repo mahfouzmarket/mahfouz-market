@@ -14655,5 +14655,29 @@
     ],
     "totalUsd": 8.84,
     "totalLbp": 790000
+  },
+  {
+    "orderId": "ord-1766106325569",
+    "ts": "2025-12-19T01:05:25.569564Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "hussein kazoun",
+      "phone": "76041980",
+      "address": "home\nمقابل شارع توارق الروم, بناية نادي تايتنز, Floor 6, No Elevator · VGRG+XCW, Remail, Bayrut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.893720,35.525071"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20971",
+        "name": "AL KANATER LIGHT HALAWA PLAIN 450 G",
+        "qty": 3,
+        "unitUsd": 4.25,
+        "totalUsd": 12.75,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20971.jpg"
+      }
+    ],
+    "totalUsd": 13.31,
+    "totalLbp": 1190000
   }
 ]
