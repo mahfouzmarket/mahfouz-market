@@ -14591,5 +14591,69 @@
     ],
     "totalUsd": 9.06,
     "totalLbp": 810000
+  },
+  {
+    "orderId": "ord-1766106291618",
+    "ts": "2025-12-19T01:04:51.618527Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "hussein kazoun",
+      "phone": "76041980",
+      "address": "home\nمقابل شارع توارق الروم, بناية نادي تايتنز, Floor 6, No Elevator · VGRG+XCW, Remail, Bayrut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.893720,35.525071"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13222",
+        "name": "GIL NACETTE",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13222.jpg"
+      },
+      {
+        "id": "19865",
+        "name": "GLOVES GREEN M",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19865.jpg"
+      },
+      {
+        "id": "12948",
+        "name": "MATTE TOOL BIG",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12948.jpg"
+      },
+      {
+        "id": "1208",
+        "name": "GATORADE BLUE 500ML",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1208.jpg"
+      },
+      {
+        "id": "1178",
+        "name": "PEPSI 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1178.jpg"
+      },
+      {
+        "id": "959",
+        "name": "KHOURY MILK FULL FAT 1 L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID959.jpg"
+      }
+    ],
+    "totalUsd": 8.84,
+    "totalLbp": 790000
   }
 ]
