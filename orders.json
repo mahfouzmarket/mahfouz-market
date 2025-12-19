@@ -14703,5 +14703,45 @@
     ],
     "totalUsd": 3.68,
     "totalLbp": 330000
+  },
+  {
+    "orderId": "ord-1766112360148",
+    "ts": "2025-12-19T02:46:00.148495Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      },
+      {
+        "id": "19114",
+        "name": "EVERVESS SPARKLING WATER 250 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19114.jpg"
+      }
+    ],
+    "totalUsd": 2.86,
+    "totalLbp": 255000
   }
 ]
