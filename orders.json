@@ -15121,5 +15121,37 @@
     ],
     "totalUsd": 4.81,
     "totalLbp": 430000
+  },
+  {
+    "orderId": "ord-1766176113003",
+    "ts": "2025-12-19T20:28:33.003053Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "samir geagea",
+      "phone": "70660083",
+      "address": "home\nassaily, abou ghayda, Floor 6, Elevator · VGWG+6WW, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89554676415332,35.52738290280104"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18675",
+        "name": "KAVAL BULGARIAN SHEEP CHEESE 200 G4.1R",
+        "qty": 1,
+        "unitUsd": 5.64,
+        "totalUsd": 5.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18675.jpg"
+      },
+      {
+        "id": "19973",
+        "name": "TEREA BEIGE",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19973.jpg"
+      }
+    ],
+    "totalUsd": 8.99,
+    "totalLbp": 805000
   }
 ]
