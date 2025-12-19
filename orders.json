@@ -14813,5 +14813,45 @@
     ],
     "totalUsd": 1.56,
     "totalLbp": 140000
+  },
+  {
+    "orderId": "ord-1766132601891",
+    "ts": "2025-12-19T08:23:21.891758Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "8142",
+        "name": "SANITA ALUMINIUM CLASIC 25 FT",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8142.jpg"
+      },
+      {
+        "id": "17634",
+        "name": "TIE BAGS LARGE 12 BAGS",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17634.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      }
+    ],
+    "totalUsd": 4.97,
+    "totalLbp": 445000
   }
 ]
