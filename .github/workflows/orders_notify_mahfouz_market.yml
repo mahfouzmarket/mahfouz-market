@@ -29,15 +29,12 @@ jobs:
       - name: Install deps
         run: npm i firebase-admin@12
 
-      - name: Notify managers + owner, then escalate after 5 minutes if still NEW
+      - name: Notify branch topic only, then escalate after 5 minutes if still NEW (owners only)
         env:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           ORDERS_PATH: "orders.json"
           BRAND_ID: "mahfouz_market"
-          OWNER_TOPIC: "owner_all_orders"
-          # OPTIONAL (recommended if iOS still doesn't show):
-          # Put your iOS bundle id here as a GitHub Secret and uncomment next line
-          # APNS_TOPIC: ${{ secrets.APNS_TOPIC }}
+          ESCALATION_TOPIC: "owner_escalations"
         run: |
           cat > notify.js <<'EOF'
           const fs = require('fs');
@@ -75,64 +72,22 @@ jobs:
           if (!saRaw) throw new Error('Missing secret: FIREBASE_SERVICE_ACCOUNT_JSON');
 
           let sa;
-          try {
-            sa = JSON.parse(saRaw);
-          } catch (e) {
-            throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON is not valid JSON');
-          }
+          try { sa = JSON.parse(saRaw); }
+          catch { throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON is not valid JSON'); }
 
           admin.initializeApp({ credential: admin.credential.cert(sa) });
 
-          // ✅ PATCHED FUNCTION (full version)
           async function sendToTopic(topic, title, body, data = {}) {
-            const apnsHeaders = {
-              'apns-priority': '10',
-              'apns-push-type': 'alert',
-            };
-
-            // OPTIONAL: if APNS_TOPIC is provided, set apns-topic
-            // This can fix iOS drops when APNs requires the topic explicitly.
-            if (process.env.APNS_TOPIC) {
-              apnsHeaders['apns-topic'] = String(process.env.APNS_TOPIC);
-            }
-
             const message = {
               topic,
               notification: { title, body },
-
-              // data must be strings
-              data: Object.fromEntries(
-                Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])
-              ),
-
-              android: {
-                priority: 'high',
-                notification: { sound: 'default' },
-              },
-
-              apns: {
-                headers: apnsHeaders,
-                payload: {
-                  aps: {
-                    alert: { title, body },
-                    sound: 'default',
-                    badge: 1,
-                  },
-                },
-              },
+              data: Object.fromEntries(Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])),
+              android: { priority: 'high', notification: { sound: 'default' } },
+              apns: { headers: { 'apns-priority': '10' } },
             };
-
-            try {
-              const id = await admin.messaging().send(message);
-              console.log(`✅ Sent to topic=${topic} msgId=${id}`);
-              return id;
-            } catch (err) {
-              console.error(`❌ Failed sending to topic=${topic}`);
-              console.error(err?.message || err);
-              if (err?.errorInfo) console.error('errorInfo:', err.errorInfo);
-              if (err?.code) console.error('code:', err.code);
-              throw err;
-            }
+            const id = await admin.messaging().send(message);
+            console.log(`✅ Sent to topic=${topic} msgId=${id}`);
+            return id;
           }
 
           // ---- Load current + previous orders ----
@@ -160,11 +115,11 @@ jobs:
           console.log(`🔎 new orders detected: ${newOrders.length}`);
           if (newOrders.length === 0) process.exit(0);
 
-          const brandId = process.env.BRAND_ID;
-          const ownerTopic = process.env.OWNER_TOPIC;
+          const brandId = process.env.BRAND_ID || 'mahfouz_market';
+          const escalationTopic = process.env.ESCALATION_TOPIC || 'owner_escalations';
 
           (async () => {
-            // ---- immediate notify ----
+            // ---- immediate notify (ONLY BRANCH TOPIC) ----
             for (const o of newOrders) {
               const branch = normalizeBranch(o.branch);
               const managerTopic = `orders_${brandId}_${branch}`;
@@ -173,17 +128,15 @@ jobs:
               const totalUsd = safeStr(o.totalUsd);
               const pickup = o.pickup ? 'PICKUP' : 'DELIVERY';
 
-              const title = `🛒 New Order (${branch})`;
+              const title = `🛒 Mahfouz • New Order (${branch})`;
               const body  = `${pickup} • ${orderId} • $${totalUsd}`;
 
               await sendToTopic(managerTopic, title, body, { kind:'new_order', brandId, branch, orderId });
-              await sendToTopic(ownerTopic, `👑 ${title}`, body, { kind:'new_order_owner', brandId, branch, orderId });
             }
 
             // ---- wait 5 minutes ----
             await sleep(5 * 60 * 1000);
 
-            // refresh origin/main
             execFileSync('git', ['fetch', 'origin', 'main'], { stdio: 'inherit' });
 
             const latestText = gitShow('origin/main', filePath) || currText;
@@ -200,8 +153,8 @@ jobs:
                 const orderId = safeStr(latest.orderId);
 
                 await sendToTopic(
-                  ownerTopic,
-                  `⚠️ Not taken in 5 min (${branch})`,
+                  escalationTopic,
+                  `⚠️ Mahfouz not taken in 5 min (${branch})`,
                   `Order ${orderId} still NEW`,
                   { kind:'escalation_not_taken_5m', brandId, branch, orderId }
                 );
