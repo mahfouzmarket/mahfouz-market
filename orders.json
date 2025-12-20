@@ -15555,5 +15555,85 @@
     ],
     "totalUsd": 15.0,
     "totalLbp": 1340000
+  },
+  {
+    "orderId": "ord-1766213681900",
+    "ts": "2025-12-20T06:54:41.900064Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2834",
+        "name": "KHOURY IRAN",
+        "qty": 4,
+        "unitUsd": 0.56,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2834.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      },
+      {
+        "id": "15039",
+        "name": "MOULIN DOR WHOLE WHEAT BREAD",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15039.jpg"
+      },
+      {
+        "id": "15768",
+        "name": "FRAISE",
+        "qty": 1,
+        "unitUsd": 4.47,
+        "totalUsd": 4.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15768.jpg"
+      },
+      {
+        "id": "18193",
+        "name": "LA PIARA TURKEY 200 GR",
+        "qty": 1,
+        "unitUsd": 4.64,
+        "totalUsd": 4.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18193.jpg"
+      },
+      {
+        "id": "18205",
+        "name": "MOZARELLA MONI 200gr",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18205.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 1.0,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      }
+    ],
+    "totalUsd": 19.9,
+    "totalLbp": 1780000
   }
 ]
