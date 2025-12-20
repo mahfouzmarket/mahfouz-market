@@ -15443,5 +15443,117 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766189700708",
+    "ts": "2025-12-20T00:15:00.708729Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "aya maria abi khalik",
+      "phone": "71937234",
+      "address": "home\nqobayat street, zogheib bldg, Floor 2, No Elevator · بس تصير عطرمبة اليونايتد بوج دفاع المدني بت دلك مكافة لا تشوف مزار ف طلعة عال يمين بتطلع في وبترجع بت فوت على زاروب عال يمين وبت كافي لا تشوف بوابه لونا اورنج علي ارميد",
+      "location": "https://www.google.com/maps?q=33.896647,35.528428"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20544",
+        "name": "CHEETOS CRUNCHY CHEESE 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20544.jpg"
+      },
+      {
+        "id": "20550",
+        "name": "LAYS FRENCH CHEESE 45 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20550.jpg"
+      },
+      {
+        "id": "14213",
+        "name": "PRINGLES SOUR CREAM & ONION 165G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14213.jpg"
+      },
+      {
+        "id": "20816",
+        "name": "BISKREM MINI ORIGINAL 90G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20816.jpg"
+      },
+      {
+        "id": "16765",
+        "name": "MCVITIES DIGESTIVE BARS 30 G",
+        "qty": 2,
+        "unitUsd": 0.34,
+        "totalUsd": 0.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16765.jpg"
+      },
+      {
+        "id": "20636",
+        "name": "KINDER CRISPY",
+        "qty": 2,
+        "unitUsd": 1.34,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20636.jpg"
+      },
+      {
+        "id": "4549",
+        "name": "KINDER DELICE",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4549.jpg"
+      },
+      {
+        "id": "1856",
+        "name": "MENTOS CHEWY CANDY RAINBOW 11 PCS",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1856.jpg"
+      },
+      {
+        "id": "14315",
+        "name": "MILKA LU 87 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14315.jpg"
+      },
+      {
+        "id": "20477",
+        "name": "NO 1 BITTER CIKOLATAH",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20477.jpg"
+      },
+      {
+        "id": "19213",
+        "name": "SNICKERS WAFER ROLLS 12 G",
+        "qty": 2,
+        "unitUsd": 0.34,
+        "totalUsd": 0.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19213.jpg"
+      },
+      {
+        "id": "4223",
+        "name": "TORKU NO:1 CHOCOLAT 35G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4223.jpg"
+      }
+    ],
+    "totalUsd": 15.0,
+    "totalLbp": 1340000
   }
 ]
