@@ -15777,5 +15777,37 @@
     ],
     "totalUsd": 10.1,
     "totalLbp": 905000
+  },
+  {
+    "orderId": "ord-1766234713387",
+    "ts": "2025-12-20T12:45:13.387887Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19845",
+        "name": "CROISSANT CRISPY CHEESE",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19845.jpg"
+      },
+      {
+        "id": "15215",
+        "name": "7 DAYS CROISSANT 40 G",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15215.jpg"
+      }
+    ],
+    "totalUsd": 3.0,
+    "totalLbp": 270000
   }
 ]
