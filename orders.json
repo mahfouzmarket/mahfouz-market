@@ -16241,5 +16241,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766270121411",
+    "ts": "2025-12-20T22:35:21.411255Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Antoine Frangieh",
+      "phone": "03036765",
+      "address": "home\nGeitawi street, al chehabe, Floor 1, No Elevator · building next to sakanet Ahmad naser",
+      "location": "https://www.google.com/maps?q=33.894758,35.531417"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20936",
+        "name": "KINDER CREAMY 19G",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20936.jpg"
+      },
+      {
+        "id": "4036",
+        "name": "CHOCO PRINCE 25G",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4036.jpg"
+      },
+      {
+        "id": "19677",
+        "name": "ETI KOMBO 44.5 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19677.jpg"
+      },
+      {
+        "id": "14318",
+        "name": "HALLEY KARADUT MARMELATLI 74GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14318.jpg"
+      },
+      {
+        "id": "16104",
+        "name": "KEE TOGETHER CHOCOPEANUT 350 G",
+        "qty": 1,
+        "unitUsd": 3.46,
+        "totalUsd": 3.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16104.jpg"
+      },
+      {
+        "id": "13670",
+        "name": "SANDWICH CHOCOLATE 100 GR",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13670.jpg"
+      },
+      {
+        "id": "19377",
+        "name": "ALPH UNBLEACHED 32 FILTERS",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19377.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      }
+    ],
+    "totalUsd": 11.97,
+    "totalLbp": 1070000
   }
 ]
