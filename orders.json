@@ -16085,5 +16085,85 @@
     ],
     "totalUsd": 4.98,
     "totalLbp": 445000
+  },
+  {
+    "orderId": "ord-1766262585952",
+    "ts": "2025-12-20T20:29:45.952466Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "juliana naacy",
+      "phone": "71090024",
+      "address": "home\nsheri3 ashou3, mar mousa, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895435,35.527920"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15403",
+        "name": "KETTLE COOKED SEA SALT & VINEGAR 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15403.jpg"
+      },
+      {
+        "id": "13600",
+        "name": "SEVEN UP PLASTIC 330 ML",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13600.jpg"
+      },
+      {
+        "id": "1311",
+        "name": "PEPSI PLASTIC 330 ML",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1311.jpg"
+      },
+      {
+        "id": "20005",
+        "name": "MASTER KETTLE COOKED LABNEH & HERBS 270G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20005.jpg"
+      },
+      {
+        "id": "16475",
+        "name": "CASTANIA HONEY ROASTED PEANUTS 18 G",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16475.jpg"
+      },
+      {
+        "id": "19372",
+        "name": "ORO STICKS CHILI & LEMON 40 G",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19372.jpg"
+      },
+      {
+        "id": "16106",
+        "name": "INDOMIE CHICKEN FLAVOUR 60 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16106.jpg"
+      },
+      {
+        "id": "16472",
+        "name": "CASTANIA CRISPY CORN 15 G",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16472.jpg"
+      }
+    ],
+    "totalUsd": 6.36,
+    "totalLbp": 570000
   }
 ]
