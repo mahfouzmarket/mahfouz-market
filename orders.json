@@ -15809,5 +15809,37 @@
     ],
     "totalUsd": 3.0,
     "totalLbp": 270000
+  },
+  {
+    "orderId": "ord-1766236922915",
+    "ts": "2025-12-20T13:22:02.915427Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "كريم نوفل",
+      "phone": "71369377",
+      "address": "المنزل\nمستشفى الروم - شارع الوزير طارق متري, بناية ريشا, الطابق 3, مصعد · النزلة بوجه بيت الكتائب - بأخر النزلة عاليسار البناية مقابل الخياط ميشال",
+      "location": "https://www.google.com/maps?q=33.895998,35.525400"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20620",
+        "name": "CUP OF CAFFE LATTE",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20620.jpg"
+      },
+      {
+        "id": "19428",
+        "name": "NF TIRAMISU",
+        "qty": 1,
+        "unitUsd": 5.59,
+        "totalUsd": 5.59,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19428.jpg"
+      }
+    ],
+    "totalUsd": 7.71,
+    "totalLbp": 690000
   }
 ]
