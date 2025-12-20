@@ -15917,5 +15917,37 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766245339107",
+    "ts": "2025-12-20T15:42:19.107258Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "juliana naacy",
+      "phone": "71090024",
+      "address": "home\nsheri3 ashou3, mar mousa, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895435,35.527920"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "445",
+        "name": "ALMAZA 25 CL",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID445.jpg"
+      },
+      {
+        "id": "13866",
+        "name": "DOLSI CHIPS KETCHUP PUFFS 80GR",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13866.jpg"
+      }
+    ],
+    "totalUsd": 3.48,
+    "totalLbp": 310000
   }
 ]
