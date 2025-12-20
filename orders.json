@@ -15659,5 +15659,43 @@
     ],
     "totalUsd": 5.02,
     "totalLbp": 450000
+  },
+  {
+    "orderId": "ord-1766221640526",
+    "ts": "2025-12-20T09:07:20.526625Z",
+    "createdAt": "2025-12-20T09:07:20.526625Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-20T09:07:20.526625Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20171",
+        "name": "AILA LE PETIT ECOLIER 12 PCS",
+        "qty": 4,
+        "unitUsd": 3.24,
+        "totalUsd": 12.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20171.jpg"
+      }
+    ],
+    "totalUsd": 13.52,
+    "totalLbp": 1210000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
