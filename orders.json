@@ -15697,5 +15697,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766228335639",
+    "ts": "2025-12-20T10:58:55.639180Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Robin",
+      "phone": "78883403",
+      "address": "rmeil\nrmeil, aleco, Floor 0, No Elevator · VGWG+FPV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896296773527474,35.52667513489724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7141",
+        "name": "W/A FOUL+CHICK PEAS",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7141.jpg"
+      },
+      {
+        "id": "7348",
+        "name": "AL WAFA BROWN BREAD SMALL",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7348.jpg"
+      },
+      {
+        "id": "15755",
+        "name": "TOMATE CERISE",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15755.jpg"
+      },
+      {
+        "id": "16171",
+        "name": "PEPSI CAN ZERO SUGAR 330 ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16171.jpg"
+      },
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      },
+      {
+        "id": "3950",
+        "name": "GALAXY MILK 40G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3950.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.5,
+        "unitUsd": 2.23,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      },
+      {
+        "id": "15752",
+        "name": "HAMOUD",
+        "qtyKg": 1.0,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15752.jpg"
+      }
+    ],
+    "totalUsd": 10.1,
+    "totalLbp": 905000
   }
 ]
