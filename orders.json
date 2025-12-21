@@ -15386,5 +15386,43 @@
     "driverPhone": "",
     "pickedUpAt": "2025-12-21T22:21:44.376234Z",
     "deliveredAt": "2025-12-21T22:21:58.177451Z"
+  },
+  {
+    "orderId": "ord-1766355836031",
+    "ts": "2025-12-21T22:23:56.031416Z",
+    "createdAt": "2025-12-21T22:23:56.031416Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T22:23:56.031416Z"
+      }
+    ],
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20543",
+        "name": "CHEETOS CRUNCHY CHEESE 35G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20543.jpg"
+      }
+    ],
+    "totalUsd": 1.4,
+    "totalLbp": 125000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
