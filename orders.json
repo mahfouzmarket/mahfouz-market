@@ -17457,5 +17457,53 @@
     ],
     "totalUsd": 14.21,
     "totalLbp": 1270000
+  },
+  {
+    "orderId": "ord-1766343194771",
+    "ts": "2025-12-21T18:53:14.771320Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Fadi",
+      "phone": "81215392",
+      "address": "Home\nGeitaoui street, Tony, Floor 1, Elevator · Facing Geitaoui hospital",
+      "location": "https://www.google.com/maps?q=33.893356730845845,35.53063180929724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "10661",
+        "name": "ROSANA 270SHEETS 15%",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10661.jpg"
+      }
+    ],
+    "totalUsd": 5.87,
+    "totalLbp": 525000
   }
 ]
