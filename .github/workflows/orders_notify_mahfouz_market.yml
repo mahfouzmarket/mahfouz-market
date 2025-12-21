@@ -61,7 +61,14 @@ jobs:
           // Firebase init
           const saRaw = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
           if (!saRaw) throw new Error('Missing secret: FIREBASE_SERVICE_ACCOUNT_JSON');
+
           const sa = JSON.parse(saRaw);
+
+          // ✅ FIX: normalize \n in private_key
+          if (sa.private_key && typeof sa.private_key === 'string') {
+          sa.private_key = sa.private_key.replace(/\\n/g, '\n');
+          }
+
           admin.initializeApp({ credential: admin.credential.cert(sa) });
 
           async function sendToTopic(topic, title, body, data = {}) {
