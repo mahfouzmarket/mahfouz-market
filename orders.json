@@ -16575,5 +16575,53 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766318699949",
+    "ts": "2025-12-21T12:04:59.949297Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "samar mroueh",
+      "phone": "81226529",
+      "address": "geitawi achrafieh\nanis kfoury, abdelmasih building, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894078,35.525238"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1208",
+        "name": "GATORADE BLUE 500ML",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1208.jpg"
+      },
+      {
+        "id": "1173",
+        "name": "PEPSI 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1173.jpg"
+      },
+      {
+        "id": "20143",
+        "name": "I LOVE MY DOG CHIKEN & TURKEY 415G",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20143.jpg"
+      },
+      {
+        "id": "12712",
+        "name": "MARLBORO CRAFTED RED",
+        "qty": 3,
+        "unitUsd": 1.62,
+        "totalUsd": 4.86,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12712.jpg"
+      }
+    ],
+    "totalUsd": 10.51,
+    "totalLbp": 940000
   }
 ]
