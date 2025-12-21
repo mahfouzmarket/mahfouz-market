@@ -17313,5 +17313,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766335578569",
+    "ts": "2025-12-21T16:46:18.569769Z",
+    "createdAt": "2025-12-21T16:46:18.569769Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T16:46:18.569769Z"
+      }
+    ],
+    "customer": {
+      "name": "Android",
+      "phone": "70185604",
+      "address": "g\nc, v, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891348,35.528214"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20157",
+        "name": "ELEGANCE BISCOTTO BLACK & WHITE *2",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20157.jpg"
+      }
+    ],
+    "totalUsd": 0.84,
+    "totalLbp": 75000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
