@@ -13076,7 +13076,10 @@
     "branch": "geitawi",
     "totalUsd": "1.00",
     "pickup": false,
-    "status": "NEW"
+    "status": "CANCELLED",
+    "statusUpdatedAt": "2025-12-21T19:30:25.211194Z",
+    "cancelledAt": "2025-12-21T19:30:25.211174Z",
+    "cancelReason": ""
   },
   {
     "orderId": "ord-1766005558182",
