@@ -16785,5 +16785,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766323521512",
+    "ts": "2025-12-21T13:25:21.512540Z",
+    "createdAt": "2025-12-21T13:25:21.512540Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T13:25:21.512540Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20706",
+        "name": "AILA DARK CHOCOLATE 40G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20706.jpg"
+      }
+    ],
+    "totalUsd": 2.51,
+    "totalLbp": 225000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
