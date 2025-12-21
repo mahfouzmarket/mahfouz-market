@@ -17127,5 +17127,77 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766330064808",
+    "ts": "2025-12-21T15:14:24.808500Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Mona Karaki",
+      "phone": "71174644",
+      "address": "home\neskandar houbeiche, Yellow building, Floor 0, No Elevator · whatsapp when arrive",
+      "location": "https://www.google.com/maps?q=33.893012,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20579",
+        "name": "MASTER CHICKEN SHAWRMA FLAVOR 165G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20579.jpg"
+      },
+      {
+        "id": "13620",
+        "name": "MASTER CHIPS SALT70G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13620.jpg"
+      },
+      {
+        "id": "14174",
+        "name": "I LOVE MY CAT CHUNKS WITH LAMB 400 GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14174.jpg"
+      },
+      {
+        "id": "13904",
+        "name": "I LOVE MY CAT CHUNKS WITH BEEF 400GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13904.jpg"
+      },
+      {
+        "id": "13908",
+        "name": "I LOVE MY CAT CHUNKS WITH TURKEY &KIDNEY 400",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13908.jpg"
+      },
+      {
+        "id": "13905",
+        "name": "I LOVE MY CAT CHUNKS WITH CHICKEN 400GR",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13905.jpg"
+      },
+      {
+        "id": "20171",
+        "name": "AILA LE PETIT ECOLIER 12 PCS",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20171.jpg"
+      }
+    ],
+    "totalUsd": 10.47,
+    "totalLbp": 935000
   }
 ]
