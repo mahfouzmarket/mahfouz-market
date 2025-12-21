@@ -16861,5 +16861,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766323768552",
+    "ts": "2025-12-21T13:29:28.552288Z",
+    "createdAt": "2025-12-21T13:29:28.552288Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T13:29:28.552288Z"
+      }
+    ],
+    "customer": {
+      "name": "Android",
+      "phone": "70185604",
+      "address": "g\nc, v, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891348,35.528214"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20962",
+        "name": "AL AHLAM KOUSSA 400 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20962.jpg"
+      }
+    ],
+    "totalUsd": 3.35,
+    "totalLbp": 300000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
