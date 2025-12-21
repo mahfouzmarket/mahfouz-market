@@ -34,7 +34,6 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           ORDERS_PATH: "orders.json"
           BRAND_ID: "mahfouz_market"
-          ESCALATION_TOPIC: "owner_escalations"
         run: |
           cat > notify.js <<'EOF'
           const fs = require('fs');
@@ -47,16 +46,19 @@ jobs:
             try { return execFileSync('git', ['show', `${ref}:${path}`], { encoding: 'utf8' }); }
             catch { return null; }
           }
+
           function normalizeBranch(branch) {
             const b = String(branch || '').trim().toLowerCase();
             if (b.startsWith('g')) return 'geitawi';
             if (b.startsWith('m')) return 'medawar';
             return b.replace(/\s+/g, '_') || 'unknown';
           }
+
           function keyOf(o) { return String(o?.orderId || o?.id || o?.ts || ''); }
           function statusOf(o) { return String(o?.status || 'NEW').toUpperCase(); }
           function safeStr(v) { return v == null ? '' : String(v); }
 
+          // Firebase init
           const saRaw = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
           if (!saRaw) throw new Error('Missing secret: FIREBASE_SERVICE_ACCOUNT_JSON');
           const sa = JSON.parse(saRaw);
@@ -74,6 +76,7 @@ jobs:
             console.log(`✅ Sent to topic=${topic} msgId=${id}`);
           }
 
+          // Load orders + diff
           const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
           const before = event.before;
           const filePath = process.env.ORDERS_PATH;
@@ -99,20 +102,12 @@ jobs:
           if (!newOrders.length) process.exit(0);
 
           const brandId = process.env.BRAND_ID || 'mahfouz_market';
-          const escalationTopic = process.env.ESCALATION_TOPIC || 'owner_escalations';
 
           (async () => {
-            // NEW -> branch topic ONLY
+            // ✅ NEW -> branch topic ONLY
             for (const o of newOrders) {
-              const branch = normalizeBranch(latest.branch); // geitawi / medawar
-              const escalationTopic = `owner_escalations_market_${branch}`;
-
-              await sendToTopic(
-              escalationTopic,
-              `⚠️ Mahfouz not taken in 5 min (${branch})`,
-              `Order ${orderId} still NEW`,
-              { kind:'escalation_not_taken_5m', brandId, branch, orderId }
-              );
+              const branch = normalizeBranch(o.branch); // geitawi / medawar
+              const managerTopic = `orders_${brandId}_${branch}`;
 
               const orderId = safeStr(o.orderId);
               const totalUsd = safeStr(o.totalUsd);
@@ -124,7 +119,7 @@ jobs:
               await sendToTopic(managerTopic, title, body, { kind:'new_order', brandId, branch, orderId });
             }
 
-            // 5m escalation -> owner_escalations ONLY
+            // ✅ wait 5 minutes
             await sleep(5 * 60 * 1000);
             execFileSync('git', ['fetch', 'origin', 'main'], { stdio: 'inherit' });
 
@@ -133,13 +128,16 @@ jobs:
             const latestOrders = Array.isArray(latestJson) ? latestJson : (latestJson.orders || []);
             const byKey = new Map(latestOrders.map(o => [keyOf(o), o]));
 
+            // ✅ Escalation: per-branch topic
             for (const o of newOrders) {
               const latest = byKey.get(keyOf(o));
               if (!latest) continue;
 
               if (statusOf(latest) === 'NEW') {
-                const branch = normalizeBranch(latest.branch);
+                const branch = normalizeBranch(latest.branch); // geitawi/medawar
                 const orderId = safeStr(latest.orderId);
+
+                const escalationTopic = `owner_escalations_market_${branch}`;
 
                 await sendToTopic(
                   escalationTopic,
