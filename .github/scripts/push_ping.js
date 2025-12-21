@@ -1,12 +1,3 @@
-// .github/scripts/push_ping.js
-// Sends a test push to either a token or a topic.
-// Env:
-// - FIREBASE_SERVICE_ACCOUNT_JSON (required)
-// - PING_TOKEN (optional) -> if set, send to token
-// - PING_TOPIC (optional) -> send to topic if token empty
-// - PING_TITLE, PING_BODY (optional)
-// - APNS_TOPIC (optional) -> sets apns-topic header (bundle id)
-
 const admin = require('firebase-admin');
 
 function mustEnv(name) {
@@ -15,75 +6,53 @@ function mustEnv(name) {
   return v;
 }
 
-function safeStr(v) {
-  return v == null ? '' : String(v);
-}
-
-function parseJsonOrThrow(label, text) {
-  try {
-    return JSON.parse(text);
-  } catch (e) {
-    throw new Error(`JSON parse failed (${label}): ${e?.message || e}`);
-  }
+function parseJson(label, raw) {
+  try { return JSON.parse(raw); }
+  catch (e) { throw new Error(`JSON parse failed (${label}): ${e?.message || e}`); }
 }
 
 async function main() {
   const saRaw = mustEnv('FIREBASE_SERVICE_ACCOUNT_JSON');
-  const sa = parseJsonOrThrow('FIREBASE_SERVICE_ACCOUNT_JSON', saRaw);
+  const sa = parseJson('FIREBASE_SERVICE_ACCOUNT_JSON', saRaw);
 
-  if (!sa.project_id || !sa.client_email || !sa.private_key) {
-    throw new Error('Service account JSON missing required keys: project_id/client_email/private_key');
+  // ✅ Critical fix: normalize private_key newlines
+  if (sa.private_key && typeof sa.private_key === 'string') {
+    sa.private_key = sa.private_key.replace(/\\n/g, '\n');
   }
+
+  console.log('🔎 svc.project_id =', sa.project_id);
+  console.log('🔎 svc.client_email =', sa.client_email);
 
   if (!admin.apps.length) {
     admin.initializeApp({ credential: admin.credential.cert(sa) });
   }
 
   const token = (process.env.PING_TOKEN || '').trim();
-  const topic = (process.env.PING_TOPIC || '').trim() || 'orders_mahfouz_market_geitawi';
+  const topic = (process.env.PING_TOPIC || '').trim();
 
   const title = (process.env.PING_TITLE || 'PING').trim();
-  const body = (process.env.PING_BODY || 'Hello from GitHub Actions').trim();
+  const body  = (process.env.PING_BODY  || 'Hello').trim();
 
-  const apnsHeaders = {
-    'apns-priority': '10',
-    'apns-push-type': 'alert',
-  };
-
+  const apnsHeaders = { 'apns-priority': '10', 'apns-push-type': 'alert' };
   const apnsTopic = (process.env.APNS_TOPIC || '').trim();
   if (apnsTopic) apnsHeaders['apns-topic'] = apnsTopic;
 
-  const message = {
+  const msg = {
     notification: { title, body },
-    data: {
-      kind: 'push_ping',
-      title: safeStr(title),
-      body: safeStr(body),
-    },
-    android: {
-      priority: 'high',
-      notification: { sound: 'default' },
-    },
-    apns: {
-      headers: apnsHeaders,
-      payload: {
-        aps: {
-          alert: { title, body },
-          sound: 'default',
-          badge: 1,
-        },
-      },
-    },
+    data: { kind: 'push_ping' },
+    android: { priority: 'high' },
+    apns: { headers: apnsHeaders },
   };
 
-  let msgId;
   if (token) {
-    msgId = await admin.messaging().send({ ...message, token });
-    console.log(`✅ Push Ping sent to TOKEN (${token.slice(0, 12)}…) msgId=${msgId}`);
-  } else {
-    msgId = await admin.messaging().send({ ...message, topic });
-    console.log(`✅ Push Ping sent to TOPIC=${topic} msgId=${msgId}`);
+    const id = await admin.messaging().send({ ...msg, token });
+    console.log(`✅ sent TOKEN msgId=${id}`);
+    return;
   }
+
+  if (!topic) throw new Error('Provide PING_TOPIC or PING_TOKEN');
+  const id = await admin.messaging().send({ ...msg, topic });
+  console.log(`✅ sent TOPIC=${topic} msgId=${id}`);
 }
 
 main().catch((e) => {
