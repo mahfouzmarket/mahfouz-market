@@ -15159,7 +15159,7 @@
     "createdAt": "2025-12-21T20:29:43.274932Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "NEW",
+    "status": "ACCEPTED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -15229,7 +15229,10 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2025-12-21T22:16:35.012380Z",
+    "acceptedAt": "2025-12-21T22:16:35.012353Z",
+    "takenBy": "Manager • Mahfouz • Medawar"
   },
   {
     "orderId": "ord-1766353625969",
