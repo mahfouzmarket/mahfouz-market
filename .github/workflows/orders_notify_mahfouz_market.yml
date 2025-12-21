@@ -104,8 +104,15 @@ jobs:
           (async () => {
             // NEW -> branch topic ONLY
             for (const o of newOrders) {
-              const branch = normalizeBranch(o.branch);
-              const managerTopic = `orders_${brandId}_${branch}`;
+              const branch = normalizeBranch(latest.branch); // geitawi / medawar
+              const escalationTopic = `owner_escalations_market_${branch}`;
+
+              await sendToTopic(
+              escalationTopic,
+              `⚠️ Mahfouz not taken in 5 min (${branch})`,
+              `Order ${orderId} still NEW`,
+              { kind:'escalation_not_taken_5m', brandId, branch, orderId }
+              );
 
               const orderId = safeStr(o.orderId);
               const totalUsd = safeStr(o.totalUsd);
