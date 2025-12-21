@@ -17275,5 +17275,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766333961622",
+    "ts": "2025-12-21T16:19:21.622920Z",
+    "createdAt": "2025-12-21T16:19:21.622920Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T16:19:21.622920Z"
+      }
+    ],
+    "customer": {
+      "name": "Android",
+      "phone": "70185604",
+      "address": "g\nc, v, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891348,35.528214"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20572",
+        "name": "ELEGANCE BISCOTTO BLACK & WHITE *2 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20572.jpg"
+      }
+    ],
+    "totalUsd": 3.13,
+    "totalLbp": 280000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
