@@ -17089,5 +17089,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766328318557",
+    "ts": "2025-12-21T14:45:18.557914Z",
+    "createdAt": "2025-12-21T14:45:18.557914Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T14:45:18.557914Z"
+      }
+    ],
+    "customer": {
+      "name": "Android",
+      "phone": "70185604",
+      "address": "g\nc, v, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891348,35.528214"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18472",
+        "name": "CHOCOLATE BOMB",
+        "qty": 1,
+        "unitUsd": 5.08,
+        "totalUsd": 5.08,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18472.jpg"
+      }
+    ],
+    "totalUsd": 6.81,
+    "totalLbp": 610000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
