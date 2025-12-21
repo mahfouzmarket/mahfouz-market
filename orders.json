@@ -15432,5 +15432,45 @@
     "driverPhone": "",
     "pickedUpAt": "2025-12-21T22:25:45.870342Z",
     "deliveredAt": "2025-12-21T22:25:51.646135Z"
+  },
+  {
+    "orderId": "ord-1766357345201",
+    "ts": "2025-12-21T22:49:05.201414Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "siham zein",
+      "phone": "76897563",
+      "address": "home\nst nicolas, nassar, Floor 1, No Elevator · VGRG+HRV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89146941061913,35.52720365049339"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 2,
+        "unitUsd": 1.84,
+        "totalUsd": 3.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "1208",
+        "name": "GATORADE BLUE 500ML",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1208.jpg"
+      },
+      {
+        "id": "17032",
+        "name": "WEIDMANN BEER 33 CL",
+        "qty": 3,
+        "unitUsd": 0.84,
+        "totalUsd": 2.52,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17032.jpg"
+      }
+    ],
+    "totalUsd": 8.88,
+    "totalLbp": 795000
   }
 ]
