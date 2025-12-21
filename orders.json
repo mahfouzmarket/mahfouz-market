@@ -15032,5 +15032,125 @@
     ],
     "totalUsd": 5.87,
     "totalLbp": 525000
+  },
+  {
+    "orderId": "ord-1766345839605",
+    "ts": "2025-12-21T19:37:19.605636Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Sarine issa",
+      "phone": "71907883",
+      "address": "jeitawi\nnazlit kateeb rmeil, charbel issa, Floor 0, Elevator · VGWG+FRW, Younes Gebayli, Bayrut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896262,35.52711"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1512",
+        "name": "BIG BABOL MEGA TUTTI FRUTTI",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1512.jpg"
+      },
+      {
+        "id": "17049",
+        "name": "CHUPA CHUPS XXL STRAWBERRY 29 G",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17049.jpg"
+      },
+      {
+        "id": "4138",
+        "name": "COTE DOR LAIT 47G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4138.jpg"
+      },
+      {
+        "id": "4900",
+        "name": "ETI CRAX 45 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4900.jpg"
+      },
+      {
+        "id": "3319",
+        "name": "LOTUS SNACK 120G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3319.jpg"
+      },
+      {
+        "id": "18082",
+        "name": "MALTESERS 37G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18082.jpg"
+      },
+      {
+        "id": "16782",
+        "name": "MENTOS CANDY STRAWBERY 11P",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16782.jpg"
+      },
+      {
+        "id": "19822",
+        "name": "MENTOS CHEWY CANDY FRUIT 11 PCS",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19822.jpg"
+      },
+      {
+        "id": "19154",
+        "name": "ORO RINGS SOUR CREAM & ONION",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19154.jpg"
+      },
+      {
+        "id": "15835",
+        "name": "SKITTLES SMOOTHIES 38 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15835.jpg"
+      },
+      {
+        "id": "20574",
+        "name": "CHEETOS CHEESE FLAVOR 90 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20574.jpg"
+      },
+      {
+        "id": "3758",
+        "name": "PRINGLES ORIGINAL 40 GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3758.jpg"
+      },
+      {
+        "id": "16935",
+        "name": "SNIPS POTATO CHIPS SALT 165G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16935.jpg"
+      }
+    ],
+    "totalUsd": 12.75,
+    "totalLbp": 1140000
   }
 ]
