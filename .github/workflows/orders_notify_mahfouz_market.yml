@@ -29,7 +29,7 @@ jobs:
       - name: Install deps
         run: npm i firebase-admin@12
 
-      - name: Notify branch topic only, then escalate after 5 minutes if still NEW (owners only)
+      - name: Notify branch topic only, then escalate after 5 minutes (owners only)
         env:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           ORDERS_PATH: "orders.json"
@@ -47,50 +47,33 @@ jobs:
             try { return execFileSync('git', ['show', `${ref}:${path}`], { encoding: 'utf8' }); }
             catch { return null; }
           }
-
           function normalizeBranch(branch) {
             const b = String(branch || '').trim().toLowerCase();
             if (b.startsWith('g')) return 'geitawi';
             if (b.startsWith('m')) return 'medawar';
             return b.replace(/\s+/g, '_') || 'unknown';
           }
+          function keyOf(o) { return String(o?.orderId || o?.id || o?.ts || ''); }
+          function statusOf(o) { return String(o?.status || 'NEW').toUpperCase(); }
+          function safeStr(v) { return v == null ? '' : String(v); }
 
-          function keyOf(o) {
-            return String(o?.orderId || o?.id || o?.ts || '');
-          }
-
-          function statusOf(o) {
-            return String(o?.status || 'NEW').toUpperCase();
-          }
-
-          function safeStr(v) {
-            return v == null ? '' : String(v);
-          }
-
-          // ---- Firebase init ----
           const saRaw = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
           if (!saRaw) throw new Error('Missing secret: FIREBASE_SERVICE_ACCOUNT_JSON');
-
-          let sa;
-          try { sa = JSON.parse(saRaw); }
-          catch { throw new Error('FIREBASE_SERVICE_ACCOUNT_JSON is not valid JSON'); }
-
+          const sa = JSON.parse(saRaw);
           admin.initializeApp({ credential: admin.credential.cert(sa) });
 
           async function sendToTopic(topic, title, body, data = {}) {
-            const message = {
+            const msg = {
               topic,
               notification: { title, body },
               data: Object.fromEntries(Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])),
               android: { priority: 'high', notification: { sound: 'default' } },
               apns: { headers: { 'apns-priority': '10' } },
             };
-            const id = await admin.messaging().send(message);
+            const id = await admin.messaging().send(msg);
             console.log(`✅ Sent to topic=${topic} msgId=${id}`);
-            return id;
           }
 
-          // ---- Load current + previous orders ----
           const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
           const before = event.before;
           const filePath = process.env.ORDERS_PATH;
@@ -113,13 +96,13 @@ jobs:
           });
 
           console.log(`🔎 new orders detected: ${newOrders.length}`);
-          if (newOrders.length === 0) process.exit(0);
+          if (!newOrders.length) process.exit(0);
 
           const brandId = process.env.BRAND_ID || 'mahfouz_market';
           const escalationTopic = process.env.ESCALATION_TOPIC || 'owner_escalations';
 
           (async () => {
-            // ---- immediate notify (ONLY BRANCH TOPIC) ----
+            // NEW -> branch topic ONLY
             for (const o of newOrders) {
               const branch = normalizeBranch(o.branch);
               const managerTopic = `orders_${brandId}_${branch}`;
@@ -134,9 +117,8 @@ jobs:
               await sendToTopic(managerTopic, title, body, { kind:'new_order', brandId, branch, orderId });
             }
 
-            // ---- wait 5 minutes ----
+            // 5m escalation -> owner_escalations ONLY
             await sleep(5 * 60 * 1000);
-
             execFileSync('git', ['fetch', 'origin', 'main'], { stdio: 'inherit' });
 
             const latestText = gitShow('origin/main', filePath) || currText;
@@ -160,10 +142,7 @@ jobs:
                 );
               }
             }
-          })().catch(err => {
-            console.error(err);
-            process.exit(1);
-          });
+          })().catch(err => { console.error(err); process.exit(1); });
           EOF
 
           node notify.js
