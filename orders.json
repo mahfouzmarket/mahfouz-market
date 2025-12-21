@@ -15152,5 +15152,83 @@
     ],
     "totalUsd": 12.75,
     "totalLbp": 1140000
+  },
+  {
+    "orderId": "ord-1766348983274",
+    "ts": "2025-12-21T20:29:43.274932Z",
+    "createdAt": "2025-12-21T20:29:43.274932Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T20:29:43.274932Z"
+      }
+    ],
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2812",
+        "name": "LABNEHN BALADIYEH KHOURY 500G",
+        "qty": 1,
+        "unitUsd": 4.25,
+        "totalUsd": 4.25,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2812.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "18195",
+        "name": "KHASHKAVAL MONI 200GR",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18195.jpg"
+      },
+      {
+        "id": "18193",
+        "name": "LA PIARA TURKEY 200 GR",
+        "qty": 1,
+        "unitUsd": 4.64,
+        "totalUsd": 4.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18193.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "13871",
+        "name": "KLATCHI EGYPTIAN SEEDS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13871.jpg"
+      }
+    ],
+    "totalUsd": 21.51,
+    "totalLbp": 1925000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
