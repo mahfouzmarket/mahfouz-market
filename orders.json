@@ -16321,5 +16321,37 @@
     ],
     "totalUsd": 11.97,
     "totalLbp": 1070000
+  },
+  {
+    "orderId": "ord-1766284608868",
+    "ts": "2025-12-21T02:36:48.868777Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Fadi",
+      "phone": "81215392",
+      "address": "Home\nGeitaoui street, Tony, Floor 1, Elevator · Facing Geitaoui hospital",
+      "location": "https://www.google.com/maps?q=33.893356730845845,35.53063180929724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16175",
+        "name": "LIPTON YELLOW LABEL 25 BAGS",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16175.jpg"
+      },
+      {
+        "id": "5083",
+        "name": "SANDWICH VANILLE 100 GR",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5083.jpg"
+      }
+    ],
+    "totalUsd": 3.64,
+    "totalLbp": 325000
   }
 ]
