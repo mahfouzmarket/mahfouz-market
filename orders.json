@@ -15159,7 +15159,7 @@
     "createdAt": "2025-12-21T20:29:43.274932Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "ASSIGNED_DRIVER",
+    "status": "CANCELLED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -15230,12 +15230,14 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-21T22:16:46.644860Z",
+    "statusUpdatedAt": "2025-12-21T22:19:17.834534Z",
     "acceptedAt": "2025-12-21T22:16:35.012353Z",
     "takenBy": "Manager • Mahfouz • Medawar",
     "assignedAt": "2025-12-21T22:16:46.644836Z",
     "driverName": "a",
-    "driverPhone": ""
+    "driverPhone": "",
+    "cancelledAt": "2025-12-21T22:19:17.834456Z",
+    "cancelReason": "s"
   },
   {
     "orderId": "ord-1766353625969",
