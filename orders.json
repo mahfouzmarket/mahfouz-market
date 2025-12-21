@@ -16823,5 +16823,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766323602085",
+    "ts": "2025-12-21T13:26:42.085890Z",
+    "createdAt": "2025-12-21T13:26:42.085890Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-21T13:26:42.085890Z"
+      }
+    ],
+    "customer": {
+      "name": "Android",
+      "phone": "70185604",
+      "address": "g\nc, v, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891348,35.528214"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18160",
+        "name": "CHRISTMAS STARS SABLE",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18160.jpg"
+      }
+    ],
+    "totalUsd": 5.59,
+    "totalLbp": 500000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
