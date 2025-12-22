@@ -3,10 +3,9 @@ name: Orders Notify (mahfouz_market)
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
     paths:
-      - orders.json
+      - "orders.json"
 
 permissions:
   contents: read
@@ -29,7 +28,7 @@ jobs:
       - name: Install deps
         run: npm i firebase-admin@12
 
-      - name: Notify branch topic + delivery assigned + escalate after 5 minutes
+      - name: Notify manager + delivery + escalation
         env:
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
           ORDERS_PATH: "orders.json"
@@ -49,9 +48,9 @@ jobs:
 
           function normalizeBranch(branch) {
             const b = String(branch || '').trim().toLowerCase();
-            if (b.startsWith('g') || b.includes('geitawi') || b.includes('ashrafieh') || b.includes('achrafieh')) return 'geitawi';
-            if (b.startsWith('m') || b.includes('medawar') || b.includes('karantina')) return 'medawar';
-            return b.replace(/\s+/g, '_') || 'unknown';
+            if (b.includes('geitawi') || b.includes('ashrafieh') || b.includes('achrafieh') || b.startsWith('g')) return 'geitawi';
+            if (b.includes('medawar') || b.includes('karantina') || b.startsWith('m')) return 'medawar';
+            return 'unknown';
           }
 
           function prettyBranch(slug) {
@@ -69,10 +68,21 @@ jobs:
             return n.toFixed(2);
           }
 
-          function shortAddr(raw) {
-            const s = String(raw || '').trim();
-            if (!s) return '';
-            const line1 = s.split('\n')[0].trim();
+          function pickCustomerName(o) {
+            const c = o.customer || {};
+            const name =
+              String(c.name || '').trim() ||
+              String(c.fullName || '').trim() ||
+              String(o.customerName || '').trim() ||
+              String(o.name || '').trim();
+            return name || 'Customer';
+          }
+
+          function shortAddrFromOrder(o) {
+            const c = o.customer || {};
+            const raw = String(c.address || '').trim();
+            if (!raw) return '';
+            const line1 = raw.split('\n')[0].trim();
             return line1.length > 80 ? line1.slice(0, 80) + '…' : line1;
           }
 
@@ -125,7 +135,7 @@ jobs:
             return k && !prevKeys.has(k);
           });
 
-          // ✅ assigned-to-driver transitions
+          // ✅ detect newly ASSIGNED_DRIVER (transition)
           const assignedNow = currOrders.filter(o => {
             const k = keyOf(o);
             if (!k) return false;
@@ -140,31 +150,38 @@ jobs:
           const brandId = process.env.BRAND_ID || 'mahfouz_market';
 
           (async () => {
-            // ✅ NEW -> manager topic ONLY
+            // ✅ NEW -> manager topic ONLY (NO orderId in title/body)
             for (const o of newOrders) {
               const branch = normalizeBranch(o.branch);
               const managerTopic = `orders_${brandId}_${branch}`;
 
-              const orderId = safeStr(o.orderId);
+              const name = pickCustomerName(o);
+              const addr = shortAddrFromOrder(o);
               const totalUsd = fmtUsd(o.totalUsd);
-              const pickup = o.pickup ? 'PICKUP' : 'DELIVERY';
 
-              const title = `🛒 New Order (${prettyBranch(branch)})`;
-              const body  = `${pickup} • ${orderId} • $${totalUsd}`;
+              const title = `${prettyBranch(branch)} • ${name}`;
+              const body  = `$${totalUsd}${addr ? ' • ' + addr : ''}`;
 
-              await sendToTopic(managerTopic, title, body, { kind:'new_order', brandId, branch, orderId });
+              await sendToTopic(managerTopic, title, body, {
+                kind: 'new_order',
+                brandId,
+                branch,
+                orderId: safeStr(o.orderId), // ✅ keep only in data
+                customerName: name,
+                totalUsd,
+                address: String((o.customer || {}).address || ''),
+                location: String((o.customer || {}).location || ''),
+              });
             }
 
-            // ✅ Delivery assigned notification (no brand in text)
+            // ✅ Delivery assigned notification (NO orderId in title/body)
             for (const o of assignedNow) {
               const branch = normalizeBranch(o.branch);
               const deliveryTopic = `deliveries_${brandId}_${branch}`;
 
-              const c = o.customer || {};
-              const name = String(c.name || '').trim() || 'Customer';
-              const addr = shortAddr(c.address || '');
+              const name = pickCustomerName(o);
+              const addr = shortAddrFromOrder(o);
               const totalUsd = fmtUsd(o.totalUsd);
-              const orderId = safeStr(o.orderId);
 
               const title = `${prettyBranch(branch)} • ${name}`;
               const body  = `$${totalUsd}${addr ? ' • ' + addr : ''}`;
@@ -173,11 +190,11 @@ jobs:
                 kind: 'delivery_assigned',
                 brandId,
                 branch,
-                orderId,
+                orderId: safeStr(o.orderId), // ✅ data only
                 customerName: name,
-                totalUsd: String(totalUsd),
-                address: String(c.address || ''),
-                location: String(c.location || ''),
+                totalUsd,
+                address: String((o.customer || {}).address || ''),
+                location: String((o.customer || {}).location || ''),
               });
             }
 
@@ -197,15 +214,23 @@ jobs:
 
                 if (statusOf(latest) === 'NEW') {
                   const branch = normalizeBranch(latest.branch);
-                  const orderId = safeStr(latest.orderId);
                   const escalationTopic = `owner_escalations_market_${branch}`;
 
-                  await sendToTopic(
-                    escalationTopic,
-                    `⚠️ Not taken in 5 min (${prettyBranch(branch)})`,
-                    `Order ${orderId} still NEW`,
-                    { kind:'escalation_not_taken_5m', brandId, branch, orderId }
-                  );
+                  const name = pickCustomerName(latest);
+                  const addr = shortAddrFromOrder(latest);
+                  const totalUsd = fmtUsd(latest.totalUsd);
+
+                  const title = `⚠️ ${prettyBranch(branch)} • ${name}`;
+                  const body  = `Not taken in 5 min • $${totalUsd}${addr ? ' • ' + addr : ''}`;
+
+                  await sendToTopic(escalationTopic, title, body, {
+                    kind: 'escalation_not_taken_5m',
+                    brandId,
+                    branch,
+                    orderId: safeStr(latest.orderId), // ✅ data only
+                    customerName: name,
+                    totalUsd,
+                  });
                 }
               }
             }
