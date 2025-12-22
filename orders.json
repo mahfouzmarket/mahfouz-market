@@ -15754,5 +15754,43 @@
     "driverPhone": "963 938 396 256",
     "pickedUpAt": "2025-12-22T11:48:08.825165Z",
     "deliveredAt": "2025-12-22T11:48:12.324685Z"
+  },
+  {
+    "orderId": "ord-1766405531710",
+    "ts": "2025-12-22T12:12:11.710002Z",
+    "createdAt": "2025-12-22T12:12:11.710002Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-22T12:12:11.710002Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16055",
+        "name": "ADAM VINEGAR APPLE CIDER 500ML",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16055.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
