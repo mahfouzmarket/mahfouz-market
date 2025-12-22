@@ -15887,5 +15887,43 @@
     "driverPhone": "963 938 396 256",
     "pickedUpAt": "2025-12-22T12:21:56.603589Z",
     "deliveredAt": "2025-12-22T12:22:09.611988Z"
+  },
+  {
+    "orderId": "ord-1766406305826",
+    "ts": "2025-12-22T12:25:05.826328Z",
+    "createdAt": "2025-12-22T12:25:05.826328Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-22T12:25:05.826328Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15869",
+        "name": "AL KAZZI CRI CRI 70 G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15869.jpg"
+      }
+    ],
+    "totalUsd": 1.34,
+    "totalLbp": 120000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
