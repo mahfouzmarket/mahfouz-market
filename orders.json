@@ -16112,5 +16112,69 @@
     ],
     "totalUsd": 2.92,
     "totalLbp": 260000
+  },
+  {
+    "orderId": "ord-1766430531842",
+    "ts": "2025-12-22T19:08:51.842229Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "عماد بتال",
+      "phone": "81332910",
+      "address": "جعيتاوي\nشارع المختار شارل زيادة, مستودع الشمع, الطابق 2, بدون مصعد",
+      "location": "https://www.google.com/maps?q=33.892345,35.529191"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "181",
+        "name": "BUZZ EXTRA STRONG  LEMON 10% 275 ML",
+        "qty": 4,
+        "unitUsd": 1.12,
+        "totalUsd": 4.48,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID181.jpg"
+      },
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      },
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "13837",
+        "name": "CEDARS SLIM SILVER",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13837.jpg"
+      }
+    ],
+    "totalUsd": 9.74,
+    "totalLbp": 870000
   }
 ]
