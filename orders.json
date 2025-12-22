@@ -15800,5 +15800,43 @@
     "driverPhone": "81978148",
     "pickedUpAt": "2025-12-22T12:15:38.404243Z",
     "deliveredAt": "2025-12-22T12:15:42.629483Z"
+  },
+  {
+    "orderId": "ord-1766405787355",
+    "ts": "2025-12-22T12:16:27.355538Z",
+    "createdAt": "2025-12-22T12:16:27.355538Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-22T12:16:27.355538Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16213",
+        "name": "ICE CREAM BAR CARAMEL 70 ML",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16213.jpg"
+      }
+    ],
+    "totalUsd": 1.68,
+    "totalLbp": 150000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
