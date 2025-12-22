@@ -16537,5 +16537,43 @@
     "driverAckAt": "2025-12-22T22:53:17.894302Z",
     "pickedUpAt": "2025-12-22T22:53:27.068655Z",
     "deliveredAt": "2025-12-22T22:53:59.371433Z"
+  },
+  {
+    "orderId": "ord-1766445282115",
+    "ts": "2025-12-22T23:14:42.115299Z",
+    "createdAt": "2025-12-22T23:14:42.115299Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-22T23:14:42.115299Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20744",
+        "name": "LED DECORATIVE LIGHTS 100 LED",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20744.jpg"
+      }
+    ],
+    "totalUsd": 3.58,
+    "totalLbp": 320000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
