@@ -15669,7 +15669,7 @@
     "createdAt": "2025-12-22T11:44:16.907999Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "ACCEPTED",
+    "status": "ASSIGNED_DRIVER",
     "statusHistory": [
       {
         "status": "NEW",
@@ -15700,9 +15700,12 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-22T11:47:35.378561Z",
+    "statusUpdatedAt": "2025-12-22T11:47:39.670888Z",
     "acceptedAt": "2025-12-22T11:47:35.378542Z",
-    "takenBy": "Owner (Mahfouz)"
+    "takenBy": "Owner (Mahfouz)",
+    "assignedAt": "2025-12-22T11:47:39.670869Z",
+    "driverName": "Omar",
+    "driverPhone": "81978148"
   },
   {
     "orderId": "ord-1766403917800",
