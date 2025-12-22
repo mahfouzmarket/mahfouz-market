@@ -15974,5 +15974,37 @@
     "cancelledAt": "2025-12-22T12:26:22.033200Z",
     "statusUpdatedAt": "2025-12-22T12:26:22.033200Z",
     "cancelledBy": "customer"
+  },
+  {
+    "orderId": "ord-1766406661636",
+    "ts": "2025-12-22T12:31:01.636381Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15549",
+        "name": "AL KAZZI CRI CRI 250 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15549.jpg"
+      },
+      {
+        "id": "14125",
+        "name": "TORABIKA CAPPUCCINO NO ADDED SUGAR 25 GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14125.jpg"
+      }
+    ],
+    "totalUsd": 1.79,
+    "totalLbp": 160000
   }
 ]
