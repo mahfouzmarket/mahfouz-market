@@ -16416,5 +16416,77 @@
     ],
     "totalUsd": 53.65,
     "totalLbp": 4800000
+  },
+  {
+    "orderId": "ord-1766434445931",
+    "ts": "2025-12-22T20:14:05.931515Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6896",
+        "name": "CAPTAIN FISHER SARDINES WITH CHILI 125G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6896.jpg"
+      },
+      {
+        "id": "20829",
+        "name": "GIPSY HAND SOAP JASMINE 500ml",
+        "qty": 1,
+        "unitUsd": 2.18,
+        "totalUsd": 2.18,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20829.jpg"
+      },
+      {
+        "id": "13972",
+        "name": "FRESCO PISTACHIO",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13972.jpg"
+      },
+      {
+        "id": "5094",
+        "name": "TROPICANA ICE CREAM",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5094.jpg"
+      },
+      {
+        "id": "13523",
+        "name": "LABNEH BALADIYEH DAY3ETNA 400GR",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13523.jpg"
+      },
+      {
+        "id": "18192",
+        "name": "LA PIARA MORTADELLE OLIVE 200 GR",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18192.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 0.1,
+        "unitUsd": 1.01,
+        "totalUsd": 0.1,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      }
+    ],
+    "totalUsd": 9.19,
+    "totalLbp": 824000
   }
 ]
