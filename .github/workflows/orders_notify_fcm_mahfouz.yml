@@ -44,12 +44,9 @@ jobs:
           const svc = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON || '{}');
 
           if (!svc.project_id) throw new Error('Missing FIREBASE_SERVICE_ACCOUNT_JSON');
-
           admin.initializeApp({ credential: admin.credential.cert(svc) });
 
-          function safeTopic(s) {
-            return String(s || '').replace(/[^A-Za-z0-9_]/g, '_');
-          }
+          function safeTopic(s) { return String(s || '').replace(/[^A-Za-z0-9_]/g, '_'); }
           function orderTopic(orderId) { return 'ord_' + safeTopic(orderId); }
 
           function branchKeyFrom(o) {
@@ -61,10 +58,17 @@ jobs:
             return 'geitawi';
           }
 
-          // Owner/Manager topic = orders_mahfouz_market_geitawi/medawar (as in your staff_access.json)
+          function prettyBranch(bk) {
+            const x = String(bk || '').toLowerCase();
+            if (x === 'geitawi') return 'Geitawi';
+            if (x === 'medawar') return 'Medawar';
+            return bk || '';
+          }
+
+          // owner/manager topic (from your staff_access.json)
           function ownerTopic(branchKey) { return `orders_${BRAND_ID}_${branchKey}`; }
 
-          // Driver topic = drv_<brandId>_<branchKey>_<driverId>
+          // driver topic
           function driverTopic(o) {
             const driverId = String(o.driverId || '').trim();
             if (!driverId) return '';
@@ -105,13 +109,34 @@ jobs:
             console.log('✅ sent', topic, title);
           }
 
-          function deliveredOwnerBody(o) {
-            const takenBy = String(o.takenBy || '').trim();
-            const driverName = String(o.driverName || '').trim();
+          function moneyLine(o) {
+            const usd = Number(o.totalUsd ?? o.total_usd ?? 0);
+            const lbp = Number(o.totalLbp ?? o.total_lbp ?? 0);
+
             const parts = [];
-            if (takenBy) parts.push(`Taken by: ${takenBy}`);
-            if (driverName) parts.push(`Driver: ${driverName}`);
-            return parts.join(' • ') || 'Order delivered';
+            if (usd && !Number.isNaN(usd)) parts.push(`$${usd.toFixed(2)}`);
+            if (lbp && !Number.isNaN(lbp)) parts.push(`${Math.round(lbp)} LBP`);
+
+            if (!parts.length) return '';
+            return parts.join(' | ');
+          }
+
+          function durationStr(fromIso, toIso) {
+            const a = Date.parse(fromIso || '');
+            const b = Date.parse(toIso || '');
+            if (!Number.isFinite(a) || !Number.isFinite(b) || b <= a) return '';
+            let mins = Math.round((b - a) / 60000);
+
+            const days = Math.floor(mins / (60 * 24));
+            mins -= days * 60 * 24;
+            const hrs = Math.floor(mins / 60);
+            mins -= hrs * 60;
+
+            const parts = [];
+            if (days > 0) parts.push(`${days}d`);
+            if (hrs > 0) parts.push(`${hrs}h`);
+            parts.push(`${mins}m`);
+            return parts.join(' ');
           }
 
           async function main() {
@@ -144,6 +169,15 @@ jobs:
               const tDriver = driverTopic(o);
               const tClient = orderTopic(id);
 
+              const driverName = String(o.driverName || '').trim();
+              const driverPhone = String(o.driverPhone || '').trim();
+              const driverLine = driverName
+                ? `${driverName}${driverPhone ? ` (+${driverPhone})` : ''}`
+                : (driverPhone ? `+${driverPhone}` : 'Delivery');
+
+              const customerName = String((o.customer && o.customer.name) || '').trim();
+              const amount = moneyLine(o);
+
               const data = {
                 type: '',
                 orderId: id,
@@ -152,27 +186,83 @@ jobs:
                 driverId: String(o.driverId || '').trim(),
               };
 
+              // 1) ASSIGNED_DRIVER
               if (curSt === 'ASSIGNED_DRIVER') {
                 data.type = 'ORDER_ASSIGNED';
-                await sendTopic(tOwner, 'Order assigned', `Order ${id} • ${bk}`, data);
-                await sendTopic(tClient, 'Driver assigned', 'A driver has been assigned to your order.', data);
+
+                // Owner/Manager
+                await sendTopic(
+                  tOwner,
+                  `${prettyBranch(bk)} • Order assigned to ${driverLine}`,
+                  `Order ${id}${amount ? ` • ${amount}` : ''}`,
+                  data
+                );
+
+                // Client
+                await sendTopic(
+                  tClient,
+                  'Driver assigned',
+                  `The driver ${driverLine} has been assigned to your order.`,
+                  data
+                );
+
+                // Driver
                 if (tDriver) {
-                  const customerName = String((o.customer && o.customer.name) || '').trim();
-                  await sendTopic(tDriver, 'New delivery assigned', customerName ? `Order ${id} • ${customerName}` : `Order ${id}`, data);
+                  await sendTopic(
+                    tDriver,
+                    'New delivery assigned',
+                    customerName ? `Order ${id} • ${customerName}` : `Order ${id}`,
+                    data
+                  );
                 }
+
                 count++;
               }
 
+              // 2) PICKED_UP
               if (curSt === 'PICKED_UP') {
                 data.type = 'ORDER_PICKED_UP';
-                await sendTopic(tOwner, 'Picked up', `Order ${id} • ${bk}`, data);
-                await sendTopic(tClient, 'Picked up', 'Your order has been picked up.', data);
+
+                // Client
+                await sendTopic(
+                  tClient,
+                  'Picked up',
+                  'Your order has been picked up.',
+                  data
+                );
+
+                // Owner/Manager
+                await sendTopic(
+                  tOwner,
+                  `Picked up to ${customerName || 'client'} from ${prettyBranch(bk)}`,
+                  `Picked up by ${driverLine}`,
+                  data
+                );
+
                 count++;
               }
 
+              // 3) DELIVERED (owner only)
               if (curSt === 'DELIVERED') {
                 data.type = 'ORDER_DELIVERED';
-                await sendTopic(tOwner, 'DELIVERED ✅', deliveredOwnerBody(o), data);
+
+                const takenBy = String(o.takenBy || '').trim();
+                const startIso = String(o.ts || o.createdAt || '').trim();
+                const endIso = String(o.deliveredAt || o.statusUpdatedAt || '').trim();
+                const dur = durationStr(startIso, endIso);
+
+                const bodyParts = [];
+                bodyParts.push(`Taken by: ${takenBy || '—'}`);
+                bodyParts.push(`Driver: ${driverLine}`);
+                if (dur) bodyParts.push(`Time: ${dur}`);
+
+                await sendTopic(
+                  tOwner,
+                  `DELIVERED ✅ to ${customerName || 'client'}`,
+                  bodyParts.join(' • '),
+                  data
+                );
+
                 count++;
               }
             }
