@@ -16679,5 +16679,67 @@
     "driverAckAt": "",
     "pickedUpAt": "2025-12-23T07:47:12.961858Z",
     "deliveredAt": "2025-12-23T07:50:29.789381Z"
+  },
+  {
+    "orderId": "ord-1766483533861",
+    "ts": "2025-12-23T09:52:13.861693Z",
+    "createdAt": "2025-12-23T09:52:13.861693Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-23T09:52:13.861693Z"
+      }
+    ],
+    "customer": {
+      "name": "Android",
+      "phone": "70185604",
+      "address": "g\nc, v, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891348,35.528214"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18115",
+        "name": "CHOCOLAND CALDR SNOWRNAT TREE 50 G",
+        "qty": 1,
+        "unitUsd": 5.59,
+        "totalUsd": 5.59,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18115.jpg"
+      },
+      {
+        "id": "20634",
+        "name": "ERKO CHRISTMAS POLO W/ TWIST MALLOW 75G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20634.jpg"
+      },
+      {
+        "id": "20635",
+        "name": "ERKO CHRISTMAS STAR BAG WITH JAM FILLING 70",
+        "qty": 2,
+        "unitUsd": 1.45,
+        "totalUsd": 2.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20635.jpg"
+      },
+      {
+        "id": "20860",
+        "name": "KEE MERRY CHRISTMAS",
+        "qty": 1,
+        "unitUsd": 9.16,
+        "totalUsd": 9.16,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20860.jpg"
+      }
+    ],
+    "totalUsd": 19.39,
+    "totalLbp": 1735000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
