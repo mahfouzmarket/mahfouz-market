@@ -17023,5 +17023,37 @@
     "cancelReason": "hs",
     "cancel_reason": "hs",
     "cancelledReason": "hs"
+  },
+  {
+    "orderId": "ord-1766502201641",
+    "ts": "2025-12-23T15:03:21.641653Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Sarie",
+      "phone": "0096181458348",
+      "address": "home\nEsseily Street, Younis building, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.895515,35.527404"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "463",
+        "name": "GAS CYLINDER 10K",
+        "qty": 1,
+        "unitUsd": 14.53,
+        "totalUsd": 14.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID463.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      }
+    ],
+    "totalUsd": 17.33,
+    "totalLbp": 1550000
   }
 ]
