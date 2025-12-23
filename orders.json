@@ -16866,5 +16866,43 @@
     "driverAckAt": "2025-12-23T12:20:19.933586Z",
     "pickedUpAt": "2025-12-23T12:19:40.571664Z",
     "deliveredAt": "2025-12-23T12:20:28.377733Z"
+  },
+  {
+    "orderId": "ord-1766492463296",
+    "ts": "2025-12-23T12:21:03.296668Z",
+    "createdAt": "2025-12-23T12:21:03.296668Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-23T12:21:03.296668Z"
+      }
+    ],
+    "customer": {
+      "name": "Mhz med",
+      "phone": "70775141",
+      "address": "work\nrehban, rehban, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900791,35.527771"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18354",
+        "name": "ADAM BALSAMIC VINGER 500ML",
+        "qty": 1,
+        "unitUsd": 5.08,
+        "totalUsd": 5.08,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18354.jpg"
+      }
+    ],
+    "totalUsd": 5.47,
+    "totalLbp": 490000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
