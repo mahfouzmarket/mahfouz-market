@@ -17175,5 +17175,45 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766511227788",
+    "ts": "2025-12-23T17:33:47.788607Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "samar mroueh",
+      "phone": "81226529",
+      "address": "geitawi achrafieh\nanis kfoury, abdelmasih building, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894078,35.525238"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "455",
+        "name": "ALMAZA CAN 50 CL",
+        "qty": 5,
+        "unitUsd": 1.23,
+        "totalUsd": 6.15,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID455.jpg"
+      },
+      {
+        "id": "12712",
+        "name": "MARLBORO CRAFTED RED",
+        "qty": 2,
+        "unitUsd": 1.62,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12712.jpg"
+      },
+      {
+        "id": "1208",
+        "name": "GATORADE BLUE 500ML",
+        "qty": 2,
+        "unitUsd": 1.79,
+        "totalUsd": 3.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1208.jpg"
+      }
+    ],
+    "totalUsd": 13.53,
+    "totalLbp": 1210000
   }
 ]
