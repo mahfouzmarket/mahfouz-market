@@ -17319,5 +17319,69 @@
     ],
     "totalUsd": 6.14,
     "totalLbp": 550000
+  },
+  {
+    "orderId": "ord-1766519042483",
+    "ts": "2025-12-23T19:44:02.483249Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Amani Elali",
+      "phone": "70754625",
+      "address": "Home\nQubayat/Geaitaoui, Kurdahi Bldg (Shop N Go building ), Floor 4, Elevator · Global Digital and Shop an Go building. (4B )",
+      "location": "https://www.google.com/maps?q=33.894859,35.531974"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16379",
+        "name": "INDOMIE CURRY FLAVOUR 60 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16379.jpg"
+      },
+      {
+        "id": "16106",
+        "name": "INDOMIE CHICKEN FLAVOUR 60 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16106.jpg"
+      },
+      {
+        "id": "2381",
+        "name": "AL FORNO MINI BRIOCHE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2381.jpg"
+      },
+      {
+        "id": "14842",
+        "name": "FANTASIA PEANUT CURLS 80 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14842.jpg"
+      },
+      {
+        "id": "14845",
+        "name": "FANTASIA ORIGINAL CHIPS 65 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14845.jpg"
+      },
+      {
+        "id": "665",
+        "name": "CAFE21 LOW FAT SACHET",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID665.jpg"
+      }
+    ],
+    "totalUsd": 4.36,
+    "totalLbp": 390000
   }
 ]
