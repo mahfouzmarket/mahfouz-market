@@ -17055,5 +17055,43 @@
     ],
     "totalUsd": 17.33,
     "totalLbp": 1550000
+  },
+  {
+    "orderId": "ord-1766502323272",
+    "ts": "2025-12-23T15:05:23.272602Z",
+    "createdAt": "2025-12-23T15:05:23.272602Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-23T15:05:23.272602Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16997",
+        "name": "CHICKEN AVOCADO SANDWISH",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16997.jpg"
+      }
+    ],
+    "totalUsd": 5.59,
+    "totalLbp": 500000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
