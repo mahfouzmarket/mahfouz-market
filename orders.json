@@ -16686,7 +16686,7 @@
     "createdAt": "2025-12-23T09:52:13.861693Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "NEW",
+    "status": "ACCEPTED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -16740,6 +16740,9 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2025-12-23T09:56:50.116560Z",
+    "acceptedAt": "2025-12-23T09:56:50.116530Z",
+    "takenBy": "Manager • Mahfouz • Medawar"
   }
 ]
