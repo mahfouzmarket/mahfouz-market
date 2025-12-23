@@ -16971,5 +16971,51 @@
     "driverAckAt": "2025-12-23T13:53:01.269073Z",
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2025-12-23T13:53:03.622789Z"
+  },
+  {
+    "orderId": "ord-1766499473504",
+    "ts": "2025-12-23T14:17:53.504571Z",
+    "createdAt": "2025-12-23T14:17:53.504571Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-23T14:17:53.504571Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18160",
+        "name": "CHRISTMAS STARS SABLE",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18160.jpg"
+      },
+      {
+        "id": "20744",
+        "name": "LED DECORATIVE LIGHTS 100 LED",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20744.jpg"
+      }
+    ],
+    "totalUsd": 8.61,
+    "totalLbp": 770000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
