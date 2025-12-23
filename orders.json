@@ -16914,5 +16914,51 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
     "pickedUpAt": "2025-12-23T12:22:06.040569Z"
+  },
+  {
+    "orderId": "ord-1766497761021",
+    "ts": "2025-12-23T13:49:21.021764Z",
+    "createdAt": "2025-12-23T13:49:21.021764Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-23T13:49:21.021764Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20543",
+        "name": "CHEETOS CRUNCHY CHEESE 35G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20543.jpg"
+      },
+      {
+        "id": "20544",
+        "name": "CHEETOS CRUNCHY CHEESE 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20544.jpg"
+      }
+    ],
+    "totalUsd": 3.08,
+    "totalLbp": 275000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
