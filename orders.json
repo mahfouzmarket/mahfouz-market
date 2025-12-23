@@ -16686,7 +16686,7 @@
     "createdAt": "2025-12-23T09:52:13.861693Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "ACCEPTED",
+    "status": "ASSIGNED_DRIVER",
     "statusHistory": [
       {
         "status": "NEW",
@@ -16741,8 +16741,11 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-23T09:56:50.116560Z",
+    "statusUpdatedAt": "2025-12-23T09:57:06.099840Z",
     "acceptedAt": "2025-12-23T09:56:50.116530Z",
-    "takenBy": "Manager • Mahfouz • Medawar"
+    "takenBy": "Manager • Mahfouz • Medawar",
+    "assignedAt": "2025-12-23T09:57:06.099813Z",
+    "driverName": "maen",
+    "driverPhone": ""
   }
 ]
