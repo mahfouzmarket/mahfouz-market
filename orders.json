@@ -16593,5 +16593,51 @@
     ],
     "totalUsd": 2.4,
     "totalLbp": 215000
+  },
+  {
+    "orderId": "ord-1766612160722",
+    "ts": "2025-12-24T21:36:00.722867Z",
+    "createdAt": "2025-12-24T21:36:00.722867Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-24T21:36:00.722867Z"
+      }
+    ],
+    "customer": {
+      "name": "f",
+      "phone": "0",
+      "address": "c\nc, c, Floor 7, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12778",
+        "name": "AL FAKHER TWO APPLES",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12778.jpg"
+      },
+      {
+        "id": "19827",
+        "name": "BORRA TINTA FABER CASTELL",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19827.jpg"
+      }
+    ],
+    "totalUsd": 3.47,
+    "totalLbp": 310000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
