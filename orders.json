@@ -16707,5 +16707,61 @@
     "driverAckAt": "2025-12-24T22:31:30.887678Z",
     "pickedUpAt": "2025-12-24T22:31:39.124529Z",
     "deliveredAt": "2025-12-24T22:31:47.083099Z"
+  },
+  {
+    "orderId": "ord-1766619228647",
+    "ts": "2025-12-24T23:33:48.647225Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Fadi",
+      "phone": "81215392",
+      "address": "Home\nGeitaoui street, Tony, Floor 1, Elevator · Facing Geitaoui hospital",
+      "location": "https://www.google.com/maps?q=33.893356730845845,35.53063180929724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6495",
+        "name": "FOUL MDAMMAS AL WADI 860G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6495.jpg"
+      },
+      {
+        "id": "7865",
+        "name": "CHTOURA TAHINA 400G",
+        "qty": 1,
+        "unitUsd": 1.9,
+        "totalUsd": 1.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7865.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 0.5,
+        "unitUsd": 1.68,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      }
+    ],
+    "totalUsd": 7.27,
+    "totalLbp": 650000
   }
 ]
