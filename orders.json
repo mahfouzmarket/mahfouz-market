@@ -17614,7 +17614,7 @@
     "createdAt": "2025-12-24T13:05:06.973520Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "NEW",
+    "status": "CANCELLED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -17644,7 +17644,13 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "cancelledAt": "2025-12-24T14:23:54.625577Z",
+    "statusUpdatedAt": "2025-12-24T14:23:54.625577Z",
+    "cancelledBy": "customer",
+    "cancelReason": "h",
+    "cancel_reason": "h",
+    "cancelledReason": "h"
   },
   {
     "orderId": "ord-1766582457445",
