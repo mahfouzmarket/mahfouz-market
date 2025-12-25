@@ -17136,7 +17136,7 @@
     "createdAt": "2025-12-25T22:32:29.734204Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "ASSIGNED_DRIVER",
+    "status": "PICKED_UP",
     "statusHistory": [
       {
         "status": "NEW",
@@ -17167,7 +17167,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-25T22:33:16.418090Z",
+    "statusUpdatedAt": "2025-12-25T22:33:45.679291Z",
     "acceptedAt": "2025-12-25T22:33:01.813346Z",
     "takenBy": "Owner (Mahfouz)",
     "assignedAt": "2025-12-25T22:33:01.813346Z",
@@ -17175,6 +17175,7 @@
     "driverName": "Maen",
     "driverPhone": "961 76 736 122",
     "driverAssignedNotifiedAt": "",
-    "driverAckAt": "2025-12-25T22:33:16.418090Z"
+    "driverAckAt": "2025-12-25T22:33:16.418090Z",
+    "pickedUpAt": "2025-12-25T22:33:45.679291Z"
   }
 ]
