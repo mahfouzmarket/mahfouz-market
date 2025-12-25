@@ -16763,5 +16763,45 @@
     ],
     "totalUsd": 7.27,
     "totalLbp": 650000
+  },
+  {
+    "orderId": "ord-1766624852516",
+    "ts": "2025-12-25T01:07:32.516695Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13969",
+        "name": "PICON 8 PORTIONS 120GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13969.jpg"
+      },
+      {
+        "id": "1226",
+        "name": "LIPTON ICE TEA PEACH CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1226.jpg"
+      },
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      }
+    ],
+    "totalUsd": 3.58,
+    "totalLbp": 320000
   }
 ]
