@@ -17178,5 +17178,51 @@
     "driverAckAt": "2025-12-25T22:33:16.418090Z",
     "pickedUpAt": "2025-12-25T22:33:45.679291Z",
     "deliveredAt": "2025-12-25T22:33:59.194849Z"
+  },
+  {
+    "orderId": "ord-1766702828952",
+    "ts": "2025-12-25T22:47:08.952985Z",
+    "createdAt": "2025-12-25T22:47:08.952985Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-25T22:47:08.952985Z"
+      }
+    ],
+    "customer": {
+      "name": "ava mreish",
+      "phone": "76080772",
+      "address": "home\nchukri chkeir street, aswaf tabet, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892300,35.527530"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16846",
+        "name": "SUB MARINE WHITE",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16846.jpg"
+      },
+      {
+        "id": "20672",
+        "name": "AVOKA",
+        "qtyKg": 1.0,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20672.jpg"
+      }
+    ],
+    "totalUsd": 9.5,
+    "totalLbp": 850000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
