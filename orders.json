@@ -17023,5 +17023,37 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766683461154",
+    "ts": "2025-12-25T17:24:21.154874Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Robin",
+      "phone": "78883403",
+      "address": "rmeil\nrmeil, aleco, Floor 0, No Elevator · VGWG+FPV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896296773527474,35.52667513489724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 2,
+        "unitUsd": 2.12,
+        "totalUsd": 4.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "3950",
+        "name": "GALAXY MILK 40G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3950.jpg"
+      }
+    ],
+    "totalUsd": 5.69,
+    "totalLbp": 510000
   }
 ]
