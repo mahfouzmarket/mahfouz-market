@@ -17981,5 +17981,45 @@
     "driverAckAt": "2025-12-26T22:01:49.421338Z",
     "pickedUpAt": "2025-12-26T22:02:09.727910Z",
     "deliveredAt": "2025-12-26T22:16:49.189171Z"
+  },
+  {
+    "orderId": "ord-1766791849892",
+    "ts": "2025-12-26T23:30:49.892667Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Robin",
+      "phone": "78883403",
+      "address": "rmeil\nrmeil, aleco, Floor 0, No Elevator · VGWG+FPV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896296773527474,35.52667513489724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "812",
+        "name": "LUNA ICE COFFEE MOCHA 190 ML",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID812.jpg"
+      }
+    ],
+    "totalUsd": 4.41,
+    "totalLbp": 395000
   }
 ]
