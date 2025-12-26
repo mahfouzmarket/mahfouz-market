@@ -17493,7 +17493,17 @@
       }
     ],
     "totalUsd": 17.85,
-    "totalLbp": 1600000
+    "totalLbp": 1600000,
+    "status": "ASSIGNED_DRIVER",
+    "statusUpdatedAt": "2025-12-26T12:50:12.210388Z",
+    "acceptedAt": "2025-12-26T12:50:12.209090Z",
+    "takenBy": "Owner (Mahfouz)",
+    "assignedAt": "2025-12-26T12:50:12.209090Z",
+    "driverId": "drv_1766491309534",
+    "driverName": "Abed",
+    "driverPhone": "961 71 827 997",
+    "driverAssignedNotifiedAt": "",
+    "driverAckAt": ""
   },
   {
     "orderId": "ord-1766753152119",
