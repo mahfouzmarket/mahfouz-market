@@ -17462,5 +17462,37 @@
     "driverAckAt": "2025-12-26T09:36:17.516395Z",
     "pickedUpAt": "2025-12-26T09:38:02.008638Z",
     "deliveredAt": "2025-12-26T09:38:22.336379Z"
+  },
+  {
+    "orderId": "ord-1766753018431",
+    "ts": "2025-12-26T12:43:38.431591Z",
+    "branch": "Medawar",
+    "customer": {
+      "name": "mz supplies",
+      "phone": "70209181",
+      "address": "work\nmedawar, abi saleh, Floor 2, Elevator · medawar",
+      "location": "https://www.google.com/maps?q=33.899863,35.526307"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 5,
+        "unitUsd": 2.23,
+        "totalUsd": 11.15,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "1977",
+        "name": "COFFEE-MATE PWDR ORGL FFRE 16OZ US",
+        "qty": 1,
+        "unitUsd": 5.92,
+        "totalUsd": 5.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1977.jpg"
+      }
+    ],
+    "totalUsd": 17.85,
+    "totalLbp": 1600000
   }
 ]
