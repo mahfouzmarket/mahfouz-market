@@ -17224,5 +17224,45 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766712836578",
+    "ts": "2025-12-26T01:33:56.578166Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "tony antoun",
+      "phone": "71817397",
+      "address": "hospital\ngeitaoui, hospital, Floor 0, No Elevator · emergency",
+      "location": "https://www.google.com/maps?q=33.8938619324019,35.530406422913074"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16835",
+        "name": "TIRAMISSU",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16835.jpg"
+      },
+      {
+        "id": "17492",
+        "name": "AICH EL SARAYA",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17492.jpg"
+      },
+      {
+        "id": "226",
+        "name": "DARK BLUE 330 ML",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID226.jpg"
+      }
+    ],
+    "totalUsd": 7.48,
+    "totalLbp": 670000
   }
 ]
