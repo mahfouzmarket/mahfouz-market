@@ -17364,5 +17364,43 @@
     "driverAckAt": "",
     "pickedUpAt": "2025-12-26T03:39:21.496840Z",
     "deliveredAt": "2025-12-26T03:39:39.736841Z"
+  },
+  {
+    "orderId": "ord-1766720444515",
+    "ts": "2025-12-26T03:40:44.515021Z",
+    "createdAt": "2025-12-26T03:40:44.515021Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-26T03:40:44.515021Z"
+      }
+    ],
+    "customer": {
+      "name": "عمر",
+      "phone": "81978148",
+      "address": "كرنتينا / المدور/ شارع الرهبان بوش فوج الحرس\nشارع الرهبان, عصام نويهد, الطابق 1, بدون مصعد · الاتصال",
+      "location": "https://www.google.com/maps?q=33.893880,35.528586"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18472",
+        "name": "CHOCOLATE BOMB",
+        "qty": 3,
+        "unitUsd": 5.08,
+        "totalUsd": 15.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18472.jpg"
+      }
+    ],
+    "totalUsd": 15.8,
+    "totalLbp": 1415000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
