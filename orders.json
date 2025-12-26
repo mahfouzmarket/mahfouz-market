@@ -17884,5 +17884,91 @@
     "driverAckAt": "2025-12-26T21:27:31.976915Z",
     "pickedUpAt": "2025-12-26T21:28:27.284795Z",
     "deliveredAt": "2025-12-26T21:44:28.476407Z"
+  },
+  {
+    "orderId": "ord-1766786005746",
+    "ts": "2025-12-26T21:53:25.746165Z",
+    "createdAt": "2025-12-26T21:53:25.746165Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-26T21:53:25.746165Z"
+      }
+    ],
+    "customer": {
+      "name": "serhan",
+      "phone": "81894404",
+      "address": "achrafieh -geitawi\n-, dominos pizza building, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892026,35.527432"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16935",
+        "name": "SNIPS POTATO CHIPS SALT 165G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16935.jpg"
+      },
+      {
+        "id": "14142",
+        "name": "GULLON FRUITTY SAND YOGERT 44GR",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14142.jpg"
+      },
+      {
+        "id": "3345",
+        "name": "HAYLAYF 72G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3345.jpg"
+      },
+      {
+        "id": "4007",
+        "name": "KINDER MAXI",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4007.jpg"
+      },
+      {
+        "id": "14315",
+        "name": "MILKA LU 87 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14315.jpg"
+      },
+      {
+        "id": "5039",
+        "name": "RULOKAT 42G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5039.jpg"
+      },
+      {
+        "id": "5783",
+        "name": "KLATCHI JAPANESE CRACKERS 160G",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5783.jpg"
+      }
+    ],
+    "totalUsd": 9.1,
+    "totalLbp": 815000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
