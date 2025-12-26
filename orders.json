@@ -17494,5 +17494,101 @@
     ],
     "totalUsd": 17.85,
     "totalLbp": 1600000
+  },
+  {
+    "orderId": "ord-1766753152119",
+    "ts": "2025-12-26T12:45:52.119731Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18195",
+        "name": "KHASHKAVAL MONI 200GR",
+        "qty": 2,
+        "unitUsd": 3.69,
+        "totalUsd": 7.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18195.jpg"
+      },
+      {
+        "id": "13940",
+        "name": "AL FORNO KAAK ASROUNI LARGE PLAIN",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13940.jpg"
+      },
+      {
+        "id": "13086",
+        "name": "AL FORNO BRIOCHE COCONUT",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13086.jpg"
+      },
+      {
+        "id": "3401",
+        "name": "COFFEE JOY 45G",
+        "qty": 2,
+        "unitUsd": 0.5,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3401.jpg"
+      },
+      {
+        "id": "4810",
+        "name": "TARBOUCH  4PLECES",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4810.jpg"
+      },
+      {
+        "id": "17179",
+        "name": "AQUAFINA WATER 2 L",
+        "qty": 6,
+        "unitUsd": 0.45,
+        "totalUsd": 2.7,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17179.jpg"
+      },
+      {
+        "id": "13829",
+        "name": "AQUAFINA WATER 0.5 L",
+        "qty": 6,
+        "unitUsd": 0.22,
+        "totalUsd": 1.32,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13829.jpg"
+      },
+      {
+        "id": "20752",
+        "name": "FANTASIA PIZZA RINGS 80GR",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20752.jpg"
+      },
+      {
+        "id": "14838",
+        "name": "FANTASIA WOKKELS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14838.jpg"
+      },
+      {
+        "id": "3621",
+        "name": "TORTILLA NACHO CHEESE 110G",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3621.jpg"
+      }
+    ],
+    "totalUsd": 20.16,
+    "totalLbp": 1805000
   }
 ]
