@@ -17708,5 +17708,99 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766768162529",
+    "ts": "2025-12-26T16:56:02.529786Z",
+    "createdAt": "2025-12-26T16:56:02.529786Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-26T16:56:02.529786Z"
+      }
+    ],
+    "customer": {
+      "name": "Faisal Khodor",
+      "phone": "76318625",
+      "address": "Home\nRehban street, Formetal, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.900528,35.530640"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10389",
+        "name": "YAHYA  400G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10389.jpg"
+      },
+      {
+        "id": "19502",
+        "name": "SNIPS PRETZELS THINS PIZZA 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19502.jpg"
+      },
+      {
+        "id": "13851",
+        "name": "RIMAS BROWNIES 60GR",
+        "qty": 2,
+        "unitUsd": 0.39,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13851.jpg"
+      },
+      {
+        "id": "2381",
+        "name": "AL FORNO MINI BRIOCHE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2381.jpg"
+      },
+      {
+        "id": "6436",
+        "name": "INDOMI CHICKEN FLAVOR 70 GR",
+        "qty": 4,
+        "unitUsd": 0.28,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6436.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20G)",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      },
+      {
+        "id": "16020",
+        "name": "HOTDOG TAGHZIYA BEEF 380GR",
+        "qty": 1,
+        "unitUsd": 1.9,
+        "totalUsd": 1.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16020.jpg"
+      },
+      {
+        "id": "16844",
+        "name": "ALFORNO BROWN MULTICEREAL 5 PCS",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16844.jpg"
+      }
+    ],
+    "totalUsd": 9.72,
+    "totalLbp": 870000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
