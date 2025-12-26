@@ -17727,7 +17727,7 @@
     "createdAt": "2025-12-26T16:56:02.529786Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "ASSIGNED_DRIVER",
+    "status": "PICKED_UP",
     "statusHistory": [
       {
         "status": "NEW",
@@ -17814,7 +17814,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-26T17:08:55.546911Z",
+    "statusUpdatedAt": "2025-12-26T21:30:16.600887Z",
     "acceptedAt": "2025-12-26T17:08:55.546828Z",
     "takenBy": "Manager • Mahfouz • Medawar",
     "assignedAt": "2025-12-26T17:08:55.546828Z",
@@ -17822,7 +17822,8 @@
     "driverName": "Firas",
     "driverPhone": "961 71 067 636",
     "driverAssignedNotifiedAt": "",
-    "driverAckAt": ""
+    "driverAckAt": "",
+    "pickedUpAt": "2025-12-26T21:30:16.600862Z"
   },
   {
     "orderId": "ord-1766783899414",
