@@ -18033,5 +18033,51 @@
     "driverAckAt": "2025-12-26T23:37:04.652185Z",
     "pickedUpAt": "2025-12-26T23:47:55.430013Z",
     "deliveredAt": "2025-12-26T23:49:08.082916Z"
+  },
+  {
+    "orderId": "ord-1766795406823",
+    "ts": "2025-12-27T00:30:06.823552Z",
+    "createdAt": "2025-12-27T00:30:06.823552Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T00:30:06.823552Z"
+      }
+    ],
+    "customer": {
+      "name": "nizar taki",
+      "phone": "71445177",
+      "address": "home\nnos l daraj, shbebik l khoder, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896585,35.528158"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "14843",
+        "name": "FANTASIA POPCORN SALTED 60 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14843.jpg"
+      }
+    ],
+    "totalUsd": 2.58,
+    "totalLbp": 230000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
