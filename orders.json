@@ -18489,8 +18489,8 @@
     ],
     "totalUsd": 6.99,
     "totalLbp": 625000,
-    "status": "ASSIGNED_DRIVER",
-    "statusUpdatedAt": "2025-12-27T17:09:31.308119Z",
+    "status": "PICKED_UP",
+    "statusUpdatedAt": "2025-12-27T17:09:36.578200Z",
     "acceptedAt": "2025-12-27T17:02:56.972154Z",
     "takenBy": "Manager • Mahfouz • Geitawi",
     "assignedAt": "2025-12-27T17:02:56.972154Z",
@@ -18498,6 +18498,7 @@
     "driverName": "Maen",
     "driverPhone": "961 76 736 122",
     "driverAssignedNotifiedAt": "",
-    "driverAckAt": "2025-12-27T17:09:31.308119Z"
+    "driverAckAt": "2025-12-27T17:09:31.308119Z",
+    "pickedUpAt": "2025-12-27T17:09:36.578200Z"
   }
 ]
