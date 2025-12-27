@@ -18501,5 +18501,99 @@
     "driverAckAt": "2025-12-27T17:09:31.308119Z",
     "pickedUpAt": "2025-12-27T17:09:36.578200Z",
     "deliveredAt": "2025-12-27T17:16:34.391548Z"
+  },
+  {
+    "orderId": "ord-1766859206981",
+    "ts": "2025-12-27T18:13:26.981095Z",
+    "createdAt": "2025-12-27T18:13:26.981095Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T18:13:26.981095Z"
+      }
+    ],
+    "customer": {
+      "name": "صقر احمد",
+      "phone": "00963951348432",
+      "address": "المنزل\nجنب بنات برازي, بلوتوز, الطابق 0, بدون مصعد · شارع برازي",
+      "location": "https://www.google.com/maps?q=33.900073,35.533240"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20687",
+        "name": "ANANAS",
+        "qty": 1,
+        "unitUsd": 7.82,
+        "totalUsd": 7.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20687.jpg"
+      },
+      {
+        "id": "15774",
+        "name": "BA2DOUNIS",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15774.jpg"
+      },
+      {
+        "id": "16847",
+        "name": "SUB MARINE BROWN",
+        "qty": 1,
+        "unitUsd": 5.36,
+        "totalUsd": 5.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16847.jpg"
+      },
+      {
+        "id": "16849",
+        "name": "TURKEY AND CHEESE WHITE",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16849.jpg"
+      },
+      {
+        "id": "18944",
+        "name": "AL FORNO MINI BRIOCHE CHOCOLATE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18944.jpg"
+      },
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      },
+      {
+        "id": "20677",
+        "name": "3ENAB AHMAR",
+        "qtyKg": 2.1,
+        "unitUsd": 4.19,
+        "totalUsd": 8.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20677.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 1.1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.85,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      }
+    ],
+    "totalUsd": 30.14,
+    "totalLbp": 2697500,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
