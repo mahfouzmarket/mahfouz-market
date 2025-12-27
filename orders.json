@@ -18040,7 +18040,7 @@
     "createdAt": "2025-12-27T00:30:06.823552Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "NEW",
+    "status": "ASSIGNED_DRIVER",
     "statusHistory": [
       {
         "status": "NEW",
@@ -18078,6 +18078,15 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2025-12-27T00:44:09.128103Z",
+    "acceptedAt": "2025-12-27T00:44:09.128058Z",
+    "takenBy": "Manager • Mahfouz • Geitawi",
+    "assignedAt": "2025-12-27T00:44:09.128058Z",
+    "driverId": "drv_1766688416199",
+    "driverName": "Firas",
+    "driverPhone": "961 71 067 636",
+    "driverAssignedNotifiedAt": "",
+    "driverAckAt": ""
   }
 ]
