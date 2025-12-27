@@ -18595,5 +18595,51 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766859335604",
+    "ts": "2025-12-27T18:15:35.604065Z",
+    "createdAt": "2025-12-27T18:15:35.604065Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T18:15:35.604065Z"
+      }
+    ],
+    "customer": {
+      "name": "صقر احمد",
+      "phone": "00963951348432",
+      "address": "المنزل\nجنب بنات برازي, بلوتوز, الطابق 0, بدون مصعد · شارع برازي",
+      "location": "https://www.google.com/maps?q=33.900073,35.533240"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15774",
+        "name": "BA2DOUNIS",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15774.jpg"
+      },
+      {
+        "id": "20687",
+        "name": "ANANAS",
+        "qty": 1,
+        "unitUsd": 7.82,
+        "totalUsd": 7.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20687.jpg"
+      }
+    ],
+    "totalUsd": 9.11,
+    "totalLbp": 815000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
