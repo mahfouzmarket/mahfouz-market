@@ -18685,5 +18685,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766879597237",
+    "ts": "2025-12-27T23:53:17.237407Z",
+    "createdAt": "2025-12-27T23:53:17.237407Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T23:53:17.237407Z"
+      }
+    ],
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19215",
+        "name": "TANNOUR WRAP WHOLE WHEAT 5PCS",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19215.jpg"
+      },
+      {
+        "id": "18195",
+        "name": "KHASHKAVAL MONI 200GR",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18195.jpg"
+      },
+      {
+        "id": "18193",
+        "name": "LA PIARA TURKEY 200 GR",
+        "qty": 1,
+        "unitUsd": 4.64,
+        "totalUsd": 4.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18193.jpg"
+      }
+    ],
+    "totalUsd": 9.67,
+    "totalLbp": 865000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
