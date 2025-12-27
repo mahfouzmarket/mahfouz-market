@@ -18641,5 +18641,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766859403237",
+    "ts": "2025-12-27T18:16:43.237558Z",
+    "createdAt": "2025-12-27T18:16:43.237558Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T18:16:43.237558Z"
+      }
+    ],
+    "customer": {
+      "name": "صقر احمد",
+      "phone": "00963951348432",
+      "address": "المنزل\nجنب بنات برازي, بلوتوز, الطابق 0, بدون مصعد · شارع برازي",
+      "location": "https://www.google.com/maps?q=33.899985,35.533394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2381",
+        "name": "AL FORNO MINI BRIOCHE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2381.jpg"
+      }
+    ],
+    "totalUsd": 1.12,
+    "totalLbp": 100000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
