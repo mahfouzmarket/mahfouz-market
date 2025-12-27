@@ -18088,5 +18088,67 @@
     "driverPhone": "961 71 067 636",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1766822561398",
+    "ts": "2025-12-27T08:02:41.398342Z",
+    "createdAt": "2025-12-27T08:02:41.398342Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T08:02:41.398342Z"
+      }
+    ],
+    "customer": {
+      "name": "youssef kiblawi",
+      "phone": "71831930",
+      "address": "geitaoui hospital\nGeitaoui, hospital building, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893972,35.530732"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "5449",
+        "name": "WHITE EGGS 1PC",
+        "qty": 20,
+        "unitUsd": 0.17,
+        "totalUsd": 3.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5449.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "5359",
+        "name": "LURPACK BUTTER 200G",
+        "qty": 1,
+        "unitUsd": 3.07,
+        "totalUsd": 3.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5359.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 2.0,
+        "unitUsd": 1.68,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      }
+    ],
+    "totalUsd": 11.28,
+    "totalLbp": 1005000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
