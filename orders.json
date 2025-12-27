@@ -18251,5 +18251,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766825665945",
+    "ts": "2025-12-27T08:54:25.945596Z",
+    "createdAt": "2025-12-27T08:54:25.945596Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T08:54:25.945596Z"
+      }
+    ],
+    "customer": {
+      "name": "kinan",
+      "phone": "78906012",
+      "address": "home\nrehban, rehban, Floor 1, Elevator",
+      "location": "https://www.google.com/maps?q=34.983028,35.988576"
+    },
+    "pickup": true,
+    "items": [
+      {
+        "id": "20542",
+        "name": "CHEETOS BUFFS CHEESE 20 G",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20542.jpg"
+      },
+      {
+        "id": "20574",
+        "name": "CHEETOS CHEESE FLAVOR 90 GR",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20574.jpg"
+      },
+      {
+        "id": "20543",
+        "name": "CHEETOS CRUNCHY CHEESE 35G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20543.jpg"
+      }
+    ],
+    "totalUsd": 2.79,
+    "totalLbp": 250000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
