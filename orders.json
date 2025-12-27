@@ -18366,5 +18366,43 @@
     "cancelReason": "g",
     "cancel_reason": "g",
     "cancelledReason": "g"
+  },
+  {
+    "orderId": "ord-1766829073929",
+    "ts": "2025-12-27T09:51:13.929967Z",
+    "createdAt": "2025-12-27T09:51:13.929967Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-27T09:51:13.929967Z"
+      }
+    ],
+    "customer": {
+      "name": "elie mrad",
+      "phone": "78806904",
+      "address": "Raymond royphael, abed building, Floor 5, No Elevator",
+      "location": "https://www.google.com/maps?q=33.9007695,35.5280341"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "86",
+        "name": "MERNAYA VODKA 100CL",
+        "qty": 1,
+        "unitUsd": 5.87,
+        "totalUsd": 5.87,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID86.jpg"
+      }
+    ],
+    "totalUsd": 6.26,
+    "totalLbp": 560000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
