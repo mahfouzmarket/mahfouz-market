@@ -18846,5 +18846,59 @@
     "driverAckAt": "2025-12-28T07:27:57.787882Z",
     "pickedUpAt": "2025-12-28T07:27:34.874350Z",
     "deliveredAt": "2025-12-28T07:31:00.299611Z"
+  },
+  {
+    "orderId": "ord-1766908610089",
+    "ts": "2025-12-28T07:56:50.089134Z",
+    "createdAt": "2025-12-28T07:56:50.089134Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T07:56:50.089134Z"
+      }
+    ],
+    "customer": {
+      "name": "Robin",
+      "phone": "78883403",
+      "address": "rmeil\nrmeil, aleco, Floor 0, No Elevator · VGWG+FPV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896296773527474,35.52667513489724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19910",
+        "name": "BELLO CROISSANT CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19910.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "1082",
+        "name": "ICEBERG  MILK SHAKE CHOCO 225ML",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1082.jpg"
+      }
+    ],
+    "totalUsd": 5.02,
+    "totalLbp": 450000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
