@@ -18968,5 +18968,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1766930618646",
+    "ts": "2025-12-28T14:03:38.646147Z",
+    "createdAt": "2025-12-28T14:03:38.646147Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T14:03:38.646147Z"
+      }
+    ],
+    "customer": {
+      "name": "wassim sabeh",
+      "phone": "4368864659929",
+      "address": "home\nmedawar, barazi, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900175,35.533392"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1173",
+        "name": "PEPSI 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1173.jpg"
+      },
+      {
+        "id": "12608",
+        "name": "WINSTON ULTRA LIGHT",
+        "qty": 2,
+        "unitUsd": 2.12,
+        "totalUsd": 4.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12608.jpg"
+      },
+      {
+        "id": "1082",
+        "name": "ICEBERG  MILK SHAKE CHOCO 225ML",
+        "qty": 4,
+        "unitUsd": 0.56,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1082.jpg"
+      }
+    ],
+    "totalUsd": 8.21,
+    "totalLbp": 735000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
