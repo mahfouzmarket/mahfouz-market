@@ -19502,5 +19502,67 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
     "pickedUpAt": "2025-12-28T21:59:39.597006Z"
+  },
+  {
+    "orderId": "ord-1766962191843",
+    "ts": "2025-12-28T22:49:51.843595Z",
+    "createdAt": "2025-12-28T22:49:51.843595Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T22:49:51.843595Z"
+      }
+    ],
+    "customer": {
+      "name": "Robin",
+      "phone": "78883403",
+      "address": "rmeil\nrmeil, aleco, Floor 0, No Elevator · VGWG+FPV, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896296773527474,35.52667513489724"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1076",
+        "name": "DAIRY KHOURY DOUBLE CREME LIGHT 200GR",
+        "qty": 1,
+        "unitUsd": 3.49,
+        "totalUsd": 3.49,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1076.jpg"
+      },
+      {
+        "id": "13588",
+        "name": "LIPTON ICE TEA RED FRUITS DIET 320 ML CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13588.jpg"
+      },
+      {
+        "id": "1229",
+        "name": "LIPTON ICE TEA RED FRUIT 320ML CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1229.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.5,
+        "unitUsd": 2.23,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      }
+    ],
+    "totalUsd": 6.62,
+    "totalLbp": 592000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
