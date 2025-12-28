@@ -19042,5 +19042,45 @@
     "driverAckAt": "2025-12-28T14:15:04.242019Z",
     "pickedUpAt": "2025-12-28T14:25:08.680912Z",
     "deliveredAt": "2025-12-28T14:29:11.156832Z"
+  },
+  {
+    "orderId": "ord-1766934004657",
+    "ts": "2025-12-28T15:00:04.657537Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "9445",
+        "name": "PRIL SECRETS OF THE COOK LEMON 350 ML",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID9445.jpg"
+      },
+      {
+        "id": "14379",
+        "name": "DER GENERAL LAVENDER BLOSSOM 750 ML",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14379.jpg"
+      },
+      {
+        "id": "20947",
+        "name": "HARPIC LIQUID CITRUS POWER PLUS TOLITE CLEA",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20947.jpg"
+      }
+    ],
+    "totalUsd": 5.03,
+    "totalLbp": 450000
   }
 ]
