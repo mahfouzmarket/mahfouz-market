@@ -19253,5 +19253,83 @@
     "driverPhone": "961 71 067 636",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2025-12-28T18:16:25.839676Z"
+  },
+  {
+    "orderId": "ord-1766950380869",
+    "ts": "2025-12-28T19:33:00.869944Z",
+    "createdAt": "2025-12-28T19:33:00.869944Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T19:33:00.869944Z"
+      }
+    ],
+    "customer": {
+      "name": "Mona Karaki",
+      "phone": "71174644",
+      "address": "home\neskandar houbeiche, Yellow building, Floor 0, No Elevator · whatsapp when arrive",
+      "location": "https://www.google.com/maps?q=33.893012,35.529013"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18413",
+        "name": "AILA WAVE DARK CHOCOLATE NO ADDED SUGAR 4",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18413.jpg"
+      },
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      },
+      {
+        "id": "20784",
+        "name": "DUBAI ULKER 35G",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20784.jpg"
+      },
+      {
+        "id": "16169",
+        "name": "ELEGANCE SANDWICH LESS SUGAR % 50 GR",
+        "qty": 3,
+        "unitUsd": 0.39,
+        "totalUsd": 1.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16169.jpg"
+      },
+      {
+        "id": "5019",
+        "name": "ETI GONG HONEY MUSTARD 34 G",
+        "qty": 2,
+        "unitUsd": 0.5,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5019.jpg"
+      },
+      {
+        "id": "4769",
+        "name": "METRO 50.4GR",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4769.jpg"
+      }
+    ],
+    "totalUsd": 5.92,
+    "totalLbp": 530000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
