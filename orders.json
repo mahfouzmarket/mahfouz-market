@@ -18756,7 +18756,7 @@
     "createdAt": "2025-12-28T07:14:37.767325Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "ASSIGNED_DRIVER",
+    "status": "PICKED_UP",
     "statusHistory": [
       {
         "status": "NEW",
@@ -18835,7 +18835,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-28T07:15:28.793391Z",
+    "statusUpdatedAt": "2025-12-28T07:27:34.874350Z",
     "acceptedAt": "2025-12-28T07:15:28.793343Z",
     "takenBy": "Manager • Mahfouz • Geitawi",
     "assignedAt": "2025-12-28T07:15:28.793343Z",
@@ -18843,6 +18843,7 @@
     "driverName": "Manar",
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
-    "driverAckAt": ""
+    "driverAckAt": "",
+    "pickedUpAt": "2025-12-28T07:27:34.874350Z"
   }
 ]
