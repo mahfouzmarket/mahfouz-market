@@ -18749,5 +18749,91 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
     "pickedUpAt": "2025-12-28T00:02:47.913764Z"
+  },
+  {
+    "orderId": "ord-1766906077767",
+    "ts": "2025-12-28T07:14:37.767325Z",
+    "createdAt": "2025-12-28T07:14:37.767325Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T07:14:37.767325Z"
+      }
+    ],
+    "customer": {
+      "name": "youssef kiblawi",
+      "phone": "71831930",
+      "address": "geitaoui hospital\nGeitaoui, hospital building, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893972,35.530732"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "5359",
+        "name": "LURPACK BUTTER 200G",
+        "qty": 1,
+        "unitUsd": 3.07,
+        "totalUsd": 3.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5359.jpg"
+      },
+      {
+        "id": "2819",
+        "name": "LABAN ROUBO3 1KG",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2819.jpg"
+      },
+      {
+        "id": "20845",
+        "name": "LOZ AOUN MA2CHOUR 100G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20845.jpg"
+      },
+      {
+        "id": "19809",
+        "name": "MENTOS CHEWING GUM ICE ARCTIC MINT 11.44GR",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19809.jpg"
+      },
+      {
+        "id": "15745",
+        "name": "BANADOURA",
+        "qtyKg": 1.0,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg"
+      },
+      {
+        "id": "15758",
+        "name": "KIS TOUM",
+        "qtyKg": 0.3,
+        "unitUsd": 3.91,
+        "totalUsd": 1.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15758.jpg"
+      }
+    ],
+    "totalUsd": 10.83,
+    "totalLbp": 970000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
