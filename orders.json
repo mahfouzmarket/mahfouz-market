@@ -19094,5 +19094,155 @@
     "driverAckAt": "2025-12-28T15:07:58.116296Z",
     "pickedUpAt": "2025-12-28T15:07:38.398035Z",
     "deliveredAt": "2025-12-28T15:10:22.047112Z"
+  },
+  {
+    "orderId": "ord-1766944680408",
+    "ts": "2025-12-28T17:58:00.408758Z",
+    "createdAt": "2025-12-28T17:58:00.408758Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T17:58:00.408758Z"
+      }
+    ],
+    "customer": {
+      "name": "renee karam",
+      "phone": "78954698",
+      "address": "home\nrouphael, georges el helou, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899909,35.527181"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15980",
+        "name": "MASTER CERVY BABECUE 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15980.jpg"
+      },
+      {
+        "id": "17468",
+        "name": "MASTER COCKTAIL 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17468.jpg"
+      },
+      {
+        "id": "5784",
+        "name": "KLATCHI SUNFLOWER SALTED 250G",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5784.jpg"
+      },
+      {
+        "id": "1226",
+        "name": "LIPTON ICE TEA PEACH CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1226.jpg"
+      },
+      {
+        "id": "13602",
+        "name": "PEPSI DIET 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13602.jpg"
+      },
+      {
+        "id": "756",
+        "name": "F ARUBA ORANGE DRINK 30GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID756.jpg"
+      },
+      {
+        "id": "752",
+        "name": "F ARUBA PINEAPPLE DRINK 30GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID752.jpg"
+      },
+      {
+        "id": "10661",
+        "name": "ROSANA 270SHEETS 15%",
+        "qty": 2,
+        "unitUsd": 1.28,
+        "totalUsd": 2.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10661.jpg"
+      },
+      {
+        "id": "625",
+        "name": "CAFE SUPER BRASIL 180G",
+        "qty": 2,
+        "unitUsd": 4.02,
+        "totalUsd": 8.04,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID625.jpg"
+      },
+      {
+        "id": "14622",
+        "name": "NAJJAR INSTANT COFFEE GOLD 95 GR",
+        "qty": 2,
+        "unitUsd": 4.25,
+        "totalUsd": 8.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14622.jpg"
+      },
+      {
+        "id": "1977",
+        "name": "COFFEE-MATE PWDR ORGL FFRE 16OZ US",
+        "qty": 1,
+        "unitUsd": 5.92,
+        "totalUsd": 5.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1977.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "12963",
+        "name": "TANNOURINE WATER 0.5 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg"
+      },
+      {
+        "id": "20672",
+        "name": "AVOKA",
+        "qtyKg": 1.0,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20672.jpg"
+      },
+      {
+        "id": "15748",
+        "name": "MALFOUF AKHDAR",
+        "qtyKg": 1.0,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15748.jpg"
+      }
+    ],
+    "totalUsd": 41.34,
+    "totalLbp": 3700000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
