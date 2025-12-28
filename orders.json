@@ -19340,5 +19340,59 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1766952661420",
+    "ts": "2025-12-28T20:11:01.420769Z",
+    "createdAt": "2025-12-28T20:11:01.420769Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-28T20:11:01.420769Z"
+      }
+    ],
+    "customer": {
+      "name": "rana",
+      "phone": "03675906",
+      "address": "home\nشكري شقير, بناية ادم, Floor 3, No Elevator · البناية اللي فيها نزلة",
+      "location": "https://www.google.com/maps?q=33.892413,35.526524"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17179",
+        "name": "AQUAFINA WATER 2 L",
+        "qty": 3,
+        "unitUsd": 0.45,
+        "totalUsd": 1.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17179.jpg"
+      },
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "20965",
+        "name": "ALKORRA EXTRA VIRGIN OLIVE OIL 500 ML",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20965.jpg"
+      }
+    ],
+    "totalUsd": 6.93,
+    "totalLbp": 620000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
