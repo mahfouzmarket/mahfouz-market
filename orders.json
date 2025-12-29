@@ -19876,5 +19876,43 @@
     "driverAckAt": "2025-12-29T14:18:28.968313Z",
     "pickedUpAt": "2025-12-29T14:23:41.399052Z",
     "deliveredAt": "2025-12-29T14:32:13.094307Z"
+  },
+  {
+    "orderId": "ord-1767036067645",
+    "ts": "2025-12-29T19:21:07.645411Z",
+    "createdAt": "2025-12-29T19:21:07.645411Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-29T19:21:07.645411Z"
+      }
+    ],
+    "customer": {
+      "name": "ousama dakkak",
+      "phone": "70007817",
+      "address": "ashrafieh rmeil\nkhazinayn, tony saliba, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896209,35.527019"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19201",
+        "name": "DERONI TOMATO PASTE 660 G",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19201.jpg"
+      }
+    ],
+    "totalUsd": 2.18,
+    "totalLbp": 195000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
