@@ -19711,5 +19711,59 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1767007259238",
+    "ts": "2025-12-29T11:20:59.238787Z",
+    "createdAt": "2025-12-29T11:20:59.238787Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-29T11:20:59.238787Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15713",
+        "name": "ARUBA HOT CHOCOLATE DRINK LIGHT DARK 10 G",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15713.jpg"
+      },
+      {
+        "id": "18413",
+        "name": "AILA WAVE DARK CHOCOLATE NO ADDED SUGAR 4",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18413.jpg"
+      },
+      {
+        "id": "17636",
+        "name": "MASTER PUFFIES PEANUT BUTTER 170 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17636.jpg"
+      }
+    ],
+    "totalUsd": 2.13,
+    "totalLbp": 190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
