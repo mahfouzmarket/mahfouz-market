@@ -19925,5 +19925,67 @@
     "driverAckAt": "2025-12-29T19:27:32.549711Z",
     "pickedUpAt": "2025-12-29T19:27:40.842408Z",
     "deliveredAt": "2025-12-29T19:32:18.312305Z"
+  },
+  {
+    "orderId": "ord-1767043891762",
+    "ts": "2025-12-29T21:31:31.762842Z",
+    "createdAt": "2025-12-29T21:31:31.762842Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-29T21:31:31.762842Z"
+      }
+    ],
+    "customer": {
+      "name": "Nouh Saab",
+      "phone": "76841927",
+      "address": "XX\ngeitewi, Ayoub Building, Floor 1, No Elevator · near Armenian Evangelical Church\nlast building before Mar Mkhayel stairs",
+      "location": "https://www.google.com/maps?q=33.89685447566534,35.52710596472025"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2265",
+        "name": "AL FORNO WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2265.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "19232",
+        "name": "CAFE CREME VANILLA",
+        "qty": 1,
+        "unitUsd": 4.47,
+        "totalUsd": 4.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19232.jpg"
+      },
+      {
+        "id": "19231",
+        "name": "CAFE CREME COFFE",
+        "qty": 1,
+        "unitUsd": 4.47,
+        "totalUsd": 4.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19231.jpg"
+      }
+    ],
+    "totalUsd": 12.62,
+    "totalLbp": 1130000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
