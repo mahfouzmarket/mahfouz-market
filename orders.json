@@ -19998,5 +19998,51 @@
     "driverAckAt": "2025-12-29T21:39:30.460249Z",
     "pickedUpAt": "2025-12-29T21:40:46.573914Z",
     "deliveredAt": "2025-12-29T21:46:22.342739Z"
+  },
+  {
+    "orderId": "ord-1767047874626",
+    "ts": "2025-12-29T22:37:54.626566Z",
+    "createdAt": "2025-12-29T22:37:54.626566Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-29T22:37:54.626566Z"
+      }
+    ],
+    "customer": {
+      "name": "Amgad Osama",
+      "phone": "971556787171",
+      "address": "Spacious Nest\nQobayat, Sky Gate 1879, Floor 3, Elevator · Facing Global Digital",
+      "location": "https://www.google.com/maps?q=33.894798,35.531971"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12963",
+        "name": "TANNOURINE WATER 0.5 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg"
+      },
+      {
+        "id": "445",
+        "name": "ALMAZA 25 CL",
+        "qty": 6,
+        "unitUsd": 0.73,
+        "totalUsd": 4.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID445.jpg"
+      }
+    ],
+    "totalUsd": 7.17,
+    "totalLbp": 640000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
