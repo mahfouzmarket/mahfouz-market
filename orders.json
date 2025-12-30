@@ -20128,5 +20128,115 @@
     "driverAckAt": "",
     "pickedUpAt": "2025-12-30T12:22:13.580785Z",
     "deliveredAt": "2025-12-30T12:24:06.493526Z"
+  },
+  {
+    "orderId": "ord-1767114406102",
+    "ts": "2025-12-30T17:06:46.102658Z",
+    "createdAt": "2025-12-30T17:06:46.102658Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-30T17:06:46.102658Z"
+      }
+    ],
+    "customer": {
+      "name": "renee karam",
+      "phone": "78954698",
+      "address": "home\nrouphael, georges el helou, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899909,35.527181"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18944",
+        "name": "AL FORNO MINI BRIOCHE CHOCOLATE 4PCS",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18944.jpg"
+      },
+      {
+        "id": "5784",
+        "name": "KLATCHI SUNFLOWER SALTED 250G",
+        "qty": 2,
+        "unitUsd": 1.79,
+        "totalUsd": 3.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5784.jpg"
+      },
+      {
+        "id": "17265",
+        "name": "MASTER KETTLE COOKED SEA SALT & VINEGAR 270",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17265.jpg"
+      },
+      {
+        "id": "16955",
+        "name": "MASTER SITOS NACHO CHEESE 210 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16955.jpg"
+      },
+      {
+        "id": "17468",
+        "name": "MASTER COCKTAIL 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17468.jpg"
+      },
+      {
+        "id": "14837",
+        "name": "FANTASIA PICOBELLOS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14837.jpg"
+      },
+      {
+        "id": "6499",
+        "name": "MALING LUNCHEON MEAT MED",
+        "qty": 2,
+        "unitUsd": 2.63,
+        "totalUsd": 5.26,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6499.jpg"
+      },
+      {
+        "id": "3191",
+        "name": "NUTELLA 400G",
+        "qty": 1,
+        "unitUsd": 4.92,
+        "totalUsd": 4.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3191.jpg"
+      },
+      {
+        "id": "302",
+        "name": "JAMESON IRISH WISKEYE 70CL",
+        "qty": 1,
+        "unitUsd": 20.11,
+        "totalUsd": 20.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID302.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 5,
+        "unitUsd": 2.12,
+        "totalUsd": 10.6,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      }
+    ],
+    "totalUsd": 52.52,
+    "totalLbp": 4700000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
