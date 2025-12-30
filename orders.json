@@ -20338,5 +20338,131 @@
     "driverAckAt": "2025-12-30T23:15:39.860264Z",
     "pickedUpAt": "2025-12-30T23:29:15.102052Z",
     "deliveredAt": "2025-12-30T23:29:59.580596Z"
+  },
+  {
+    "orderId": "ord-1767139006927",
+    "ts": "2025-12-30T23:56:46.927901Z",
+    "createdAt": "2025-12-30T23:56:46.927901Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-30T23:56:46.927901Z"
+      }
+    ],
+    "customer": {
+      "name": "Moemen Lawah",
+      "phone": "70381775",
+      "address": "Home\ngietawi, blue gate, Floor 1, No Elevator · Entrance from back street Blue gate floor -1 call when u arrive",
+      "location": "https://www.google.com/maps?q=33.89583508022567,35.52505373954773"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14113",
+        "name": "NF BROWNI CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14113.jpg"
+      },
+      {
+        "id": "16799",
+        "name": "JELO STRAWBERY",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16799.jpg"
+      },
+      {
+        "id": "15215",
+        "name": "7 DAYS CROISSANT 40 G",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15215.jpg"
+      },
+      {
+        "id": "4823",
+        "name": "ADICTO GOLD 36 G",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4823.jpg"
+      },
+      {
+        "id": "4974",
+        "name": "BISKREM 50%ULKER",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4974.jpg"
+      },
+      {
+        "id": "20157",
+        "name": "ELEGANCE BISCOTTO BLACK & WHITE *2",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20157.jpg"
+      },
+      {
+        "id": "16582",
+        "name": "ELEGANCE BISCOTTO DOUBLE CHOCOLATE 34G",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16582.jpg"
+      },
+      {
+        "id": "17553",
+        "name": "ELEGANCE BISCOTTO VANILLA 34 G",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17553.jpg"
+      },
+      {
+        "id": "2493",
+        "name": "ENGLISH CAKE DOUBLE CHOCOLATE 40 GR",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2493.jpg"
+      },
+      {
+        "id": "14443",
+        "name": "ENGLISH CAKE CHOCOLATE 40 GR",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14443.jpg"
+      },
+      {
+        "id": "4081",
+        "name": "HANIMELLER",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4081.jpg"
+      },
+      {
+        "id": "4747",
+        "name": "HALLEY 66GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4747.jpg"
+      }
+    ],
+    "totalUsd": 10.92,
+    "totalLbp": 975000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
