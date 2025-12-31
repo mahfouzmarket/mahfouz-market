@@ -20835,5 +20835,91 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1767204287900",
+    "ts": "2025-12-31T18:04:47.900368Z",
+    "createdAt": "2025-12-31T18:04:47.900368Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T18:04:47.900368Z"
+      }
+    ],
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13995",
+        "name": "INTESA STYLING MOUSSE 278 GR",
+        "qty": 1,
+        "unitUsd": 3.35,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13995.jpg"
+      },
+      {
+        "id": "18815",
+        "name": "AL FORNO PITA BREADNO ADDED SUGAR",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18815.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "14845",
+        "name": "FANTASIA ORIGINAL CHIPS 65 GR",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14845.jpg"
+      },
+      {
+        "id": "14838",
+        "name": "FANTASIA WOKKELS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14838.jpg"
+      },
+      {
+        "id": "13813",
+        "name": "DANWAY SPREAD 350 GR",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13813.jpg"
+      },
+      {
+        "id": "16526",
+        "name": "TROPICANA STRAWBERRY DIET",
+        "qty": 2,
+        "unitUsd": 0.39,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16526.jpg"
+      }
+    ],
+    "totalUsd": 11.79,
+    "totalLbp": 1055000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
