@@ -20941,5 +20941,99 @@
     "driverPhone": "961 76 736 122",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1767204981738",
+    "ts": "2025-12-31T18:16:21.738500Z",
+    "createdAt": "2025-12-31T18:16:21.738500Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T18:16:21.738500Z"
+      }
+    ],
+    "customer": {
+      "name": "Fadi",
+      "phone": "81215392",
+      "address": "Home\nGeitaoui street, Tony, Floor 1, Elevator · Facing Geitaoui hospital",
+      "location": "https://www.google.com/maps?q=33.893357,35.530632"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19644",
+        "name": "ALTAYYAR STUFFED GREAPE LEAVES 400 G",
+        "qty": 2,
+        "unitUsd": 2.12,
+        "totalUsd": 4.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19644.jpg"
+      },
+      {
+        "id": "19499",
+        "name": "SNIPS CORN COBS SWEET CHILI CORN 220G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19499.jpg"
+      },
+      {
+        "id": "13903",
+        "name": "ERKO MALLOW PLUS MALLOW FUN WHITE 70 GR",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13903.jpg"
+      },
+      {
+        "id": "19501",
+        "name": "SNIPS PRETZELS THINS HONEY MUSTARD 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19501.jpg"
+      },
+      {
+        "id": "6200",
+        "name": "ARCHI KERNELS 275G",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6200.jpg"
+      },
+      {
+        "id": "6189",
+        "name": "ARCHI MIXED NUTS 200G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6189.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      },
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      }
+    ],
+    "totalUsd": 15.37,
+    "totalLbp": 1375000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
