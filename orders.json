@@ -21048,5 +21048,59 @@
     "driverAckAt": "2025-12-31T18:39:19.415786Z",
     "pickedUpAt": "2025-12-31T18:43:19.808793Z",
     "deliveredAt": "2025-12-31T18:52:37.421049Z"
+  },
+  {
+    "orderId": "ord-1767215379125",
+    "ts": "2025-12-31T21:09:39.125977Z",
+    "createdAt": "2025-12-31T21:09:39.125977Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T21:09:39.125977Z"
+      }
+    ],
+    "customer": {
+      "name": "arsen Khachadourian",
+      "phone": "81845498",
+      "address": "اشرفيه\nشارع صلاح لبكي, الهاشم, الطابق 1, بدون مصعد · من مقابل مدرسة تلت قمار  بتفوت بال شارع في مطعم moules Et frites",
+      "location": "https://www.google.com/maps?q=33.894914,35.520192"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12707",
+        "name": "CEDARS SILVER SOFT",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12707.jpg"
+      },
+      {
+        "id": "12579",
+        "name": "KENT SILVER",
+        "qty": 2,
+        "unitUsd": 1.84,
+        "totalUsd": 3.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12579.jpg"
+      },
+      {
+        "id": "12602",
+        "name": "MARLBORO FLIP TOP BOX",
+        "qty": 1,
+        "unitUsd": 2.68,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12602.jpg"
+      }
+    ],
+    "totalUsd": 9.03,
+    "totalLbp": 810000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
