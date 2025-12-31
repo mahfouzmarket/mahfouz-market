@@ -20645,7 +20645,7 @@
     "createdAt": "2025-12-31T09:48:09.737156Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "NEW",
+    "status": "CANCELLED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -20683,6 +20683,12 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "cancelledAt": "2025-12-31T09:48:57.747389Z",
+    "statusUpdatedAt": "2025-12-31T09:48:57.747389Z",
+    "cancelledBy": "customer",
+    "cancelReason": "no club sandwich",
+    "cancel_reason": "no club sandwich",
+    "cancelledReason": "no club sandwich"
   }
 ]
