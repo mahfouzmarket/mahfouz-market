@@ -21113,5 +21113,51 @@
     "driverAckAt": "2025-12-31T21:11:55.916347Z",
     "pickedUpAt": "2025-12-31T21:14:50.164643Z",
     "deliveredAt": "2025-12-31T21:19:58.965966Z"
+  },
+  {
+    "orderId": "ord-1767216360641",
+    "ts": "2025-12-31T21:26:00.641871Z",
+    "createdAt": "2025-12-31T21:26:00.641871Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T21:26:00.641871Z"
+      }
+    ],
+    "customer": {
+      "name": "marylyn maatouk",
+      "phone": "76798818",
+      "address": "karem el zeitoun\nbwej l tromba, warde bldg, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.888198,35.528822"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10980",
+        "name": "PRIVATE MAXI 16+8 FREE",
+        "qty": 1,
+        "unitUsd": 2.51,
+        "totalUsd": 2.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10980.jpg"
+      },
+      {
+        "id": "14326",
+        "name": "PRIVATE X-TH NIGHT 7",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14326.jpg"
+      }
+    ],
+    "totalUsd": 4.96,
+    "totalLbp": 445000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
