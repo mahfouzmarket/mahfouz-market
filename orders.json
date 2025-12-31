@@ -20464,5 +20464,99 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1767141320500",
+    "ts": "2025-12-31T00:35:20.500887Z",
+    "createdAt": "2025-12-31T00:35:20.500887Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T00:35:20.500887Z"
+      }
+    ],
+    "customer": {
+      "name": "ghina naja",
+      "phone": "71351207",
+      "address": "al roum hospital\nal roum hospital, emergency department, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893349,35.523799"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "805",
+        "name": "MR JUICE PINEAPPLE 180 ML",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID805.jpg"
+      },
+      {
+        "id": "707",
+        "name": "MR. JUICY ORANGE 200ML",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID707.jpg"
+      },
+      {
+        "id": "696",
+        "name": "MACCAW EXOTIC FRUIT 200ML",
+        "qty": 3,
+        "unitUsd": 0.34,
+        "totalUsd": 1.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID696.jpg"
+      },
+      {
+        "id": "19054",
+        "name": "MASTER BUIES CHEEZ BALLS 140G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19054.jpg"
+      },
+      {
+        "id": "20548",
+        "name": "LAYS SALT & VINEGAR 45 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20548.jpg"
+      },
+      {
+        "id": "16166",
+        "name": "MASTER HOT CHILI 180G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16166.jpg"
+      },
+      {
+        "id": "4188",
+        "name": "ALBENI KEK 35G",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4188.jpg"
+      },
+      {
+        "id": "15509",
+        "name": "ETI POP KEK BANANA 45 G",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15509.jpg"
+      }
+    ],
+    "totalUsd": 6.61,
+    "totalLbp": 590000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
