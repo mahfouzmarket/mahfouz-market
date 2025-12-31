@@ -21170,5 +21170,131 @@
     "driverAckAt": "2025-12-31T21:47:06.574452Z",
     "pickedUpAt": "2025-12-31T21:48:48.248235Z",
     "deliveredAt": "2025-12-31T21:54:11.231144Z"
+  },
+  {
+    "orderId": "ord-1767221985148",
+    "ts": "2025-12-31T22:59:45.148349Z",
+    "createdAt": "2025-12-31T22:59:45.148349Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T22:59:45.148349Z"
+      }
+    ],
+    "customer": {
+      "name": "Moemen Lawah",
+      "phone": "70381775",
+      "address": "Home\ngietawi, blue gate, Floor 1, No Elevator · Entrance from back street Blue gate floor -1 call when u arrive",
+      "location": "https://www.google.com/maps?q=33.89583508022567,35.52505373954773"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "413",
+        "name": "ALMAZA CAN 33CL",
+        "qty": 2,
+        "unitUsd": 1.17,
+        "totalUsd": 2.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID413.jpg"
+      },
+      {
+        "id": "455",
+        "name": "ALMAZA CAN 50 CL",
+        "qty": 2,
+        "unitUsd": 1.23,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID455.jpg"
+      },
+      {
+        "id": "19978",
+        "name": "ALPH LIGHTERS",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19978.jpg"
+      },
+      {
+        "id": "13145",
+        "name": "ALPH CHALUMEAU LIGHTER CLICK",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13145.jpg"
+      },
+      {
+        "id": "13144",
+        "name": "ALPH 818 MONSTER LIGHTER CLICK",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13144.jpg"
+      },
+      {
+        "id": "1685",
+        "name": "BIG BABOOL MEGA FUN BERRIES 27G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1685.jpg"
+      },
+      {
+        "id": "13909",
+        "name": "MENTOS 3D FINSEAL FRESHMINT 5PCS",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13909.jpg"
+      },
+      {
+        "id": "19820",
+        "name": "MENTOS CHEWING GUM WHITE TUTTI FRUTTI SUGA",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19820.jpg"
+      },
+      {
+        "id": "19574",
+        "name": "LEGACY DUAL FUSION",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19574.jpg"
+      },
+      {
+        "id": "13143",
+        "name": "Halls",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13143.jpg"
+      },
+      {
+        "id": "10546",
+        "name": "GIPSY WIPES 100S",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10546.jpg"
+      },
+      {
+        "id": "16294",
+        "name": "ROSANA PREMIUM QUALITY 200 GR",
+        "qty": 4,
+        "unitUsd": 0.78,
+        "totalUsd": 3.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16294.jpg"
+      }
+    ],
+    "totalUsd": 15.87,
+    "totalLbp": 1420000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
