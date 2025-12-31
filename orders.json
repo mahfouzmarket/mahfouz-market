@@ -20692,5 +20692,91 @@
     "cancelReason": "no club sandwich",
     "cancel_reason": "no club sandwich",
     "cancelledReason": "no club sandwich"
+  },
+  {
+    "orderId": "ord-1767195570760",
+    "ts": "2025-12-31T15:39:30.760923Z",
+    "createdAt": "2025-12-31T15:39:30.760923Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T15:39:30.760923Z"
+      }
+    ],
+    "customer": {
+      "name": "صقر جراد",
+      "phone": "963951348432",
+      "address": "محل حيوانات بلو تيلز\nشارع برازي, بلو تيلز, الطابق 1, بدون مصعد · صغر",
+      "location": "https://www.google.com/maps?q=33.900017,35.533472"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17008",
+        "name": "SNIPS CORN COBS 250 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17008.jpg"
+      },
+      {
+        "id": "12896",
+        "name": "XXL ENERGY 500 ML",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12896.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "6091",
+        "name": "CASTANIA REGULAR MIX 300G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6091.jpg"
+      },
+      {
+        "id": "13505",
+        "name": "ALTAGHZIAH CHICKEN LUNCHEON 340 GR",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13505.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      }
+    ],
+    "totalUsd": 9.81,
+    "totalLbp": 880000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
