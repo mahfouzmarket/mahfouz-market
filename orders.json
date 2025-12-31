@@ -20583,5 +20583,51 @@
     "driverAckAt": "2025-12-31T00:44:45.944788Z",
     "pickedUpAt": "2025-12-31T00:48:19.448453Z",
     "deliveredAt": "2025-12-31T00:55:58.076874Z"
+  },
+  {
+    "orderId": "ord-1767173249979",
+    "ts": "2025-12-31T09:27:29.979882Z",
+    "createdAt": "2025-12-31T09:27:29.979882Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T09:27:29.979882Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19838",
+        "name": "GOOD MORNING CROISSANT CHEESE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19838.jpg"
+      },
+      {
+        "id": "15714",
+        "name": "ARUBA HOT CHOCOLATE MOCKA LIGHT 10 G",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15714.jpg"
+      }
+    ],
+    "totalUsd": 1.29,
+    "totalLbp": 115000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
