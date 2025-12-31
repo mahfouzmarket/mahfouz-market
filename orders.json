@@ -20638,5 +20638,51 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2025-12-31T09:32:40.573282Z"
+  },
+  {
+    "orderId": "ord-1767174489737",
+    "ts": "2025-12-31T09:48:09.737156Z",
+    "createdAt": "2025-12-31T09:48:09.737156Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T09:48:09.737156Z"
+      }
+    ],
+    "customer": {
+      "name": "elie flouty",
+      "phone": "76500282",
+      "address": "karantina Medawar 1200 bldg.6 flr.\nmain near general security, Medawar 1200, Floor 6, Elevator",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13608",
+        "name": "SEVEN UP DIET CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13608.jpg"
+      },
+      {
+        "id": "15137",
+        "name": "TEREA AMBER",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15137.jpg"
+      }
+    ],
+    "totalUsd": 8.94,
+    "totalLbp": 800000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
