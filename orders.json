@@ -20789,5 +20789,51 @@
     "driverAckAt": "2025-12-31T16:01:00.061076Z",
     "pickedUpAt": "2025-12-31T16:00:40.205384Z",
     "deliveredAt": "2025-12-31T16:13:26.784194Z"
+  },
+  {
+    "orderId": "ord-1767203882253",
+    "ts": "2025-12-31T17:58:02.253222Z",
+    "createdAt": "2025-12-31T17:58:02.253222Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2025-12-31T17:58:02.253222Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "404",
+        "name": "ALMAZA LIGHT 33 CL",
+        "qty": 2,
+        "unitUsd": 1.34,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID404.jpg"
+      },
+      {
+        "id": "13905",
+        "name": "I LOVE MY CAT CHUNKS WITH CHICKEN 400GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13905.jpg"
+      }
+    ],
+    "totalUsd": 4.08,
+    "totalLbp": 365000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
