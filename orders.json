@@ -21757,5 +21757,99 @@
     "driverAckAt": "2026-01-01T16:52:01.760795Z",
     "pickedUpAt": "2026-01-01T16:59:27.003645Z",
     "deliveredAt": "2026-01-01T17:04:57.938111Z"
+  },
+  {
+    "orderId": "ord-1767303013198",
+    "ts": "2026-01-01T21:30:13.198882Z",
+    "createdAt": "2026-01-01T21:30:13.198882Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-01T21:30:13.198882Z"
+      }
+    ],
+    "customer": {
+      "name": "elissar daher",
+      "phone": "71815615",
+      "address": "geitaoui hospital\ngeitaoui, urgences, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893620,35.530201"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6104",
+        "name": "AL KAZZI EXTRA 300GR",
+        "qty": 1,
+        "unitUsd": 2.74,
+        "totalUsd": 2.74,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6104.jpg"
+      },
+      {
+        "id": "15403",
+        "name": "KETTLE COOKED SEA SALT & VINEGAR 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15403.jpg"
+      },
+      {
+        "id": "16788",
+        "name": "SNIPS PEANUT CURLS 250 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16788.jpg"
+      },
+      {
+        "id": "20544",
+        "name": "CHEETOS CRUNCHY CHEESE 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20544.jpg"
+      },
+      {
+        "id": "4563",
+        "name": "ETI WAFE UP WITH MILK CHOCOLATE CREAM 40G*",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4563.jpg"
+      },
+      {
+        "id": "4403",
+        "name": "ETI WAFE UP 39.5G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4403.jpg"
+      },
+      {
+        "id": "4405",
+        "name": "ETI DIGESTIVE .155G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4405.jpg"
+      },
+      {
+        "id": "19128",
+        "name": "ERKO JAM FILLING STRAWBERRY 80 G",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19128.jpg"
+      }
+    ],
+    "totalUsd": 10.41,
+    "totalLbp": 930000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
