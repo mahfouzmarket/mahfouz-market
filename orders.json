@@ -21422,5 +21422,99 @@
     "driverAckAt": "2026-01-01T01:01:25.805211Z",
     "pickedUpAt": "2026-01-01T01:01:22.034463Z",
     "deliveredAt": "2026-01-01T01:01:35.066511Z"
+  },
+  {
+    "orderId": "ord-1767229594936",
+    "ts": "2026-01-01T01:06:34.936842Z",
+    "createdAt": "2026-01-01T01:06:34.936842Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-01T01:06:34.936842Z"
+      }
+    ],
+    "customer": {
+      "name": "jalal",
+      "phone": "03051382",
+      "address": "j3itewe\ngabi, bou khalil, Floor 0, No Elevator · nazlet na2shet",
+      "location": "https://www.google.com/maps?q=33.891987,35.531223"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16850",
+        "name": "TURKEY AND CHEESE BROWN",
+        "qty": 1,
+        "unitUsd": 4.25,
+        "totalUsd": 4.25,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16850.jpg"
+      },
+      {
+        "id": "13602",
+        "name": "PEPSI DIET 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13602.jpg"
+      },
+      {
+        "id": "20546",
+        "name": "DORITOS SWEET CHILI PEPPER",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20546.jpg"
+      },
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "17049",
+        "name": "CHUPA CHUPS XXL STRAWBERRY 29 G",
+        "qty": 4,
+        "unitUsd": 0.73,
+        "totalUsd": 2.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17049.jpg"
+      },
+      {
+        "id": "14986",
+        "name": "KINDER JOY 20 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14986.jpg"
+      },
+      {
+        "id": "20936",
+        "name": "KINDER CREAMY 19G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20936.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      }
+    ],
+    "totalUsd": 14.49,
+    "totalLbp": 1295000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
