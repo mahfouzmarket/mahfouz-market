@@ -21318,5 +21318,45 @@
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2025-12-31T23:04:08.537162Z",
     "deliveredAt": "2025-12-31T23:28:16.087263Z"
+  },
+  {
+    "orderId": "ord-1767227812610",
+    "ts": "2026-01-01T00:36:52.610791Z",
+    "branch": "Geitawi",
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17265",
+        "name": "MASTER KETTLE COOKED SEA SALT & VINEGAR 270",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17265.jpg"
+      },
+      {
+        "id": "16845",
+        "name": "AL FORNO SOFT WHITE SESAME 5 PCS",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16845.jpg"
+      },
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      }
+    ],
+    "totalUsd": 4.59,
+    "totalLbp": 410000
   }
 ]
