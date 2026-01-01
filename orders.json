@@ -21529,5 +21529,59 @@
     "driverAckAt": "2026-01-01T01:45:42.648262Z",
     "pickedUpAt": "2026-01-01T01:50:17.467451Z",
     "deliveredAt": "2026-01-01T08:47:01.960744Z"
+  },
+  {
+    "orderId": "ord-1767271666648",
+    "ts": "2026-01-01T12:47:46.648702Z",
+    "createdAt": "2026-01-01T12:47:46.648702Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-01T12:47:46.648702Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2811",
+        "name": "KHOURY LABAN BALADY 1KG",
+        "qty": 1,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2811.jpg"
+      },
+      {
+        "id": "2125",
+        "name": "HOMMOS SIA",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2125.jpg"
+      },
+      {
+        "id": "7310",
+        "name": "AL FORNO MARKOUK OAT 190GR 7 PCS",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7310.jpg"
+      }
+    ],
+    "totalUsd": 5.98,
+    "totalLbp": 535000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
