@@ -21676,5 +21676,75 @@
     "driverAckAt": "2026-01-01T14:00:19.365658Z",
     "pickedUpAt": "2026-01-01T14:06:33.362335Z",
     "deliveredAt": "2026-01-01T14:11:01.726223Z"
+  },
+  {
+    "orderId": "ord-1767285844077",
+    "ts": "2026-01-01T16:44:04.077932Z",
+    "createdAt": "2026-01-01T16:44:04.077932Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-01T16:44:04.077932Z"
+      }
+    ],
+    "customer": {
+      "name": "كريم نوفل",
+      "phone": "71369377",
+      "address": "المنزل\nمستشفى الروم - شارع الوزير طارق متري, بناية ريشا, الطابق 3, مصعد · النزلة بوجه بيت الكتائب - بأخر النزلة عاليسار البناية مقابل الخياط ميشال",
+      "location": "https://www.google.com/maps?q=33.895998,35.525400"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19427",
+        "name": "EVERVESS TONIC 250 ML",
+        "qty": 3,
+        "unitUsd": 0.67,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19427.jpg"
+      },
+      {
+        "id": "699",
+        "name": "MACCAW APPLE 1L",
+        "qty": 1,
+        "unitUsd": 1.84,
+        "totalUsd": 1.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID699.jpg"
+      },
+      {
+        "id": "19114",
+        "name": "EVERVESS SPARKLING WATER 250 ML",
+        "qty": 3,
+        "unitUsd": 0.67,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19114.jpg"
+      },
+      {
+        "id": "15557",
+        "name": "AL KAZZI SALTED ALMONDS 30 GR",
+        "qty": 1,
+        "unitUsd": 0.95,
+        "totalUsd": 0.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15557.jpg"
+      },
+      {
+        "id": "5841",
+        "name": "KLATCHI SUN FLOWERE KERNELS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5841.jpg"
+      }
+    ],
+    "totalUsd": 9.83,
+    "totalLbp": 880000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
