@@ -21862,5 +21862,43 @@
     "driverAckAt": "2026-01-01T21:34:21.796273Z",
     "pickedUpAt": "2026-01-01T21:43:17.380178Z",
     "deliveredAt": "2026-01-01T21:47:45.310631Z"
+  },
+  {
+    "orderId": "ord-1767313288911",
+    "ts": "2026-01-02T00:21:28.911084Z",
+    "createdAt": "2026-01-02T00:21:28.911084Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-02T00:21:28.911084Z"
+      }
+    ],
+    "customer": {
+      "name": "No name",
+      "phone": "81418492",
+      "address": "Home\nBadawi, B, Floor 2, Elevator · VGRM+W4F, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.8925008,35.5328048"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12742",
+        "name": "WINSTON COMPACT BLUE",
+        "qty": 2,
+        "unitUsd": 2.01,
+        "totalUsd": 4.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12742.jpg"
+      }
+    ],
+    "totalUsd": 5.25,
+    "totalLbp": 470000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
