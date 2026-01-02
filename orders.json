@@ -22089,5 +22089,43 @@
     "driverAckAt": "2026-01-02T13:35:49.996179Z",
     "pickedUpAt": "2026-01-02T13:43:04.657178Z",
     "deliveredAt": "2026-01-02T13:43:10.366544Z"
+  },
+  {
+    "orderId": "ord-1767384642748",
+    "ts": "2026-01-02T20:10:42.748998Z",
+    "createdAt": "2026-01-02T20:10:42.748998Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-02T20:10:42.748998Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6103",
+        "name": "AL KAZZI KERNELS 300GR",
+        "qty": 1,
+        "unitUsd": 6.09,
+        "totalUsd": 6.09,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6103.jpg"
+      }
+    ],
+    "totalUsd": 6.48,
+    "totalLbp": 580000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
