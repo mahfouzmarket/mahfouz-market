@@ -22372,5 +22372,43 @@
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2026-01-03T18:11:43.925428Z",
     "deliveredAt": "2026-01-03T18:25:49.660190Z"
+  },
+  {
+    "orderId": "ord-1767470044706",
+    "ts": "2026-01-03T19:54:04.706003Z",
+    "createdAt": "2026-01-03T19:54:04.706003Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-03T19:54:04.706003Z"
+      }
+    ],
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.886150,35.521960"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21037",
+        "name": "AL FORNO BREAD CANAPES MULTICEREAL 200G",
+        "qty": 3,
+        "unitUsd": 1.79,
+        "totalUsd": 5.37,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21037.jpg"
+      }
+    ],
+    "totalUsd": 6.26,
+    "totalLbp": 560000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
