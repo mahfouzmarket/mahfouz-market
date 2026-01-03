@@ -22318,5 +22318,43 @@
     "driverPhone": "961 76 736 122",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1767463740674",
+    "ts": "2026-01-03T18:09:00.674774Z",
+    "createdAt": "2026-01-03T18:09:00.674774Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-03T18:09:00.674774Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14078",
+        "name": "ALMAZA LIGHT 25 CL",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14078.jpg"
+      }
+    ],
+    "totalUsd": 2.17,
+    "totalLbp": 195000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
