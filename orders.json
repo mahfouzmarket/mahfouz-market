@@ -22852,5 +22852,59 @@
     "driverAckAt": "2026-01-04T01:57:08.396487Z",
     "pickedUpAt": "2026-01-04T02:01:08.357522Z",
     "deliveredAt": "2026-01-04T02:05:25.783297Z"
+  },
+  {
+    "orderId": "ord-1767516477495",
+    "ts": "2026-01-04T08:47:57.495453Z",
+    "createdAt": "2026-01-04T08:47:57.495453Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-04T08:47:57.495453Z"
+      }
+    ],
+    "customer": {
+      "name": "issraa",
+      "phone": "81796619",
+      "address": "work\nkarantina, karantina hospital, Floor 1, Elevator · karantina",
+      "location": "https://www.google.com/maps?q=33.902817,35.530081"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17468",
+        "name": "MASTER COCKTAIL 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17468.jpg"
+      },
+      {
+        "id": "16166",
+        "name": "MASTER HOT CHILI 180G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16166.jpg"
+      },
+      {
+        "id": "3817",
+        "name": "MASTER KETTLE 90G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3817.jpg"
+      }
+    ],
+    "totalUsd": 3.42,
+    "totalLbp": 305000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
