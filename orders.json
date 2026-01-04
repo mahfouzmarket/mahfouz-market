@@ -22529,5 +22529,219 @@
     "driverAckAt": "2026-01-03T20:09:50.034982Z",
     "pickedUpAt": "2026-01-03T20:16:30.646420Z",
     "deliveredAt": "2026-01-03T20:18:00.135394Z"
+  },
+  {
+    "orderId": "ord-1767486663353",
+    "ts": "2026-01-04T00:31:03.353322Z",
+    "createdAt": "2026-01-04T00:31:03.353322Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-04T00:31:03.353322Z"
+      }
+    ],
+    "customer": {
+      "name": "aliaa",
+      "phone": "81834890",
+      "address": "sab building 4th floor aprt c4\natlier nano, saba, Floor 4, Elevator",
+      "location": "https://www.google.com/maps?q=33.896486,35.529657"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 5,
+        "unitUsd": 0.73,
+        "totalUsd": 3.65,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      },
+      {
+        "id": "1205",
+        "name": "RED BULL 250ML",
+        "qty": 6,
+        "unitUsd": 1.68,
+        "totalUsd": 10.08,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1205.jpg"
+      },
+      {
+        "id": "14022",
+        "name": "REDBULL SUGARFREE 250 ML",
+        "qty": 4,
+        "unitUsd": 1.68,
+        "totalUsd": 6.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14022.jpg"
+      },
+      {
+        "id": "12963",
+        "name": "TANNOURINE WATER 0.5 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg"
+      },
+      {
+        "id": "13610",
+        "name": "MIRANDA  CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13610.jpg"
+      },
+      {
+        "id": "20578",
+        "name": "DORITOS SWEET CHILI PEPPER 100 G",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20578.jpg"
+      },
+      {
+        "id": "20542",
+        "name": "CHEETOS BUFFS CHEESE 20 G",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20542.jpg"
+      },
+      {
+        "id": "20547",
+        "name": "LAYS SALT 45 G",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20547.jpg"
+      },
+      {
+        "id": "20549",
+        "name": "LAYS TOMATO KETCHUP 45 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20549.jpg"
+      },
+      {
+        "id": "15366",
+        "name": "PRINGLES CHEESY CHEESE 165 G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15366.jpg"
+      },
+      {
+        "id": "14961",
+        "name": "INDOMIE CHICKEN CURRY 60 GR",
+        "qty": 4,
+        "unitUsd": 0.84,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14961.jpg"
+      },
+      {
+        "id": "16107",
+        "name": "INDOMIE VEGETABLES FLAVOUR 60GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16107.jpg"
+      },
+      {
+        "id": "16379",
+        "name": "INDOMIE CURRY FLAVOUR 60 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16379.jpg"
+      },
+      {
+        "id": "14962",
+        "name": "INDOMIE VEGETABLES 60GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14962.jpg"
+      },
+      {
+        "id": "16106",
+        "name": "INDOMIE CHICKEN FLAVOUR 60 G",
+        "qty": 2,
+        "unitUsd": 0.84,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16106.jpg"
+      },
+      {
+        "id": "20550",
+        "name": "LAYS FRENCH CHEESE 45 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20550.jpg"
+      },
+      {
+        "id": "20551",
+        "name": "LAYS TOMATO KETCHUP 155 G",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20551.jpg"
+      },
+      {
+        "id": "19503",
+        "name": "SNIPS PRETZELS THINS CHEESE 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19503.jpg"
+      },
+      {
+        "id": "19501",
+        "name": "SNIPS PRETZELS THINS HONEY MUSTARD 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19501.jpg"
+      },
+      {
+        "id": "19830",
+        "name": "FORNO CROISANT CHEESE",
+        "qty": 3,
+        "unitUsd": 0.61,
+        "totalUsd": 1.83,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19830.jpg"
+      },
+      {
+        "id": "20804",
+        "name": "KINDER BUENO WHITE 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20804.jpg"
+      },
+      {
+        "id": "3928",
+        "name": "M & M PEANUT",
+        "qty": 5,
+        "unitUsd": 0.89,
+        "totalUsd": 4.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3928.jpg"
+      },
+      {
+        "id": "3927",
+        "name": "M & M CHOCO",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3927.jpg"
+      }
+    ],
+    "totalUsd": 55.58,
+    "totalLbp": 4970000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
