@@ -22754,5 +22754,91 @@
     "driverAckAt": "2026-01-04T00:32:55.401697Z",
     "pickedUpAt": "2026-01-04T00:48:24.527499Z",
     "deliveredAt": "2026-01-04T01:03:35.536018Z"
+  },
+  {
+    "orderId": "ord-1767491336401",
+    "ts": "2026-01-04T01:48:56.401787Z",
+    "createdAt": "2026-01-04T01:48:56.401787Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-04T01:48:56.401787Z"
+      }
+    ],
+    "customer": {
+      "name": "jalal",
+      "phone": "03051382",
+      "address": "j3itewe\ngabi, bou khalil, Floor 0, No Elevator · nazlet na2shet",
+      "location": "https://www.google.com/maps?q=33.891987,35.531223"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "5781",
+        "name": "KLATCHI SUGARED CHICKPEAS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5781.jpg"
+      },
+      {
+        "id": "3825",
+        "name": "MASTER MIXED KERNELSS",
+        "qty": 1,
+        "unitUsd": 4.58,
+        "totalUsd": 4.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3825.jpg"
+      },
+      {
+        "id": "17274",
+        "name": "KTEER TAYIB PICKLED SLICED MIXED 700 G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17274.jpg"
+      },
+      {
+        "id": "18997",
+        "name": "WILCO CHICKEN NUGGETS 500 G",
+        "qty": 1,
+        "unitUsd": 3.58,
+        "totalUsd": 3.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18997.jpg"
+      },
+      {
+        "id": "13603",
+        "name": "MIRANDA 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13603.jpg"
+      },
+      {
+        "id": "15750",
+        "name": "BATATA",
+        "qtyKg": 2.0,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15750.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.5,
+        "unitUsd": 2.23,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      }
+    ],
+    "totalUsd": 16.69,
+    "totalLbp": 1495000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
