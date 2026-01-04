@@ -22988,5 +22988,43 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1767540722938",
+    "ts": "2026-01-04T15:32:02.938807Z",
+    "createdAt": "2026-01-04T15:32:02.938807Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-04T15:32:02.938807Z"
+      }
+    ],
+    "customer": {
+      "name": "Michele Paulikevitch",
+      "phone": "03913014",
+      "address": "Home\nAssad Rustom street, Youssef Chalita building, Floor 3, Elevator · Ekhir bineye bil chare3 (tari2 msakara) \nElevator available only when EDL",
+      "location": "https://www.google.com/maps?q=33.89090852626825,35.53124662488699"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "463",
+        "name": "GAS CYLINDER 10K",
+        "qty": 1,
+        "unitUsd": 14.53,
+        "totalUsd": 14.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID463.jpg"
+      }
+    ],
+    "totalUsd": 15.65,
+    "totalLbp": 1400000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
