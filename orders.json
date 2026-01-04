@@ -23265,5 +23265,67 @@
     "driverAckAt": "2026-01-04T21:14:42.665636Z",
     "pickedUpAt": "2026-01-04T21:18:04.564979Z",
     "deliveredAt": "2026-01-04T21:26:08.124148Z"
+  },
+  {
+    "orderId": "ord-1767562678616",
+    "ts": "2026-01-04T21:37:58.616281Z",
+    "createdAt": "2026-01-04T21:37:58.616281Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-04T21:37:58.616281Z"
+      }
+    ],
+    "customer": {
+      "name": "Fadi",
+      "phone": "81215392",
+      "address": "Home\nGeitaoui street, Tony, Floor 1, Elevator · Facing Geitaoui hospital",
+      "location": "https://www.google.com/maps?q=33.893357,35.530632"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13508",
+        "name": "ALTAGHZIAH MEAT LUNCHEON 200 GR",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13508.jpg"
+      },
+      {
+        "id": "3082",
+        "name": "LABNEH KHOURY 900G + OFFER",
+        "qty": 1,
+        "unitUsd": 5.53,
+        "totalUsd": 5.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3082.jpg"
+      },
+      {
+        "id": "5449",
+        "name": "WHITE EGGS 1PC",
+        "qty": 5,
+        "unitUsd": 0.17,
+        "totalUsd": 0.85,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5449.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      }
+    ],
+    "totalUsd": 8.72,
+    "totalLbp": 780000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
