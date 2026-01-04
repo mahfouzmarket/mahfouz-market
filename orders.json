@@ -23095,5 +23095,99 @@
     "driverAckAt": "2026-01-04T16:51:03.831625Z",
     "pickedUpAt": "2026-01-04T16:51:29.677180Z",
     "deliveredAt": "2026-01-04T16:57:09.806519Z"
+  },
+  {
+    "orderId": "ord-1767547926951",
+    "ts": "2026-01-04T17:32:06.951783Z",
+    "createdAt": "2026-01-04T17:32:06.951783Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-04T17:32:06.951783Z"
+      }
+    ],
+    "customer": {
+      "name": "carmen abouhala",
+      "phone": "71048768",
+      "address": "geitawi\n5176 street, near gabi missi residence, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.895038,35.527888"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19772",
+        "name": "DRIED FRUITS MANGO 100G",
+        "qty": 1,
+        "unitUsd": 2.57,
+        "totalUsd": 2.57,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19772.jpg"
+      },
+      {
+        "id": "16170",
+        "name": "ULKER RULOKAT  24G",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16170.jpg"
+      },
+      {
+        "id": "17573",
+        "name": "YAN YAN CHOCO",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17573.jpg"
+      },
+      {
+        "id": "20637",
+        "name": "KINDER TRONKY",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20637.jpg"
+      },
+      {
+        "id": "4549",
+        "name": "KINDER DELICE",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4549.jpg"
+      },
+      {
+        "id": "20305",
+        "name": "FREEZE DRIED ICE CREAM VANILLA&SMARTIES 30 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20305.jpg"
+      },
+      {
+        "id": "18202",
+        "name": "LA PIARA TURKEY SMOKED 200G",
+        "qty": 1,
+        "unitUsd": 4.64,
+        "totalUsd": 4.64,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18202.jpg"
+      },
+      {
+        "id": "5797",
+        "name": "KLATCHI MIXED NUTS 300G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5797.jpg"
+      }
+    ],
+    "totalUsd": 16.37,
+    "totalLbp": 1465000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
