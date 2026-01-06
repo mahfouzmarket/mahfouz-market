@@ -23737,5 +23737,43 @@
     "cancelReason": ".",
     "cancel_reason": ".",
     "cancelledReason": "."
+  },
+  {
+    "orderId": "ord-1767729825638",
+    "ts": "2026-01-06T20:03:45.638985Z",
+    "createdAt": "2026-01-06T20:03:45.638985Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-06T20:03:45.638985Z"
+      }
+    ],
+    "customer": {
+      "name": "Houri Barsoumian",
+      "phone": "03305209",
+      "address": "Home\nQobayat street, Haleblian building, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894076,35.531890"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "463",
+        "name": "GAS CYLINDER 10K",
+        "qty": 1,
+        "unitUsd": 14.53,
+        "totalUsd": 14.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID463.jpg"
+      }
+    ],
+    "totalUsd": 15.65,
+    "totalLbp": 1400000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
