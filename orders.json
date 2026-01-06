@@ -23484,7 +23484,7 @@
     "createdAt": "2026-01-06T09:06:11.568098Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "ASSIGNED_DRIVER",
+    "status": "PICKED_UP",
     "statusHistory": [
       {
         "status": "NEW",
@@ -23539,7 +23539,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2026-01-06T09:47:50.151093Z",
+    "statusUpdatedAt": "2026-01-06T09:47:56.044379Z",
     "acceptedAt": "2026-01-06T09:07:59.546421Z",
     "takenBy": "Manager • Mahfouz • Medawar",
     "assignedAt": "2026-01-06T09:07:59.546421Z",
@@ -23547,6 +23547,7 @@
     "driverName": "Omar",
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
-    "driverAckAt": "2026-01-06T09:47:50.151093Z"
+    "driverAckAt": "2026-01-06T09:47:50.151093Z",
+    "pickedUpAt": "2026-01-06T09:47:56.044379Z"
   }
 ]
