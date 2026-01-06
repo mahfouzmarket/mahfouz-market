@@ -23428,5 +23428,43 @@
     "cancelReason": ",",
     "cancel_reason": ",",
     "cancelledReason": ","
+  },
+  {
+    "orderId": "ord-1767657757183",
+    "ts": "2026-01-06T00:02:37.183208Z",
+    "createdAt": "2026-01-06T00:02:37.183208Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-06T00:02:37.183208Z"
+      }
+    ],
+    "customer": {
+      "name": "macos",
+      "phone": "70185604",
+      "address": "home\nlaptop, laptop, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.891315,35.528517"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20572",
+        "name": "ELEGANCE BISCOTTO BLACK & WHITE *2 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20572.jpg"
+      }
+    ],
+    "totalUsd": 2.96,
+    "totalLbp": 265000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
