@@ -23477,5 +23477,67 @@
     "driverAckAt": "2026-01-06T00:20:40.065907Z",
     "pickedUpAt": "2026-01-06T00:32:26.974860Z",
     "deliveredAt": "2026-01-06T00:45:14.688109Z"
+  },
+  {
+    "orderId": "ord-1767690371568",
+    "ts": "2026-01-06T09:06:11.568098Z",
+    "createdAt": "2026-01-06T09:06:11.568098Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-06T09:06:11.568098Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2834",
+        "name": "KHOURY IRAN",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2834.jpg"
+      },
+      {
+        "id": "19898",
+        "name": "CRISPY BRIOCHE COCONUT",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19898.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      },
+      {
+        "id": "2474",
+        "name": "ENGLISH CAKE BIG DATES 85 GR",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2474.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
