@@ -23662,5 +23662,59 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-06T16:20:29.796481Z",
     "pickedUpAt": "2026-01-06T16:22:47.091413Z"
+  },
+  {
+    "orderId": "ord-1767716704591",
+    "ts": "2026-01-06T16:25:04.591811Z",
+    "createdAt": "2026-01-06T16:25:04.591811Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-06T16:25:04.591811Z"
+      }
+    ],
+    "customer": {
+      "name": "Mahmoud Saheb",
+      "phone": "78818516",
+      "address": "karantina\nhighway, Beirut Fire Brigade, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899344,35.530053"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "12742",
+        "name": "WINSTON COMPACT BLUE",
+        "qty": 3,
+        "unitUsd": 1.56,
+        "totalUsd": 4.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12742.jpg"
+      },
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      }
+    ],
+    "totalUsd": 6.59,
+    "totalLbp": 590000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
