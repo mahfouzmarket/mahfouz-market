@@ -23786,5 +23786,67 @@
     "driverAckAt": "2026-01-06T20:10:17.578082Z",
     "pickedUpAt": "2026-01-06T20:28:00.253449Z",
     "deliveredAt": "2026-01-06T20:30:57.173795Z"
+  },
+  {
+    "orderId": "ord-1767777983394",
+    "ts": "2026-01-07T09:26:23.394668Z",
+    "createdAt": "2026-01-07T09:26:23.394668Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-07T09:26:23.394668Z"
+      }
+    ],
+    "customer": {
+      "name": "aliaa",
+      "phone": "81834890",
+      "address": "sab building 4th floor aprt c4\natlier nano, saba, Floor 4, Elevator",
+      "location": "https://www.google.com/maps?q=33.896486,35.529657"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13829",
+        "name": "AQUAFINA WATER 0.5 L",
+        "qty": 5,
+        "unitUsd": 0.22,
+        "totalUsd": 1.1,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13829.jpg"
+      },
+      {
+        "id": "17335",
+        "name": "FOUR ROLLS TOILET TISSUE",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17335.jpg"
+      },
+      {
+        "id": "19052",
+        "name": "ALFH KING SIZE BROWN",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19052.jpg"
+      },
+      {
+        "id": "14500",
+        "name": "ABSOLUT VODKA 75 CL",
+        "qty": 1,
+        "unitUsd": 11.17,
+        "totalUsd": 11.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14500.jpg"
+      }
+    ],
+    "totalUsd": 15.95,
+    "totalLbp": 1430000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
