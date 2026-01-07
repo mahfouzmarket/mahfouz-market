@@ -23866,7 +23866,7 @@
     "createdAt": "2026-01-07T12:51:40.192966Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "NEW",
+    "status": "ASSIGNED_DRIVER",
     "statusHistory": [
       {
         "status": "NEW",
@@ -23912,6 +23912,15 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2026-01-07T13:00:52.842398Z",
+    "acceptedAt": "2026-01-07T13:00:52.842328Z",
+    "takenBy": "Manager • Mahfouz • Medawar",
+    "assignedAt": "2026-01-07T13:00:52.842328Z",
+    "driverId": "drv_1766688552645",
+    "driverName": "Manar",
+    "driverPhone": "963 938 396 256",
+    "driverAssignedNotifiedAt": "",
+    "driverAckAt": ""
   }
 ]
