@@ -24246,5 +24246,67 @@
     "driverAckAt": "2026-01-07T22:04:29.825643Z",
     "pickedUpAt": "2026-01-07T22:07:28.577615Z",
     "deliveredAt": "2026-01-07T22:10:30.857374Z"
+  },
+  {
+    "orderId": "ord-1767824076265",
+    "ts": "2026-01-07T22:14:36.265038Z",
+    "createdAt": "2026-01-07T22:14:36.265038Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-07T22:14:36.265038Z"
+      }
+    ],
+    "customer": {
+      "name": "Rouba abou khalil",
+      "phone": "76327179",
+      "address": "work\nal roum hospital's street, al roum hospital, Floor 8, Elevator · main entrance",
+      "location": "https://www.google.com/maps?q=33.893576,35.523755"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19139",
+        "name": "AL FORNO PAIN DE MIE MULTICEREAL 500 G",
+        "qty": 1,
+        "unitUsd": 2.12,
+        "totalUsd": 2.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19139.jpg"
+      },
+      {
+        "id": "20895",
+        "name": "TIAS FOOD HOMMOS 380 G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20895.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "12601",
+        "name": "MARLBORO SOFT PACK RED",
+        "qty": 1,
+        "unitUsd": 2.35,
+        "totalUsd": 2.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12601.jpg"
+      }
+    ],
+    "totalUsd": 8.71,
+    "totalLbp": 780000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
