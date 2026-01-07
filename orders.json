@@ -23859,5 +23859,59 @@
     "driverAckAt": "2026-01-07T09:29:10.687774Z",
     "pickedUpAt": "2026-01-07T09:34:02.119078Z",
     "deliveredAt": "2026-01-07T09:40:03.725470Z"
+  },
+  {
+    "orderId": "ord-1767790300192",
+    "ts": "2026-01-07T12:51:40.192966Z",
+    "createdAt": "2026-01-07T12:51:40.192966Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-07T12:51:40.192966Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2834",
+        "name": "KHOURY IRAN",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2834.jpg"
+      },
+      {
+        "id": "13476",
+        "name": "KLATCHI PEANUTS SUDANI 200 GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13476.jpg"
+      },
+      {
+        "id": "18413",
+        "name": "AILA WAVE DARK CHOCOLATE NO ADDED SUGAR 4",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18413.jpg"
+      }
+    ],
+    "totalUsd": 2.85,
+    "totalLbp": 255000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
