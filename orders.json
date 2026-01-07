@@ -24082,5 +24082,75 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-07T17:01:42.031382Z",
     "driverLateNotifiedAt": ""
+  },
+  {
+    "orderId": "ord-1767805543771",
+    "ts": "2026-01-07T17:05:43.771295Z",
+    "createdAt": "2026-01-07T17:05:43.771295Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-07T17:05:43.771295Z"
+      }
+    ],
+    "customer": {
+      "name": "Anastasia Mahfouz",
+      "phone": "70195524",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+J4V, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891503835639824,35.528055131435394"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 4,
+        "unitUsd": 2.79,
+        "totalUsd": 11.16,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      },
+      {
+        "id": "13063",
+        "name": "GIPSY 32 ROLLS",
+        "qty": 1,
+        "unitUsd": 12.4,
+        "totalUsd": 12.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13063.jpg"
+      },
+      {
+        "id": "10510",
+        "name": "FL GIPSY 300SH SOFT PLUS",
+        "qty": 3,
+        "unitUsd": 2.35,
+        "totalUsd": 7.05,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10510.jpg"
+      },
+      {
+        "id": "10511",
+        "name": "FL GIPSY 200SH SOFT PLUSX12",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10511.jpg"
+      },
+      {
+        "id": "2812",
+        "name": "LABNEHN BALADIYEH KHOURY 500G",
+        "qty": 1,
+        "unitUsd": 4.25,
+        "totalUsd": 4.25,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2812.jpg"
+      }
+    ],
+    "totalUsd": 37.1,
+    "totalLbp": 3320000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
