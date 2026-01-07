@@ -23984,5 +23984,91 @@
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2026-01-07T13:56:21.284862Z",
     "deliveredAt": "2026-01-07T14:00:10.729017Z"
+  },
+  {
+    "orderId": "ord-1767804353648",
+    "ts": "2026-01-07T16:45:53.648976Z",
+    "createdAt": "2026-01-07T16:45:53.648976Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-07T16:45:53.648976Z"
+      }
+    ],
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18626",
+        "name": "FIRESIDE MINI MARSHMALLOWS 297 G",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18626.jpg"
+      },
+      {
+        "id": "1685",
+        "name": "BIG BABOOL MEGA FUN BERRIES 27G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1685.jpg"
+      },
+      {
+        "id": "15215",
+        "name": "7 DAYS CROISSANT 40 G",
+        "qty": 5,
+        "unitUsd": 0.67,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15215.jpg"
+      },
+      {
+        "id": "19142",
+        "name": "NF STRAWBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19142.jpg"
+      },
+      {
+        "id": "19143",
+        "name": "NF RASPBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19143.jpg"
+      },
+      {
+        "id": "19210",
+        "name": "NF MANGO FROZEN YOGURT NT 150G",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19210.jpg"
+      },
+      {
+        "id": "19144",
+        "name": "NF BLUEBERRY FROZEN YOGURT NT 150GR",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19144.jpg"
+      }
+    ],
+    "totalUsd": 13.74,
+    "totalLbp": 1230000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
