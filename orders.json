@@ -23991,7 +23991,7 @@
     "createdAt": "2026-01-07T16:45:53.648976Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "NEW",
+    "status": "ACCEPTED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -24069,6 +24069,9 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2026-01-07T16:48:12.473267Z",
+    "acceptedAt": "2026-01-07T16:48:12.473246Z",
+    "takenBy": "Manager • Mahfouz • Geitawi"
   }
 ]
