@@ -24319,5 +24319,51 @@
     "driverAckAt": "2026-01-07T22:33:48.041358Z",
     "pickedUpAt": "2026-01-07T22:46:45.263238Z",
     "deliveredAt": "2026-01-07T22:49:35.257957Z"
+  },
+  {
+    "orderId": "ord-1767868454959",
+    "ts": "2026-01-08T10:34:14.959252Z",
+    "createdAt": "2026-01-08T10:34:14.959252Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-08T10:34:14.959252Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20575",
+        "name": "CHEETOS CRUNCHY HOT 35 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20575.jpg"
+      },
+      {
+        "id": "20576",
+        "name": "CHEETOS CRUNCHY HOT 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20576.jpg"
+      }
+    ],
+    "totalUsd": 3.08,
+    "totalLbp": 275000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
