@@ -24377,5 +24377,43 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-08T10:44:05.420145Z",
     "driverLateNotifiedAt": ""
+  },
+  {
+    "orderId": "ord-1767870481654",
+    "ts": "2026-01-08T11:08:01.654656Z",
+    "createdAt": "2026-01-08T11:08:01.654656Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-08T11:08:01.654656Z"
+      }
+    ],
+    "customer": {
+      "name": "Angela Toro",
+      "phone": "81839623",
+      "address": "Work-Karantina\nmedawar-Beside Hospital karantina, tannios Saba, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901954,35.528367"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16171",
+        "name": "PEPSI CAN ZERO SUGAR 330 ML",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16171.jpg"
+      }
+    ],
+    "totalUsd": 1.85,
+    "totalLbp": 165000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
