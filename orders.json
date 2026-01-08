@@ -24531,5 +24531,51 @@
     "driverAckAt": "2026-01-08T16:41:46.815633Z",
     "pickedUpAt": "2026-01-08T16:42:08.877904Z",
     "deliveredAt": "2026-01-08T16:47:14.940908Z"
+  },
+  {
+    "orderId": "ord-1767906716439",
+    "ts": "2026-01-08T21:11:56.439728Z",
+    "createdAt": "2026-01-08T21:11:56.439728Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-08T21:11:56.439728Z"
+      }
+    ],
+    "customer": {
+      "name": "dima saad el dine",
+      "phone": "81927476",
+      "address": "home\nmar mitr street, la turelle, Floor 4, Elevator",
+      "location": "https://www.google.com/maps?q=33.891246,35.525474"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21012",
+        "name": "NIVEA BLACK & WHITE CLEAR *5",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21012.jpg"
+      },
+      {
+        "id": "10511",
+        "name": "FL GIPSY 200SH SOFT PLUSX12",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10511.jpg"
+      }
+    ],
+    "totalUsd": 6.15,
+    "totalLbp": 550000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
