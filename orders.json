@@ -24470,5 +24470,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1767889563487",
+    "ts": "2026-01-08T16:26:03.487692Z",
+    "createdAt": "2026-01-08T16:26:03.487692Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-08T16:26:03.487692Z"
+      }
+    ],
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12637",
+        "name": "MAZAYA LEMON +MINT",
+        "qty": 2,
+        "unitUsd": 1.4,
+        "totalUsd": 2.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12637.jpg"
+      }
+    ],
+    "totalUsd": 2.8,
+    "totalLbp": 250000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
