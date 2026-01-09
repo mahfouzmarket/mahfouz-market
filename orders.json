@@ -24697,5 +24697,51 @@
     "cancelReason": "order nearest place",
     "cancel_reason": "order nearest place",
     "cancelledReason": "order nearest place"
+  },
+  {
+    "orderId": "ord-1767953635463",
+    "ts": "2026-01-09T10:13:55.463937Z",
+    "createdAt": "2026-01-09T10:13:55.463937Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T10:13:55.463937Z"
+      }
+    ],
+    "customer": {
+      "name": "mz supplies",
+      "phone": "70209181",
+      "address": "work\namen 3am, boura, Floor 0, Elevator · medawar",
+      "location": "https://www.google.com/maps?q=33.899032,35.531598"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15138",
+        "name": "TEREA PURPLE WAVE",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15138.jpg"
+      },
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      }
+    ],
+    "totalUsd": 6.31,
+    "totalLbp": 565000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
