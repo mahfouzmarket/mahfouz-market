@@ -24588,5 +24588,51 @@
     "driverAckAt": "2026-01-08T21:16:55.761615Z",
     "pickedUpAt": "2026-01-08T21:39:12.716448Z",
     "deliveredAt": "2026-01-08T21:43:39.250261Z"
+  },
+  {
+    "orderId": "ord-1767921537413",
+    "ts": "2026-01-09T01:18:57.413405Z",
+    "createdAt": "2026-01-09T01:18:57.413405Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T01:18:57.413405Z"
+      }
+    ],
+    "customer": {
+      "name": "Tia itani",
+      "phone": "76754456",
+      "address": "armenia street\nlive love beirut stairs , blue&green , facing souk al tayeb, asir building, Floor 3, No Elevator · mafraa mzar saydit l bzez",
+      "location": "https://www.google.com/maps?q=33.89677476992775,35.526326586803265"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 6,
+        "unitUsd": 0.45,
+        "totalUsd": 2.7,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      },
+      {
+        "id": "131",
+        "name": "BOOM BOOM ENERGY DRINK",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID131.jpg"
+      }
+    ],
+    "totalUsd": 4.71,
+    "totalLbp": 420000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
