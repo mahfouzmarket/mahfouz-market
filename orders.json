@@ -24988,5 +24988,59 @@
     "driverAckAt": "2026-01-09T12:03:40.165957Z",
     "pickedUpAt": "2026-01-09T12:03:32.947849Z",
     "deliveredAt": "2026-01-09T12:07:59.940179Z"
+  },
+  {
+    "orderId": "ord-1767973613327",
+    "ts": "2026-01-09T15:46:53.327458Z",
+    "createdAt": "2026-01-09T15:46:53.327458Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T15:46:53.327458Z"
+      }
+    ],
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      },
+      {
+        "id": "13829",
+        "name": "AQUAFINA WATER 0.5 L",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13829.jpg"
+      },
+      {
+        "id": "20752",
+        "name": "FANTASIA PIZZA RINGS 80GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20752.jpg"
+      }
+    ],
+    "totalUsd": 1.79,
+    "totalLbp": 160000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
