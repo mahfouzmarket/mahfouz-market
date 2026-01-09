@@ -24645,5 +24645,51 @@
     "driverAckAt": "2026-01-09T01:27:20.393421Z",
     "pickedUpAt": "2026-01-09T01:51:16.063040Z",
     "deliveredAt": "2026-01-09T01:51:20.612170Z"
+  },
+  {
+    "orderId": "ord-1767953378239",
+    "ts": "2026-01-09T10:09:38.239441Z",
+    "createdAt": "2026-01-09T10:09:38.239441Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T10:09:38.239441Z"
+      }
+    ],
+    "customer": {
+      "name": "mz supplies",
+      "phone": "70209181",
+      "address": "work\namen 3am, boura, Floor 0, Elevator · medawar",
+      "location": "https://www.google.com/maps?q=33.899863,35.526307"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg"
+      },
+      {
+        "id": "19974",
+        "name": "TEREA SUMMER WAVE",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19974.jpg"
+      }
+    ],
+    "totalUsd": 7.48,
+    "totalLbp": 670000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
