@@ -24754,5 +24754,107 @@
     "driverAckAt": "2026-01-09T10:26:15.849408Z",
     "pickedUpAt": "2026-01-09T10:26:20.050151Z",
     "deliveredAt": "2026-01-09T10:30:05.573569Z"
+  },
+  {
+    "orderId": "ord-1767958341073",
+    "ts": "2026-01-09T11:32:21.073592Z",
+    "createdAt": "2026-01-09T11:32:21.073592Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T11:32:21.073592Z"
+      }
+    ],
+    "customer": {
+      "name": "ousama",
+      "phone": "70007817",
+      "address": "rmeil\nkateyib, tony saliba, Floor 1, No Elevator · VGWG+FVR, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896184898707304,35.527144856750965"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "679",
+        "name": "MR. JUICY APPLE 200ML",
+        "qty": 4,
+        "unitUsd": 0.22,
+        "totalUsd": 0.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID679.jpg"
+      },
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      },
+      {
+        "id": "1438",
+        "name": "RIM WATER 2L",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1438.jpg"
+      },
+      {
+        "id": "20542",
+        "name": "CHEETOS BUFFS CHEESE 20 G",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20542.jpg"
+      },
+      {
+        "id": "14839",
+        "name": "FANTASIA FRITES 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14839.jpg"
+      },
+      {
+        "id": "14838",
+        "name": "FANTASIA WOKKELS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14838.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 2,
+        "unitUsd": 2.12,
+        "totalUsd": 4.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "19243",
+        "name": "BAITNA SWEET CORN 340 GR",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19243.jpg"
+      },
+      {
+        "id": "15750",
+        "name": "BATATA",
+        "qtyKg": 1.0,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15750.jpg"
+      }
+    ],
+    "totalUsd": 10.66,
+    "totalLbp": 955000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
