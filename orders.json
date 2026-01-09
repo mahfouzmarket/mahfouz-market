@@ -25232,5 +25232,99 @@
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2026-01-09T16:44:28.796847Z",
     "deliveredAt": "2026-01-09T16:49:01.182833Z"
+  },
+  {
+    "orderId": "ord-1767983953211",
+    "ts": "2026-01-09T18:39:13.211029Z",
+    "createdAt": "2026-01-09T18:39:13.211029Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T18:39:13.211029Z"
+      }
+    ],
+    "customer": {
+      "name": "Amani Elali",
+      "phone": "70754625",
+      "address": "Home\nQubayat/Geaitaoui, Kurdahi Bldg (Shop N Go building ), Floor 4, Elevator · Global Digital and Shop an Go building. (4B )",
+      "location": "https://www.google.com/maps?q=33.894859,35.531974"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12719",
+        "name": "BRILLANT SUPER SLIM",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12719.jpg"
+      },
+      {
+        "id": "3626",
+        "name": "MASTER BUFFIES POPCORN 70G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3626.jpg"
+      },
+      {
+        "id": "13617",
+        "name": "MASTER CURVY CHIPS SALT 80G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13617.jpg"
+      },
+      {
+        "id": "14842",
+        "name": "FANTASIA PEANUT CURLS 80 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14842.jpg"
+      },
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "6436",
+        "name": "INDOMI CHICKEN FLAVOR 70 GR",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6436.jpg"
+      },
+      {
+        "id": "13112",
+        "name": "INDOMIE VEGETABLES WITH OIL 75GR",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13112.jpg"
+      },
+      {
+        "id": "15762",
+        "name": "BANANA BALADEH",
+        "qtyKg": 1.0,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg"
+      }
+    ],
+    "totalUsd": 7.37,
+    "totalLbp": 660000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
