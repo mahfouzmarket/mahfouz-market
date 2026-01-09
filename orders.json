@@ -25402,5 +25402,67 @@
     "driverAckAt": "2026-01-09T18:50:05.301650Z",
     "pickedUpAt": "2026-01-09T18:51:58.403825Z",
     "deliveredAt": "2026-01-09T18:52:24.519865Z"
+  },
+  {
+    "orderId": "ord-1767996916451",
+    "ts": "2026-01-09T22:15:16.451170Z",
+    "createdAt": "2026-01-09T22:15:16.451170Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T22:15:16.451170Z"
+      }
+    ],
+    "customer": {
+      "name": "jason korkiss",
+      "phone": "76691353",
+      "address": "achrafieh fasouh\nmessara, yazbik bi wej moukhtar sadea, Floor 3, No Elevator · VGQG+V64, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.889662,35.525386"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20962",
+        "name": "AL AHLAM KOUSSA 400 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20962.jpg"
+      },
+      {
+        "id": "16174",
+        "name": "BARILLA CONCHIGLIE RIGATE 500 G",
+        "qty": 2,
+        "unitUsd": 1.79,
+        "totalUsd": 3.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16174.jpg"
+      },
+      {
+        "id": "13225",
+        "name": "DERONI MAYONNAISE 500 ML",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13225.jpg"
+      },
+      {
+        "id": "16379",
+        "name": "INDOMIE CURRY FLAVOUR 60 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16379.jpg"
+      }
+    ],
+    "totalUsd": 10.51,
+    "totalLbp": 940000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
