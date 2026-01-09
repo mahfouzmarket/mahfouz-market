@@ -25102,5 +25102,123 @@
     "driverAckAt": "",
     "cancelledAt": "2026-01-09T15:51:52.061401Z",
     "cancelReason": "test"
+  },
+  {
+    "orderId": "ord-1767975977428",
+    "ts": "2026-01-09T16:26:17.428177Z",
+    "createdAt": "2026-01-09T16:26:17.428177Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-09T16:26:17.428177Z"
+      }
+    ],
+    "customer": {
+      "name": "Reem Al Akkawi",
+      "phone": "70526994",
+      "address": "achrafieh\nbuilding next to cityzen, marinus of tyre dorm, Floor 2, No Elevator · call on arrival",
+      "location": "https://www.google.com/maps?q=33.891531,35.524317"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13124",
+        "name": "AILA MILK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13124.jpg"
+      },
+      {
+        "id": "5990",
+        "name": "ATTAR ZHOURAT SHAMIA",
+        "qty": 1,
+        "unitUsd": 2.07,
+        "totalUsd": 2.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5990.jpg"
+      },
+      {
+        "id": "20816",
+        "name": "BISKREM MINI ORIGINAL 90G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20816.jpg"
+      },
+      {
+        "id": "4692",
+        "name": "BISCOLATA STIX 27.5G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4692.jpg"
+      },
+      {
+        "id": "14981",
+        "name": "ETI WAFEUP COCOA 142 G",
+        "qty": 1,
+        "unitUsd": 1.62,
+        "totalUsd": 1.62,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14981.jpg"
+      },
+      {
+        "id": "1082",
+        "name": "ICEBERG  MILK SHAKE CHOCO 225ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1082.jpg"
+      },
+      {
+        "id": "1205",
+        "name": "RED BULL 250ML",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1205.jpg"
+      },
+      {
+        "id": "3759",
+        "name": "PRINGLES HOT & SPICY 40g",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3759.jpg"
+      },
+      {
+        "id": "13874",
+        "name": "KLATCHI RAW KERNELS 250G",
+        "qty": 1,
+        "unitUsd": 5.14,
+        "totalUsd": 5.14,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13874.jpg"
+      },
+      {
+        "id": "14842",
+        "name": "FANTASIA PEANUT CURLS 80 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14842.jpg"
+      },
+      {
+        "id": "20150",
+        "name": "MARETTI PIZZA FLAVOUR 70 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20150.jpg"
+      }
+    ],
+    "totalUsd": 15.89,
+    "totalLbp": 1420000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
