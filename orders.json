@@ -25475,5 +25475,123 @@
     "driverAckAt": "2026-01-09T22:34:27.065728Z",
     "pickedUpAt": "2026-01-09T22:38:03.832264Z",
     "deliveredAt": "2026-01-09T22:41:48.627504Z"
+  },
+  {
+    "orderId": "ord-1768058507308",
+    "ts": "2026-01-10T15:21:47.308797Z",
+    "createdAt": "2026-01-10T15:21:47.308797Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-10T15:21:47.308797Z"
+      }
+    ],
+    "customer": {
+      "name": "Georges nader",
+      "phone": "03476850",
+      "address": "ثكنة محمد ناصر\nالبوابة العليا جنب الجعيتاوي, ثكنة محمد ناصر, Floor 0, No Elevator · VGVH+X9H, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.895071,35.528895"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13320",
+        "name": "AL FORNO BRIOCHE DATE",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13320.jpg"
+      },
+      {
+        "id": "18805",
+        "name": "DELIZZIO KAAK LONG",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18805.jpg"
+      },
+      {
+        "id": "19422",
+        "name": "DERONI HIMALAYAN SALT 1 KG",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19422.jpg"
+      },
+      {
+        "id": "18198",
+        "name": "LA PIARA JAMBON 200 GR",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18198.jpg"
+      },
+      {
+        "id": "13407",
+        "name": "TAJ ANALOGUE CREAM BANANA 155G",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13407.jpg"
+      },
+      {
+        "id": "5440",
+        "name": "TAJ ANALOGUE CREAM STRAWBERRY 155G",
+        "qty": 1,
+        "unitUsd": 0.95,
+        "totalUsd": 0.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5440.jpg"
+      },
+      {
+        "id": "20895",
+        "name": "TIAS FOOD HOMMOS 380 G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20895.jpg"
+      },
+      {
+        "id": "18771",
+        "name": "MARINA BLUE WHITE FISH FILLET 1 KG",
+        "qty": 1,
+        "unitUsd": 4.36,
+        "totalUsd": 4.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18771.jpg"
+      },
+      {
+        "id": "17266",
+        "name": "MASTER KETTLE COOKED SEA SALT 270 G",
+        "qty": 2,
+        "unitUsd": 2.01,
+        "totalUsd": 4.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17266.jpg"
+      },
+      {
+        "id": "1173",
+        "name": "PEPSI 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1173.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      }
+    ],
+    "totalUsd": 23.52,
+    "totalLbp": 2105000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
