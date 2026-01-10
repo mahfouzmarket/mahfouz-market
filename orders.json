@@ -25741,5 +25741,99 @@
     "driverAckAt": "2026-01-10T17:49:20.593834Z",
     "pickedUpAt": "2026-01-10T18:07:59.881404Z",
     "deliveredAt": "2026-01-10T18:11:41.578163Z"
+  },
+  {
+    "orderId": "ord-1768082723720",
+    "ts": "2026-01-10T22:05:23.720016Z",
+    "createdAt": "2026-01-10T22:05:23.720016Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-10T22:05:23.720016Z"
+      }
+    ],
+    "customer": {
+      "name": "Rouslan Bou Diab",
+      "phone": "81238414",
+      "address": "home\ngetawi, tony el rai building, Floor 1, No Elevator · yosal 3al location fi beneyi bi nos tare2 el 7ay ermid el madkhal a7mar w maktob 3al madkhal 25",
+      "location": "https://www.google.com/maps?q=33.891593,35.532225"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "16710",
+        "name": "SKITTLES FRUITS 38 G",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16710.jpg"
+      },
+      {
+        "id": "20235",
+        "name": "MILKA CHIPS AHOY !",
+        "qty": 2,
+        "unitUsd": 1.56,
+        "totalUsd": 3.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20235.jpg"
+      },
+      {
+        "id": "12776",
+        "name": "ALPH KING SIZE +32 FILTERS BROWN",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12776.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "1082",
+        "name": "ICEBERG  MILK SHAKE CHOCO 225ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1082.jpg"
+      },
+      {
+        "id": "1083",
+        "name": "ICEBERG  MILK SHAKE STRAW 225ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1083.jpg"
+      },
+      {
+        "id": "18457",
+        "name": "ROSHEN LOVITA CLASSIC COOKIES PEANUTS 150G",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18457.jpg"
+      }
+    ],
+    "totalUsd": 11.51,
+    "totalLbp": 1030000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
