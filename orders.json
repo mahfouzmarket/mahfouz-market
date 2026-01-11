@@ -26300,5 +26300,43 @@
     "driverAckAt": "2026-01-11T17:25:36.124685Z",
     "pickedUpAt": "2026-01-11T17:26:05.582502Z",
     "deliveredAt": "2026-01-11T17:26:27.326624Z"
+  },
+  {
+    "orderId": "ord-1768159936505",
+    "ts": "2026-01-11T19:32:16.505523Z",
+    "createdAt": "2026-01-11T19:32:16.505523Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T19:32:16.505523Z"
+      }
+    ],
+    "customer": {
+      "name": "Rayan Zaatari",
+      "phone": "03094534",
+      "address": "Home\nRehban street, Al Barazi Residence, Floor 6, Elevator · near Blue tails",
+      "location": "https://www.google.com/maps?q=33.900153,35.533518"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10267",
+        "name": "UMBRELLA MINI AUTO",
+        "qty": 1,
+        "unitUsd": 7.82,
+        "totalUsd": 7.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10267.jpg"
+      }
+    ],
+    "totalUsd": 8.21,
+    "totalLbp": 735000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
