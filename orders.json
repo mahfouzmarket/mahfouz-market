@@ -25846,5 +25846,59 @@
     "driverAckAt": "2026-01-10T22:18:39.189469Z",
     "pickedUpAt": "2026-01-10T22:37:45.416052Z",
     "deliveredAt": "2026-01-10T22:52:03.138165Z"
+  },
+  {
+    "orderId": "ord-1768089672664",
+    "ts": "2026-01-11T00:01:12.664395Z",
+    "createdAt": "2026-01-11T00:01:12.664395Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T00:01:12.664395Z"
+      }
+    ],
+    "customer": {
+      "name": "arsen Khachadourian",
+      "phone": "81845498",
+      "address": "اشرفيه\nشارع صلاح لبكي, الهاشم, الطابق 1, بدون مصعد · من مقابل مدرسة تلت قمار  بتفوت بال شارع في مطعم moules Et frites",
+      "location": "https://www.google.com/maps?q=33.894914,35.520192"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12731",
+        "name": "MARLBORO  SOFT PACK GOLD",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12731.jpg"
+      },
+      {
+        "id": "15140",
+        "name": "TEREA TURQUOISE",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15140.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      }
+    ],
+    "totalUsd": 7.87,
+    "totalLbp": 705000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
