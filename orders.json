@@ -26412,5 +26412,99 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768171606342",
+    "ts": "2026-01-11T22:46:46.342011Z",
+    "createdAt": "2026-01-11T22:46:46.342011Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T22:46:46.342011Z"
+      }
+    ],
+    "customer": {
+      "name": "jalal",
+      "phone": "03051382",
+      "address": "j3itewe\ngabi, bou khalil, Floor 0, No Elevator · nazlet na2shet",
+      "location": "https://www.google.com/maps?q=33.891987,35.531223"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10851",
+        "name": "PRIV X-T NORMAL 10",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10851.jpg"
+      },
+      {
+        "id": "19949",
+        "name": "CRISPY CROISSANT BISCUIT SPREAD",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19949.jpg"
+      },
+      {
+        "id": "13292",
+        "name": "ALBENI 40 GR",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13292.jpg"
+      },
+      {
+        "id": "13122",
+        "name": "ALBENI WHITE 36 GR",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13122.jpg"
+      },
+      {
+        "id": "15498",
+        "name": "BREAK BREAKSTA 13 G",
+        "qty": 3,
+        "unitUsd": 0.22,
+        "totalUsd": 0.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15498.jpg"
+      },
+      {
+        "id": "242",
+        "name": "XXL MIX VODKA 250 ML",
+        "qty": 2,
+        "unitUsd": 1.12,
+        "totalUsd": 2.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID242.jpg"
+      },
+      {
+        "id": "16031",
+        "name": "XXL VODKA MIX CRANBERRY 25 CL",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16031.jpg"
+      },
+      {
+        "id": "404",
+        "name": "ALMAZA LIGHT 33 CL",
+        "qty": 2,
+        "unitUsd": 1.34,
+        "totalUsd": 2.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID404.jpg"
+      }
+    ],
+    "totalUsd": 10.83,
+    "totalLbp": 970000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
