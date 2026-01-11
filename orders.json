@@ -26165,5 +26165,43 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768148513653",
+    "ts": "2026-01-11T16:21:53.653504Z",
+    "createdAt": "2026-01-11T16:21:53.653504Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T16:21:53.653504Z"
+      }
+    ],
+    "customer": {
+      "name": "toni challita",
+      "phone": "71262496",
+      "address": "achrafieh Geitawi\nnear charle ziade, مستودع شمع, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892411,35.529125"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6436",
+        "name": "INDOMI CHICKEN FLAVOR 70 GR",
+        "qty": 5,
+        "unitUsd": 0.28,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6436.jpg"
+      }
+    ],
+    "totalUsd": 1.96,
+    "totalLbp": 175000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
