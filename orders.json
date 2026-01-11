@@ -26349,5 +26349,59 @@
     "driverAckAt": "2026-01-11T19:49:50.297925Z",
     "pickedUpAt": "2026-01-11T20:02:05.605765Z",
     "deliveredAt": "2026-01-11T20:10:35.244614Z"
+  },
+  {
+    "orderId": "ord-1768171112044",
+    "ts": "2026-01-11T22:38:32.044276Z",
+    "createdAt": "2026-01-11T22:38:32.044276Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T22:38:32.044276Z"
+      }
+    ],
+    "customer": {
+      "name": "arsen Khachadourian",
+      "phone": "81845498",
+      "address": "اشرفيه\nشارع صلاح لبكي, الهاشم, الطابق 1, بدون مصعد · من مقابل مدرسة تلت قمار  بتفوت بال شارع في مطعم moules Et frites",
+      "location": "https://www.google.com/maps?q=33.894914,35.520192"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12731",
+        "name": "MARLBORO  SOFT PACK GOLD",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12731.jpg"
+      },
+      {
+        "id": "15139",
+        "name": "TEREA SILVER",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15139.jpg"
+      },
+      {
+        "id": "16156",
+        "name": "MILKA BUBBLY ALPINE MILK 90 G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16156.jpg"
+      }
+    ],
+    "totalUsd": 9.7,
+    "totalLbp": 870000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
