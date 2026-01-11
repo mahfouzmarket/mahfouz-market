@@ -25910,5 +25910,67 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-11T00:03:24.887378Z",
     "pickedUpAt": "2026-01-11T00:09:40.419667Z"
+  },
+  {
+    "orderId": "ord-1768123441678",
+    "ts": "2026-01-11T09:24:01.678017Z",
+    "createdAt": "2026-01-11T09:24:01.678017Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T09:24:01.678017Z"
+      }
+    ],
+    "customer": {
+      "name": "Houri Barsoumian",
+      "phone": "03305209",
+      "address": "Home\nQobayat street, Haleblian building, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894076,35.531890"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      },
+      {
+        "id": "13809",
+        "name": "WHITE EGGS 1PC x 30 pcs",
+        "qty": 1,
+        "unitUsd": 5.14,
+        "totalUsd": 5.14,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13809.jpg"
+      },
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "1253",
+        "name": "RIM SPARKLINO WATER 330ML",
+        "qty": 6,
+        "unitUsd": 0.67,
+        "totalUsd": 4.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1253.jpg"
+      }
+    ],
+    "totalUsd": 15.07,
+    "totalLbp": 1350000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
