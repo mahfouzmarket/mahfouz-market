@@ -26212,5 +26212,75 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768149318691",
+    "ts": "2026-01-11T16:35:18.691379Z",
+    "createdAt": "2026-01-11T16:35:18.691379Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T16:35:18.691379Z"
+      }
+    ],
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "17954",
+        "name": "MARLBORO CRAFTED COMPACT BLUE",
+        "qty": 1,
+        "unitUsd": 1.17,
+        "totalUsd": 1.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17954.jpg"
+      },
+      {
+        "id": "15751",
+        "name": "BASAL YEBIS",
+        "qtyKg": 0.3,
+        "unitUsd": 0.78,
+        "totalUsd": 0.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15751.jpg"
+      },
+      {
+        "id": "15758",
+        "name": "KIS TOUM",
+        "qtyKg": 0.1,
+        "unitUsd": 3.91,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15758.jpg"
+      }
+    ],
+    "totalUsd": 5.26,
+    "totalLbp": 471000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
