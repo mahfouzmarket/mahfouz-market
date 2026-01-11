@@ -26070,5 +26070,91 @@
     "driverAckAt": "2026-01-11T11:07:49.361274Z",
     "pickedUpAt": "2026-01-11T11:11:20.708962Z",
     "deliveredAt": "2026-01-11T11:13:23.658208Z"
+  },
+  {
+    "orderId": "ord-1768139219012",
+    "ts": "2026-01-11T13:46:59.012116Z",
+    "createdAt": "2026-01-11T13:46:59.012116Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-11T13:46:59.012116Z"
+      }
+    ],
+    "customer": {
+      "name": "Amani Elali",
+      "phone": "70754625",
+      "address": "Home\nQubayat/Geaitaoui, Kurdahi Bldg (Shop N Go building ), Floor 4, Elevator · Global Digital and Shop an Go building. (4B )",
+      "location": "https://www.google.com/maps?q=33.894859,35.531974"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16536",
+        "name": "MASSOUD WILD CUCUMBER PICKLES 450G",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16536.jpg"
+      },
+      {
+        "id": "13508",
+        "name": "ALTAGHZIAH MEAT LUNCHEON 200 GR",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13508.jpg"
+      },
+      {
+        "id": "7310",
+        "name": "AL FORNO MARKOUK OAT 190GR 7 PCS",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7310.jpg"
+      },
+      {
+        "id": "12719",
+        "name": "BRILLANT SUPER SLIM",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12719.jpg"
+      },
+      {
+        "id": "2473",
+        "name": "ENGLISH CAKE VANILLE 65C",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2473.jpg"
+      },
+      {
+        "id": "15509",
+        "name": "ETI POP KEK BANANA 45 G",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15509.jpg"
+      },
+      {
+        "id": "14214",
+        "name": "JUNIOR MINI CROISSANT 30 GR",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14214.jpg"
+      }
+    ],
+    "totalUsd": 9.33,
+    "totalLbp": 835000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
