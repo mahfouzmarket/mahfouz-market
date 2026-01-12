@@ -26805,5 +26805,51 @@
     "cancelReason": "will come back soon",
     "cancel_reason": "will come back soon",
     "cancelledReason": "will come back soon"
+  },
+  {
+    "orderId": "ord-1768206974592",
+    "ts": "2026-01-12T08:36:14.592291Z",
+    "createdAt": "2026-01-12T08:36:14.592291Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T08:36:14.592291Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19838",
+        "name": "GOOD MORNING CROISSANT CHEESE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19838.jpg"
+      },
+      {
+        "id": "18343",
+        "name": "LA BERGERE AYRAN 250 ML",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18343.jpg"
+      }
+    ],
+    "totalUsd": 1.45,
+    "totalLbp": 130000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
