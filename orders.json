@@ -27356,5 +27356,67 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-12T21:54:03.722129Z",
     "pickedUpAt": "2026-01-12T22:02:10.038173Z"
+  },
+  {
+    "orderId": "ord-1768258905498",
+    "ts": "2026-01-12T23:01:45.498291Z",
+    "createdAt": "2026-01-12T23:01:45.498291Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T23:01:45.498291Z"
+      }
+    ],
+    "customer": {
+      "name": "Joseph El Ali",
+      "phone": "76662292",
+      "address": "Home\nGeaitoui, Mhammad Mroueh Bldg., Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893507,35.530042"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "131",
+        "name": "BOOM BOOM ENERGY DRINK",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID131.jpg"
+      },
+      {
+        "id": "13588",
+        "name": "LIPTON ICE TEA RED FRUITS DIET 320 ML CAN",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13588.jpg"
+      },
+      {
+        "id": "21058",
+        "name": "SNICKERS CREAMY PEANUT BUTTER 36.5G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21058.jpg"
+      },
+      {
+        "id": "18712",
+        "name": "ZBIB AOUN 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18712.jpg"
+      }
+    ],
+    "totalUsd": 4.31,
+    "totalLbp": 385000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
