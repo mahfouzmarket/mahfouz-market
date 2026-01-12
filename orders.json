@@ -27108,5 +27108,163 @@
     "cancelReason": "i want it from geiteawi",
     "cancel_reason": "i want it from geiteawi",
     "cancelledReason": "i want it from geiteawi"
+  },
+  {
+    "orderId": "ord-1768251649907",
+    "ts": "2026-01-12T21:00:49.907641Z",
+    "createdAt": "2026-01-12T21:00:49.907641Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T21:00:49.907641Z"
+      }
+    ],
+    "customer": {
+      "name": "kato",
+      "phone": "76927449",
+      "address": "hospital\nkarantina, karantina, Floor 2, Elevator · قسم الاطفال",
+      "location": "https://www.google.com/maps?q=33.901795,35.529659"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "6717",
+        "name": "CUBUK KRAKER 30 G",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6717.jpg"
+      },
+      {
+        "id": "18772",
+        "name": "AL AHLAM GRAPE LEAVES WITH RICE 400 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18772.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "666",
+        "name": "TORABIKA SACHET",
+        "qty": 4,
+        "unitUsd": 0.28,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID666.jpg"
+      },
+      {
+        "id": "7449",
+        "name": "WAK WHOLE K. CORN 340G",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7449.jpg"
+      },
+      {
+        "id": "1435",
+        "name": "TANNOURINE WATER 2L",
+        "qty": 2,
+        "unitUsd": 0.45,
+        "totalUsd": 0.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1435.jpg"
+      },
+      {
+        "id": "13608",
+        "name": "SEVEN UP DIET CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13608.jpg"
+      },
+      {
+        "id": "19008",
+        "name": "CHROMA 48 SHEETS",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19008.jpg"
+      },
+      {
+        "id": "10875",
+        "name": "PRIVATE MAXI POCKET NIGHT 8",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10875.jpg"
+      },
+      {
+        "id": "18587",
+        "name": "KIRI FRESH CREAM AND MILK 100 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18587.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "16955",
+        "name": "MASTER SITOS NACHO CHEESE 210 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16955.jpg"
+      },
+      {
+        "id": "19782",
+        "name": "DOLSI CHIPS ONION RINGS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19782.jpg"
+      },
+      {
+        "id": "5121",
+        "name": "LES FOLIS STRAWBERRY CHEESE CAKE",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5121.jpg"
+      },
+      {
+        "id": "2644",
+        "name": "CHOCOLATE SPREAD 350 G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2644.jpg"
+      },
+      {
+        "id": "17323",
+        "name": "ERKO PINK & WHITE MINI 100 G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17323.jpg"
+      }
+    ],
+    "totalUsd": 24.03,
+    "totalLbp": 2150000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
