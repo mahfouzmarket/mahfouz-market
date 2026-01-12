@@ -27429,5 +27429,83 @@
     "driverAckAt": "2026-01-12T23:10:25.089282Z",
     "pickedUpAt": "2026-01-12T23:14:43.195948Z",
     "deliveredAt": "2026-01-12T23:20:27.293608Z"
+  },
+  {
+    "orderId": "ord-1768260691297",
+    "ts": "2026-01-12T23:31:31.297078Z",
+    "createdAt": "2026-01-12T23:31:31.297078Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T23:31:31.297078Z"
+      }
+    ],
+    "customer": {
+      "name": "Elizabeth Challita",
+      "phone": "71775848",
+      "address": "work\nAl Roum Hospital, Al Roum Hospital, Floor 8, Elevator · Main entrance",
+      "location": "https://www.google.com/maps?q=33.893584,35.523731"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10980",
+        "name": "PRIVATE MAXI 16+8 FREE",
+        "qty": 1,
+        "unitUsd": 2.51,
+        "totalUsd": 2.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10980.jpg"
+      },
+      {
+        "id": "19097",
+        "name": "AL FORNO PAIN DE MIE BROWN",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19097.jpg"
+      },
+      {
+        "id": "20895",
+        "name": "TIAS FOOD HOMMOS 380 G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20895.jpg"
+      },
+      {
+        "id": "18082",
+        "name": "MALTESERS 37G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18082.jpg"
+      },
+      {
+        "id": "17569",
+        "name": "BOUNTY CHOCOLATE BAR 57 G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17569.jpg"
+      },
+      {
+        "id": "18281",
+        "name": "MAGIC CHEF MICROWAVE POPCORN 222G",
+        "qty": 1,
+        "unitUsd": 4.25,
+        "totalUsd": 4.25,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18281.jpg"
+      }
+    ],
+    "totalUsd": 12.29,
+    "totalLbp": 1100000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
