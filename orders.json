@@ -26983,7 +26983,7 @@
     "createdAt": "2026-01-12T20:49:01.780896Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "NEW",
+    "status": "CANCELLED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -27101,6 +27101,12 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "cancelledAt": "2026-01-12T20:49:27.014586Z",
+    "statusUpdatedAt": "2026-01-12T20:49:27.014586Z",
+    "cancelledBy": "customer",
+    "cancelReason": "i want it from geiteawi",
+    "cancel_reason": "i want it from geiteawi",
+    "cancelledReason": "i want it from geiteawi"
   }
 ]
