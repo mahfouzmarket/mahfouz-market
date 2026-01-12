@@ -27266,5 +27266,75 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1768252219561",
+    "ts": "2026-01-12T21:10:19.561367Z",
+    "createdAt": "2026-01-12T21:10:19.561367Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T21:10:19.561367Z"
+      }
+    ],
+    "customer": {
+      "name": "jalal",
+      "phone": "03051382",
+      "address": "j3itewe\ngabi, bou khalil, Floor 0, No Elevator · nazlet na2shet",
+      "location": "https://www.google.com/maps?q=33.891987,35.531223"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "12707",
+        "name": "CEDARS SILVER SOFT",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12707.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20G)",
+        "qty": 4,
+        "unitUsd": 0.22,
+        "totalUsd": 0.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      },
+      {
+        "id": "19949",
+        "name": "CRISPY CROISSANT BISCUIT SPREAD",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19949.jpg"
+      },
+      {
+        "id": "15750",
+        "name": "BATATA",
+        "qtyKg": 2.0,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15750.jpg"
+      }
+    ],
+    "totalUsd": 6.12,
+    "totalLbp": 550000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
