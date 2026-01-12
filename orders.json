@@ -26713,5 +26713,91 @@
     "driverAckAt": "2026-01-12T05:28:37.206925Z",
     "pickedUpAt": "2026-01-12T05:29:30.350960Z",
     "deliveredAt": "2026-01-12T06:06:24.139868Z"
+  },
+  {
+    "orderId": "ord-1768203206496",
+    "ts": "2026-01-12T07:33:26.496920Z",
+    "createdAt": "2026-01-12T07:33:26.496920Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T07:33:26.496920Z"
+      }
+    ],
+    "customer": {
+      "name": "hussam",
+      "phone": "79170042",
+      "address": "jetawi\nnear to Mahfouz market, saadee bulging, Floor 2, Elevator · VGWH+55Q, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894890488319604,35.52825819182821"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2265",
+        "name": "AL FORNO WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2265.jpg"
+      },
+      {
+        "id": "499",
+        "name": "CAFE NAJJAR 180 GR",
+        "qty": 1,
+        "unitUsd": 3.63,
+        "totalUsd": 3.63,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID499.jpg"
+      },
+      {
+        "id": "15755",
+        "name": "TOMATE CERISE",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15755.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "18202",
+        "name": "LA PIARA TURKEY SMOKED 200G",
+        "qty": 1,
+        "unitUsd": 4.86,
+        "totalUsd": 4.86,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18202.jpg"
+      },
+      {
+        "id": "15764",
+        "name": "TEFFEH AKHDAR",
+        "qtyKg": 1.0,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15764.jpg"
+      }
+    ],
+    "totalUsd": 18.87,
+    "totalLbp": 1690000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
