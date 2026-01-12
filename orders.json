@@ -27516,5 +27516,59 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768261277434",
+    "ts": "2026-01-12T23:41:17.434256Z",
+    "createdAt": "2026-01-12T23:41:17.434256Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-12T23:41:17.434256Z"
+      }
+    ],
+    "customer": {
+      "name": "nada karam",
+      "phone": "71470137",
+      "address": "work\nhospital geitaoui, hosp geitaoui, Floor 0, No Elevator · emergency entrance",
+      "location": "https://www.google.com/maps?q=33.89358285029063,35.530106521330204"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 3.18,
+        "totalUsd": 3.18,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "7310",
+        "name": "AL FORNO MARKOUK OAT 190GR 7 PCS",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7310.jpg"
+      },
+      {
+        "id": "4006",
+        "name": "KINDER BUENO 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4006.jpg"
+      }
+    ],
+    "totalUsd": 6.26,
+    "totalLbp": 560000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
