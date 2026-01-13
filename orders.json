@@ -28375,5 +28375,59 @@
     "cancelReason": "mahada ebil ltalabiye",
     "cancel_reason": "mahada ebil ltalabiye",
     "cancelledReason": "mahada ebil ltalabiye"
+  },
+  {
+    "orderId": "ord-1768335396748",
+    "ts": "2026-01-13T20:16:36.748756Z",
+    "createdAt": "2026-01-13T20:16:36.748756Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-13T20:16:36.748756Z"
+      }
+    ],
+    "customer": {
+      "name": "Emma cc",
+      "phone": "76104606",
+      "address": "home\nsagesses, bahnam, Floor 0, No Elevator · next to sagesse church room hospital",
+      "location": "https://www.google.com/maps?q=33.894289,35.520637"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "1872",
+        "name": "KSARA BLANC DU BLANC 750 ML",
+        "qty": 1,
+        "unitUsd": 7.71,
+        "totalUsd": 7.71,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1872.jpg"
+      },
+      {
+        "id": "5094",
+        "name": "TROPICANA ICE CREAM",
+        "qty": 3,
+        "unitUsd": 0.22,
+        "totalUsd": 0.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5094.jpg"
+      },
+      {
+        "id": "5071",
+        "name": "JUMBO CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 2.01,
+        "totalUsd": 4.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5071.jpg"
+      }
+    ],
+    "totalUsd": 13.28,
+    "totalLbp": 1190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
