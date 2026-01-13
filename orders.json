@@ -28463,5 +28463,75 @@
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2026-01-13T21:22:27.969718Z",
     "deliveredAt": "2026-01-13T21:26:11.954805Z"
+  },
+  {
+    "orderId": "ord-1768346360779",
+    "ts": "2026-01-13T23:19:20.779442Z",
+    "createdAt": "2026-01-13T23:19:20.779442Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-13T23:19:20.779442Z"
+      }
+    ],
+    "customer": {
+      "name": "zinat hachem",
+      "phone": "03925223",
+      "address": "geatawi\ngeatawi, khoury, Floor 1, No Elevator · بوج مستشفى جعيتاوي باب الطوارئ فوق ماركت Pandea\nمبنى خوري",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20537",
+        "name": "ETI POP KEK PATISSERIE COCOA 200 G",
+        "qty": 4,
+        "unitUsd": 1.68,
+        "totalUsd": 6.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20537.jpg"
+      },
+      {
+        "id": "16432",
+        "name": "TWIRL CADBOURY 43 G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16432.jpg"
+      },
+      {
+        "id": "3995",
+        "name": "KINDER 4 FINGERS",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3995.jpg"
+      },
+      {
+        "id": "16175",
+        "name": "LIPTON YELLOW LABEL 25 BAGS",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16175.jpg"
+      },
+      {
+        "id": "5874",
+        "name": "ECO SUGAR 900 G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5874.jpg"
+      }
+    ],
+    "totalUsd": 13.58,
+    "totalLbp": 1215000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
