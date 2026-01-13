@@ -27583,5 +27583,51 @@
     "driverAckAt": "2026-01-12T23:56:35.445047Z",
     "pickedUpAt": "2026-01-13T00:13:17.533794Z",
     "deliveredAt": "2026-01-13T00:15:48.911122Z"
+  },
+  {
+    "orderId": "ord-1768269160599",
+    "ts": "2026-01-13T01:52:40.599692Z",
+    "createdAt": "2026-01-13T01:52:40.599692Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-13T01:52:40.599692Z"
+      }
+    ],
+    "customer": {
+      "name": "Suzyaboukhaled",
+      "phone": "81457126",
+      "address": "work\nhopital geaitawi, hopital geitawi, Floor 2, Elevator",
+      "location": "https://www.google.com/maps?q=33.893800,35.501800"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17706",
+        "name": "CLUB SANDWICH SUBMARINE",
+        "qty": 1,
+        "unitUsd": 3.35,
+        "totalUsd": 3.35,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17706.jpg"
+      },
+      {
+        "id": "17492",
+        "name": "AICH EL SARAYA",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17492.jpg"
+      }
+    ],
+    "totalUsd": 8.37,
+    "totalLbp": 750000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
