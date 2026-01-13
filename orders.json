@@ -28315,5 +28315,59 @@
     "driverPhone": "961 76 736 122",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768333227561",
+    "ts": "2026-01-13T19:40:27.561969Z",
+    "createdAt": "2026-01-13T19:40:27.561969Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-13T19:40:27.561969Z"
+      }
+    ],
+    "customer": {
+      "name": "paula",
+      "phone": "81783593",
+      "address": "ashrafieh\ngeitawi/camp l abyad, keushgharian, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.891864,35.530091"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "13603",
+        "name": "MIRANDA 1.25L",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13603.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 3.18,
+        "totalUsd": 3.18,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      }
+    ],
+    "totalUsd": 5.91,
+    "totalLbp": 530000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
