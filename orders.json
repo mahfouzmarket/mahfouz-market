@@ -28079,5 +28079,51 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1768309735887",
+    "ts": "2026-01-13T13:08:55.887328Z",
+    "createdAt": "2026-01-13T13:08:55.887328Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-13T13:08:55.887328Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20572",
+        "name": "ELEGANCE BISCOTTO BLACK & WHITE *2 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20572.jpg"
+      },
+      {
+        "id": "19748",
+        "name": "ELEGANCE BISCOTTO DOUBLE CHOCOLATE 34G x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19748.jpg"
+      }
+    ],
+    "totalUsd": 5.36,
+    "totalLbp": 480000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
