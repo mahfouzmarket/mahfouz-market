@@ -28401,7 +28401,7 @@
     "createdAt": "2026-01-13T20:16:36.748756Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "PICKED_UP",
+    "status": "DELIVERED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -28448,7 +28448,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2026-01-13T21:22:27.969718Z",
+    "statusUpdatedAt": "2026-01-13T21:26:11.954805Z",
     "assignedAt": "2026-01-13T21:16:46.158117Z",
     "brandId": "mahfouz_market",
     "branchKey": "geitawi",
@@ -28458,6 +28458,7 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-13T21:17:57.376047Z",
     "driverLateNotifiedAt": "",
-    "pickedUpAt": "2026-01-13T21:22:27.969718Z"
+    "pickedUpAt": "2026-01-13T21:22:27.969718Z",
+    "deliveredAt": "2026-01-13T21:26:11.954805Z"
   }
 ]
