@@ -28060,7 +28060,7 @@
     "createdAt": "2026-01-13T13:02:57.699502Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "NEW",
+    "status": "CANCELLED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -28090,7 +28090,10 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2026-01-13T21:26:25.770085Z",
+    "cancelledAt": "2026-01-13T21:26:25.770052Z",
+    "cancelReason": "hek"
   },
   {
     "orderId": "ord-1768309735887",
