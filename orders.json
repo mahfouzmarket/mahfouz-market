@@ -28542,5 +28542,99 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768350066906",
+    "ts": "2026-01-14T00:21:06.906576Z",
+    "createdAt": "2026-01-14T00:21:06.906576Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-14T00:21:06.906576Z"
+      }
+    ],
+    "customer": {
+      "name": "Elen allal",
+      "phone": "81074558",
+      "address": "Home\nGeitawi, Building 46, Floor 2, Elevator · Please call upon arrival or you can ring the intercom.",
+      "location": "https://www.google.com/maps?q=33.894901,35.528417"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "5048",
+        "name": "CRUNCH CHOCO 31.5G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5048.jpg"
+      },
+      {
+        "id": "14412",
+        "name": "ETI CRAX  CHEESE AND ONION STICK  50G*20",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14412.jpg"
+      },
+      {
+        "id": "19992",
+        "name": "GODIVA DOUBLE CHOCOLATE 35G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19992.jpg"
+      },
+      {
+        "id": "18976",
+        "name": "LOVITA CAKE COOKIES APPLE WITH CINNAMON 16",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18976.jpg"
+      },
+      {
+        "id": "21120",
+        "name": "MILKA CHOCO BROWNIE 50 G",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21120.jpg"
+      },
+      {
+        "id": "5083",
+        "name": "SANDWICH VANILLE 100 GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5083.jpg"
+      },
+      {
+        "id": "20171",
+        "name": "AILA LE PETIT ECOLIER 12 PCS",
+        "qty": 1,
+        "unitUsd": 3.24,
+        "totalUsd": 3.24,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20171.jpg"
+      },
+      {
+        "id": "4692",
+        "name": "BISCOLATA STIX 27.5G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4692.jpg"
+      }
+    ],
+    "totalUsd": 10.95,
+    "totalLbp": 980000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
