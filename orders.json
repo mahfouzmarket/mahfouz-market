@@ -28770,5 +28770,43 @@
     "driverAckAt": "2026-01-14T07:36:03.340758Z",
     "pickedUpAt": "2026-01-14T07:35:35.343139Z",
     "deliveredAt": "2026-01-14T07:37:01.158383Z"
+  },
+  {
+    "orderId": "ord-1768388465012",
+    "ts": "2026-01-14T11:01:05.012667Z",
+    "createdAt": "2026-01-14T11:01:05.012667Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-14T11:01:05.012667Z"
+      }
+    ],
+    "customer": {
+      "name": "ousama",
+      "phone": "70007817",
+      "address": "rmeil\nkateyib, tony saliba, Floor 1, No Elevator · VGWG+FVR, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.896184898707304,35.527144856750965"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10867",
+        "name": "PRIVATE MISS TEEN 20CT",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10867.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
