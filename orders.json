@@ -28649,5 +28649,59 @@
     "driverAckAt": "2026-01-14T00:26:13.546437Z",
     "pickedUpAt": "2026-01-14T00:51:20.406016Z",
     "deliveredAt": "2026-01-14T00:52:07.207328Z"
+  },
+  {
+    "orderId": "ord-1768356818068",
+    "ts": "2026-01-14T02:13:38.068642Z",
+    "createdAt": "2026-01-14T02:13:38.068642Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-14T02:13:38.068642Z"
+      }
+    ],
+    "customer": {
+      "name": "tony antoun",
+      "phone": "71817397",
+      "address": "hospital\ngeitaoui, hospital, Floor 0, No Elevator · emergency",
+      "location": "https://www.google.com/maps?q=33.8938619324019,35.530406422913074"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18772",
+        "name": "AL AHLAM GRAPE LEAVES WITH RICE 400 G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18772.jpg"
+      },
+      {
+        "id": "16499",
+        "name": "WHITE BELL TUNA WATER 185 G",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16499.jpg"
+      },
+      {
+        "id": "18953",
+        "name": "RIM FRUIT ZERO MANGO ADDED SUGAR 330 ML",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18953.jpg"
+      }
+    ],
+    "totalUsd": 6.15,
+    "totalLbp": 550000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
