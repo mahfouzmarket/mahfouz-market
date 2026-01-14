@@ -28892,5 +28892,203 @@
     "driverAckAt": "2026-01-14T11:39:11.973851Z",
     "pickedUpAt": "2026-01-14T11:44:39.777037Z",
     "deliveredAt": "2026-01-14T11:44:46.122771Z"
+  },
+  {
+    "orderId": "ord-1768410030656",
+    "ts": "2026-01-14T17:00:30.656705Z",
+    "createdAt": "2026-01-14T17:00:30.656705Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-14T17:00:30.656705Z"
+      }
+    ],
+    "customer": {
+      "name": "Carmen Obeid",
+      "phone": "03705698",
+      "address": "Home\nRmeil facing Geitawi Hospital, Obeid bldg#345, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893298,35.530056"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20291",
+        "name": "NF HALLOUM SALAD",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20291.jpg"
+      },
+      {
+        "id": "17756",
+        "name": "ORANGE CAKE",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17756.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "12963",
+        "name": "TANNOURINE WATER 0.5 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg"
+      },
+      {
+        "id": "467",
+        "name": "CARIOCA 180G",
+        "qty": 1,
+        "unitUsd": 3.52,
+        "totalUsd": 3.52,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID467.jpg"
+      },
+      {
+        "id": "4244",
+        "name": "ETI GONG 32G",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4244.jpg"
+      },
+      {
+        "id": "21110",
+        "name": "GALAXY SALTED CARAMEL 135 G",
+        "qty": 1,
+        "unitUsd": 3.02,
+        "totalUsd": 3.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21110.jpg"
+      },
+      {
+        "id": "13328",
+        "name": "KINDER COUNTRY 23.5G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13328.jpg"
+      },
+      {
+        "id": "4006",
+        "name": "KINDER BUENO 43G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4006.jpg"
+      },
+      {
+        "id": "4549",
+        "name": "KINDER DELICE",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4549.jpg"
+      },
+      {
+        "id": "20576",
+        "name": "CHEETOS CRUNCHY HOT 80 G",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20576.jpg"
+      },
+      {
+        "id": "20543",
+        "name": "CHEETOS CRUNCHY CHEESE 35G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20543.jpg"
+      },
+      {
+        "id": "14837",
+        "name": "FANTASIA PICOBELLOS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14837.jpg"
+      },
+      {
+        "id": "15400",
+        "name": "KETTLE COOKED BLACK TRUFFLE 76 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15400.jpg"
+      },
+      {
+        "id": "3626",
+        "name": "MASTER BUFFIES POPCORN 70G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3626.jpg"
+      },
+      {
+        "id": "19054",
+        "name": "MASTER BUIES CHEEZ BALLS 140G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19054.jpg"
+      },
+      {
+        "id": "16375",
+        "name": "FRESH ORANGE 300 ML",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16375.jpg"
+      },
+      {
+        "id": "17056",
+        "name": "MENTOS TUTTI FRUTTI 56 G",
+        "qty": 1,
+        "unitUsd": 2.91,
+        "totalUsd": 2.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17056.jpg"
+      },
+      {
+        "id": "19129",
+        "name": "MENTOS PURE RESH BUBBLE *6",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19129.jpg"
+      },
+      {
+        "id": "17233",
+        "name": "TAANAYEL AYRAN 250 ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17233.jpg"
+      },
+      {
+        "id": "13599",
+        "name": "SEVEN UP DIET PLASTIC 330 ML",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13599.jpg"
+      }
+    ],
+    "totalUsd": 35.77,
+    "totalLbp": 3200000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
