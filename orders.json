@@ -29164,5 +29164,51 @@
     "cancelReason": "test",
     "cancel_reason": "test",
     "cancelledReason": "test"
+  },
+  {
+    "orderId": "ord-1768478016717",
+    "ts": "2026-01-15T11:53:36.717406Z",
+    "createdAt": "2026-01-15T11:53:36.717406Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-15T11:53:36.717406Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20779",
+        "name": "NF CHOCO COOKIES NT 230G",
+        "qty": 1,
+        "unitUsd": 7.82,
+        "totalUsd": 7.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20779.jpg"
+      },
+      {
+        "id": "20746",
+        "name": "LED DECORATIVE LIGHTS 300 LED",
+        "qty": 1,
+        "unitUsd": 7.26,
+        "totalUsd": 7.26,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20746.jpg"
+      }
+    ],
+    "totalUsd": 15.64,
+    "totalLbp": 1400000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
