@@ -29280,5 +29280,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1768494580932",
+    "ts": "2026-01-15T16:29:40.932677Z",
+    "createdAt": "2026-01-15T16:29:40.932677Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-15T16:29:40.932677Z"
+      }
+    ],
+    "customer": {
+      "name": "Arly Issa",
+      "phone": "76509121",
+      "address": "home\nobservatoire street, maidar bldg, Floor 6, Elevator · Next to samak bel baher, sheri3 El knisset El Arman",
+      "location": "https://www.google.com/maps?q=33.892677,35.530107"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      }
+    ],
+    "totalUsd": 1.45,
+    "totalLbp": 130000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
