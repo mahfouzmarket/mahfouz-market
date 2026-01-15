@@ -29210,5 +29210,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1768488771092",
+    "ts": "2026-01-15T14:52:51.092192Z",
+    "createdAt": "2026-01-15T14:52:51.092192Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-15T14:52:51.092192Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2475",
+        "name": "ENGLISH CAKE COCONUT 65 GR",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2475.jpg"
+      },
+      {
+        "id": "20539",
+        "name": "ETI WAFEUP EXTRA COCOA 29 G",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20539.jpg"
+      },
+      {
+        "id": "14666",
+        "name": "XXL ENERGY 25 CL CAN SUGAR FREE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14666.jpg"
+      }
+    ],
+    "totalUsd": 2.07,
+    "totalLbp": 185000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
