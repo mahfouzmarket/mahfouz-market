@@ -18265,7 +18265,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2025-12-31T23:02:06.296427Z",
+    "statusUpdatedAt": "2026-01-15T21:27:27.453119Z",
     "assignedAt": "2025-12-31T23:02:06.296360Z",
     "brandId": "mahfouz_market",
     "branchKey": "geitawi",
@@ -18274,7 +18274,14 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
-    "driverLateNotifiedAt": ""
+    "driverLateNotifiedAt": "",
+    "deliveredAt": "2026-01-15T21:27:27.453119Z",
+    "finalStatus": "DELIVERED",
+    "silentClose": true,
+    "suppressNotify": true,
+    "clientClosed": true,
+    "clientClosedAt": "2026-01-15T21:27:27.453119Z",
+    "clientClosedBy": "shop"
   },
   {
     "orderId": "ord-1766825665945",
