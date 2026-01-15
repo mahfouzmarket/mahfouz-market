@@ -17022,7 +17022,15 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "deliveredAt": "2026-01-15T15:29:16.229743Z",
+    "statusUpdatedAt": "2026-01-15T15:29:16.229743Z",
+    "finalStatus": "DELIVERED",
+    "silentClose": true,
+    "suppressNotify": true,
+    "clientClosed": true,
+    "clientClosedAt": "2026-01-15T15:29:16.229743Z",
+    "clientClosedBy": "shop"
   },
   {
     "orderId": "ord-1766683461154",
