@@ -28703,7 +28703,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2026-01-14T02:24:53.989554Z",
+    "statusUpdatedAt": "2026-01-15T11:02:19.115201Z",
     "acceptedAt": "2026-01-14T02:14:21.111660Z",
     "takenBy": "Manager • Mahfouz • Geitawi",
     "assignedAt": "2026-01-14T02:14:21.111660Z",
@@ -28712,7 +28712,13 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-14T02:16:56.685781Z",
-    "pickedUpAt": "2026-01-14T02:24:53.989554Z"
+    "pickedUpAt": "2026-01-14T02:24:53.989554Z",
+    "clientClosed": true,
+    "clientClosedAt": "2026-01-15T11:02:19.115201Z",
+    "clientClosedBy": "shop",
+    "silentClose": true,
+    "suppressNotify": true,
+    "suppressNotification": true
   },
   {
     "orderId": "ord-1768375111913",
