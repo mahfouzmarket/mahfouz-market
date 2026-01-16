@@ -29863,5 +29863,107 @@
     "driverAckAt": "2026-01-16T18:05:47.228838Z",
     "pickedUpAt": "2026-01-16T18:09:18.673588Z",
     "deliveredAt": "2026-01-16T18:11:50.080555Z"
+  },
+  {
+    "orderId": "ord-1768594333046",
+    "ts": "2026-01-16T20:12:13.046901Z",
+    "createdAt": "2026-01-16T20:12:13.046901Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-16T20:12:13.046901Z"
+      }
+    ],
+    "customer": {
+      "name": "Elen allal",
+      "phone": "81074558",
+      "address": "Home\nGeitawi, Building 46, Floor 2, Elevator · Please call upon arrival or you can ring the intercom.",
+      "location": "https://www.google.com/maps?q=33.894901,35.528417"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "12749",
+        "name": "GITANES SUPER BLUE",
+        "qty": 1,
+        "unitUsd": 1.84,
+        "totalUsd": 1.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12749.jpg"
+      },
+      {
+        "id": "20005",
+        "name": "MASTER KETTLE COOKED LABNEH & HERBS 270G",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20005.jpg"
+      },
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "5810",
+        "name": "KLATCHI CHINESE MIX HOT 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5810.jpg"
+      },
+      {
+        "id": "4692",
+        "name": "BISCOLATA STIX 27.5G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4692.jpg"
+      },
+      {
+        "id": "21115",
+        "name": "KIT KAT HAZELNUT FLAVOR 41.5 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21115.jpg"
+      },
+      {
+        "id": "21113",
+        "name": "KIT KAT 4FINGER DARK 41.5G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21113.jpg"
+      },
+      {
+        "id": "20900",
+        "name": "MATTI KHARTA WHITE",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20900.jpg"
+      }
+    ],
+    "totalUsd": 13.76,
+    "totalLbp": 1230000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
