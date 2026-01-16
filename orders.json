@@ -29725,5 +29725,75 @@
     "driverAckAt": "2026-01-16T15:11:10.172845Z",
     "pickedUpAt": "2026-01-16T15:13:38.307313Z",
     "deliveredAt": "2026-01-16T15:19:05.691879Z"
+  },
+  {
+    "orderId": "ord-1768581167093",
+    "ts": "2026-01-16T16:32:47.093329Z",
+    "createdAt": "2026-01-16T16:32:47.093329Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-16T16:32:47.093329Z"
+      }
+    ],
+    "customer": {
+      "name": "Amani Elali",
+      "phone": "70754625",
+      "address": "Home\nQubayat/Geaitaoui, Kurdahi Bldg (Shop N Go building ), Floor 4, Elevator · Global Digital and Shop an Go building. (4B )",
+      "location": "https://www.google.com/maps?q=33.894859,35.531974"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "17176",
+        "name": "BIRTHDAY CANDLE 6 PCS",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17176.jpg"
+      },
+      {
+        "id": "714",
+        "name": "MACCAW APPLE JUICE 180ML",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID714.jpg"
+      },
+      {
+        "id": "784",
+        "name": "MACCAW PINEAPPLE JUICE 180ML",
+        "qty": 2,
+        "unitUsd": 0.34,
+        "totalUsd": 0.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID784.jpg"
+      },
+      {
+        "id": "708",
+        "name": "MACCAW BAN&STRW JUICE 180ML",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID708.jpg"
+      },
+      {
+        "id": "17749",
+        "name": "BIC LIGHTER",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17749.jpg"
+      }
+    ],
+    "totalUsd": 4.82,
+    "totalLbp": 430000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
