@@ -29806,5 +29806,51 @@
     "driverAckAt": "2026-01-16T16:42:17.430678Z",
     "pickedUpAt": "2026-01-16T16:42:12.975309Z",
     "deliveredAt": "2026-01-16T16:44:34.240075Z"
+  },
+  {
+    "orderId": "ord-1768585999751",
+    "ts": "2026-01-16T17:53:19.751969Z",
+    "createdAt": "2026-01-16T17:53:19.751969Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-16T17:53:19.751969Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      },
+      {
+        "id": "18343",
+        "name": "LA BERGERE AYRAN 250 ML",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18343.jpg"
+      }
+    ],
+    "totalUsd": 2.18,
+    "totalLbp": 195000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
