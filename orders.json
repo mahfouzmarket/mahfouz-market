@@ -32893,5 +32893,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1768646973839",
+    "ts": "2026-01-17T10:49:33.839408Z",
+    "createdAt": "2026-01-17T10:49:33.839408Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-17T10:49:33.839408Z"
+      }
+    ],
+    "customer": {
+      "name": "Kassem alkassem",
+      "phone": "78973694",
+      "address": "karantina\nkhodor street, no name, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901970,35.531730"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16843",
+        "name": "AL FORNO SANDWISH SOFT 5PIECES",
+        "qty": 3,
+        "unitUsd": 1.12,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16843.jpg"
+      }
+    ],
+    "totalUsd": 3.75,
+    "totalLbp": 335000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
