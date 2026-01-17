@@ -32855,5 +32855,43 @@
     "driverAckAt": "2026-01-16T20:19:32.374648Z",
     "pickedUpAt": "2026-01-16T20:21:10.811380Z",
     "deliveredAt": "2026-01-16T20:27:15.555612Z"
+  },
+  {
+    "orderId": "ord-1768646749554",
+    "ts": "2026-01-17T10:45:49.554279Z",
+    "createdAt": "2026-01-17T10:45:49.554279Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-17T10:45:49.554279Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18343",
+        "name": "LA BERGERE AYRAN 250 ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18343.jpg"
+      }
+    ],
+    "totalUsd": 0.95,
+    "totalLbp": 85000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
