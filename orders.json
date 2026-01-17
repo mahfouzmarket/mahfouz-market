@@ -32231,7 +32231,7 @@
     "createdAt": "2026-01-15T14:52:51.092192Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "NEW",
+    "status": "ASSIGNED_DRIVER",
     "statusHistory": [
       {
         "status": "NEW",
@@ -32279,13 +32279,21 @@
       "assignedDriverSentAt": null
     },
     "deliveredAt": "2026-01-15T21:39:49.611517Z",
-    "statusUpdatedAt": "2026-01-15T21:39:49.611517Z",
+    "statusUpdatedAt": "2026-01-17T11:14:29.879518Z",
     "finalStatus": "DELIVERED",
     "silentClose": true,
     "suppressNotify": true,
     "clientClosed": true,
     "clientClosedAt": "2026-01-15T21:39:49.611517Z",
-    "clientClosedBy": "shop"
+    "clientClosedBy": "shop",
+    "acceptedAt": "2026-01-17T11:14:29.877299Z",
+    "takenBy": "Manager • Mahfouz • Medawar",
+    "assignedAt": "2026-01-17T11:14:29.877299Z",
+    "driverId": "drv_1766491309534",
+    "driverName": "Abed",
+    "driverPhone": "961 71 827 997",
+    "driverAssignedNotifiedAt": "",
+    "driverAckAt": ""
   },
   {
     "orderId": "ord-1768494580932",
