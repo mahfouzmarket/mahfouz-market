@@ -32903,7 +32903,7 @@
     "createdAt": "2026-01-17T10:49:33.839408Z",
     "brand": "mahfouz_market",
     "branch": "Medawar",
-    "status": "PICKED_UP",
+    "status": "DELIVERED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -32934,7 +32934,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2026-01-17T11:00:37.220369Z",
+    "statusUpdatedAt": "2026-01-17T11:06:43.002897Z",
     "acceptedAt": "2026-01-17T10:50:36.395208Z",
     "takenBy": "Manager • Mahfouz • Medawar",
     "assignedAt": "2026-01-17T10:50:36.395208Z",
@@ -32943,6 +32943,7 @@
     "driverPhone": "961 71 827 997",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
-    "pickedUpAt": "2026-01-17T11:00:37.220369Z"
+    "pickedUpAt": "2026-01-17T11:00:37.220369Z",
+    "deliveredAt": "2026-01-17T11:06:43.002897Z"
   }
 ]
