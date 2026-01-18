@@ -30727,5 +30727,59 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1768778502287",
+    "ts": "2026-01-18T23:21:42.287352Z",
+    "createdAt": "2026-01-18T23:21:42.287352Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-18T23:21:42.287352Z"
+      }
+    ],
+    "customer": {
+      "name": "arsen Khachadourian",
+      "phone": "81845498",
+      "address": "اشرفيه\nشارع صلاح لبكي, الهاشم, Floor 1, No Elevator · من مقابل مدرسة تلت قمار  بتفوت بال شارع في مطعم moules Et frites",
+      "location": "https://www.google.com/maps?q=33.894914,35.520192"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 3,
+        "unitUsd": 1.96,
+        "totalUsd": 5.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20G)",
+        "qty": 10,
+        "unitUsd": 0.22,
+        "totalUsd": 2.2,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      },
+      {
+        "id": "502",
+        "name": "CAFE 21 SACHET",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID502.jpg"
+      }
+    ],
+    "totalUsd": 9.53,
+    "totalLbp": 855000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
