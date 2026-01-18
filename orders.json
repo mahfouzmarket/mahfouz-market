@@ -30648,5 +30648,75 @@
     "driverAckAt": "",
     "pickedUpAt": "2026-01-18T11:41:26.506180Z",
     "deliveredAt": "2026-01-18T11:41:53.258171Z"
+  },
+  {
+    "orderId": "ord-1768759564162",
+    "ts": "2026-01-18T18:06:04.162023Z",
+    "createdAt": "2026-01-18T18:06:04.162023Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-18T18:06:04.162023Z"
+      }
+    ],
+    "customer": {
+      "name": "tony antoun",
+      "phone": "71817397",
+      "address": "hospital\ngeitaoui, hospital, Floor 0, No Elevator · emergency",
+      "location": "https://www.google.com/maps?q=33.8938619324019,35.530406422913074"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2388",
+        "name": "KAAK BOULE 250",
+        "qty": 1,
+        "unitUsd": 1.4,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2388.jpg"
+      },
+      {
+        "id": "16843",
+        "name": "AL FORNO SANDWISH SOFT 5PIECES",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16843.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH  KHOURY 400G",
+        "qty": 1,
+        "unitUsd": 3.18,
+        "totalUsd": 3.18,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "17233",
+        "name": "TAANAYEL AYRAN 250 ML",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17233.jpg"
+      },
+      {
+        "id": "19114",
+        "name": "EVERVESS SPARKLING WATER 250 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19114.jpg"
+      }
+    ],
+    "totalUsd": 7.49,
+    "totalLbp": 670000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
