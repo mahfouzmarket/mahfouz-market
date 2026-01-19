@@ -31935,5 +31935,91 @@
     "cancelReason": "test",
     "cancel_reason": "test",
     "cancelledReason": "test"
+  },
+  {
+    "orderId": "ord-1768861944163",
+    "ts": "2026-01-19T22:32:24.163905Z",
+    "createdAt": "2026-01-19T22:32:24.163905Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-19T22:32:24.163905Z"
+      }
+    ],
+    "customer": {
+      "name": "jhonny elie ebri",
+      "phone": "81295255",
+      "address": "work\nhopital geitawi, urgence, Floor 0, No Elevator · entrance urgence",
+      "location": "https://www.google.com/maps?q=33.893794,35.530481"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "2477",
+        "name": "ENGLISH CAKE FRUITS 500G",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2477.jpg"
+      },
+      {
+        "id": "704",
+        "name": "MACCAW PINEAPPLE 1L",
+        "qty": 1,
+        "unitUsd": 2.79,
+        "totalUsd": 2.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID704.jpg"
+      },
+      {
+        "id": "17461",
+        "name": "ORIGINAL ORANGE 800ML",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17461.jpg"
+      },
+      {
+        "id": "20579",
+        "name": "MASTER CHICKEN SHAWRMA FLAVOR 165G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20579.jpg"
+      },
+      {
+        "id": "17468",
+        "name": "MASTER COCKTAIL 100 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17468.jpg"
+      },
+      {
+        "id": "15978",
+        "name": "MASTER SALT & VINEGAR 18 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15978.jpg"
+      },
+      {
+        "id": "17696",
+        "name": "PEPSI ZERO 1.5LTR",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17696.jpg"
+      }
+    ],
+    "totalUsd": 11.56,
+    "totalLbp": 1035000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
