@@ -31883,5 +31883,51 @@
     "driverAckAt": "",
     "cancelledAt": "2026-01-19T21:21:26.415495Z",
     "cancelReason": "test"
+  },
+  {
+    "orderId": "ord-1768858150593",
+    "ts": "2026-01-19T21:29:10.593919Z",
+    "createdAt": "2026-01-19T21:29:10.593919Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-19T21:29:10.593919Z"
+      }
+    ],
+    "customer": {
+      "name": "macos",
+      "phone": "70185604",
+      "address": "home\nlaptop, laptop, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.891315,35.528517"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21135",
+        "name": "ADIDAS CHAMPIONS 150ML",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21135.jpg"
+      },
+      {
+        "id": "21134",
+        "name": "ADIDAS PURE GAME DEO BODY SPRAY 150 ML",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21134.jpg"
+      }
+    ],
+    "totalUsd": 9.11,
+    "totalLbp": 815000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
