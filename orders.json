@@ -30792,5 +30792,107 @@
     "driverAckAt": "2026-01-18T23:40:47.970420Z",
     "pickedUpAt": "2026-01-18T23:41:33.421777Z",
     "deliveredAt": "2026-01-18T23:50:00.309426Z"
+  },
+  {
+    "orderId": "ord-1768786728797",
+    "ts": "2026-01-19T01:38:48.797851Z",
+    "createdAt": "2026-01-19T01:38:48.797851Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-19T01:38:48.797851Z"
+      }
+    ],
+    "customer": {
+      "name": "Rouba abou khalil",
+      "phone": "76327179",
+      "address": "work\nal roum hospital's street, al roum hospital, Floor 8, Elevator · main entrance",
+      "location": "https://www.google.com/maps?q=33.893576,35.523755"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "15980",
+        "name": "MASTER CERVY BABECUE 180 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15980.jpg"
+      },
+      {
+        "id": "14213",
+        "name": "PRINGLES SOUR CREAM & ONION 165G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14213.jpg"
+      },
+      {
+        "id": "16955",
+        "name": "MASTER SITOS NACHO CHEESE 210 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16955.jpg"
+      },
+      {
+        "id": "18671",
+        "name": "MASTER POTATO FRITES SALT 210G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18671.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20G)",
+        "qty": 10,
+        "unitUsd": 0.22,
+        "totalUsd": 2.2,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "12963",
+        "name": "TANNOURINE WATER 0.5 x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg"
+      },
+      {
+        "id": "17238",
+        "name": "TAANAYEL LABNEH 400 G",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17238.jpg"
+      }
+    ],
+    "totalUsd": 16.57,
+    "totalLbp": 1485000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
