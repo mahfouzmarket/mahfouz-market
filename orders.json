@@ -32287,5 +32287,43 @@
     "driverAckAt": "2026-01-20T07:50:21.289032Z",
     "pickedUpAt": "2026-01-20T07:55:25.641323Z",
     "deliveredAt": "2026-01-20T07:56:25.687904Z"
+  },
+  {
+    "orderId": "ord-1768904342499",
+    "ts": "2026-01-20T10:19:02.499244Z",
+    "createdAt": "2026-01-20T10:19:02.499244Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-20T10:19:02.499244Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "Home\nSaint Louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891401,35.528277"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21227",
+        "name": "ARTU PATE WITH CHICKEN 300 G",
+        "qty": 1,
+        "unitUsd": 0.0,
+        "totalUsd": 0.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21227.jpg"
+      }
+    ],
+    "totalUsd": 0.56,
+    "totalLbp": 50000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
