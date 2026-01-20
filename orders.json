@@ -32145,7 +32145,7 @@
     "createdAt": "2026-01-20T02:26:24.218873Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "NEW",
+    "status": "CANCELLED",
     "statusHistory": [
       {
         "status": "NEW",
@@ -32191,6 +32191,9 @@
       "newOrderSentAt": null,
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
-    }
+    },
+    "statusUpdatedAt": "2026-01-20T02:39:04.269164Z",
+    "cancelledAt": "2026-01-20T02:39:04.269149Z",
+    "cancelReason": "mg98"
   }
 ]
