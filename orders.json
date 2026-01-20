@@ -32396,5 +32396,59 @@
     "driverAckAt": "2026-01-20T11:28:28.439949Z",
     "pickedUpAt": "2026-01-20T11:29:48.626951Z",
     "deliveredAt": "2026-01-20T11:33:30.818064Z"
+  },
+  {
+    "orderId": "ord-1768916648982",
+    "ts": "2026-01-20T13:44:08.982862Z",
+    "createdAt": "2026-01-20T13:44:08.982862Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-20T13:44:08.982862Z"
+      }
+    ],
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19097",
+        "name": "AL FORNO PAIN DE MIE BROWN",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19097.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "18279",
+        "name": "AILA LE PETIT ECOLIER BISCUIT WITH MILK CHOCO",
+        "qty": 6,
+        "unitUsd": 0.28,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18279.jpg"
+      }
+    ],
+    "totalUsd": 5.48,
+    "totalLbp": 490000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
