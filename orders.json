@@ -32138,5 +32138,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1768875984218",
+    "ts": "2026-01-20T02:26:24.218873Z",
+    "createdAt": "2026-01-20T02:26:24.218873Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-20T02:26:24.218873Z"
+      }
+    ],
+    "customer": {
+      "name": "francois rizk",
+      "phone": "81779595",
+      "address": "home\nsen el fil , daher el jamal, hachem building, Floor 1, Elevator · appartment number 4",
+      "location": "https://www.google.com/maps?q=33.887241,35.535522"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20043",
+        "name": "MILKA LEO FINGER 33.3G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20043.jpg"
+      },
+      {
+        "id": "12601",
+        "name": "MARLBORO SOFT PACK RED",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12601.jpg"
+      },
+      {
+        "id": "3817",
+        "name": "MASTER KETTLE 90G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3817.jpg"
+      }
+    ],
+    "totalUsd": 8.49,
+    "totalLbp": 760000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
