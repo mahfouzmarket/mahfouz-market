@@ -32032,5 +32032,51 @@
     "driverAckAt": "2026-01-19T22:41:45.091187Z",
     "pickedUpAt": "2026-01-19T22:41:40.874090Z",
     "deliveredAt": "2026-01-19T22:46:36.483133Z"
+  },
+  {
+    "orderId": "ord-1768874310687",
+    "ts": "2026-01-20T01:58:30.687130Z",
+    "createdAt": "2026-01-20T01:58:30.687130Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-20T01:58:30.687130Z"
+      }
+    ],
+    "customer": {
+      "name": "francois rizk",
+      "phone": "81779595",
+      "address": "home\nsen el fil , daher el jamal, hachem building, Floor 1, Elevator · appartment number 4",
+      "location": "https://www.google.com/maps?q=33.887241,35.535522"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12601",
+        "name": "MARLBORO SOFT PACK RED",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12601.jpg"
+      },
+      {
+        "id": "3817",
+        "name": "MASTER KETTLE 90G",
+        "qty": 2,
+        "unitUsd": 1.01,
+        "totalUsd": 2.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3817.jpg"
+      }
+    ],
+    "totalUsd": 8.38,
+    "totalLbp": 750000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
