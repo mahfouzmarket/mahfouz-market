@@ -32938,5 +32938,83 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1769005158979",
+    "ts": "2026-01-21T14:19:18.979123Z",
+    "createdAt": "2026-01-21T14:19:18.979123Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-21T14:19:18.979123Z"
+      }
+    ],
+    "customer": {
+      "name": "justine",
+      "phone": "70964569",
+      "address": "karantina\nal khoder street, sleep co.fort building, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.899710,35.533965"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20705",
+        "name": "AILA DARK CHOCOLATE SUGAR FREE 40G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20705.jpg"
+      },
+      {
+        "id": "4692",
+        "name": "BISCOLATA STIX 27.5G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4692.jpg"
+      },
+      {
+        "id": "4405",
+        "name": "ETI DIGESTIVE .155G",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4405.jpg"
+      },
+      {
+        "id": "13978",
+        "name": "POPPINS CORN FLAKES  20 GR",
+        "qty": 1,
+        "unitUsd": 0.39,
+        "totalUsd": 0.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13978.jpg"
+      },
+      {
+        "id": "18698",
+        "name": "POPPINS CHOCO FLAKES 500G",
+        "qty": 1,
+        "unitUsd": 5.53,
+        "totalUsd": 5.53,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18698.jpg"
+      },
+      {
+        "id": "6449",
+        "name": "GHANDOUR MARIE",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6449.jpg"
+      }
+    ],
+    "totalUsd": 15.2,
+    "totalLbp": 1360000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
