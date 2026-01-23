@@ -11529,5 +11529,67 @@
     "driverAckAt": "2026-01-22T22:23:11.374165Z",
     "pickedUpAt": "2026-01-22T22:23:16.882064Z",
     "deliveredAt": "2026-01-22T22:31:10.781948Z"
+  },
+  {
+    "orderId": "ord-1769130676383",
+    "ts": "2026-01-23T01:11:16.383203Z",
+    "createdAt": "2026-01-23T01:11:16.383203Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-23T01:11:16.383203Z"
+      }
+    ],
+    "customer": {
+      "name": "zinat hachem",
+      "phone": "03925223",
+      "address": "geatawi\ngeatawi, khoury, Floor 1, No Elevator · بوج مستشفى جعيتاوي باب الطوارئ فوق ماركت Pandea\nمبنى خوري",
+      "location": "https://www.google.com/maps?q=33.8938,35.5018"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "16432",
+        "name": "TWIRL CADBOURY 43 G",
+        "qty": 1,
+        "unitUsd": 1.56,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16432.jpg"
+      },
+      {
+        "id": "3995",
+        "name": "KINDER 4 FINGERS",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3995.jpg"
+      },
+      {
+        "id": "17718",
+        "name": "BONJUS PINEAPPLE 180 ML",
+        "qty": 3,
+        "unitUsd": 0.17,
+        "totalUsd": 0.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17718.jpg"
+      },
+      {
+        "id": "20958",
+        "name": "X-TRA GUAVA DRINK 240 ML",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20958.jpg"
+      }
+    ],
+    "totalUsd": 5.87,
+    "totalLbp": 525000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
