@@ -11731,5 +11731,67 @@
     "driverAckAt": "2026-01-23T02:42:18.571639Z",
     "pickedUpAt": "2026-01-23T02:42:22.514661Z",
     "deliveredAt": "2026-01-23T02:47:22.335939Z"
+  },
+  {
+    "orderId": "ord-1769171121380",
+    "ts": "2026-01-23T12:25:21.380766Z",
+    "createdAt": "2026-01-23T12:25:21.380766Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-23T12:25:21.380766Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14666",
+        "name": "XXL ENERGY 25 CL CAN SUGAR FREE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14666.jpg"
+      },
+      {
+        "id": "2474",
+        "name": "ENGLISH CAKE BIG DATES 85 GR",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2474.jpg"
+      },
+      {
+        "id": "12780",
+        "name": "LEGACY COMPACT BLUE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12780.jpg"
+      },
+      {
+        "id": "2475",
+        "name": "ENGLISH CAKE COCONUT 65 GR",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2475.jpg"
+      }
+    ],
+    "totalUsd": 2.85,
+    "totalLbp": 255000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
