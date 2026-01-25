@@ -13702,5 +13702,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1769372916575",
+    "ts": "2026-01-25T20:28:36.575626Z",
+    "createdAt": "2026-01-25T20:28:36.575626Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-25T20:28:36.575626Z"
+      }
+    ],
+    "customer": {
+      "name": "kassem alkassem",
+      "phone": "78973694",
+      "address": "karantina\nkhodor, no name, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901977,35.531739"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20931",
+        "name": "ELEGANCE STYLING HAIR WAX FRUITY 140G",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20931.jpg"
+      }
+    ],
+    "totalUsd": 1.62,
+    "totalLbp": 145000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
