@@ -13247,5 +13247,67 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-25T08:00:41.233774Z",
     "pickedUpAt": "2026-01-25T08:00:48.560259Z"
+  },
+  {
+    "orderId": "ord-1769331489029",
+    "ts": "2026-01-25T08:58:09.029946Z",
+    "createdAt": "2026-01-25T08:58:09.029946Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-25T08:58:09.029946Z"
+      }
+    ],
+    "customer": {
+      "name": "Chris Mahfouz",
+      "phone": "81397875",
+      "address": "home\nsaint louis, michel hayek, Floor 5, Elevator · entrance from back street",
+      "location": "https://www.google.com/maps?q=33.891721,35.528199"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21017",
+        "name": "COLOR FIBRE TIP PENS",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21017.jpg"
+      },
+      {
+        "id": "20354",
+        "name": "ELECTRONIC CALCULATOR",
+        "qty": 1,
+        "unitUsd": 7.82,
+        "totalUsd": 7.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20354.jpg"
+      },
+      {
+        "id": "17646",
+        "name": "FABER CASTELL PENCILS",
+        "qty": 1,
+        "unitUsd": 2.01,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17646.jpg"
+      },
+      {
+        "id": "19844",
+        "name": "PILIKUM AL 20",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19844.jpg"
+      }
+    ],
+    "totalUsd": 12.63,
+    "totalLbp": 1130000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
