@@ -13191,5 +13191,51 @@
     "driverAckAt": "2026-01-25T00:32:47.828232Z",
     "pickedUpAt": "2026-01-25T00:33:11.147534Z",
     "deliveredAt": "2026-01-25T00:36:04.391106Z"
+  },
+  {
+    "orderId": "ord-1769327789157",
+    "ts": "2026-01-25T07:56:29.157975Z",
+    "createdAt": "2026-01-25T07:56:29.157975Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-25T07:56:29.157975Z"
+      }
+    ],
+    "customer": {
+      "name": "Mohamed Faraj",
+      "phone": "004917630422830",
+      "address": "منطقة مدور مرفأ بيروت\nشارع البرازيل, Gate9, الطابق 701, مصعد · انا موجود.بطابق ال 7",
+      "location": "https://www.google.com/maps?q=33.901054,35.525973"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "702",
+        "name": "MACCAW MANGO 1L",
+        "qty": 2,
+        "unitUsd": 1.84,
+        "totalUsd": 3.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID702.jpg"
+      },
+      {
+        "id": "1311",
+        "name": "PEPSI PLASTIC 330 ML",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1311.jpg"
+      }
+    ],
+    "totalUsd": 5.31,
+    "totalLbp": 475000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
