@@ -13869,5 +13869,43 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-01-25T21:29:46.157949Z"
+  },
+  {
+    "orderId": "ord-1769376899032",
+    "ts": "2026-01-25T21:34:59.032951Z",
+    "createdAt": "2026-01-25T21:34:59.032951Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-25T21:34:59.032951Z"
+      }
+    ],
+    "customer": {
+      "name": "kassem alkassem",
+      "phone": "78973694",
+      "address": "karantina\nkhodor, no name, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.901994,35.531730"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21060",
+        "name": "ABAC DLIAL MESH 17000",
+        "qty": 1,
+        "unitUsd": 13.97,
+        "totalUsd": 13.97,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21060.jpg"
+      }
+    ],
+    "totalUsd": 13.97,
+    "totalLbp": 1250000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
