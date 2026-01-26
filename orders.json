@@ -14099,7 +14099,7 @@
     "createdAt": "2026-01-26T05:48:07.996661Z",
     "brand": "mahfouz_market",
     "branch": "Geitawi",
-    "status": "ASSIGNED_DRIVER",
+    "status": "PICKED_UP",
     "statusHistory": [
       {
         "status": "NEW",
@@ -14178,7 +14178,7 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     },
-    "statusUpdatedAt": "2026-01-26T06:21:57.937940Z",
+    "statusUpdatedAt": "2026-01-26T06:22:02.462693Z",
     "acceptedAt": "2026-01-26T05:53:43.467375Z",
     "takenBy": "Manager • Mahfouz • Geitawi",
     "assignedAt": "2026-01-26T05:53:43.467375Z",
@@ -14186,6 +14186,7 @@
     "driverName": "Omar",
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
-    "driverAckAt": "2026-01-26T06:21:57.937940Z"
+    "driverAckAt": "2026-01-26T06:21:57.937940Z",
+    "pickedUpAt": "2026-01-26T06:22:02.462693Z"
   }
 ]
