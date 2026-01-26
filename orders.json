@@ -14189,5 +14189,67 @@
     "driverAckAt": "2026-01-26T06:21:57.937940Z",
     "pickedUpAt": "2026-01-26T06:22:02.462693Z",
     "deliveredAt": "2026-01-26T06:24:22.876867Z"
+  },
+  {
+    "orderId": "ord-1769431835579",
+    "ts": "2026-01-26T12:50:35.579271Z",
+    "createdAt": "2026-01-26T12:50:35.579271Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-26T12:50:35.579271Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "20705",
+        "name": "AILA DARK CHOCOLATE SUGAR FREE 40G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20705.jpg"
+      },
+      {
+        "id": "20313",
+        "name": "GULLON SUGAR FREE VANILLA WAFER 60 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20313.jpg"
+      },
+      {
+        "id": "20768",
+        "name": "LEVANTO COCONUT BAR SUGAR FREE",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20768.jpg"
+      },
+      {
+        "id": "14666",
+        "name": "XXL ENERGY 25 CL CAN SUGAR FREE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14666.jpg"
+      }
+    ],
+    "totalUsd": 3.74,
+    "totalLbp": 335000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
