@@ -14092,5 +14092,91 @@
     "driverAckAt": "2026-01-26T01:59:44.976958Z",
     "pickedUpAt": "2026-01-26T02:20:54.057890Z",
     "deliveredAt": "2026-01-26T02:21:38.821630Z"
+  },
+  {
+    "orderId": "ord-1769406487996",
+    "ts": "2026-01-26T05:48:07.996661Z",
+    "createdAt": "2026-01-26T05:48:07.996661Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-26T05:48:07.996661Z"
+      }
+    ],
+    "customer": {
+      "name": "samar mroueh",
+      "phone": "81226529",
+      "address": "geitawi achrafieh\nanis kfoury, abdelmasih building, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894078,35.525238"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12712",
+        "name": "MARLBORO CRAFTED RED",
+        "qty": 2,
+        "unitUsd": 1.68,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12712.jpg"
+      },
+      {
+        "id": "13506",
+        "name": "ALTAGHZIAH CHICKEN LUNCHEON 200 GR",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13506.jpg"
+      },
+      {
+        "id": "9445",
+        "name": "PRIL SECRETS OF THE COOK LEMON 350 ML",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID9445.jpg"
+      },
+      {
+        "id": "4081",
+        "name": "HANIMELLER",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4081.jpg"
+      },
+      {
+        "id": "7304",
+        "name": "AL FORNO WHITE SMALL BREAD",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7304.jpg"
+      },
+      {
+        "id": "5449",
+        "name": "WHITE EGGS 1PC",
+        "qty": 6,
+        "unitUsd": 0.17,
+        "totalUsd": 1.02,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5449.jpg"
+      },
+      {
+        "id": "20620",
+        "name": "CUP OF CAFFE LATTE",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20620.jpg"
+      }
+    ],
+    "totalUsd": 8.72,
+    "totalLbp": 780000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
