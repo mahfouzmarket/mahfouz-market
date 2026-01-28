@@ -15091,5 +15091,59 @@
     "driverAckAt": "2026-01-28T01:11:20.389944Z",
     "pickedUpAt": "2026-01-28T01:19:49.349925Z",
     "deliveredAt": "2026-01-28T01:28:00.800510Z"
+  },
+  {
+    "orderId": "ord-1769606809520",
+    "ts": "2026-01-28T13:26:49.520620Z",
+    "createdAt": "2026-01-28T13:26:49.520620Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-28T13:26:49.520620Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14904",
+        "name": "RRIMAS EXTRA DATES 90 GR",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14904.jpg"
+      },
+      {
+        "id": "13040",
+        "name": "LEVANTO BEIRUT NUTS",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13040.jpg"
+      },
+      {
+        "id": "14666",
+        "name": "XXL ENERGY 25 CL CAN SUGAR FREE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14666.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
