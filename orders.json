@@ -16141,5 +16141,51 @@
     "driverAckAt": "2026-01-30T00:10:58.092390Z",
     "pickedUpAt": "2026-01-30T00:11:20.468773Z",
     "deliveredAt": "2026-01-30T00:15:32.699720Z"
+  },
+  {
+    "orderId": "ord-1769733589876",
+    "ts": "2026-01-30T00:39:49.876763Z",
+    "createdAt": "2026-01-30T00:39:49.876763Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-30T00:39:49.876763Z"
+      }
+    ],
+    "customer": {
+      "name": "issa berri",
+      "phone": "71758166",
+      "address": "work\nhospital room, Saint George hospital, Floor 0, No Elevator",
+      "location": "https://www.google.com/maps?q=33.893507,35.523726"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 2,
+        "unitUsd": 2.23,
+        "totalUsd": 4.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      }
+    ],
+    "totalUsd": 5.7,
+    "totalLbp": 510000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
