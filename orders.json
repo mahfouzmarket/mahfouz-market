@@ -16198,5 +16198,67 @@
     "driverAckAt": "2026-01-30T00:49:49.051565Z",
     "pickedUpAt": "2026-01-30T00:59:21.481705Z",
     "deliveredAt": "2026-01-30T01:07:05.429066Z"
+  },
+  {
+    "orderId": "ord-1769759576137",
+    "ts": "2026-01-30T07:52:56.137565Z",
+    "createdAt": "2026-01-30T07:52:56.137565Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-30T07:52:56.137565Z"
+      }
+    ],
+    "customer": {
+      "name": "Farid eid",
+      "phone": "03425039",
+      "address": "sleep comfort\nsleep comfort, sleep comfort, Floor 3, Elevator",
+      "location": "https://www.google.com/maps?q=33.899928,35.533950"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18343",
+        "name": "LA BERGERE AYRAN 250 ML",
+        "qty": 2,
+        "unitUsd": 0.56,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18343.jpg"
+      },
+      {
+        "id": "12780",
+        "name": "LEGACY COMPACT BLUE",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12780.jpg"
+      },
+      {
+        "id": "7305",
+        "name": "FORNO CROISANT CHOCOLAT",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7305.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      }
+    ],
+    "totalUsd": 3.24,
+    "totalLbp": 290000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
