@@ -16957,5 +16957,51 @@
     "driverAckAt": "2026-01-31T02:45:53.086043Z",
     "pickedUpAt": "2026-01-31T02:52:20.100082Z",
     "deliveredAt": "2026-01-31T02:56:37.614232Z"
+  },
+  {
+    "orderId": "ord-1769836405864",
+    "ts": "2026-01-31T05:13:25.864417Z",
+    "createdAt": "2026-01-31T05:13:25.864417Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-31T05:13:25.864417Z"
+      }
+    ],
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "14113",
+        "name": "NF BROWNI CHOCOLATE",
+        "qty": 3,
+        "unitUsd": 0.67,
+        "totalUsd": 2.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14113.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      }
+    ],
+    "totalUsd": 4.02,
+    "totalLbp": 360000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
