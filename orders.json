@@ -16876,5 +16876,75 @@
     "driverAckAt": "2026-01-30T22:47:50.861187Z",
     "pickedUpAt": "2026-01-30T22:47:57.736743Z",
     "deliveredAt": "2026-01-30T22:50:19.689588Z"
+  },
+  {
+    "orderId": "ord-1769827012029",
+    "ts": "2026-01-31T02:36:52.029759Z",
+    "createdAt": "2026-01-31T02:36:52.029759Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-01-31T02:36:52.029759Z"
+      }
+    ],
+    "customer": {
+      "name": "Elizabeth Challita",
+      "phone": "71775848",
+      "address": "work\nAl Roum Hospital, Al Roum Hospital, Floor 8, Elevator · Main entrance",
+      "location": "https://www.google.com/maps?q=33.893584,35.523731"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "13868",
+        "name": "DOLSI CHIPS VINEGAR 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13868.jpg"
+      },
+      {
+        "id": "19497",
+        "name": "SNIPS DOUBLE ROLLS HONEY MUSTARD 180 G",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19497.jpg"
+      },
+      {
+        "id": "19709",
+        "name": "MASTER SNACKERS CHEESE 170G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19709.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      }
+    ],
+    "totalUsd": 4.86,
+    "totalLbp": 435000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
