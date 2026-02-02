@@ -17700,5 +17700,51 @@
     "driverAckAt": "2026-02-02T07:05:25.051159Z",
     "pickedUpAt": "2026-02-02T07:11:49.418169Z",
     "deliveredAt": "2026-02-02T07:48:58.360030Z"
+  },
+  {
+    "orderId": "ord-1770038973469",
+    "ts": "2026-02-02T13:29:33.469625Z",
+    "createdAt": "2026-02-02T13:29:33.469625Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-02T13:29:33.469625Z"
+      }
+    ],
+    "customer": {
+      "name": "zinat hachem",
+      "phone": "03925223",
+      "address": "geatawi\ngeatawi, khoury, Floor 1, No Elevator · بوج مستشفى جعيتاوي باب الطوارئ فوق ماركت Pandea\nمبنى خوري",
+      "location": "https://www.google.com/maps?q=33.89331729103495,35.53087513893843"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12707",
+        "name": "CEDARS SILVER SOFT",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12707.jpg"
+      },
+      {
+        "id": "12603",
+        "name": "MARLBORO FINE TOUCH",
+        "qty": 2,
+        "unitUsd": 1.96,
+        "totalUsd": 3.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12603.jpg"
+      }
+    ],
+    "totalUsd": 5.36,
+    "totalLbp": 480000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
