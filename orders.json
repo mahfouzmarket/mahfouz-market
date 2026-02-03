@@ -18032,5 +18032,131 @@
     "driverAckAt": "2026-02-02T23:17:14.333186Z",
     "pickedUpAt": "2026-02-02T23:17:11.074215Z",
     "deliveredAt": "2026-02-02T23:27:06.393723Z"
+  },
+  {
+    "orderId": "ord-1770131040205",
+    "ts": "2026-02-03T15:04:00.205224Z",
+    "createdAt": "2026-02-03T15:04:00.205224Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-03T15:04:00.205224Z"
+      }
+    ],
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15136",
+        "name": "TEREA YELLOW",
+        "qty": 2,
+        "unitUsd": 2.79,
+        "totalUsd": 5.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15136.jpg"
+      },
+      {
+        "id": "13065",
+        "name": "AL WAFA FRANJI",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13065.jpg"
+      },
+      {
+        "id": "18205",
+        "name": "MOZARELLA MONI 200gr",
+        "qty": 1,
+        "unitUsd": 3.13,
+        "totalUsd": 3.13,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18205.jpg"
+      },
+      {
+        "id": "17239",
+        "name": "TAANAYEL LABAN 1KG",
+        "qty": 1,
+        "unitUsd": 2.63,
+        "totalUsd": 2.63,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17239.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 2,
+        "unitUsd": 1.45,
+        "totalUsd": 2.9,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "14838",
+        "name": "FANTASIA WOKKELS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14838.jpg"
+      },
+      {
+        "id": "14837",
+        "name": "FANTASIA PICOBELLOS 55 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14837.jpg"
+      },
+      {
+        "id": "15735",
+        "name": "FANTASIA KETCHUP 65 G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15735.jpg"
+      },
+      {
+        "id": "14836",
+        "name": "FANTASIA BUGLES CHEESE 48 GR",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14836.jpg"
+      },
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      },
+      {
+        "id": "19382",
+        "name": "DOLSI CRUNCHY CHEESY WIZZ",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19382.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.73,
+        "totalUsd": 0.73,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      }
+    ],
+    "totalUsd": 20.22,
+    "totalLbp": 1810000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
