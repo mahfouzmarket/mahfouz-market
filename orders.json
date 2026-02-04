@@ -19403,5 +19403,67 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1770228706025",
+    "ts": "2026-02-04T18:11:46.025500Z",
+    "createdAt": "2026-02-04T18:11:46.025500Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-04T18:11:46.025500Z"
+      }
+    ],
+    "customer": {
+      "name": "tony antoun",
+      "phone": "71817397",
+      "address": "hospital\ngeitaoui, hospital, Floor 0, No Elevator · emergency",
+      "location": "https://www.google.com/maps?q=33.8938619324019,35.530406422913074"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "5783",
+        "name": "KLATCHI JAPANESE CRACKERS 160G",
+        "qty": 1,
+        "unitUsd": 2.4,
+        "totalUsd": 2.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5783.jpg"
+      },
+      {
+        "id": "16844",
+        "name": "ALFORNO BROWN MULTICEREAL 5 PCS",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16844.jpg"
+      },
+      {
+        "id": "2819",
+        "name": "LABAN ROUBO3 1KG",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2819.jpg"
+      },
+      {
+        "id": "3081",
+        "name": "LABNEH KHOURY 330 G",
+        "qty": 1,
+        "unitUsd": 3.07,
+        "totalUsd": 3.07,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3081.jpg"
+      }
+    ],
+    "totalUsd": 8.55,
+    "totalLbp": 765000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
