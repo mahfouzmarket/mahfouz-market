@@ -19178,5 +19178,51 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1770226641890",
+    "ts": "2026-02-04T17:37:21.890464Z",
+    "createdAt": "2026-02-04T17:37:21.890464Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-04T17:37:21.890464Z"
+      }
+    ],
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89289148314919,35.52764877676964"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18171",
+        "name": "7DAYS CROISSANT 60 G",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18171.jpg"
+      },
+      {
+        "id": "21304",
+        "name": "AL AHLAM APRICOT JAM 800 G",
+        "qty": 3,
+        "unitUsd": 3.13,
+        "totalUsd": 9.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21304.jpg"
+      }
+    ],
+    "totalUsd": 11.51,
+    "totalLbp": 1030000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
