@@ -19528,5 +19528,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1770231241935",
+    "ts": "2026-02-04T18:54:01.935939Z",
+    "createdAt": "2026-02-04T18:54:01.935939Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-04T18:54:01.935939Z"
+      }
+    ],
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89289148314919,35.52764877676964"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "21273",
+        "name": "5 F SHOWER HEAD",
+        "qty": 1,
+        "unitUsd": 8.38,
+        "totalUsd": 8.38,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21273.jpg"
+      }
+    ],
+    "totalUsd": 8.94,
+    "totalLbp": 800000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
