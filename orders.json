@@ -19102,5 +19102,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1770226436171",
+    "ts": "2026-02-04T17:33:56.171006Z",
+    "createdAt": "2026-02-04T17:33:56.171006Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-04T17:33:56.171006Z"
+      }
+    ],
+    "customer": {
+      "name": "maaen alanayef",
+      "phone": "76736122",
+      "address": "Ashrafieh Jitaoui\nNaoum Labaki, George Khoury, Floor 1, Elevator · VGVG+R4X, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89289148314919,35.52764877676964"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "18171",
+        "name": "7DAYS CROISSANT 60 G",
+        "qty": 2,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18171.jpg"
+      }
+    ],
+    "totalUsd": 2.12,
+    "totalLbp": 190000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
