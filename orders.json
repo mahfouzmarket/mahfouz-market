@@ -21441,5 +21441,107 @@
     "driverAckAt": "",
     "pickedUpAt": "2026-02-08T21:10:58.192344Z",
     "deliveredAt": "2026-02-08T21:18:24.332242Z"
+  },
+  {
+    "orderId": "ord-1770637271403",
+    "ts": "2026-02-09T11:41:11.403707Z",
+    "createdAt": "2026-02-09T11:41:11.403707Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-09T11:41:11.403707Z"
+      }
+    ],
+    "customer": {
+      "name": "nadine",
+      "phone": "03029200",
+      "address": "قريب من سوبر ماركت ضو الأشرفية جعيتاوي\nشارع إسكندر فرح, بناية يعقبيان طابق ٢ رقم ستوديو <201>, Floor 2, No Elevator · call before coming",
+      "location": "https://www.google.com/maps?q=33.892939,35.529282"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "12772",
+        "name": "ALPH KING SIZE SLIM BROWN",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12772.jpg"
+      },
+      {
+        "id": "12767",
+        "name": "CEDARS SLIM BLUE",
+        "qty": 6,
+        "unitUsd": 0.89,
+        "totalUsd": 5.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12767.jpg"
+      },
+      {
+        "id": "17240",
+        "name": "TAANAYEL LABNEH BALADIEH 500 G",
+        "qty": 1,
+        "unitUsd": 4.3,
+        "totalUsd": 4.3,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17240.jpg"
+      },
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "13034",
+        "name": "LIGHTER WITH LAMP",
+        "qty": 1,
+        "unitUsd": 0.34,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13034.jpg"
+      },
+      {
+        "id": "4693",
+        "name": "MASTRO MARIE 49G",
+        "qty": 3,
+        "unitUsd": 0.22,
+        "totalUsd": 0.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4693.jpg"
+      },
+      {
+        "id": "10888",
+        "name": "RIM WATER GALON 10L",
+        "qty": 1,
+        "unitUsd": 1.68,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10888.jpg"
+      },
+      {
+        "id": "2824",
+        "name": "HALLOUM ROBOU3 TAANAYEL",
+        "qtyKg": 0.4,
+        "unitUsd": 5.7,
+        "totalUsd": 2.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2824.jpg"
+      },
+      {
+        "id": "15770",
+        "name": "CLEMENTINE",
+        "qtyKg": 1.0,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15770.jpg"
+      }
+    ],
+    "totalUsd": 20.77,
+    "totalLbp": 1859000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
