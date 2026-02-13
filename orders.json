@@ -22636,5 +22636,59 @@
     "driverAckAt": "2026-02-13T06:05:36.533604Z",
     "pickedUpAt": "2026-02-13T06:07:06.372681Z",
     "deliveredAt": "2026-02-13T06:10:29.956217Z"
+  },
+  {
+    "orderId": "ord-1770983412169",
+    "ts": "2026-02-13T11:50:12.169446Z",
+    "createdAt": "2026-02-13T11:50:12.169446Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-13T11:50:12.169446Z"
+      }
+    ],
+    "customer": {
+      "name": "margarita kh",
+      "phone": "71545213",
+      "address": "geitawi\nfacing bank libano francais, khoueiry- next to mothe mary status, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.891406,35.530513"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "13185",
+        "name": "AL OUMDA",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13185.jpg"
+      },
+      {
+        "id": "20470",
+        "name": "ROSANA 32 ROLL 20% EXTRA SHEETS",
+        "qty": 1,
+        "unitUsd": 6.15,
+        "totalUsd": 6.15,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20470.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      }
+    ],
+    "totalUsd": 9.5,
+    "totalLbp": 850000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
