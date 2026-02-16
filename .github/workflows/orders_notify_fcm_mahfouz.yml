@@ -44,6 +44,12 @@ jobs:
           const svc = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON || '{}');
 
           if (!svc.project_id) throw new Error('Missing FIREBASE_SERVICE_ACCOUNT_JSON');
+
+          // ✅ Normalize \n in private_key if needed
+          if (svc.private_key && typeof svc.private_key === 'string') {
+            svc.private_key = svc.private_key.replace(/\\n/g, '\n');
+          }
+
           admin.initializeApp({ credential: admin.credential.cert(svc) });
 
           function safeTopic(s) { return String(s || '').replace(/[^A-Za-z0-9_]/g, '_'); }
@@ -65,10 +71,10 @@ jobs:
             return bk || '';
           }
 
-          // owner/manager topic (from your staff_access.json)
+          // manager/owner topic
           function ownerTopic(branchKey) { return `orders_${BRAND_ID}_${branchKey}`; }
 
-          // driver topic
+          // driver topic (per driver)
           function driverTopic(o) {
             const driverId = String(o.driverId || '').trim();
             if (!driverId) return '';
@@ -79,6 +85,25 @@ jobs:
           function statusOf(o) {
             const s = String(o.status || '').trim().toUpperCase();
             return s || 'NEW';
+          }
+
+          function isPickup(o) {
+            // main field used by your app
+            if (o && o.pickup === true) return true;
+
+            // tolerate alternate keys if ever used
+            const v = o && (o.isPickup ?? o.fulfillment ?? o.mode ?? o.serviceType);
+            if (!v) return false;
+            const s = String(v).trim().toUpperCase();
+            return s === 'PICKUP' || s === 'TRUE' || s === '1';
+          }
+
+          // ✅ backward compatibility: old pickup orders used PICKED_UP
+          function effectiveStatus(o) {
+            const pickup = isPickup(o);
+            let st = statusOf(o);
+            if (pickup && st === 'PICKED_UP') st = 'READY_TO_PICKUP';
+            return st;
           }
 
           function orderIdOf(o) { return String(o.orderId || o.id || '').trim(); }
@@ -101,7 +126,7 @@ jobs:
             const msg = {
               topic,
               notification: { title, body },
-              data: Object.fromEntries(Object.entries(data || {}).map(([k, v]) => [k, String(v)])),
+              data: Object.fromEntries(Object.entries(data || {}).map(([k, v]) => [k, String(v ?? '')])),
               android: { priority: 'high' },
               apns: { headers: { 'apns-priority': '10' } },
             };
@@ -116,7 +141,6 @@ jobs:
             const parts = [];
             if (usd && !Number.isNaN(usd)) parts.push(`$${usd.toFixed(2)}`);
             if (lbp && !Number.isNaN(lbp)) parts.push(`${Math.round(lbp)} LBP`);
-
             if (!parts.length) return '';
             return parts.join(' | ');
           }
@@ -139,6 +163,24 @@ jobs:
             return parts.join(' ');
           }
 
+          function pickCustomerName(o) {
+            const c = (o && o.customer) || {};
+            const name =
+              String(o.customer_name || '').trim() ||
+              String(c.name || '').trim() ||
+              String(c.fullName || '').trim() ||
+              String(o.customerName || '').trim() ||
+              String(o.name || '').trim();
+            return name || 'Customer';
+          }
+
+          function pickDriverName(o) {
+            const n =
+              String(o.delivery_man_name || '').trim() ||
+              String(o.driverName || '').trim();
+            return n || 'Driver';
+          }
+
           async function main() {
             const curText = fs.readFileSync(ORDERS_PATH, 'utf8');
             const prevText = readPrevFileFromGit(ORDERS_PATH);
@@ -159,50 +201,60 @@ jobs:
               if (!id) continue;
 
               const prev = prevMap.get(id) || null;
-              const curSt = statusOf(o);
-              const prevSt = prev ? statusOf(prev) : '';
 
-              if (prev && prevSt === curSt) continue;
+              const curSt = effectiveStatus(o);
+              const prevSt = prev ? effectiveStatus(prev) : '';
 
+              // default skip if status unchanged
+              let statusChanged = (!prev || prevSt !== curSt);
+
+              // ✅ special case: reassignment within ASSIGNED_DRIVER (driverId change)
+              const curDriverId = String(o.driverId || '').trim();
+              const prevDriverId = prev ? String(prev.driverId || '').trim() : '';
+              const reassigned = (curSt === 'ASSIGNED_DRIVER' && curDriverId && curDriverId !== prevDriverId);
+
+              if (!statusChanged && !reassigned) continue;
+
+              const pickup = isPickup(o);
               const bk = branchKeyFrom(o);
-              const tOwner = ownerTopic(bk);
-              const tDriver = driverTopic(o);
-              const tClient = orderTopic(id);
+              const tOwner = ownerTopic(bk);        // owner+manager
+              const tDriver = driverTopic(o);       // driver (if any)
+              const tClient = orderTopic(id);       // client tracking
 
-              const driverName = String(o.driverName || '').trim();
-              const driverPhone = String(o.driverPhone || '').trim();
-              const driverLine = driverName
-                ? `${driverName}${driverPhone ? ` (+${driverPhone})` : ''}`
-                : (driverPhone ? `+${driverPhone}` : 'Delivery');
+              const customerName = pickCustomerName(o);
+              const driverName = pickDriverName(o);
 
-              const customerName = String((o.customer && o.customer.name) || '').trim();
               const amount = moneyLine(o);
+              const amountPart = amount ? ` — Amount: ${amount}` : '';
 
               const data = {
                 type: '',
                 orderId: id,
                 brandId: BRAND_ID,
                 branchKey: bk,
-                driverId: String(o.driverId || '').trim(),
+                pickup: String(pickup),
+                driverId: curDriverId,
+                customer_name: customerName,
+                delivery_man_name: driverName,
+                totalUsd: String(o.totalUsd ?? ''),
+                totalLbp: String(o.totalLbp ?? ''),
               };
 
-              // 1) ASSIGNED_DRIVER
+              // 1) ASSIGNED_DRIVER  (NO order number in title/body)
               if (curSt === 'ASSIGNED_DRIVER') {
                 data.type = 'ORDER_ASSIGNED';
 
+                const title = `${prettyBranch(bk)} • Delivery assigned`;
+                const body = `${customerName} order has been assigned to ${driverName}${amountPart}`;
+
                 // Owner/Manager
-                await sendTopic(
-                  tOwner,
-                  `${prettyBranch(bk)} • Order assigned to ${driverLine}`,
-                  `Order ${id}${amount ? ` • ${amount}` : ''}`,
-                  data
-                );
+                await sendTopic(tOwner, title, body, data);
 
                 // Client
                 await sendTopic(
                   tClient,
                   'Driver assigned',
-                  `The driver ${driverLine} has been assigned to your order.`,
+                  `The driver ${driverName} has been assigned to your order.`,
                   data
                 );
 
@@ -210,8 +262,8 @@ jobs:
                 if (tDriver) {
                   await sendTopic(
                     tDriver,
-                    'New delivery assigned',
-                    customerName ? `Order ${id} • ${customerName}` : `Order ${id}`,
+                    'New order assigned',
+                    `${customerName} order has been assigned to you${amountPart}`,
                     data
                   );
                 }
@@ -219,8 +271,29 @@ jobs:
                 count++;
               }
 
-              // 2) PICKED_UP
-              if (curSt === 'PICKED_UP') {
+              // 2) READY_TO_PICKUP (pickup only)  ✅ new status + push type
+              if (curSt === 'READY_TO_PICKUP') {
+                data.type = 'ORDER_READY_TO_PICKUP';
+
+                const title = `${prettyBranch(bk)} • Ready to pick up`;
+                const body = `Order ready to pick up${amountPart}${customerName ? ` • ${customerName}` : ''}`;
+
+                // Owner/Manager
+                await sendTopic(tOwner, title, body, data);
+
+                // Client
+                await sendTopic(
+                  tClient,
+                  'Order ready to pick up',
+                  `Your order is ready to pick up${amountPart}`,
+                  data
+                );
+
+                count++;
+              }
+
+              // 3) PICKED_UP (delivery only)
+              if (curSt === 'PICKED_UP' && !pickup) {
                 data.type = 'ORDER_PICKED_UP';
 
                 // Client
@@ -231,18 +304,18 @@ jobs:
                   data
                 );
 
-                // Owner/Manager
+                // Owner/Manager (keep informative, no order number requirement here)
                 await sendTopic(
                   tOwner,
-                  `Picked up to ${customerName || 'client'} from ${prettyBranch(bk)}`,
-                  `Picked up by ${driverLine}`,
+                  `Picked up • ${prettyBranch(bk)}`,
+                  `Picked up by ${driverName}${customerName ? ` • ${customerName}` : ''}`,
                   data
                 );
 
                 count++;
               }
 
-              // 3) DELIVERED (owner only)
+              // 4) DELIVERED  ✅ send SAME to Owner/Manager + Driver
               if (curSt === 'DELIVERED') {
                 data.type = 'ORDER_DELIVERED';
 
@@ -252,16 +325,21 @@ jobs:
                 const dur = durationStr(startIso, endIso);
 
                 const bodyParts = [];
-                bodyParts.push(`Taken by: ${takenBy || '—'}`);
-                bodyParts.push(`Driver: ${driverLine}`);
+                if (amount) bodyParts.push(`Amount: ${amount}`);
+                bodyParts.push(`Driver: ${driverName}`);
+                if (takenBy) bodyParts.push(`Taken by: ${takenBy}`);
                 if (dur) bodyParts.push(`Time: ${dur}`);
 
-                await sendTopic(
-                  tOwner,
-                  `DELIVERED ✅ to ${customerName || 'client'}`,
-                  bodyParts.join(' • '),
-                  data
-                );
+                const title = `${prettyBranch(bk)} • DELIVERED ✅`;
+                const body = `${customerName || 'Customer'} • ${bodyParts.join(' • ')}`;
+
+                // Owner/Manager
+                await sendTopic(tOwner, title, body, data);
+
+                // Driver gets same notification
+                if (tDriver) {
+                  await sendTopic(tDriver, title, body, data);
+                }
 
                 count++;
               }
