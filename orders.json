@@ -24150,5 +24150,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1771253431343",
+    "ts": "2026-02-16T14:50:31.343515Z",
+    "createdAt": "2026-02-16T14:50:31.343515Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-16T14:50:31.343515Z"
+      }
+    ],
+    "customer": {
+      "name": "jad sakr",
+      "phone": "76156817",
+      "address": "about chibrl\nrehban street, about chibel, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900743,35.526744"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "15039",
+        "name": "MOULIN DOR WHOLE WHEAT BREAD",
+        "qty": 1,
+        "unitUsd": 1.51,
+        "totalUsd": 1.51,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15039.jpg"
+      },
+      {
+        "id": "21343",
+        "name": "BONLAIT AYRAN 250 ML",
+        "qty": 2,
+        "unitUsd": 0.5,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21343.jpg"
+      },
+      {
+        "id": "13905",
+        "name": "I LOVE MY CAT CHUNKS WITH CHICKEN 400GR",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13905.jpg"
+      }
+    ],
+    "totalUsd": 3.91,
+    "totalLbp": 350000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
