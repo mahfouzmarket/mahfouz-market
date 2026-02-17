@@ -113,7 +113,7 @@ jobs:
               notification: { title, body },
               data: Object.fromEntries(Object.entries(data).map(([k, v]) => [k, v == null ? '' : String(v)])),
               android: { priority: 'high', notification: { sound: 'default' } },
-              apns: { headers: { 'apns-priority': '10' } },
+              apns: {   headers: {     'apns-priority': '10',     'apns-push-type': 'alert',   },   payload: {     aps: {       sound: 'default',     },   }, },
             };
             const id = await admin.messaging().send(msg);
             console.log(`✅ Sent to topic=${topic} msgId=${id}`);
