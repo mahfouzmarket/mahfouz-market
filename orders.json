@@ -25232,5 +25232,43 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1771430632086",
+    "ts": "2026-02-18T16:03:52.086585Z",
+    "createdAt": "2026-02-18T16:03:52.086585Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-18T16:03:52.086585Z"
+      }
+    ],
+    "customer": {
+      "name": "samar mroueh",
+      "phone": "81226529",
+      "address": "geitawi achrafieh\nanis kfoury, abdelmasih building, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894078,35.525238"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "3191",
+        "name": "NUTELLA 400G",
+        "qty": 1,
+        "unitUsd": 4.92,
+        "totalUsd": 4.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3191.jpg"
+      }
+    ],
+    "totalUsd": 5.47,
+    "totalLbp": 490000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
