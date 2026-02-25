@@ -27999,5 +27999,59 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1771998915030",
+    "ts": "2026-02-25T05:55:15.030126Z",
+    "createdAt": "2026-02-25T05:55:15.030126Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-25T05:55:15.030126Z"
+      }
+    ],
+    "customer": {
+      "name": "shahira",
+      "phone": "70906269",
+      "address": "near Essex boutique\nrmeil street, jean melhem, Floor 2, No Elevator · VGVH+8VF, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.89325021947637,35.52963897585869"
+    },
+    "pickup": false,
+    "items": [
+      {
+        "id": "4132",
+        "name": "CHOCO DUO 170G",
+        "qty": 1,
+        "unitUsd": 1.28,
+        "totalUsd": 1.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4132.jpg"
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg"
+      },
+      {
+        "id": "17165",
+        "name": "BISKREM COCOA 99G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17165.jpg"
+      }
+    ],
+    "totalUsd": 4.69,
+    "totalLbp": 420000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
