@@ -29346,5 +29346,69 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1772211771783",
+    "ts": "2026-02-27T17:02:51.783489Z",
+    "createdAt": "2026-02-27T17:02:51.783489Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-02-27T17:02:51.783489Z"
+      }
+    ],
+    "customer": {
+      "name": "Eva Léna Bacosli",
+      "phone": "70201692",
+      "address": "rmeil mar mkhayel\nkonayat street, raja dalal, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896102,35.530053"
+    },
+    "customer_name": "Eva Léna Bacosli",
+    "customer_phone": "70201692",
+    "pickup": false,
+    "items": [
+      {
+        "id": "1872",
+        "name": "KSARA BLANC DU BLANC 750 ML",
+        "qty": 1,
+        "unitUsd": 7.71,
+        "totalUsd": 7.71,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1872.jpg"
+      },
+      {
+        "id": "20436",
+        "name": "LIFESTYLE CAT FOOD BEE 100 G",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20436.jpg"
+      },
+      {
+        "id": "5810",
+        "name": "KLATCHI CHINESE MIX HOT 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5810.jpg"
+      },
+      {
+        "id": "13872",
+        "name": "KLATCHI PUMPKIN SEEDS 250G",
+        "qty": 1,
+        "unitUsd": 2.46,
+        "totalUsd": 2.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13872.jpg"
+      }
+    ],
+    "totalUsd": 14.3,
+    "totalLbp": 1280000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
