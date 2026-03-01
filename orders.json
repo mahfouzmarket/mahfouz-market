@@ -30666,5 +30666,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1772389441148",
+    "ts": "2026-03-01T18:24:01.148441Z",
+    "createdAt": "2026-03-01T18:24:01.148441Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-03-01T18:24:01.148441Z"
+      }
+    ],
+    "customer": {
+      "name": "yara naacy",
+      "phone": "71090023",
+      "address": "home\nrehban street, der mar mousa, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895351,35.527831"
+    },
+    "customer_name": "yara naacy",
+    "customer_phone": "71090023",
+    "pickup": false,
+    "items": [
+      {
+        "id": "13401",
+        "name": "CASTANIA SMALL SEEDS 200 GR",
+        "qty": 1,
+        "unitUsd": 1.84,
+        "totalUsd": 1.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13401.jpg"
+      },
+      {
+        "id": "16107",
+        "name": "INDOMIE VEGETABLES FLAVOUR 60GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16107.jpg"
+      },
+      {
+        "id": "14961",
+        "name": "INDOMIE CHICKEN CURRY 60 GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14961.jpg"
+      }
+    ],
+    "totalUsd": 4.08,
+    "totalLbp": 365000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
