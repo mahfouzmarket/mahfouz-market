@@ -31322,5 +31322,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1772456176776",
+    "ts": "2026-03-02T12:56:16.776017Z",
+    "createdAt": "2026-03-02T12:56:16.776017Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-03-02T12:56:16.776017Z"
+      }
+    ],
+    "customer": {
+      "name": "moussa chahine",
+      "phone": "03584587",
+      "address": "ashrafieh\ngetawi, military buildings, Floor 2, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894906,35.530613"
+    },
+    "customer_name": "moussa chahine",
+    "customer_phone": "03584587",
+    "pickup": false,
+    "items": [
+      {
+        "id": "13602",
+        "name": "PEPSI DIET 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13602.jpg"
+      },
+      {
+        "id": "1173",
+        "name": "PEPSI 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1173.jpg"
+      },
+      {
+        "id": "13604",
+        "name": "SEVEN UP 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13604.jpg"
+      },
+      {
+        "id": "13603",
+        "name": "MIRANDA 1.25L",
+        "qty": 1,
+        "unitUsd": 1.34,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13603.jpg"
+      },
+      {
+        "id": "16469",
+        "name": "AOUN CURRY 50 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16469.jpg"
+      },
+      {
+        "id": "7860",
+        "name": "YAMAMA TOMATO PASTE 300G",
+        "qty": 1,
+        "unitUsd": 1.23,
+        "totalUsd": 1.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7860.jpg"
+      }
+    ],
+    "totalUsd": 7.82,
+    "totalLbp": 700000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
