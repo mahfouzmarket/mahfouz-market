@@ -61,7 +61,7 @@
   },
   "pricing_lbp": {
     "currency": "LBP",
-    "base_price": 30000,
+    "base_price": 40000,
     "band_multipliers": {
       "A1": 1,
       "B2": 2,
@@ -76,13 +76,13 @@
       {
         "branch_id": "medawar",
         "overrides": {
-          "A1": 35000
+          "A1": 50000
         }
       },
       {
         "branch_id": "geitawi",
         "overrides": {
-          "A1": 50000
+          "A1": 70000
         }
       }
     ]
