@@ -6471,5 +6471,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1773602947288",
+    "ts": "2026-03-15T19:29:07.288462Z",
+    "createdAt": "2026-03-15T19:29:07.288462Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-03-15T19:29:07.288462Z"
+      }
+    ],
+    "customer": {
+      "name": "Mahmoud Saheb",
+      "phone": "78818516",
+      "address": "karantina\nhighway, Beirut Fire Brigade, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.899344,35.530053"
+    },
+    "customer_name": "Mahmoud Saheb",
+    "customer_phone": "78818516",
+    "pickup": false,
+    "items": [
+      {
+        "id": "15409",
+        "name": "ENGLISH CAKE PREMUIM MARBLE CAKE 650G",
+        "qty": 1,
+        "unitUsd": 5.03,
+        "totalUsd": 5.03,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15409.jpg"
+      },
+      {
+        "id": "780",
+        "name": "MACCAW MANGO 250ML",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID780.jpg"
+      },
+      {
+        "id": "21449",
+        "name": "HAPPY BIRTHDAY CANDLES BIG 6 PCS",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21449.jpg"
+      }
+    ],
+    "totalUsd": 11.06,
+    "totalLbp": 990000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
