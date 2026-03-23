@@ -10560,5 +10560,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1774294791735",
+    "ts": "2026-03-23T19:39:51.735562Z",
+    "createdAt": "2026-03-23T19:39:51.735562Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-03-23T19:39:51.735562Z"
+      }
+    ],
+    "customer": {
+      "name": "aly mazeh",
+      "phone": "76154923",
+      "address": "Geitawi Hospital\nGeitawi street, Geitawi building, Floor 1, Elevator",
+      "location": "https://www.google.com/maps?q=33.894240,35.530282"
+    },
+    "customer_name": "aly mazeh",
+    "customer_phone": "76154923",
+    "pickup": false,
+    "items": [
+      {
+        "id": "15307",
+        "name": "REXONA SHOWER FRESH 150 ML",
+        "qty": 1,
+        "unitUsd": 3.69,
+        "totalUsd": 3.69,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15307.jpg"
+      },
+      {
+        "id": "16171",
+        "name": "PEPSI CAN ZERO SUGAR 330 ML",
+        "qty": 2,
+        "unitUsd": 0.73,
+        "totalUsd": 1.46,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16171.jpg"
+      },
+      {
+        "id": "131",
+        "name": "BOOM BOOM ENERGY DRINK",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID131.jpg"
+      },
+      {
+        "id": "21086",
+        "name": "DAIRY MILK BUBBLY MILK CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.45,
+        "totalUsd": 0.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21086.jpg"
+      },
+      {
+        "id": "959",
+        "name": "KHOURY MILK FULL FAT 1 L",
+        "qty": 1,
+        "unitUsd": 1.96,
+        "totalUsd": 1.96,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID959.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20G)",
+        "qty": 2,
+        "unitUsd": 0.22,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      }
+    ],
+    "totalUsd": 9.89,
+    "totalLbp": 885000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
