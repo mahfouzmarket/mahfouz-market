@@ -35913,9 +35913,9 @@
     "category": "CHI TAYIB",
     "sub_category": "Croissant",
     "offers": "0",
-    "stock_in_geitawi_branch": "-4.0",
+    "stock_in_geitawi_branch": "-6.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "7.0",
+    "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "3.0",
     "total_consumption": "0.0",
@@ -35927,11 +35927,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Medawar": {
-        "stock": "7.0",
+        "stock": "9.0",
         "consumption": "0.0"
       },
       "Geitawi": {
-        "stock": "-4.0",
+        "stock": "-6.0",
         "consumption": "0.0"
       }
     }
@@ -93096,9 +93096,9 @@
     "id": "21680",
     "name": "PADLOCK YUN HUAN 63MM",
     "category": "HOME USAGE",
-    "sub": "TOOLS",
+    "sub": "",
     "sub_category": "TOOLS",
-    "subCategory": "TOOLS",
+    "subCategory": "",
     "price_usd": "3.06",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21680.jpg",
     "supplier": "",
