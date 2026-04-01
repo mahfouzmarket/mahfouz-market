@@ -23745,16 +23745,26 @@
     "unit": "-",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "29.0",
+    "stock_in_geitawi_branch": 29.0,
     "consumption_in_geitawi_branch": "194.0",
-    "stock_in_medawar_branch": "-2.0",
+    "stock_in_medawar_branch": -3.0,
     "consumption_in_medawar_branch": "311.0",
-    "total_stock": "27.0",
+    "total_stock": 26.0,
     "total_consumption": "505.0",
     "VAT": "NO",
     "price_lbp": "200,000",
     "cost": "1.99",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 29.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": -3.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "12602",
