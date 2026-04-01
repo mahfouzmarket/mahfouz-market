@@ -8849,17 +8849,14 @@
     "name": "TWIX TWIN",
     "category": "CHI TAYIB",
     "sub": "sweets",
-    "sub_category": "sweets",
-    "subCategory": "sweets",
     "price_usd": "0.83",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4088.jpg",
     "supplier": "TRANSMED F&B SAL LBP",
     "barcode": "5000159459228",
-    "barcode2": "5000159559485",
-    "barcodes": "5000159559485",
     "Product Description": "TWIX TWIN",
     "SUPPLIERS": "TRANSMED F&B SAL LBP",
     "unit": "-",
+    "sub_category": "sweets",
     "offers": "0",
     "stock_in_geitawi_branch": "45.0",
     "consumption_in_geitawi_branch": "103.0",
@@ -8880,7 +8877,9 @@
         "stock": "45.0",
         "consumption": "103.0"
       }
-    }
+    },
+    "barcode2": "5000159559485",
+    "barcodes": "5000159559485"
   },
   {
     "id": "4096",
@@ -14265,16 +14264,26 @@
     "unit": "-",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": 3.0,
     "consumption_in_geitawi_branch": "111.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": 9.0,
     "consumption_in_medawar_branch": "98.0",
-    "total_stock": "7.0",
+    "total_stock": 12.0,
     "total_consumption": "209.0",
     "VAT": "NO",
     "price_lbp": "150,000",
     "cost": "1.45",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 3.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 9.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "7248",
@@ -14290,16 +14299,26 @@
     "unit": "-",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": 2.0,
     "consumption_in_geitawi_branch": "107.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": 2.0,
     "consumption_in_medawar_branch": "39.0",
-    "total_stock": "2.0",
+    "total_stock": 4.0,
     "total_consumption": "146.0",
     "VAT": "NO",
     "price_lbp": "120,000",
     "cost": "1.17",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 2.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 2.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "7274",
@@ -25204,17 +25223,14 @@
     "name": "TANNOURINE WATER 2L x 6 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
-    "sub_category": "MINERAL WATER",
-    "subCategory": "MINERAL WATER",
     "price_usd": "2.44",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg",
     "supplier": "TANNOURINE",
     "barcode": "",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "TANNOURINE WATER 2L x 6 pcs",
     "SUPPLIERS": "TANNOURINE",
     "unit": "-",
+    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "45.0",
     "consumption_in_geitawi_branch": "118",
@@ -25244,17 +25260,14 @@
     "name": "TANNOURINE WATER 0.5 x 12 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
-    "sub_category": "MINERAL WATER",
-    "subCategory": "MINERAL WATER",
     "price_usd": "2.44",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12963.jpg",
     "supplier": "TANNOURINE",
     "barcode": "",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "TANNOURINE WATER 0.5 x 12 pcs",
     "SUPPLIERS": "TANNOURINE",
     "unit": "-",
+    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "64",
@@ -27517,33 +27530,40 @@
     "unit": "-",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "27.0",
+    "stock_in_geitawi_branch": 27.0,
     "consumption_in_geitawi_branch": "537.0",
-    "stock_in_medawar_branch": "21.0",
+    "stock_in_medawar_branch": 56.0,
     "consumption_in_medawar_branch": "644.0",
-    "total_stock": "48.0",
+    "total_stock": 83.0,
     "total_consumption": "1181.0",
     "VAT": "NO",
     "price_lbp": "95,000",
     "cost": "0.93",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 27.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 56.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "13297",
     "name": "RIM WATER 500ML x 12 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
-    "sub_category": "MINERAL WATER",
-    "subCategory": "MINERAL WATER",
     "price_usd": "2.44",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg",
     "supplier": "RIM REFRESHMENT SAL USD",
     "barcode": "",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "RIM WATER 500ML x 12 pcs",
     "SUPPLIERS": "RIM REFRESHMENT SAL USD",
     "unit": "-",
+    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "2",
@@ -30769,17 +30789,14 @@
     "name": "RIM WATER 2L x 6 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
-    "sub_category": "MINERAL WATER",
-    "subCategory": "MINERAL WATER",
     "price_usd": "2.44",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13821.jpg",
     "supplier": "RIM REFRESHMENT SAL USD",
     "barcode": "",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "RIM WATER 2L x 6 pcs",
     "SUPPLIERS": "RIM REFRESHMENT SAL USD",
     "unit": "-",
+    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "5",
@@ -36644,16 +36661,26 @@
     "unit": "-",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": -1.0,
     "consumption_in_geitawi_branch": "13.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": 3.0,
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "-1.0",
+    "total_stock": 2.0,
     "total_consumption": "21.0",
     "VAT": "YES",
     "price_lbp": "250,000",
     "cost": "2.17",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": -1.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 3.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "14565",
@@ -39604,16 +39631,26 @@
     "unit": "-",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": 4.0,
     "consumption_in_geitawi_branch": "100.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": 6.0,
     "consumption_in_medawar_branch": "100.0",
-    "total_stock": "5.0",
+    "total_stock": 10.0,
     "total_consumption": "200.0",
     "VAT": "NO",
     "price_lbp": "150,000",
     "cost": "1.51",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 4.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 6.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "15056",
@@ -48006,16 +48043,22 @@
     "unit": "-",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": 0.0,
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": 3.0,
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "1.0",
+    "total_stock": 3.0,
     "total_consumption": "29.0",
     "VAT": "NO",
     "price_lbp": "150,000",
     "cost": "1.51",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Medawar": {
+        "stock": 3.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "16245",
@@ -54831,17 +54874,14 @@
     "name": "AQUAFINA WATER 2 L x 6 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
-    "sub_category": "MINERAL WATER",
-    "subCategory": "MINERAL WATER",
     "price_usd": "2.33",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17180.jpg",
     "supplier": "PEPSI LBP",
     "barcode": "",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "AQUAFINA WATER 2 L x 6 pcs",
     "SUPPLIERS": "PEPSI LBP",
     "unit": "-",
+    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "0",
     "consumption_in_geitawi_branch": "69",
@@ -56490,17 +56530,14 @@
     "name": "AQUAFINA WATER 0.5 L x 12 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
-    "sub_category": "MINERAL WATER",
-    "subCategory": "MINERAL WATER",
     "price_usd": "2.33",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17349.jpg",
     "supplier": "PEPSI LBP",
     "barcode": "",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "AQUAFINA WATER 0.5 L x 12 pcs",
     "SUPPLIERS": "PEPSI LBP",
     "unit": "-",
+    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "10",
     "consumption_in_geitawi_branch": "52",
