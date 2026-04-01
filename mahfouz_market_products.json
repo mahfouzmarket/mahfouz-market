@@ -108866,16 +108866,26 @@
     "unit": "-",
     "sub_category": "Wafers",
     "offers": "0",
-    "stock_in_geitawi_branch": "31.0",
+    "stock_in_geitawi_branch": 31.0,
     "consumption_in_geitawi_branch": "28.0",
-    "stock_in_medawar_branch": "43.0",
+    "stock_in_medawar_branch": 39.0,
     "consumption_in_medawar_branch": "53.0",
-    "total_stock": "74.0",
+    "total_stock": 70.0,
     "total_consumption": "81.0",
     "VAT": "YES",
     "price_lbp": "35,000",
     "cost": "0.26",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 31.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 39.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "21272",
