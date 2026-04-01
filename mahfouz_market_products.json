@@ -2012,16 +2012,26 @@
     "unit": "-",
     "sub_category": "coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "390.0",
+    "stock_in_geitawi_branch": 390.0,
     "consumption_in_geitawi_branch": "544.0",
-    "stock_in_medawar_branch": "3511.0",
+    "stock_in_medawar_branch": 3510.0,
     "consumption_in_medawar_branch": "325.0",
-    "total_stock": "3901.0",
+    "total_stock": 3900.0,
     "total_consumption": "869.0",
     "VAT": "YES",
     "price_lbp": "50,000",
     "cost": "0.21",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 390.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 3510.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "611",
@@ -4111,16 +4121,26 @@
     "unit": "-",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "581.0",
+    "stock_in_geitawi_branch": 581.0,
     "consumption_in_geitawi_branch": "776.0",
-    "stock_in_medawar_branch": "4027.0",
+    "stock_in_medawar_branch": 4026.0,
     "consumption_in_medawar_branch": "837.0",
-    "total_stock": "4608.0",
+    "total_stock": 4607.0,
     "total_consumption": "1613.0",
     "VAT": "YES",
     "price_lbp": "25,000",
     "cost": "0.16",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 581.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 4026.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "1435",
@@ -9458,26 +9478,16 @@
     "unit": "-",
     "sub_category": "Wafers",
     "offers": "0",
-    "stock_in_geitawi_branch": 25.0,
+    "stock_in_geitawi_branch": "25.0",
     "consumption_in_geitawi_branch": "14.0",
-    "stock_in_medawar_branch": 20.0,
+    "stock_in_medawar_branch": "22.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": 45.0,
+    "total_stock": "47.0",
     "total_consumption": "30.0",
     "VAT": "YES",
     "price_lbp": "65,000",
     "cost": "0.46",
-    "delivery_rules": "0.005",
-    "branches": {
-      "Geitawi": {
-        "stock": 25.0,
-        "cons_30d": 0.0
-      },
-      "Medawar": {
-        "stock": 20.0,
-        "cons_30d": 0.0
-      }
-    }
+    "delivery_rules": "0.005"
   },
   {
     "id": "4484",
@@ -23725,16 +23735,26 @@
     "unit": "-",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": 23.0,
     "consumption_in_geitawi_branch": "166.0",
-    "stock_in_medawar_branch": "7.0",
+    "stock_in_medawar_branch": 6.0,
     "consumption_in_medawar_branch": "129.0",
-    "total_stock": "30.0",
+    "total_stock": 29.0,
     "total_consumption": "295.0",
     "VAT": "NO",
     "price_lbp": "175,000",
     "cost": "1.76",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 23.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 6.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "12608",
@@ -23900,26 +23920,16 @@
     "unit": "-",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": 96.0,
+    "stock_in_geitawi_branch": "96.0",
     "consumption_in_geitawi_branch": "1550.0",
-    "stock_in_medawar_branch": 68.0,
+    "stock_in_medawar_branch": "69.0",
     "consumption_in_medawar_branch": "1762.0",
-    "total_stock": 164.0,
+    "total_stock": "165.0",
     "total_consumption": "3312.0",
     "VAT": "NO",
     "price_lbp": "80,000",
     "cost": "0.77",
-    "delivery_rules": "0.005",
-    "branches": {
-      "Geitawi": {
-        "stock": 96.0,
-        "cons_30d": 0.0
-      },
-      "Medawar": {
-        "stock": 68.0,
-        "cons_30d": 0.0
-      }
-    }
+    "delivery_rules": "0.005"
   },
   {
     "id": "12702",
@@ -25692,26 +25702,16 @@
     "unit": "-",
     "sub_category": "LIGHTER",
     "offers": "0",
-    "stock_in_geitawi_branch": 401.0,
+    "stock_in_geitawi_branch": "401.0",
     "consumption_in_geitawi_branch": "45.0",
-    "stock_in_medawar_branch": 401.0,
+    "stock_in_medawar_branch": "402.0",
     "consumption_in_medawar_branch": "116.0",
-    "total_stock": 802.0,
+    "total_stock": "803.0",
     "total_consumption": "161.0",
     "VAT": "YES",
     "price_lbp": "30,000",
     "cost": "0.16",
-    "delivery_rules": "0.005",
-    "branches": {
-      "Geitawi": {
-        "stock": 401.0,
-        "cons_30d": 0.0
-      },
-      "Medawar": {
-        "stock": 401.0,
-        "cons_30d": 0.0
-      }
-    }
+    "delivery_rules": "0.005"
   },
   {
     "id": "13036",
@@ -27540,14 +27540,17 @@
     "name": "RIM WATER 500ML x 12 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
+    "sub_category": "MINERAL WATER",
+    "subCategory": "MINERAL WATER",
     "price_usd": "2.44",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg",
     "supplier": "RIM REFRESHMENT SAL USD",
     "barcode": "",
+    "barcode2": "",
+    "barcodes": "",
     "Product Description": "RIM WATER 500ML x 12 pcs",
     "SUPPLIERS": "RIM REFRESHMENT SAL USD",
     "unit": "-",
-    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "2",
@@ -31169,16 +31172,26 @@
     "unit": "-",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "21.0",
+    "stock_in_geitawi_branch": 21.0,
     "consumption_in_geitawi_branch": "95.0",
-    "stock_in_medawar_branch": "27.0",
+    "stock_in_medawar_branch": 26.0,
     "consumption_in_medawar_branch": "166.0",
-    "total_stock": "48.0",
+    "total_stock": 47.0,
     "total_consumption": "261.0",
     "VAT": "NO",
     "price_lbp": "150,000",
     "cost": "1.50",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": 21.0,
+        "cons_30d": 0.0
+      },
+      "Medawar": {
+        "stock": 26.0,
+        "cons_30d": 0.0
+      }
+    }
   },
   {
     "id": "13847",
@@ -34363,26 +34376,16 @@
     "unit": "-",
     "sub_category": "Croissant",
     "offers": "0",
-    "stock_in_geitawi_branch": 21.0,
+    "stock_in_geitawi_branch": "21.0",
     "consumption_in_geitawi_branch": "31.0",
-    "stock_in_medawar_branch": 9.0,
+    "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": 30.0,
+    "total_stock": "31.0",
     "total_consumption": "60.0",
     "VAT": "YES",
     "price_lbp": "50,000",
     "cost": "0.38",
-    "delivery_rules": "0.005",
-    "branches": {
-      "Geitawi": {
-        "stock": 21.0,
-        "cons_30d": 0.0
-      },
-      "Medawar": {
-        "stock": 9.0,
-        "cons_30d": 0.0
-      }
-    }
+    "delivery_rules": "0.005"
   },
   {
     "id": "14221",
@@ -54579,26 +54582,16 @@
     "unit": "-",
     "sub_category": "Crackers",
     "offers": "0",
-    "stock_in_geitawi_branch": 3.0,
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "22.0",
-    "stock_in_medawar_branch": 16.0,
+    "stock_in_medawar_branch": "17.0",
     "consumption_in_medawar_branch": "15.0",
-    "total_stock": 19.0,
+    "total_stock": "20.0",
     "total_consumption": "37.0",
     "VAT": "NO",
     "price_lbp": "40,000",
     "cost": "0.28",
-    "delivery_rules": "0.005",
-    "branches": {
-      "Geitawi": {
-        "stock": 3.0,
-        "cons_30d": 0.0
-      },
-      "Medawar": {
-        "stock": 16.0,
-        "cons_30d": 0.0
-      }
-    }
+    "delivery_rules": "0.005"
   },
   {
     "id": "17144",
@@ -54855,14 +54848,17 @@
     "name": "AQUAFINA WATER 2 L x 6 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
+    "sub_category": "MINERAL WATER",
+    "subCategory": "MINERAL WATER",
     "price_usd": "2.33",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17180.jpg",
     "supplier": "PEPSI LBP",
     "barcode": "",
+    "barcode2": "",
+    "barcodes": "",
     "Product Description": "AQUAFINA WATER 2 L x 6 pcs",
     "SUPPLIERS": "PEPSI LBP",
     "unit": "-",
-    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "0",
     "consumption_in_geitawi_branch": "69",
@@ -56511,14 +56507,17 @@
     "name": "AQUAFINA WATER 0.5 L x 12 pcs",
     "category": "BEVERAGES",
     "sub": "MINERAL WATER",
+    "sub_category": "MINERAL WATER",
+    "subCategory": "MINERAL WATER",
     "price_usd": "2.33",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17349.jpg",
     "supplier": "PEPSI LBP",
     "barcode": "",
+    "barcode2": "",
+    "barcodes": "",
     "Product Description": "AQUAFINA WATER 0.5 L x 12 pcs",
     "SUPPLIERS": "PEPSI LBP",
     "unit": "-",
-    "sub_category": "MINERAL WATER",
     "offers": "-",
     "stock_in_geitawi_branch": "10",
     "consumption_in_geitawi_branch": "52",
