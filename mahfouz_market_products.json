@@ -1957,16 +1957,26 @@
     "unit": "-",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "725.0",
+    "stock_in_geitawi_branch": "720.0",
     "consumption_in_geitawi_branch": "1643.0",
     "stock_in_medawar_branch": "1915.0",
     "consumption_in_medawar_branch": "1689.0",
-    "total_stock": "2640.0",
+    "total_stock": "2635.0",
     "total_consumption": "3332.0",
     "VAT": "YES",
     "price_lbp": "25,000",
     "cost": "0.18",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "720.0",
+        "consumption": "1643.0"
+      },
+      "Medawar": {
+        "stock": "1915.0",
+        "consumption": "1689.0"
+      }
+    }
   },
   {
     "id": "494",
@@ -25067,16 +25077,26 @@
     "unit": "-",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "19.0",
+    "stock_in_geitawi_branch": "17.0",
     "consumption_in_geitawi_branch": "240.0",
     "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "95.0",
-    "total_stock": "43.0",
+    "total_stock": "41.0",
     "total_consumption": "335.0",
     "VAT": "NO",
     "price_lbp": "150,000",
     "cost": "1.50",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "17.0",
+        "consumption": "240.0"
+      },
+      "Medawar": {
+        "stock": "24.0",
+        "consumption": "95.0"
+      }
+    }
   },
   {
     "id": "12719",
