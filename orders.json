@@ -17492,5 +17492,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1775591269664",
+    "ts": "2026-04-07T19:47:49.664834Z",
+    "createdAt": "2026-04-07T19:47:49.664834Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-07T19:47:49.664834Z"
+      }
+    ],
+    "customer": {
+      "name": "mohanad",
+      "phone": "78931335",
+      "address": "home\nst roum hospital, capitans shop, الطابق 4, مصعد · الاتصال عند الوصول",
+      "location": "https://www.google.com/maps?q=33.894162,35.524900"
+    },
+    "customer_name": "mohanad",
+    "customer_phone": "78931335",
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "14819",
+        "name": "NESCAFE GOLD BLEND 100 GR",
+        "qty": 2,
+        "unitUsd": 5.64,
+        "totalUsd": 11.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14819.jpg"
+      },
+      {
+        "id": "13297",
+        "name": "RIM WATER 500ML x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.44,
+        "totalUsd": 2.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13297.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "12731",
+        "name": "MARLBORO  SOFT PACK GOLD",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12731.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      }
+    ],
+    "totalUsd": 20.39,
+    "totalLbp": 1825000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
