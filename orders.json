@@ -17347,5 +17347,53 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1775589611429",
+    "ts": "2026-04-07T19:20:11.429708Z",
+    "createdAt": "2026-04-07T19:20:11.429708Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-07T19:20:11.429708Z"
+      }
+    ],
+    "customer": {
+      "name": "zeinab el said",
+      "phone": "70733522",
+      "address": "home\nkhodor, said building, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.902518,35.531529"
+    },
+    "customer_name": "zeinab el said",
+    "customer_phone": "70733522",
+    "pickup": false,
+    "items": [
+      {
+        "id": "15138",
+        "name": "TEREA PURPLE WAVE",
+        "qty": 2,
+        "unitUsd": 2.79,
+        "totalUsd": 5.58,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15138.jpg"
+      },
+      {
+        "id": "18821",
+        "name": "BIHAR BULGARIAN COW WHITE CHEESE 200 G",
+        "qty": 1,
+        "unitUsd": 4.47,
+        "totalUsd": 4.47,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18821.jpg"
+      }
+    ],
+    "totalUsd": 10.61,
+    "totalLbp": 950000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
