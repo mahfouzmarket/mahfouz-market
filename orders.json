@@ -20336,5 +20336,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1776013892572",
+    "ts": "2026-04-12T17:11:32.572543Z",
+    "createdAt": "2026-04-12T17:11:32.572543Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-12T17:11:32.572543Z"
+      }
+    ],
+    "customer": {
+      "name": "ahmad ibrahim",
+      "phone": "70950196",
+      "address": "hom\ng, badour, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895802,35.532014"
+    },
+    "customer_name": "ahmad ibrahim",
+    "customer_phone": "70950196",
+    "pickup": false,
+    "items": [
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 2,
+        "unitUsd": 0.89,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "13865",
+        "name": "DOLSI CHIPS CRUNCHY PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13865.jpg"
+      },
+      {
+        "id": "13864",
+        "name": "DOLSI CHIPS CHEESE PUFFS 80GR",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13864.jpg"
+      },
+      {
+        "id": "13674",
+        "name": "FRESCO VANILLE",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13674.jpg"
+      },
+      {
+        "id": "13595",
+        "name": "SEVEN UP 2.25L",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13595.jpg"
+      },
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      }
+    ],
+    "totalUsd": 8.77,
+    "totalLbp": 785000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
