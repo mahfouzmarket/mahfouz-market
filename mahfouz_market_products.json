@@ -44172,17 +44172,17 @@
     "linked_profile_sub_category": "",
     "Product Description": "MASTER CURVY CHIPS SALT&VIN 80G",
     "SUPPLIERS": "DELTA TRADING USD",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "36.0",
     "stock_in_medawar_branch": "35.0",
     "consumption_in_medawar_branch": "44.0",
-    "total_stock": "47.0",
+    "total_stock": "46.0",
     "total_consumption": "80.0",
     "cost": 0.56,
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "12.0",
+        "stock": "11.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -97107,11 +97107,11 @@
     "linked_profile_sub_category": "",
     "Product Description": "MEGA STRAWBERRY FLAVOR 55G",
     "SUPPLIERS": "DELTA TRADING USD",
-    "stock_in_geitawi_branch": "30.0",
+    "stock_in_geitawi_branch": "29.0",
     "consumption_in_geitawi_branch": "10.0",
     "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "13.0",
-    "total_stock": "7.0",
+    "total_stock": "36.0",
     "total_consumption": "23.0",
     "cost": "0.3500",
     "delivery_rules": "0.005",
@@ -97119,6 +97119,10 @@
       "Medawar": {
         "stock": "7.0",
         "consumption": "13.0"
+      },
+      "Geitawi": {
+        "stock": "29.0",
+        "consumption": "10.0"
       }
     }
   },
@@ -149118,17 +149122,17 @@
     "linked_profile_sub_category": "",
     "Product Description": "LIPTON ICE TEA LEMON DIET CAN 320ML",
     "SUPPLIERS": "PEPSI LBP",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "27.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "1.0",
+    "total_stock": "0.0",
     "total_consumption": "27.0",
     "cost": "0.64",
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "27.0"
       }
     }
