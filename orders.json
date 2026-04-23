@@ -24955,5 +24955,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1776965150222",
+    "ts": "2026-04-23T17:25:50.222604Z",
+    "createdAt": "2026-04-23T17:25:50.222604Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-23T17:25:50.222604Z"
+      }
+    ],
+    "customer": {
+      "name": "ahmad ossaily",
+      "phone": "03937391",
+      "address": "home\nkarantina, porto gio, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.900607,35.526471"
+    },
+    "customer_name": "ahmad ossaily",
+    "customer_phone": "03937391",
+    "pickup": false,
+    "items": [
+      {
+        "id": "5070",
+        "name": "JUMBO VANILLA",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5070.jpg"
+      },
+      {
+        "id": "13833",
+        "name": "CORNETTY",
+        "qty": 1,
+        "unitUsd": 0.95,
+        "totalUsd": 0.95,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13833.jpg"
+      },
+      {
+        "id": "13670",
+        "name": "SANDWICH CHOCOLATE 100 GR",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13670.jpg"
+      }
+    ],
+    "totalUsd": 6.03,
+    "totalLbp": 540000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
