@@ -22511,17 +22511,17 @@
     "linked_profile_sub_category": "",
     "Product Description": "RIM WATER GALON 10L",
     "SUPPLIERS": "RIM REFRESHMENT SAL USD",
-    "stock_in_geitawi_branch": "99.0",
+    "stock_in_geitawi_branch": "97.0",
     "consumption_in_geitawi_branch": "120.0",
     "stock_in_medawar_branch": "-55.0",
     "consumption_in_medawar_branch": "75.0",
-    "total_stock": "44.0",
+    "total_stock": "42.0",
     "total_consumption": "195.0",
     "cost": "1.44",
     "delivery_rules": "0.45",
     "branches": {
       "Geitawi": {
-        "stock": "99.0",
+        "stock": "97.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -24776,17 +24776,17 @@
     "linked_profile_sub_category": "",
     "Product Description": "CEDARS SILVER",
     "SUPPLIERS": "CIGARETTES",
-    "stock_in_geitawi_branch": "112.0",
+    "stock_in_geitawi_branch": "111.0",
     "consumption_in_geitawi_branch": "1553.0",
     "stock_in_medawar_branch": "41.0",
     "consumption_in_medawar_branch": "1850.0",
-    "total_stock": "153.0",
+    "total_stock": "152.0",
     "total_consumption": "3403.0",
     "cost": "0.77",
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "112.0",
+        "stock": "111.0",
         "consumption": "1553.0"
       },
       "Medawar": {
@@ -25048,14 +25048,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "MARLBORO  SOFT PACK GOLD",
     "SUPPLIERS": "CIGARETTES",
-    "stock_in_geitawi_branch": "19.0",
+    "stock_in_geitawi_branch": "18.0",
     "consumption_in_geitawi_branch": "189.0",
     "stock_in_medawar_branch": "22.0",
     "consumption_in_medawar_branch": "31.0",
-    "total_stock": "41.0",
+    "total_stock": "18.0",
     "total_consumption": "220.0",
     "cost": "1.99",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "18.0",
+        "consumption": "189.0"
+      }
+    }
   },
   {
     "id": "12735",
@@ -28850,14 +28856,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "MARVY TRASH BAG MED 30+3 FREE",
     "SUPPLIERS": "KTE KFOURY TRADING EST",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "3.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "6.0",
+    "total_stock": "1.0",
     "total_consumption": "7.0",
     "cost": "1.38",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "1.0",
+        "consumption": "3.0"
+      }
+    }
   },
   {
     "id": "13196",
@@ -30888,17 +30900,17 @@
     "linked_profile_sub_category": "",
     "Product Description": "CASTANIA SMALL SEEDS 200 GR",
     "SUPPLIERS": "LEBANESE ROASTING GROUP SAL",
-    "stock_in_geitawi_branch": "7.0",
+    "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "26.0",
     "stock_in_medawar_branch": "-2.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "5.0",
+    "total_stock": "4.0",
     "total_consumption": "33.0",
     "cost": "1.54",
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
+        "stock": "6.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -32218,14 +32230,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "LABNEH BALADIYEH DAY3ETNA 400GR",
     "SUPPLIERS": "NOUNA'S FOOD",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "52.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "-1.0",
+    "total_stock": "-2.0",
     "total_consumption": "52.0",
     "cost": "1.71",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "-2.0",
+        "consumption": "52.0"
+      }
+    }
   },
   {
     "id": "13525",
@@ -32864,14 +32882,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "MIRANDA PLASTIC 330 ML",
     "SUPPLIERS": "PEPSI LBP",
-    "stock_in_geitawi_branch": "87.0",
+    "stock_in_geitawi_branch": "86.0",
     "consumption_in_geitawi_branch": "104.0",
     "stock_in_medawar_branch": "44.0",
     "consumption_in_medawar_branch": "105.0",
-    "total_stock": "131.0",
+    "total_stock": "86.0",
     "total_consumption": "209.0",
     "cost": "0.50",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "86.0",
+        "consumption": "104.0"
+      }
+    }
   },
   {
     "id": "13602",
@@ -46018,14 +46042,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "TEREA PURPLE WAVE",
     "SUPPLIERS": "CIGARETTES",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "130.0",
     "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "78.0",
-    "total_stock": "18.0",
+    "total_stock": "8.0",
     "total_consumption": "208.0",
     "cost": "2.45",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "8.0",
+        "consumption": "130.0"
+      }
+    }
   },
   {
     "id": "15139",
@@ -92308,14 +92338,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "AXE MUSK PATCHOULI & FOUGERE 150 ML",
     "SUPPLIERS": "JACK DIB",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "6.0",
+    "total_stock": "2.0",
     "total_consumption": "0.0",
     "cost": "1.76",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "2.0",
+        "consumption": "0.0"
+      }
+    }
   },
   {
     "id": "19226",
@@ -104958,14 +104994,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "BIHAR BULGARIAN SHEEP WHITE CHEESE 400 G",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "3.0",
+    "total_stock": "0.0",
     "total_consumption": "3.0",
     "cost": "8.04",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "2.0"
+      }
+    }
   },
   {
     "id": "19983",
@@ -111902,17 +111944,17 @@
     "linked_profile_sub_category": "",
     "Product Description": "SNICKERS 50 G",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
-    "stock_in_geitawi_branch": "59.0",
+    "stock_in_geitawi_branch": "58.0",
     "consumption_in_geitawi_branch": "147.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "180.0",
-    "total_stock": "64.0",
+    "total_stock": "63.0",
     "total_consumption": "327.0",
     "cost": "0.50",
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "59.0",
+        "stock": "58.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -129706,14 +129748,20 @@
     "linked_profile_sub_category": "",
     "Product Description": "GIZMO WET WIPES 100PCS",
     "SUPPLIERS": "PLATCO",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "3.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "9.0",
-    "total_stock": "16.0",
+    "total_stock": "11.0",
     "total_consumption": "12.0",
     "cost": "0.75",
-    "delivery_rules": "0.005"
+    "delivery_rules": "0.005",
+    "branches": {
+      "Geitawi": {
+        "stock": "11.0",
+        "consumption": "3.0"
+      }
+    }
   },
   {
     "id": "21178",
@@ -137810,18 +137858,18 @@
     "Product Description": "NF MINI DAOUKIYEH CUP",
     "SUPPLIERS": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "11.4",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "-1.0",
+    "total_stock": "0.0",
     "total_consumption": "11.4",
     "VAT": "NO",
     "price_lbp": "300,000",
     "cost": "0.00",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "0.0",
         "consumption": "11.4"
       },
       "Medawar": {
