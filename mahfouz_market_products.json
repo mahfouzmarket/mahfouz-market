@@ -165250,14 +165250,18 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "11.0",
+    "total_stock": "33.0",
     "total_consumption": "24.0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "22.0",
     "stock_in_medawar_branch": "11.0",
     "branches": {
       "Medawar": {
         "stock": "11.0",
         "consumption": "15.0"
+      },
+      "Geitawi": {
+        "stock": "22.0",
+        "consumption": "9.0"
       }
     },
     "Product Description": "CANDEREL DARK & SEA SALT 30 G",
@@ -171512,9 +171516,9 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "30.0",
+    "total_stock": "29.0",
     "total_consumption": "41.0",
-    "stock_in_geitawi_branch": "31.0",
+    "stock_in_geitawi_branch": "30.0",
     "stock_in_medawar_branch": "-1.0",
     "branches": {
       "Medawar": {
@@ -171522,7 +171526,7 @@
         "consumption": "29.0"
       },
       "Geitawi": {
-        "stock": "31.0",
+        "stock": "30.0",
         "consumption": "12.0"
       }
     },
