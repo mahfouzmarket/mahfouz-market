@@ -39318,13 +39318,13 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "556.0",
+    "total_stock": "555.0",
     "total_consumption": "899.0",
-    "stock_in_geitawi_branch": "313.0",
+    "stock_in_geitawi_branch": "312.0",
     "stock_in_medawar_branch": "243.0",
     "branches": {
       "Geitawi": {
-        "stock": "313.0",
+        "stock": "312.0",
         "consumption": "439.0"
       },
       "Medawar": {
@@ -100555,14 +100555,20 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "19.0",
+    "total_stock": "12.0",
     "total_consumption": "14.0",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "12.0",
     "stock_in_medawar_branch": "6.0",
     "Product Description": "ARUBA ICED COFFEE LATTE 250 ML",
     "SUPPLIERS": "HINTRAG",
     "consumption_in_geitawi_branch": "4.0",
-    "consumption_in_medawar_branch": "10.0"
+    "consumption_in_medawar_branch": "10.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "12.0",
+        "consumption": "4.0"
+      }
+    }
   },
   {
     "id": "17715",
