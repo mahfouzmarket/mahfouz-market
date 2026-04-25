@@ -25579,5 +25579,45 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1777114128781",
+    "ts": "2026-04-25T10:48:48.781433Z",
+    "createdAt": "2026-04-25T10:48:48.781433Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-25T10:48:48.781433Z"
+      }
+    ],
+    "customer": {
+      "name": "Ziad Loutfi",
+      "phone": "79121816",
+      "address": "Home\nIskandar Farah Street, Smaha Building, Floor 1, Elevator · Building has a parking",
+      "location": "https://www.google.com/maps?q=33.892679,35.528083"
+    },
+    "customer_name": "Ziad Loutfi",
+    "customer_phone": "79121816",
+    "pickup": false,
+    "items": [
+      {
+        "id": "13594",
+        "name": "PEPSI DIET 2.25L",
+        "qty": 1,
+        "unitUsd": 1.79,
+        "totalUsd": 1.79,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13594.jpg"
+      }
+    ],
+    "totalUsd": 2.68,
+    "totalLbp": 240000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
