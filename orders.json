@@ -26048,5 +26048,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1777210971829",
+    "ts": "2026-04-26T13:42:51.829728Z",
+    "createdAt": "2026-04-26T13:42:51.829728Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-26T13:42:51.829728Z"
+      }
+    ],
+    "customer": {
+      "name": "jason korkiss",
+      "phone": "76691353",
+      "address": "achrafieh fasouh\nmessara, بناية يزبك بوج مختار سضاءة, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.889599,35.525164"
+    },
+    "customer_name": "jason korkiss",
+    "customer_phone": "76691353",
+    "pickup": false,
+    "items": [
+      {
+        "id": "12872",
+        "name": "BORDON HOT DOG 400G",
+        "qty": 5,
+        "unitUsd": 1.96,
+        "totalUsd": 9.8,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12872.jpg"
+      },
+      {
+        "id": "19882",
+        "name": "AL FORNO TANNOUR WITH OAT",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19882.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      }
+    ],
+    "totalUsd": 12.74,
+    "totalLbp": 1140000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
