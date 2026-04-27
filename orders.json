@@ -26453,5 +26453,93 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1777321450120",
+    "ts": "2026-04-27T20:24:10.120800Z",
+    "createdAt": "2026-04-27T20:24:10.120800Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-04-27T20:24:10.120800Z"
+      }
+    ],
+    "customer": {
+      "name": "mohanad",
+      "phone": "78931335",
+      "address": "home\nst roum hospital, capitans shop, الطابق 4, مصعد · الاتصال عند الوصول",
+      "location": "https://www.google.com/maps?q=33.894162,35.524900"
+    },
+    "customer_name": "mohanad",
+    "customer_phone": "78931335",
+    "pickup": false,
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10L",
+        "qty": 3,
+        "unitUsd": 0.78,
+        "totalUsd": 2.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg"
+      },
+      {
+        "id": "12701",
+        "name": "CEDARS SILVER",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12701.jpg"
+      },
+      {
+        "id": "12731",
+        "name": "MARLBORO  SOFT PACK GOLD",
+        "qty": 1,
+        "unitUsd": 2.23,
+        "totalUsd": 2.23,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12731.jpg"
+      },
+      {
+        "id": "3647",
+        "name": "MASTERS S&V 80G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3647.jpg"
+      },
+      {
+        "id": "6443",
+        "name": "SUPERMI INDOMIE VEGETABLE",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6443.jpg"
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.45,
+        "totalUsd": 1.45,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      }
+    ],
+    "totalUsd": 11.01,
+    "totalLbp": 985000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
