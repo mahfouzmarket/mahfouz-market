@@ -121976,14 +121976,24 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "14.0",
+    "total_stock": "13.0",
     "total_consumption": "10.0",
     "stock_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "13.0",
+    "stock_in_medawar_branch": "12.0",
     "Product Description": "ALFH KING SIZE BROWN",
     "SUPPLIERS": "AMIT SAL",
     "consumption_in_geitawi_branch": "10.0",
-    "consumption_in_medawar_branch": "0.0"
+    "consumption_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "1.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "12.0",
+        "consumption": "0.0"
+      }
+    }
   },
   {
     "id": "19053",
