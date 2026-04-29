@@ -7508,17 +7508,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "4543.0",
+    "total_stock": "4542.0",
     "total_consumption": "1062.0",
     "stock_in_geitawi_branch": "-352.0",
-    "stock_in_medawar_branch": "4895.0",
+    "stock_in_medawar_branch": "4894.0",
     "branches": {
       "Geitawi": {
         "stock": "-352.0",
         "consumption": "717.0"
       },
       "Medawar": {
-        "stock": "4895.0",
+        "stock": "4894.0",
         "consumption": "0.0"
       }
     },
@@ -102221,17 +102221,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "44.0",
+    "total_stock": "43.0",
     "total_consumption": "16.0",
     "stock_in_geitawi_branch": "12.0",
-    "stock_in_medawar_branch": "32.0",
+    "stock_in_medawar_branch": "31.0",
     "branches": {
       "Geitawi": {
         "stock": "12.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "32.0",
+        "stock": "31.0",
         "consumption": "0.0"
       }
     },
@@ -204261,17 +204261,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "98.0",
+    "total_stock": "97.0",
     "total_consumption": "41.0",
     "stock_in_geitawi_branch": "9.0",
-    "stock_in_medawar_branch": "89.0",
+    "stock_in_medawar_branch": "88.0",
     "branches": {
       "Geitawi": {
         "stock": "9.0",
         "consumption": "37.0"
       },
       "Medawar": {
-        "stock": "89.0",
+        "stock": "88.0",
         "consumption": "4.0"
       }
     },
@@ -224268,6 +224268,48 @@
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400024.jpg",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": ""
+  },
+  {
+    "id": "400025",
+    "name": "MENTOS GUM PURE FRESH BUBBLE NANO 10 PCS (COPY)",
+    "category": "CHI TAYIB",
+    "sub": "Chewing gum",
+    "sub_category": "Chewing gum",
+    "supplier": "GOLDEN FOOD SAL",
+    "unit": "-",
+    "barcode": "80862055",
+    "barcode2": "",
+    "barcodes": "",
+    "price_usd": "1.00",
+    "price_lbp": "90,000",
+    "cost": "0.76",
+    "cost_ht": "0.76",
+    "VAT": "YES",
+    "offers": "0",
+    "delivery_rules": "0.005",
+    "expiry_days": "0",
+    "new_items": "x",
+    "manual": "",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "stock_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400025.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
