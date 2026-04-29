@@ -3535,17 +3535,17 @@
     "expiry_days": "0",
     "new_items": "",
     "manual": "",
-    "total_stock": "1261.0",
+    "total_stock": "1258.0",
     "total_consumption": "975.0",
     "stock_in_geitawi_branch": "642.0",
-    "stock_in_medawar_branch": "619.0",
+    "stock_in_medawar_branch": "616.0",
     "branches": {
       "Geitawi": {
         "stock": "642.0",
         "consumption": "508.0"
       },
       "Medawar": {
-        "stock": "619.0",
+        "stock": "616.0",
         "consumption": "467.0"
       }
     },
@@ -6532,17 +6532,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "17684.0",
+    "total_stock": "17683.0",
     "total_consumption": "517.0",
     "stock_in_geitawi_branch": "174.0",
-    "stock_in_medawar_branch": "17510.0",
+    "stock_in_medawar_branch": "17509.0",
     "branches": {
       "Geitawi": {
         "stock": "174.0",
         "consumption": "260.0"
       },
       "Medawar": {
-        "stock": "17510.0",
+        "stock": "17509.0",
         "consumption": "257.0"
       }
     },
@@ -8736,17 +8736,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "35.0",
+    "total_stock": "34.0",
     "total_consumption": "199.0",
     "stock_in_geitawi_branch": "11.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "23.0",
     "branches": {
       "Geitawi": {
         "stock": "11.0",
         "consumption": "58.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "141.0"
       }
     },
@@ -120316,13 +120316,13 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "100.0",
+    "total_stock": "96.0",
     "total_consumption": "66.0",
     "stock_in_geitawi_branch": "46.0",
-    "stock_in_medawar_branch": "54.0",
+    "stock_in_medawar_branch": "50.0",
     "branches": {
       "Medawar": {
-        "stock": "54.0",
+        "stock": "50.0",
         "consumption": "18.0"
       },
       "Geitawi": {
@@ -224777,6 +224777,48 @@
     "linked_profile_sub_category": ""
   },
   {
+    "id": "100059",
+    "name": "BONJUS MELODY CHOCO VANILLE",
+    "category": "ICE CREAM",
+    "sub": "BONJUS",
+    "sub_category": "BONJUS",
+    "supplier": "F AND B TRADING bonjus S.A.L",
+    "unit": "-",
+    "barcode": "5281021172043",
+    "barcode2": "",
+    "barcodes": "",
+    "price_usd": "1.67",
+    "price_lbp": "150,000",
+    "cost": "1.14",
+    "cost_ht": "1.14",
+    "VAT": "NO",
+    "offers": "0",
+    "delivery_rules": "0.005",
+    "expiry_days": "0",
+    "new_items": "x",
+    "manual": "",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "stock_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID100059.jpg",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": ""
+  },
+  {
     "id": "300001",
     "name": "TEST LOCAL FIRST ITEM",
     "category": "FOOD",
@@ -227206,6 +227248,48 @@
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400066.jpg",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": ""
+  },
+  {
+    "id": "400068",
+    "name": "BN CHOCOLATE 150 G",
+    "category": "CHI TAYIB",
+    "sub": "sweets",
+    "sub_category": "sweets",
+    "supplier": "ABI RAMIA BROS SARL",
+    "unit": "-",
+    "barcode": "3061990136800",
+    "barcode2": "",
+    "barcodes": "",
+    "price_usd": "0.67",
+    "price_lbp": "60,000",
+    "cost": "0.40",
+    "cost_ht": "0.40",
+    "VAT": "YES",
+    "offers": "0",
+    "delivery_rules": "0.005",
+    "expiry_days": "0",
+    "new_items": "x",
+    "manual": "",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "stock_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400068.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
