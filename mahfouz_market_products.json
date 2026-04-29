@@ -7462,17 +7462,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "7073.0",
+    "total_stock": "7072.0",
     "total_consumption": "2108.0",
     "stock_in_geitawi_branch": "-570.0",
-    "stock_in_medawar_branch": "7643.0",
+    "stock_in_medawar_branch": "7642.0",
     "branches": {
       "Geitawi": {
         "stock": "-570.0",
         "consumption": "927.0"
       },
       "Medawar": {
-        "stock": "7643.0",
+        "stock": "7642.0",
         "consumption": "0.0"
       }
     },
@@ -42062,17 +42062,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "255.0",
+    "total_stock": "254.0",
     "total_consumption": "541.0",
     "stock_in_geitawi_branch": "109.0",
-    "stock_in_medawar_branch": "146.0",
+    "stock_in_medawar_branch": "145.0",
     "branches": {
       "Geitawi": {
         "stock": "109.0",
         "consumption": "186.0"
       },
       "Medawar": {
-        "stock": "146.0",
+        "stock": "145.0",
         "consumption": "0.0"
       }
     },
@@ -223718,6 +223718,48 @@
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400004.jpg",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": ""
+  },
+  {
+    "id": "400005",
+    "name": "ALVIN DOR HAIR COLOR 6.66",
+    "category": "HOME USAGE",
+    "sub": "hair care",
+    "sub_category": "hair care",
+    "supplier": "JACK DIB",
+    "unit": "-",
+    "barcode": "5280270130392",
+    "barcode2": "",
+    "barcodes": "",
+    "price_usd": "2.44",
+    "price_lbp": "220,000",
+    "cost": "1.01",
+    "cost_ht": "1.01",
+    "VAT": "NO",
+    "offers": "0",
+    "delivery_rules": "0.005",
+    "expiry_days": "0",
+    "new_items": "x",
+    "manual": "",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "stock_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400005.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
