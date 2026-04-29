@@ -7534,17 +7534,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "6893.0",
+    "total_stock": "6892.0",
     "total_consumption": "2108.0",
     "stock_in_geitawi_branch": "-570.0",
-    "stock_in_medawar_branch": "7463.0",
+    "stock_in_medawar_branch": "7462.0",
     "branches": {
       "Geitawi": {
         "stock": "-570.0",
         "consumption": "927.0"
       },
       "Medawar": {
-        "stock": "7463.0",
+        "stock": "7462.0",
         "consumption": "0.0"
       }
     },
@@ -14538,17 +14538,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "104.0",
+    "total_stock": "103.0",
     "total_consumption": "122.0",
     "stock_in_geitawi_branch": "4.0",
-    "stock_in_medawar_branch": "100.0",
+    "stock_in_medawar_branch": "99.0",
     "branches": {
       "Geitawi": {
         "stock": "4.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "100.0",
+        "stock": "99.0",
         "consumption": "0.0"
       }
     },
@@ -47126,13 +47126,13 @@
     "expiry_days": "0",
     "new_items": "",
     "manual": "",
-    "total_stock": "188.0",
+    "total_stock": "187.0",
     "total_consumption": "74.0",
     "stock_in_geitawi_branch": "-27.0",
-    "stock_in_medawar_branch": "215.0",
+    "stock_in_medawar_branch": "214.0",
     "branches": {
       "Medawar": {
-        "stock": "215.0",
+        "stock": "214.0",
         "consumption": "37.0"
       },
       "Geitawi": {
@@ -53986,17 +53986,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "8880.0",
+    "total_stock": "8879.0",
     "total_consumption": "272.0",
     "stock_in_geitawi_branch": "81.0",
-    "stock_in_medawar_branch": "8799.0",
+    "stock_in_medawar_branch": "8798.0",
     "branches": {
       "Geitawi": {
         "stock": "81.0",
         "consumption": "110.0"
       },
       "Medawar": {
-        "stock": "8799.0",
+        "stock": "8798.0",
         "consumption": "162.0"
       }
     },
@@ -56806,17 +56806,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "454.0",
+    "total_stock": "453.0",
     "total_consumption": "469.0",
     "stock_in_geitawi_branch": "288.0",
-    "stock_in_medawar_branch": "166.0",
+    "stock_in_medawar_branch": "165.0",
     "branches": {
       "Geitawi": {
         "stock": "288.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "166.0",
+        "stock": "165.0",
         "consumption": "0.0"
       }
     },
@@ -103655,17 +103655,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "59.0",
+    "total_stock": "69.0",
     "total_consumption": "87.0",
     "stock_in_geitawi_branch": "32.0",
-    "stock_in_medawar_branch": "27.0",
+    "stock_in_medawar_branch": "37.0",
     "branches": {
       "Geitawi": {
         "stock": "32.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "27.0",
+        "stock": "37.0",
         "consumption": "0.0"
       }
     },
@@ -105685,17 +105685,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "34.0",
+    "total_stock": "44.0",
     "total_consumption": "91.0",
     "stock_in_geitawi_branch": "10.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "34.0",
     "branches": {
       "Geitawi": {
         "stock": "10.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "34.0",
         "consumption": "0.0"
       }
     },
@@ -121191,8 +121191,8 @@
     "barcode2": "",
     "barcodes": "",
     "price_usd": "7.32",
-    "price_lbp": "655,000",
-    "cost": "5.13",
+    "price_lbp": 655000,
+    "cost": 5.13,
     "cost_ht": "5.13",
     "VAT": "NO",
     "offers": "0",
@@ -121200,16 +121200,26 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "1.0",
+    "total_stock": "3.0",
     "total_consumption": "0.0",
     "stock_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "2.0",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18359.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
+    "branches": {
+      "Geitawi": {
+        "stock": "1.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "2.0",
+        "consumption": "0.0"
+      }
+    },
     "Product Description": "TETA\"S KITCHEN BASTERMA&CHEESE ROOLS",
     "SUPPLIERS": "TETA\"S KITCHEN",
     "consumption_in_geitawi_branch": "0.0",
@@ -121227,8 +121237,8 @@
     "barcode2": "",
     "barcodes": "",
     "price_usd": "6.20",
-    "price_lbp": "555,000",
-    "cost": "4.42",
+    "price_lbp": 555000,
+    "cost": 4.42,
     "cost_ht": "4.42",
     "VAT": "NO",
     "offers": "0",
@@ -121236,16 +121246,26 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "6.0",
+    "total_stock": "8.0",
     "total_consumption": "0.0",
     "stock_in_geitawi_branch": "4.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "4.0",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18360.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
+    "branches": {
+      "Geitawi": {
+        "stock": "4.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "4.0",
+        "consumption": "0.0"
+      }
+    },
     "Product Description": "TETA\"S KITCHEN SOUJOUK&CHEESE ROLLS 325 G",
     "SUPPLIERS": "TETA\"S KITCHEN",
     "consumption_in_geitawi_branch": "0.0",
@@ -148790,8 +148810,8 @@
     "barcode2": "",
     "barcodes": "",
     "price_usd": "18.44",
-    "price_lbp": "1,650,000",
-    "cost": "13.07",
+    "price_lbp": 1650000,
+    "cost": 13.07,
     "cost_ht": "13.07",
     "VAT": "NO",
     "offers": "0",
@@ -148799,16 +148819,26 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "2.0",
+    "total_stock": "3.0",
     "total_consumption": "0.0",
     "stock_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": "2.0",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19601.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
+    "branches": {
+      "Geitawi": {
+        "stock": "1.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "2.0",
+        "consumption": "0.0"
+      }
+    },
     "Product Description": "TETA KETCHEN SOUBOUREG CHEESE 1 KG",
     "SUPPLIERS": "TETA\"S KITCHEN",
     "consumption_in_geitawi_branch": "0.0",
@@ -224330,6 +224360,48 @@
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID100048.jpg",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": ""
+  },
+  {
+    "id": "100050",
+    "name": "LOTUS BISCOFF CREAMY 400 G",
+    "category": "CHI TAYIB",
+    "sub": "Biscuits",
+    "sub_category": "Biscuits",
+    "supplier": "GOLDEN FOOD SAL",
+    "unit": "-",
+    "barcode": "5410126116953",
+    "barcode2": "",
+    "barcodes": "",
+    "price_usd": "5.78",
+    "price_lbp": "520,000",
+    "cost": "4.04",
+    "cost_ht": "4.04",
+    "VAT": "YES",
+    "offers": "0",
+    "delivery_rules": "0.005",
+    "expiry_days": "0",
+    "new_items": "x",
+    "manual": "",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "stock_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID100050.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
