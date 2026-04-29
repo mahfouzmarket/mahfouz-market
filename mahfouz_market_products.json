@@ -5692,13 +5692,13 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "10925.0",
+    "total_stock": "10923.0",
     "total_consumption": "220.0",
     "stock_in_geitawi_branch": "21.0",
-    "stock_in_medawar_branch": "10904.0",
+    "stock_in_medawar_branch": "10902.0",
     "branches": {
       "Medawar": {
-        "stock": "10904.0",
+        "stock": "10902.0",
         "consumption": "179.0"
       },
       "Geitawi": {
@@ -42218,17 +42218,17 @@
     "expiry_days": "0",
     "new_items": "",
     "manual": "",
-    "total_stock": "63.0",
+    "total_stock": "61.0",
     "total_consumption": "14.3",
     "stock_in_geitawi_branch": "43.0",
-    "stock_in_medawar_branch": "20.0",
+    "stock_in_medawar_branch": "18.0",
     "branches": {
       "Geitawi": {
         "stock": "43.0",
         "consumption": "7.2"
       },
       "Medawar": {
-        "stock": "20.0",
+        "stock": "18.0",
         "consumption": "7.1"
       }
     },
@@ -69794,17 +69794,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "34.0",
+    "total_stock": "32.0",
     "total_consumption": "88.0",
     "stock_in_geitawi_branch": "-37.0",
-    "stock_in_medawar_branch": "71.0",
+    "stock_in_medawar_branch": "69.0",
     "branches": {
       "Geitawi": {
         "stock": "-37.0",
         "consumption": "42.0"
       },
       "Medawar": {
-        "stock": "71.0",
+        "stock": "69.0",
         "consumption": "0.0"
       }
     },
@@ -80012,14 +80012,18 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "302.0",
+    "total_stock": "312.0",
     "total_consumption": "211.0",
     "stock_in_geitawi_branch": "12.0",
-    "stock_in_medawar_branch": "302.0",
+    "stock_in_medawar_branch": "300.0",
     "branches": {
       "Medawar": {
-        "stock": "302.0",
+        "stock": "300.0",
         "consumption": "153.0"
+      },
+      "Geitawi": {
+        "stock": "12.0",
+        "consumption": "58.0"
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15683.jpg",
@@ -85175,16 +85179,26 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "1.0",
+    "total_stock": "-1.0",
     "total_consumption": "1.0",
     "stock_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": "-1.0",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15939.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
+    "branches": {
+      "Medawar": {
+        "stock": "-1.0",
+        "consumption": "1.0"
+      },
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
     "Product Description": "ADJUSTABLE WRENCH 150MM",
     "SUPPLIERS": "FARES MADI & CO",
     "consumption_in_geitawi_branch": "0.0",
@@ -88203,14 +88217,18 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "16.0",
+    "total_stock": "8.0",
     "total_consumption": "2.0",
     "stock_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "16.0",
+    "stock_in_medawar_branch": "7.0",
     "branches": {
       "Medawar": {
-        "stock": "16.0",
+        "stock": "7.0",
         "consumption": "2.0"
+      },
+      "Geitawi": {
+        "stock": "1.0",
+        "consumption": "0.0"
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16213.jpg",
@@ -221317,13 +221335,13 @@
     "expiry_days": "0",
     "new_items": "x",
     "manual": "",
-    "total_stock": "61.0",
+    "total_stock": "59.0",
     "total_consumption": "0.0",
     "stock_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "61.0",
+    "stock_in_medawar_branch": "59.0",
     "branches": {
       "Medawar": {
-        "stock": "61.0",
+        "stock": "59.0",
         "consumption": "0.0"
       },
       "Geitawi": {
@@ -226796,6 +226814,48 @@
       }
     },
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400060.jpg",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": ""
+  },
+  {
+    "id": "400061",
+    "name": "SNACKTY RICE BAR CHOCOLATE 18 G",
+    "category": "CHI TAYIB",
+    "sub": "sweets",
+    "sub_category": "sweets",
+    "supplier": "ABI RAMIA BROS SARL",
+    "unit": "-",
+    "barcode": "5287002277240",
+    "barcode2": "",
+    "barcodes": "",
+    "price_usd": "0.67",
+    "price_lbp": "60,000",
+    "cost": "0.40",
+    "cost_ht": "0.40",
+    "VAT": "YES",
+    "offers": "0",
+    "delivery_rules": "0.005",
+    "expiry_days": "0",
+    "new_items": "x",
+    "manual": "",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "stock_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID400061.jpg",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
