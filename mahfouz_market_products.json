@@ -222400,27 +222400,27 @@
     "barcode": "5283003325416",
     "barcode2": "",
     "barcodes": "",
-    "price_usd": "0.67",
-    "price_lbp": "60,000",
-    "cost": 0.555556,
+    "price_usd": "0.00",
+    "price_lbp": "5,283,003,325,416",
+    "cost": "0.00",
     "cost_ht": "0.00",
     "VAT": "YES",
     "offers": "",
     "delivery_rules": "0.0",
     "expiry_days": "0",
-    "new_items": "",
+    "new_items": "x",
     "manual": "",
-    "total_stock": "24.0",
+    "total_stock": "41.0",
     "total_consumption": "0.0",
-    "stock_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_geitawi_branch": "11.0",
+    "stock_in_medawar_branch": "30.0",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "11.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "30.0",
         "consumption": "0.0"
       }
     },
