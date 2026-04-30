@@ -7554,17 +7554,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "6739.0",
+    "total_stock": "6737.0",
     "total_consumption": "2108.0",
     "stock_in_geitawi_branch": "-330.0",
-    "stock_in_medawar_branch": "7069.0",
+    "stock_in_medawar_branch": "7067.0",
     "branches": {
       "Geitawi": {
         "stock": "-330.0",
         "consumption": "927.0"
       },
       "Medawar": {
-        "stock": "7069.0",
+        "stock": "7067.0",
         "consumption": "0.0"
       }
     },
@@ -222995,13 +222995,17 @@
     "expiry_days": "",
     "new_items": "",
     "manual": "",
-    "total_stock": "-1.0",
+    "total_stock": "-3.0",
     "total_consumption": "",
     "stock_in_geitawi_branch": "",
-    "stock_in_medawar_branch": "-1.0",
+    "stock_in_medawar_branch": "-3.0",
     "branches": {
       "Medawar": {
-        "stock": "-1.0",
+        "stock": "-3.0",
+        "consumption": "0.0"
+      },
+      "Geitawi": {
+        "stock": "0.0",
         "consumption": "0.0"
       }
     },
