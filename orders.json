@@ -28876,5 +28876,53 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1777824817684",
+    "ts": "2026-05-03T16:13:37.684292Z",
+    "createdAt": "2026-05-03T16:13:37.684292Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-03T16:13:37.684292Z"
+      }
+    ],
+    "customer": {
+      "name": "toni challita",
+      "phone": "71262496",
+      "address": "home\nst louis, مستودع شمع, Floor 4, No Elevator · bwej maktab mokhtar charle ziade",
+      "location": "https://www.google.com/maps?q=33.892423,35.529140"
+    },
+    "customer_name": "toni challita",
+    "customer_phone": "71262496",
+    "pickup": false,
+    "items": [
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330ML",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg"
+      },
+      {
+        "id": "3191",
+        "name": "NUTELLA 400G",
+        "qty": 1,
+        "unitUsd": 4.92,
+        "totalUsd": 4.92,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3191.jpg"
+      }
+    ],
+    "totalUsd": 6.59,
+    "totalLbp": 590000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
