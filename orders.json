@@ -30487,5 +30487,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1778065389066",
+    "ts": "2026-05-06T11:03:09.066175Z",
+    "createdAt": "2026-05-06T11:03:09.066175Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-06T11:03:09.066175Z"
+      }
+    ],
+    "customer": {
+      "name": "anthony bou akl",
+      "phone": "79126026",
+      "address": "school\ngeitawi, CNDJ, Floor 00, No Elevator · call me and i come to you",
+      "location": "https://www.google.com/maps?q=33.894787,35.528970"
+    },
+    "customer_name": "anthony bou akl",
+    "customer_phone": "79126026",
+    "pickup": false,
+    "items": [
+      {
+        "id": "19385",
+        "name": "MASTER KETCHUP CHIPS 165 G",
+        "qty": 1,
+        "unitUsd": 1.01,
+        "totalUsd": 1.01,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19385.jpg"
+      },
+      {
+        "id": "13670",
+        "name": "SANDWICH CHOCOLATE 100 GR",
+        "qty": 1,
+        "unitUsd": 1.12,
+        "totalUsd": 1.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13670.jpg"
+      },
+      {
+        "id": "21388",
+        "name": "CHUPA CHUPS BAG 120U BEST OF",
+        "qty": 1,
+        "unitUsd": 0.22,
+        "totalUsd": 0.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21388.jpg"
+      }
+    ],
+    "totalUsd": 3.24,
+    "totalLbp": 290000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
