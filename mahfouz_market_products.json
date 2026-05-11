@@ -606455,9 +606455,9 @@
     "sub_category": "Low calorie delight",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "24.0",
     "total_consumption": "0.0",
@@ -606477,11 +606477,11 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "12.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "12.0",
         "consumption": "0.0"
       }
     },
@@ -607249,9 +607249,9 @@
     "sub_category": "Low calorie delight",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "24.0",
     "total_consumption": "0.0",
@@ -607271,11 +607271,11 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "24.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "0.0",
         "consumption": "0.0"
       }
     },
@@ -607298,9 +607298,9 @@
     "sub_category": "Low calorie delight",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "48.0",
+    "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "48.0",
     "total_consumption": "0.0",
@@ -607320,11 +607320,11 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "24.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "48.0",
+        "stock": "24.0",
         "consumption": "0.0"
       }
     },
@@ -611181,7 +611181,7 @@
   },
   {
     "id": "2709409",
-    "barcode": "",
+    "barcode": "2709409",
     "barcodes": "",
     "Product Description": "NF DRIED APRICOT NT 100G",
     "product_description": "NF DRIED APRICOT NT 100G",
@@ -611195,7 +611195,7 @@
     "total_stock": "8.0",
     "total_consumption": "0.0",
     "vat": 0,
-    "price_lbp": 199800.0,
+    "price_lbp": 200000.0,
     "price_usd": "2.22",
     "cost": 2.22,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2709409.jpg",
@@ -611224,7 +611224,14 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "VAT": "NO"
+    "VAT": "NO",
+    "barcode2": "",
+    "expiry_days": "0",
+    "cost_ht": "2.22",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "product_setup_save_token": "PS-SAVE-2709409-1778496208583725",
+    "product_setup_saved_at_utc": "2026-05-11T10:43:28.583725Z"
   },
   {
     "id": "2709410",
