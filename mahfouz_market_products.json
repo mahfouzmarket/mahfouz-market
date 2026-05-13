@@ -586717,6 +586717,55 @@
     "vat": 1
   },
   {
+    "id": "300038",
+    "barcode": "5281021141032",
+    "barcode2": "",
+    "barcodes": "",
+    "Product Description": "BONJUS FLIPPER STRAWBERRY",
+    "SUPPLIERS": "F AND B TRADING bonjus S.A.L",
+    "unit": "-",
+    "category": "ICE CREAM",
+    "sub_category": "BONJUS",
+    "offers": "0",
+    "expiry_days": "0",
+    "stock_in_geitawi_branch": "0.0",
+    "consumption_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "consumption_in_medawar_branch": "0.0",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "VAT": "NO",
+    "price_lbp": 60000.0,
+    "price_usd": "0.67",
+    "cost": 0.38,
+    "cost_ht": "0.38",
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300038.jpg",
+    "new_items": "x",
+    "manual": "",
+    "delivery_rules": "0.005",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "product_setup_save_token": "PS-SAVE-300038-1778665948126605",
+    "product_setup_saved_at_utc": "2026-05-13T09:52:28.126605Z",
+    "name": "BONJUS FLIPPER STRAWBERRY",
+    "supplier": "F AND B TRADING bonjus S.A.L",
+    "subcategory": "BONJUS",
+    "vat": 0
+  },
+  {
     "id": "400001",
     "stock_in_medawar_branch": "4.6",
     "stock_in_geitawi_branch": "0.0",
