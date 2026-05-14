@@ -1,0 +1,217 @@
+name: Orders Notify Safe (Mahfouz)
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "orders.json"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Do not send notifications"
+        required: true
+        default: "true"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mahfouz-order-notify-safe
+  cancel-in-progress: true
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm i firebase-admin@12
+
+      - name: Send guarded notifications
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          ORDERS_PATH: "orders.json"
+          BRAND_ID: "mahfouz_market"
+          RECENT_WINDOW_HOURS: "12"
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+          const { execFileSync } = require('child_process');
+          const admin = require('firebase-admin');
+
+          const ORDERS_PATH = process.env.ORDERS_PATH || 'orders.json';
+          const BRAND_ID = process.env.BRAND_ID || 'mahfouz_market';
+          const DRY_RUN = String(process.env.DRY_RUN || '').toLowerCase() === 'true';
+          const RECENT_MS = Math.max(1, Number(process.env.RECENT_WINDOW_HOURS || 12)) * 60 * 60 * 1000;
+
+          function loadOrders(text) {
+            if (!String(text || '').trim()) return [];
+            const decoded = JSON.parse(text);
+            if (Array.isArray(decoded)) return decoded;
+            if (decoded && Array.isArray(decoded.orders)) return decoded.orders;
+            return [];
+          }
+
+          function readPrev(path) {
+            try {
+              const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
+              const before = String(event.before || '').trim();
+              if (before && !before.startsWith('0000000')) {
+                return execFileSync('git', ['show', `${before}:${path}`], { encoding: 'utf8' });
+              }
+            } catch (_) {}
+            try { return execFileSync('git', ['show', `HEAD^:${path}`], { encoding: 'utf8' }); }
+            catch (_) { return ''; }
+          }
+
+          function idOf(o) { return String(o && (o.orderId || o.id || '')).trim(); }
+          function statusOf(o) { return String(o && (o.status || 'NEW')).trim().toUpperCase() || 'NEW'; }
+          function branchKey(o) {
+            const bk = String(o.branchKey || '').trim().toLowerCase();
+            if (bk) return bk;
+            const b = String(o.branch || '').trim().toLowerCase();
+            if (b.startsWith('g') || b.includes('geitawi') || b.includes('achrafieh') || b.includes('ashrafieh')) return 'geitawi';
+            if (b.startsWith('m') || b.includes('medawar') || b.includes('karantina')) return 'medawar';
+            return 'geitawi';
+          }
+          function prettyBranch(bk) { return bk === 'geitawi' ? 'Geitawi' : bk === 'medawar' ? 'Medawar' : bk; }
+          function safeTopic(s) { return String(s || '').replace(/[^A-Za-z0-9_]/g, '_'); }
+          function ownerTopic(bk) { return `orders_${BRAND_ID}_${bk}`; }
+          function orderTopic(id) { return `ord_${safeTopic(id)}`; }
+          function driverTopic(o) {
+            const did = String(o.driverId || '').trim();
+            return did ? `drv_${BRAND_ID}_${branchKey(o)}_${did}` : '';
+          }
+          function customerName(o) {
+            const c = (o && o.customer) || {};
+            return String(o.customer_name || c.name || c.fullName || o.customerName || o.name || 'Customer').trim() || 'Customer';
+          }
+          function driverName(o) {
+            return String(o.delivery_man_name || o.driverName || 'Driver').trim() || 'Driver';
+          }
+          function amount(o) {
+            const usd = Number(o.totalUsd ?? o.total_usd ?? 0);
+            const lbp = Number(o.totalLbp ?? o.total_lbp ?? 0);
+            const out = [];
+            if (Number.isFinite(usd) && usd > 0) out.push(`$${usd.toFixed(2)}`);
+            if (Number.isFinite(lbp) && lbp > 0) out.push(`${Math.round(lbp)} LBP`);
+            return out.join(' | ');
+          }
+          function orderTimeMs(o) {
+            const raw = String(o.createdAt || o.ts || o.time || '').trim();
+            const ms = Date.parse(raw);
+            return Number.isFinite(ms) ? ms : 0;
+          }
+          function suppressed(o) {
+            return o.suppressNotify === true || o.clientClosed === true || o.silentClose === true || String(o.finalStatus || o.final_status || '').toUpperCase() === 'DELIVERED';
+          }
+          function recent(o) {
+            const ms = orderTimeMs(o);
+            return ms > 0 && (Date.now() - ms) <= RECENT_MS;
+          }
+          function skipReason(o) {
+            if (suppressed(o)) return 'suppressed';
+            if (!recent(o)) return 'historical';
+            return '';
+          }
+
+          let messaging = null;
+          if (!DRY_RUN) {
+            const svc = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON || '{}');
+            if (!svc.project_id) throw new Error('Missing FIREBASE_SERVICE_ACCOUNT_JSON');
+            if (svc.private_key && typeof svc.private_key === 'string') svc.private_key = svc.private_key.replace(/\\n/g, '\n');
+            admin.initializeApp({ credential: admin.credential.cert(svc) });
+            messaging = admin.messaging();
+          }
+
+          async function send(topic, title, body, data) {
+            if (!topic) return;
+            const msg = {
+              topic,
+              notification: { title, body },
+              data: Object.fromEntries(Object.entries(data || {}).map(([k, v]) => [k, String(v ?? '')])),
+              android: { priority: 'high', notification: { sound: 'default' } },
+              apns: { headers: { 'apns-priority': '10', 'apns-push-type': 'alert' }, payload: { aps: { sound: 'default' } } },
+            };
+            if (DRY_RUN) {
+              console.log('DRY_SEND', JSON.stringify({ topic, title, body, data: msg.data }));
+              return;
+            }
+            const sent = await messaging.send(msg);
+            console.log('SENT', topic, sent);
+          }
+
+          async function main() {
+            const curOrders = loadOrders(fs.readFileSync(ORDERS_PATH, 'utf8')).filter(o => o && typeof o === 'object');
+            const prevOrders = loadOrders(readPrev(ORDERS_PATH)).filter(o => o && typeof o === 'object');
+            const prev = new Map(prevOrders.map(o => [idOf(o), o]).filter(([id]) => id));
+            let sent = 0;
+            let skipped = 0;
+
+            for (const o of curOrders) {
+              const id = idOf(o);
+              if (!id) continue;
+              const reason = skipReason(o);
+              if (reason) { skipped++; console.log('SKIP', id, reason); continue; }
+
+              const old = prev.get(id) || null;
+              const curSt = statusOf(o);
+              const oldSt = old ? statusOf(old) : '';
+              const curDriver = String(o.driverId || '').trim();
+              const oldDriver = old ? String(old.driverId || '').trim() : '';
+              const isNewOrder = !old && curSt === 'NEW';
+              const assignedNow = curSt === 'ASSIGNED_DRIVER' && curDriver && (oldSt !== 'ASSIGNED_DRIVER' || curDriver !== oldDriver);
+              const pickedUpNow = curSt === 'PICKED_UP' && oldSt !== 'PICKED_UP';
+              const deliveredNow = curSt === 'DELIVERED' && oldSt !== 'DELIVERED';
+              const cancelledNow = curSt === 'CANCELLED' && oldSt !== 'CANCELLED';
+
+              const bk = branchKey(o);
+              const name = customerName(o);
+              const drv = driverName(o);
+              const money = amount(o);
+              const moneyPart = money ? ` • ${money}` : '';
+              const baseData = { orderId: id, brandId: BRAND_ID, branchKey: bk, driverId: curDriver, customer_name: name, delivery_man_name: drv, totalUsd: String(o.totalUsd ?? ''), totalLbp: String(o.totalLbp ?? '') };
+
+              if (isNewOrder) {
+                await send(ownerTopic(bk), `${prettyBranch(bk)} • ${name}`, `New order${moneyPart}`, { ...baseData, type: 'NEW_ORDER', kind: 'new_order' });
+                sent++;
+              }
+              if (assignedNow) {
+                await send(ownerTopic(bk), `${prettyBranch(bk)} • Delivery assigned`, `${name} order assigned to ${drv}${moneyPart}`, { ...baseData, type: 'ORDER_ASSIGNED', kind: 'delivery_assigned' });
+                await send(orderTopic(id), 'Driver assigned', `The driver ${drv} has been assigned to your order.`, { ...baseData, type: 'ORDER_ASSIGNED' });
+                await send(driverTopic(o), 'New order assigned', `${name} order assigned to you${moneyPart}`, { ...baseData, type: 'ORDER_ASSIGNED' });
+                sent++;
+              }
+              if (pickedUpNow) {
+                await send(orderTopic(id), 'Picked up', 'Your order has been picked up.', { ...baseData, type: 'ORDER_PICKED_UP' });
+                await send(ownerTopic(bk), `Picked up • ${prettyBranch(bk)}`, `Picked up by ${drv} • ${name}`, { ...baseData, type: 'ORDER_PICKED_UP' });
+                sent++;
+              }
+              if (deliveredNow) {
+                await send(orderTopic(id), 'Delivered', 'Your order has been delivered.', { ...baseData, type: 'ORDER_DELIVERED' });
+                await send(ownerTopic(bk), `Delivered • ${prettyBranch(bk)}`, `${name}${moneyPart} • Driver: ${drv}`, { ...baseData, type: 'ORDER_DELIVERED' });
+                await send(driverTopic(o), `Delivered • ${prettyBranch(bk)}`, `${name}${moneyPart}`, { ...baseData, type: 'ORDER_DELIVERED' });
+                sent++;
+              }
+              if (cancelledNow) {
+                await send(orderTopic(id), 'Order cancelled', 'Your order has been cancelled.', { ...baseData, type: 'ORDER_CANCELLED' });
+                await send(ownerTopic(bk), `Cancelled • ${prettyBranch(bk)}`, `${name}${moneyPart}`, { ...baseData, type: 'ORDER_CANCELLED' });
+                sent++;
+              }
+            }
+            console.log(`DONE sent_groups=${sent} skipped=${skipped} dry_run=${DRY_RUN}`);
+          }
+
+          main().catch(err => { console.error(err); process.exit(1); });
+          NODE
