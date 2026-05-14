@@ -53,7 +53,41 @@ jobs:
           const ORDERS_PATH = process.env.ORDERS_PATH || 'orders.json';
           const BRAND_ID = process.env.BRAND_ID || 'mahfouz_market';
           const DRY_RUN = String(process.env.DRY_RUN || '').toLowerCase() === 'true';
-          const RECENT_MS = Math.max(1, Number(process.env.RECENT_WINDOW_HOURS || 12)) * 60 * 60 * 1000;
+          const RECENT_MS = Number(process.env.RECENT_WINDOW_HOURS || 12) * 60 * 60 * 1000;
+          const EVENT_NAME = process.env.GITHUB_EVENT_NAME || '';
+
+          function sh(args) {
+            try { return execFileSync('git', args, { encoding: 'utf8' }).trim(); }
+            catch (_) { return ''; }
+          }
+
+          function eventJson() {
+            try { return JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8')); }
+            catch (_) { return {}; }
+          }
+
+          function changedFilesForPush() {
+            const event = eventJson();
+            const before = String(event.before || '').trim();
+            const after = String(event.after || 'HEAD').trim() || 'HEAD';
+            if (!before || before.startsWith('0000000')) return [];
+            const out = sh(['diff', '--name-only', before, after]);
+            return out ? out.split('\n').map(s => s.trim()).filter(Boolean) : [];
+          }
+
+          if (EVENT_NAME === 'push') {
+            const changed = changedFilesForPush();
+            console.log('changed_files', JSON.stringify(changed));
+            if (!changed.includes(ORDERS_PATH)) {
+              console.log(`ABORT: ${ORDERS_PATH} was not changed in this push.`);
+              process.exit(0);
+            }
+          }
+
+          if (EVENT_NAME === 'workflow_dispatch' && !DRY_RUN) {
+            console.log('ABORT: manual workflow_dispatch is dry-run only.');
+            process.exit(0);
+          }
 
           function loadOrders(text) {
             if (!String(text || '').trim()) return [];
@@ -63,16 +97,15 @@ jobs:
             return [];
           }
 
-          function readPrev(path) {
-            try {
-              const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
-              const before = String(event.before || '').trim();
-              if (before && !before.startsWith('0000000')) {
-                return execFileSync('git', ['show', `${before}:${path}`], { encoding: 'utf8' });
-              }
-            } catch (_) {}
-            try { return execFileSync('git', ['show', `HEAD^:${path}`], { encoding: 'utf8' }); }
-            catch (_) { return ''; }
+          function readPrevOrders() {
+            const event = eventJson();
+            const before = String(event.before || '').trim();
+            if (before && !before.startsWith('0000000')) {
+              const txt = sh(['show', `${before}:${ORDERS_PATH}`]);
+              if (txt) return loadOrders(txt);
+            }
+            const txt = sh(['show', `HEAD^:${ORDERS_PATH}`]);
+            return txt ? loadOrders(txt) : [];
           }
 
           function idOf(o) { return String(o && (o.orderId || o.id || '')).trim(); }
@@ -97,9 +130,7 @@ jobs:
             const c = (o && o.customer) || {};
             return String(o.customer_name || c.name || c.fullName || o.customerName || o.name || 'Customer').trim() || 'Customer';
           }
-          function driverName(o) {
-            return String(o.delivery_man_name || o.driverName || 'Driver').trim() || 'Driver';
-          }
+          function driverName(o) { return String(o.delivery_man_name || o.driverName || 'Driver').trim() || 'Driver'; }
           function amount(o) {
             const usd = Number(o.totalUsd ?? o.total_usd ?? 0);
             const lbp = Number(o.totalLbp ?? o.total_lbp ?? 0);
@@ -137,6 +168,10 @@ jobs:
 
           async function send(topic, title, body, data) {
             if (!topic) return;
+            if (DRY_RUN) {
+              console.log('DRY_SEND', JSON.stringify({ topic, title, body, data }));
+              return;
+            }
             const msg = {
               topic,
               notification: { title, body },
@@ -144,19 +179,19 @@ jobs:
               android: { priority: 'high', notification: { sound: 'default' } },
               apns: { headers: { 'apns-priority': '10', 'apns-push-type': 'alert' }, payload: { aps: { sound: 'default' } } },
             };
-            if (DRY_RUN) {
-              console.log('DRY_SEND', JSON.stringify({ topic, title, body, data: msg.data }));
-              return;
-            }
             const sent = await messaging.send(msg);
-            console.log('SENT', topic, sent);
+            console.log('SENT', topic, sent, data && data.orderId ? `order=${data.orderId}` : '');
           }
 
           async function main() {
             const curOrders = loadOrders(fs.readFileSync(ORDERS_PATH, 'utf8')).filter(o => o && typeof o === 'object');
-            const prevOrders = loadOrders(readPrev(ORDERS_PATH)).filter(o => o && typeof o === 'object');
+            const prevOrders = readPrevOrders().filter(o => o && typeof o === 'object');
+            if (EVENT_NAME === 'push' && curOrders.length > 0 && prevOrders.length === 0) {
+              console.log('ABORT: previous orders.json unavailable, refusing replay-prone send.');
+              return;
+            }
             const prev = new Map(prevOrders.map(o => [idOf(o), o]).filter(([id]) => id));
-            let sent = 0;
+            let sentGroups = 0;
             let skipped = 0;
 
             for (const o of curOrders) {
@@ -175,42 +210,43 @@ jobs:
               const pickedUpNow = curSt === 'PICKED_UP' && oldSt !== 'PICKED_UP';
               const deliveredNow = curSt === 'DELIVERED' && oldSt !== 'DELIVERED';
               const cancelledNow = curSt === 'CANCELLED' && oldSt !== 'CANCELLED';
+              if (!isNewOrder && !assignedNow && !pickedUpNow && !deliveredNow && !cancelledNow) continue;
 
               const bk = branchKey(o);
               const name = customerName(o);
               const drv = driverName(o);
               const money = amount(o);
               const moneyPart = money ? ` • ${money}` : '';
-              const baseData = { orderId: id, brandId: BRAND_ID, branchKey: bk, driverId: curDriver, customer_name: name, delivery_man_name: drv, totalUsd: String(o.totalUsd ?? ''), totalLbp: String(o.totalLbp ?? '') };
+              const data = { orderId: id, brandId: BRAND_ID, branchKey: bk, driverId: curDriver, customer_name: name, delivery_man_name: drv, totalUsd: String(o.totalUsd ?? ''), totalLbp: String(o.totalLbp ?? '') };
 
               if (isNewOrder) {
-                await send(ownerTopic(bk), `${prettyBranch(bk)} • ${name}`, `New order${moneyPart}`, { ...baseData, type: 'NEW_ORDER', kind: 'new_order' });
-                sent++;
+                await send(ownerTopic(bk), `${prettyBranch(bk)} • ${name}`, `New order${moneyPart}`, { ...data, type: 'NEW_ORDER', kind: 'new_order' });
+                sentGroups++;
               }
               if (assignedNow) {
-                await send(ownerTopic(bk), `${prettyBranch(bk)} • Delivery assigned`, `${name} order assigned to ${drv}${moneyPart}`, { ...baseData, type: 'ORDER_ASSIGNED', kind: 'delivery_assigned' });
-                await send(orderTopic(id), 'Driver assigned', `The driver ${drv} has been assigned to your order.`, { ...baseData, type: 'ORDER_ASSIGNED' });
-                await send(driverTopic(o), 'New order assigned', `${name} order assigned to you${moneyPart}`, { ...baseData, type: 'ORDER_ASSIGNED' });
-                sent++;
+                await send(ownerTopic(bk), `${prettyBranch(bk)} • Delivery assigned`, `${name} order assigned to ${drv}${moneyPart}`, { ...data, type: 'ORDER_ASSIGNED', kind: 'delivery_assigned' });
+                await send(orderTopic(id), 'Driver assigned', `The driver ${drv} has been assigned to your order.`, { ...data, type: 'ORDER_ASSIGNED' });
+                await send(driverTopic(o), 'New order assigned', `${name} order assigned to you${moneyPart}`, { ...data, type: 'ORDER_ASSIGNED' });
+                sentGroups++;
               }
               if (pickedUpNow) {
-                await send(orderTopic(id), 'Picked up', 'Your order has been picked up.', { ...baseData, type: 'ORDER_PICKED_UP' });
-                await send(ownerTopic(bk), `Picked up • ${prettyBranch(bk)}`, `Picked up by ${drv} • ${name}`, { ...baseData, type: 'ORDER_PICKED_UP' });
-                sent++;
+                await send(orderTopic(id), 'Picked up', 'Your order has been picked up.', { ...data, type: 'ORDER_PICKED_UP' });
+                await send(ownerTopic(bk), `Picked up • ${prettyBranch(bk)}`, `Picked up by ${drv} • ${name}`, { ...data, type: 'ORDER_PICKED_UP' });
+                sentGroups++;
               }
               if (deliveredNow) {
-                await send(orderTopic(id), 'Delivered', 'Your order has been delivered.', { ...baseData, type: 'ORDER_DELIVERED' });
-                await send(ownerTopic(bk), `Delivered • ${prettyBranch(bk)}`, `${name}${moneyPart} • Driver: ${drv}`, { ...baseData, type: 'ORDER_DELIVERED' });
-                await send(driverTopic(o), `Delivered • ${prettyBranch(bk)}`, `${name}${moneyPart}`, { ...baseData, type: 'ORDER_DELIVERED' });
-                sent++;
+                await send(orderTopic(id), 'Delivered', 'Your order has been delivered.', { ...data, type: 'ORDER_DELIVERED' });
+                await send(ownerTopic(bk), `Delivered • ${prettyBranch(bk)}`, `${name}${moneyPart} • Driver: ${drv}`, { ...data, type: 'ORDER_DELIVERED' });
+                await send(driverTopic(o), `Delivered • ${prettyBranch(bk)}`, `${name}${moneyPart}`, { ...data, type: 'ORDER_DELIVERED' });
+                sentGroups++;
               }
               if (cancelledNow) {
-                await send(orderTopic(id), 'Order cancelled', 'Your order has been cancelled.', { ...baseData, type: 'ORDER_CANCELLED' });
-                await send(ownerTopic(bk), `Cancelled • ${prettyBranch(bk)}`, `${name}${moneyPart}`, { ...baseData, type: 'ORDER_CANCELLED' });
-                sent++;
+                await send(orderTopic(id), 'Order cancelled', 'Your order has been cancelled.', { ...data, type: 'ORDER_CANCELLED' });
+                await send(ownerTopic(bk), `Cancelled • ${prettyBranch(bk)}`, `${name}${moneyPart}`, { ...data, type: 'ORDER_CANCELLED' });
+                sentGroups++;
               }
             }
-            console.log(`DONE sent_groups=${sent} skipped=${skipped} dry_run=${DRY_RUN}`);
+            console.log(`DONE sent_groups=${sentGroups} skipped=${skipped} dry_run=${DRY_RUN}`);
           }
 
           main().catch(err => { console.error(err); process.exit(1); });
