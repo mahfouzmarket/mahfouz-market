@@ -645701,6 +645701,55 @@
     "vat": 0
   },
   {
+    "id": "500024",
+    "barcode": "2709466",
+    "barcode2": "",
+    "barcodes": "",
+    "Product Description": "NF CRANBERRY NT 100 G",
+    "SUPPLIERS": "NOUNA'S FOOD",
+    "unit": "-",
+    "category": "NOUNA'S FOOD",
+    "sub_category": "NOUNA'S FOOD",
+    "offers": "",
+    "expiry_days": "365",
+    "stock_in_geitawi_branch": "0.0",
+    "consumption_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "consumption_in_medawar_branch": "0.0",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "VAT": "NO",
+    "price_lbp": 225000.0,
+    "price_usd": "2.50",
+    "cost": 192000.0,
+    "cost_ht": "192000.00",
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500024.jpg",
+    "new_items": "x",
+    "manual": "",
+    "delivery_rules": "0.005",
+    "linked_profile_enabled": true,
+    "linked_profile_repo_root": "Nounas_Food",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "product_setup_save_token": "PS-SAVE-500024-1778821951690523",
+    "product_setup_saved_at_utc": "2026-05-15T05:12:31.690523Z",
+    "name": "NF CRANBERRY NT 100 G",
+    "supplier": "NOUNA'S FOOD",
+    "subcategory": "NOUNA'S FOOD",
+    "vat": 0
+  },
+  {
     "id": "1000001",
     "stock_in_medawar_branch": "0.0",
     "stock_in_geitawi_branch": "-1.0",
