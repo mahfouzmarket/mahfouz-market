@@ -3002,5 +3002,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1778876785839",
+    "ts": "2026-05-15T20:26:25.839513Z",
+    "createdAt": "2026-05-15T20:26:25.839513Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-15T20:26:25.839513Z"
+      }
+    ],
+    "customer": {
+      "name": "jason korkiss",
+      "phone": "76691353",
+      "address": "chahroure\nhad knisit l chahroure, bestani, Floor 8, Elevator",
+      "location": "https://www.google.com/maps?q=33.890468,35.527288"
+    },
+    "customer_name": "jason korkiss",
+    "customer_phone": "76691353",
+    "pickup": false,
+    "items": [
+      {
+        "id": "12778",
+        "name": "AL FAKHER TWO APPLES",
+        "qty": 1,
+        "unitUsd": 1.33,
+        "totalUsd": 1.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12778.jpg"
+      },
+      {
+        "id": "17126",
+        "name": "SNIPS POTATO CHIPS KETCHUP 165G",
+        "qty": 1,
+        "unitUsd": 1.11,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17126.jpg"
+      },
+      {
+        "id": "16955",
+        "name": "MASTER SITOS NACHO CHEESE 210 G",
+        "qty": 1,
+        "unitUsd": 1.0,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16955.jpg"
+      }
+    ],
+    "totalUsd": 4.8,
+    "totalLbp": 430000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
