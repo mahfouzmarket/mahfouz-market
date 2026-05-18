@@ -18046,8 +18046,8 @@
         "consumption": "0.0"
       }
     },
-    "barcode2": "5281034011667",
-    "barcodes": "5281034011667",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "0.79",
     "linked_profile_enabled": false,
@@ -18058,7 +18058,9 @@
     "name": "MAXKONE VANILLA",
     "supplier": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
-    "vat": 1
+    "vat": 1,
+    "product_setup_save_token": "PS-SAVE-5081-1779105003170109",
+    "product_setup_saved_at_utc": "2026-05-18T11:50:03.170109Z"
   },
   {
     "id": "5083",
