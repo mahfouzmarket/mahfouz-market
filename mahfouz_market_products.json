@@ -17834,9 +17834,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "19.0",
     "consumption_in_geitawi_branch": "10.0",
-    "stock_in_medawar_branch": "-2.0",
+    "stock_in_medawar_branch": "-3.0",
     "consumption_in_medawar_branch": "6.0",
-    "total_stock": "17.0",
+    "total_stock": "16.0",
     "total_consumption": "16.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -17852,7 +17852,7 @@
         "consumption": "10.0"
       },
       "Medawar": {
-        "stock": "-2.0",
+        "stock": "-3.0",
         "consumption": "6.0"
       }
     },
@@ -40465,9 +40465,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "50.0",
     "consumption_in_geitawi_branch": "206.0",
-    "stock_in_medawar_branch": "15.0",
+    "stock_in_medawar_branch": "14.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "65.0",
+    "total_stock": "64.0",
     "total_consumption": "206.0",
     "VAT": "NO",
     "price_lbp": 175000.0,
@@ -40483,7 +40483,7 @@
         "consumption": "206.0"
       },
       "Medawar": {
-        "stock": "15.0",
+        "stock": "14.0",
         "consumption": "0.0"
       }
     },
@@ -40808,9 +40808,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "308.0",
     "consumption_in_geitawi_branch": "1523.0",
-    "stock_in_medawar_branch": "205.0",
+    "stock_in_medawar_branch": "204.0",
     "consumption_in_medawar_branch": "1827.0",
-    "total_stock": "513.0",
+    "total_stock": "512.0",
     "total_consumption": "3350.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -40826,7 +40826,7 @@
         "consumption": "1523.0"
       },
       "Medawar": {
-        "stock": "205.0",
+        "stock": "204.0",
         "consumption": "1827.0"
       }
     },
@@ -42644,11 +42644,11 @@
     "category": "recharge card",
     "sub_category": "alfa",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "5.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "0.0",
+    "total_stock": "-1.0",
     "total_consumption": "5.0",
     "VAT": "NO",
     "price_lbp": 1750000.0,
@@ -42660,7 +42660,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "5.0"
       },
       "Medawar": {
@@ -69597,9 +69597,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "34.0",
     "consumption_in_geitawi_branch": "88.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "23.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "58.0",
+    "total_stock": "57.0",
     "total_consumption": "88.0",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -69615,7 +69615,7 @@
         "consumption": "88.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "0.0"
       }
     },
@@ -81784,9 +81784,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "18.0",
     "consumption_in_geitawi_branch": "196.0",
-    "stock_in_medawar_branch": "45.0",
+    "stock_in_medawar_branch": "44.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "63.0",
+    "total_stock": "62.0",
     "total_consumption": "196.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -81802,7 +81802,7 @@
         "consumption": "196.0"
       },
       "Medawar": {
-        "stock": "45.0",
+        "stock": "44.0",
         "consumption": "0.0"
       }
     },
@@ -92422,9 +92422,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "17.0",
+    "stock_in_medawar_branch": "15.0",
     "consumption_in_medawar_branch": "21.0",
-    "total_stock": "29.0",
+    "total_stock": "27.0",
     "total_consumption": "21.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -92440,7 +92440,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "17.0",
+        "stock": "15.0",
         "consumption": "21.0"
       }
     },
@@ -208326,7 +208326,7 @@
   {
     "id": "21317",
     "barcode": "5281117018897",
-    "Product Description": "AL WADI ARTICHOKE BOTTOMS FROZEN 400 G*2",
+    "Product Description": "AL WADI ARTICHOKE BOTTOMS FROZEN 400G*2",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
     "unit": "-",
     "category": "FOOD",
@@ -208351,7 +208351,7 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "SMART FUNCTION SOCIETY SARL",
-    "name": "AL WADI ARTICHOKE BOTTOMS FROZEN 400 G*2",
+    "name": "AL WADI ARTICHOKE BOTTOMS FROZEN 400G*2",
     "subcategory": "FROZEN FOOD",
     "vat": 0,
     "branches": {
@@ -244483,7 +244483,15 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "price_usd": "0.22"
+    "price_usd": "0.22",
+    "expiry_days": "0",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "product_setup_save_token": "PS-SAVE-100086-1778843420757255",
+    "product_setup_saved_at_utc": "2026-05-15T11:10:20.757255Z"
   },
   {
     "id": "100087",
