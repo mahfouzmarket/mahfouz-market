@@ -6274,9 +6274,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "73.0",
     "consumption_in_geitawi_branch": "258.0",
-    "stock_in_medawar_branch": "65.0",
+    "stock_in_medawar_branch": "64.0",
     "consumption_in_medawar_branch": "363.0",
-    "total_stock": "138.0",
+    "total_stock": "137.0",
     "total_consumption": "621.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6292,7 +6292,7 @@
         "consumption": "258.0"
       },
       "Medawar": {
-        "stock": "65.0",
+        "stock": "64.0",
         "consumption": "363.0"
       }
     },
@@ -7897,9 +7897,9 @@
     "category": "CHI TAYIB",
     "sub_category": "Chewing gum",
     "offers": "0",
-    "stock_in_geitawi_branch": "21.0",
+    "stock_in_geitawi_branch": "45.0",
     "consumption_in_geitawi_branch": "77.0",
-    "stock_in_medawar_branch": "48.0",
+    "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "88.0",
     "total_stock": "69.0",
     "total_consumption": "165.0",
@@ -7913,11 +7913,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "21.0",
+        "stock": "45.0",
         "consumption": "77.0"
       },
       "Medawar": {
-        "stock": "48.0",
+        "stock": "24.0",
         "consumption": "88.0"
       }
     },
@@ -76888,9 +76888,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "4.140",
     "consumption_in_geitawi_branch": "13.1",
-    "stock_in_medawar_branch": "36.940",
+    "stock_in_medawar_branch": "36.095",
     "consumption_in_medawar_branch": "24.8",
-    "total_stock": "41.080",
+    "total_stock": "40.235",
     "total_consumption": "37.9",
     "VAT": "NO",
     "price_lbp": 160000.0,
@@ -76906,7 +76906,7 @@
         "consumption": "13.1"
       },
       "Medawar": {
-        "stock": "36.940",
+        "stock": "36.095",
         "consumption": "24.8"
       }
     },
@@ -77204,9 +77204,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-1.580",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "17.655",
+    "stock_in_medawar_branch": "16.800",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "16.075",
+    "total_stock": "15.220",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 90000.0,
@@ -77222,7 +77222,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "17.655",
+        "stock": "16.800",
         "consumption": "0.0"
       }
     },
@@ -85378,9 +85378,9 @@
     "category": "HOME USAGE",
     "sub_category": "CLOTH CLEANING",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "6.0",
     "total_consumption": "0.0",
@@ -85394,11 +85394,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "3.0",
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "0.0"
       }
     },
@@ -94251,15 +94251,7 @@
     "subcategory": "Wafers",
     "vat": 1,
     "barcode2": "",
-    "barcodes": "",
-    "expiry_days": "0",
-    "linked_profile_enabled": false,
-    "linked_profile_repo_root": "",
-    "linked_profile_item_id": "",
-    "linked_profile_category": "",
-    "linked_profile_sub_category": "",
-    "product_setup_save_token": "PS-SAVE-17084-1778833464865651",
-    "product_setup_saved_at_utc": "2026-05-15T08:24:24.865651Z"
+    "barcodes": ""
   },
   {
     "id": "17088",
@@ -107499,9 +107491,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "17.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "54.0",
+    "stock_in_medawar_branch": "53.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "71.0",
+    "total_stock": "70.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 60000.0,
@@ -107517,7 +107509,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "54.0",
+        "stock": "53.0",
         "consumption": "0.0"
       }
     },
@@ -196213,9 +196205,9 @@
     "category": "CHI TAYIB",
     "sub_category": "Chewing gum",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "43.0",
-    "stock_in_medawar_branch": "48.0",
+    "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "28.0",
     "total_stock": "48.0",
     "total_consumption": "71.0",
@@ -196229,11 +196221,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "24.0",
         "consumption": "43.0"
       },
       "Medawar": {
-        "stock": "48.0",
+        "stock": "24.0",
         "consumption": "28.0"
       }
     },
@@ -196262,9 +196254,9 @@
     "category": "CHI TAYIB",
     "sub_category": "Chewing gum",
     "offers": "0",
-    "stock_in_geitawi_branch": "26.0",
+    "stock_in_geitawi_branch": "50.0",
     "consumption_in_geitawi_branch": "52.0",
-    "stock_in_medawar_branch": "51.0",
+    "stock_in_medawar_branch": "27.0",
     "consumption_in_medawar_branch": "42.0",
     "total_stock": "77.0",
     "total_consumption": "94.0",
@@ -196278,11 +196270,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "26.0",
+        "stock": "50.0",
         "consumption": "52.0"
       },
       "Medawar": {
-        "stock": "51.0",
+        "stock": "27.0",
         "consumption": "42.0"
       }
     },
@@ -235444,7 +235436,7 @@
     "cost": 0.1271,
     "branches": {
       "Geitawi": {
-        "stock": "45.0",
+        "stock": "43.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -235452,8 +235444,8 @@
         "consumption": "0.0"
       }
     },
-    "stock_in_geitawi_branch": "45.0",
-    "total_stock": "45.0",
+    "stock_in_geitawi_branch": "43.0",
+    "total_stock": "43.0",
     "stock_in_medawar_branch": "0.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
@@ -244234,15 +244226,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "price_usd": "0.22",
-    "expiry_days": "0",
-    "linked_profile_enabled": false,
-    "linked_profile_repo_root": "",
-    "linked_profile_item_id": "",
-    "linked_profile_category": "",
-    "linked_profile_sub_category": "",
-    "product_setup_save_token": "PS-SAVE-100086-1778843420757255",
-    "product_setup_saved_at_utc": "2026-05-15T11:10:20.757255Z"
+    "price_usd": "0.22"
   },
   {
     "id": "100087",
