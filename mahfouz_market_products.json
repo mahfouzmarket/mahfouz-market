@@ -11621,11 +11621,11 @@
     "category": "FOOD",
     "sub_category": "DAIRY PRODUCTS",
     "offers": "0",
-    "stock_in_geitawi_branch": "32.0",
+    "stock_in_geitawi_branch": "29.0",
     "consumption_in_geitawi_branch": "118.0",
     "stock_in_medawar_branch": "42.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "74.0",
+    "total_stock": "71.0",
     "total_consumption": "118.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -11637,7 +11637,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "32.0",
+        "stock": "29.0",
         "consumption": "118.0"
       },
       "Medawar": {
@@ -250470,6 +250470,55 @@
     "name": "MAXCONE ASHTA",
     "supplier": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
+    "vat": 1
+  },
+  {
+    "id": "300069",
+    "barcode": "6221134030525",
+    "barcode2": "",
+    "barcodes": "",
+    "Product Description": "GALAXY SMOOTH MILK 30 G",
+    "SUPPLIERS": "TRANSMED F&B SAL LBP",
+    "unit": "-",
+    "category": "CHI TAYIB",
+    "sub_category": "sweets",
+    "offers": "0",
+    "expiry_days": "0",
+    "stock_in_geitawi_branch": "0.0",
+    "consumption_in_geitawi_branch": "0.0",
+    "stock_in_medawar_branch": "0.0",
+    "consumption_in_medawar_branch": "0.0",
+    "total_stock": "0.0",
+    "total_consumption": "0.0",
+    "VAT": "YES",
+    "price_lbp": 50000.0,
+    "price_usd": "0.56",
+    "cost": 0.39,
+    "cost_ht": "0.39",
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300069.jpg",
+    "new_items": "x",
+    "manual": "",
+    "delivery_rules": "0.005",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "branches": {
+      "Geitawi": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "0.0",
+        "consumption": "0.0"
+      }
+    },
+    "product_setup_save_token": "PS-SAVE-300069-1779171821912695",
+    "product_setup_saved_at_utc": "2026-05-19T06:23:41.912695Z",
+    "name": "GALAXY SMOOTH MILK 30 G",
+    "supplier": "TRANSMED F&B SAL LBP",
+    "subcategory": "sweets",
     "vat": 1
   },
   {
