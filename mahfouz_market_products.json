@@ -55,19 +55,7 @@
     "subcategory": "SEEDS",
     "vat": 0,
     "stock_in_the_daily_market_branch": "0.0",
-    "consumption_in_the_daily_market_branch": "0.0",
-    "brand": "",
-    "created_by_user_code": "1",
-    "createdByUserCode": "1",
-    "import_source": "active products listing.pdf",
-    "imported_at_utc": "2026-05-09T20:36:23.478018Z",
-    "updated_at_utc": "2026-05-09T22:54:32.479137Z",
-    "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
-    "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
-    "active_listing_import_rolled_back_at_utc": "2026-05-09T22:46:29.404971Z",
-    "active_listing_import_rollback_reason": "CSV has PRODNUM but no real barcode; imported rows made Product Setup heavy.",
-    "import_note": "Imported only because PDF row contains BARCODE1/BARCODE2; active existing products were not changed.",
-    "reactivated_from_active_listing_pdf_at_utc": "2026-05-09T22:54:32.479137Z"
+    "consumption_in_the_daily_market_branch": "0.0"
   },
   {
     "id": "12",
@@ -4269,9 +4257,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "33.0",
-    "stock_in_medawar_branch": "44.0",
+    "stock_in_medawar_branch": "43.0",
     "consumption_in_medawar_branch": "169.0",
-    "total_stock": "44.0",
+    "total_stock": "43.0",
     "total_consumption": "202.0",
     "VAT": "YES",
     "price_lbp": 20000.0,
@@ -4287,7 +4275,7 @@
         "consumption": "33.0"
       },
       "Medawar": {
-        "stock": "44.0",
+        "stock": "43.0",
         "consumption": "169.0"
       }
     },
@@ -5985,9 +5973,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "68.0",
-    "stock_in_medawar_branch": "14.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "36.0",
+    "total_stock": "35.0",
     "total_consumption": "68.0",
     "VAT": "NO",
     "price_lbp": 175000.0,
@@ -6003,7 +5991,7 @@
         "consumption": "68.0"
       },
       "Medawar": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "0.0"
       }
     },
@@ -8317,9 +8305,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "5.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "5.0",
+    "total_stock": "3.0",
     "total_consumption": "5.0",
     "VAT": "YES",
     "price_lbp": 440000.0,
@@ -8335,7 +8323,7 @@
         "consumption": "5.0"
       },
       "Medawar": {
-        "stock": "1.0",
+        "stock": "-1.0",
         "consumption": "0.0"
       }
     },
@@ -9017,9 +9005,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "0.0",
     "VAT": "YES",
     "price_lbp": 170000.0,
@@ -9035,7 +9023,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "0.0"
       }
     },
@@ -20430,11 +20418,11 @@
     "category": "FOOD",
     "sub_category": "herbs & spices",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
+    "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "25.0",
+    "total_stock": "22.0",
     "total_consumption": "9.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -20446,7 +20434,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
+        "stock": "13.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -24418,9 +24406,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "174.0",
+    "stock_in_medawar_branch": "169.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "174.0",
+    "total_stock": "169.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 20000.0,
@@ -24436,7 +24424,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "174.0",
+        "stock": "169.0",
         "consumption": "0.0"
       }
     },
@@ -33599,19 +33587,7 @@
     "subcategory": "STATIONARY",
     "vat": 0,
     "stock_in_the_daily_market_branch": "0.0",
-    "consumption_in_the_daily_market_branch": "0.0",
-    "created_by_user_code": "1",
-    "createdByUserCode": "1",
-    "import_source": "active products listing.pdf",
-    "imported_at_utc": "2026-05-09T20:36:23.478018Z",
-    "updated_at_utc": "2026-05-09T22:54:32.479137Z",
-    "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
-    "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
-    "active_listing_import_rolled_back_at_utc": "2026-05-09T22:46:29.404971Z",
-    "active_listing_import_rollback_reason": "CSV has PRODNUM but no real barcode; imported rows made Product Setup heavy.",
-    "import_note": "Imported only because PDF row contains BARCODE1/BARCODE2; active existing products were not changed.",
-    "reactivated_from_active_listing_pdf_at_utc": "2026-05-09T22:54:32.479137Z",
-    "brand": ""
+    "consumption_in_the_daily_market_branch": "0.0"
   },
   {
     "id": "10470",
@@ -47651,10 +47627,7 @@
     "description": "RIM WATER 500ML x 12 pcs",
     "product_description": "RIM WATER 500ML x 12 pcs",
     "bulk_link_repaired_at_utc": "2026-05-18T15:02:43.584Z",
-    "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
-    "deliveryRules": 0.225,
-    "priceLbp": 220000,
-    "priceUsd": 2.4444444444444446
+    "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1"
   },
   {
     "id": "13304",
@@ -52118,18 +52091,7 @@
     "costUsd": 3.24,
     "cost_ht_usd": 3.24,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "created_by_user_code": "1",
-    "createdByUserCode": "1",
-    "import_source": "active products listing.pdf",
-    "imported_at_utc": "2026-05-09T20:36:23.478018Z",
-    "updated_at_utc": "2026-05-09T22:54:32.479137Z",
-    "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
-    "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
-    "active_listing_import_rolled_back_at_utc": "2026-05-09T22:46:29.404971Z",
-    "active_listing_import_rollback_reason": "CSV has PRODNUM but no real barcode; imported rows made Product Setup heavy.",
-    "import_note": "Imported only because PDF row contains BARCODE1/BARCODE2; active existing products were not changed.",
-    "reactivated_from_active_listing_pdf_at_utc": "2026-05-09T22:54:32.479137Z"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "13663",
@@ -235979,13 +235941,13 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "0.0"
       }
     },
     "stock_in_geitawi_branch": "0.0",
-    "total_stock": "14.0",
-    "stock_in_medawar_branch": "14.0",
+    "total_stock": "13.0",
+    "stock_in_medawar_branch": "13.0",
     "cost": 0.5093,
     "Product Description": "ETI WAFE UP WITH COCOA 40 G*",
     "SUPPLIERS": "GOLDEN FOOD SAL",
@@ -238921,7 +238883,7 @@
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21962.jpg",
     "linked_profile_enabled": true,
     "linked_profile_repo_root": "Nounas_Food",
-    "linked_profile_item_id": "2196200001",
+    "linked_profile_item_id": "",
     "linked_profile_category": "NOUNA'S FOOD",
     "linked_profile_sub_category": "NOUNA'S FOOD",
     "stock_in_medawar_branch": "2.0",
@@ -243849,13 +243811,7 @@
     "name": "GAS CYLINDER 10K",
     "supplier": "TONY HANNA - GAZ USD",
     "subcategory": "GAS",
-    "vat": 0,
-    "lastCostHtUsd": 18.0,
-    "createdByUserCode": "1",
-    "createdByUser": "Elias Mahfouz",
-    "source": "bimpos_purchase_reconcile_20260508",
-    "updatedAt": "2026-05-09T00:32:10",
-    "_categoryMethod": "fuzzy"
+    "vat": 0
   },
   {
     "id": "100074",
