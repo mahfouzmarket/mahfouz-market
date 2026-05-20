@@ -11751,8 +11751,8 @@
     "supplier": "DAIRY KHOURY USD",
     "subcategory": "DAIRY PRODUCTS",
     "vat": 0,
-    "barcode2": "5285008140223",
-    "barcodes": "5285008140223",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "6.30",
     "linked_profile_enabled": false,
@@ -26080,8 +26080,8 @@
         "consumption": "0.0"
       }
     },
-    "barcode2": "5283022011673",
-    "barcodes": "5283022011673",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "1.23",
     "linked_profile_enabled": false,
@@ -31079,8 +31079,8 @@
         "consumption": "0.0"
       }
     },
-    "barcode2": "5290426205409",
-    "barcodes": "5290426205409",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "0.41",
     "linked_profile_enabled": false,
@@ -31568,8 +31568,8 @@
     "supplier": "JACK DIB",
     "subcategory": "STATIONARY",
     "vat": 1,
-    "barcode2": "5283001500945",
-    "barcodes": "5283001500945",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "0.39",
     "linked_profile_enabled": false,
@@ -33370,8 +33370,8 @@
         "consumption": "0.0"
       }
     },
-    "barcode2": "5287007157004",
-    "barcodes": "5287007157004 | 5283001501089",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "2.23",
     "linked_profile_enabled": false,
@@ -47627,7 +47627,10 @@
     "description": "RIM WATER 500ML x 12 pcs",
     "product_description": "RIM WATER 500ML x 12 pcs",
     "bulk_link_repaired_at_utc": "2026-05-18T15:02:43.584Z",
-    "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1"
+    "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
+    "deliveryRules": 0.225,
+    "priceLbp": 220000,
+    "priceUsd": 2.4444444444444446
   },
   {
     "id": "13304",
@@ -53427,7 +53430,10 @@
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "supplier": "RIM REFRESHMENT SAL USD",
     "subcategory": "MINERAL WATER",
-    "vat": 1
+    "vat": 1,
+    "deliveryRules": 0.9,
+    "priceLbp": 220000,
+    "priceUsd": 2.4444444444444446
   },
   {
     "id": "13825",
@@ -77320,11 +77326,11 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "VEGETABLES",
     "offers": "0",
-    "stock_in_geitawi_branch": "-0.700",
+    "stock_in_geitawi_branch": "-0.685",
     "consumption_in_geitawi_branch": "22.2",
     "stock_in_medawar_branch": "9.985",
     "consumption_in_medawar_branch": "44.1",
-    "total_stock": "9.285",
+    "total_stock": "9.300",
     "total_consumption": "66.3",
     "VAT": "NO",
     "price_lbp": 200000.0,
@@ -77336,7 +77342,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-0.700",
+        "stock": "-0.685",
         "consumption": "22.2"
       },
       "Medawar": {
@@ -77787,7 +77793,7 @@
     "SUPPLIERS": "VEGETABLES AND FRUITS",
     "unit": "kg",
     "category": "VEGETABLES AND FRUITS",
-    "sub_category": "FRUITS",
+    "sub_category": "fruits",
     "offers": "0",
     "stock_in_geitawi_branch": "1.560",
     "consumption_in_geitawi_branch": "20.8",
@@ -77798,7 +77804,7 @@
     "VAT": "NO",
     "price_lbp": 140000.0,
     "price_usd": "1.56",
-    "cost": 1.2418,
+    "cost": 1.2418300653594772,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15762.jpg",
     "new_items": "",
     "manual": "",
@@ -77813,7 +77819,7 @@
         "consumption": "58.0"
       }
     },
-    "sub": "FRUITS",
+    "sub": "fruits",
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
@@ -77828,7 +77834,7 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "name": "BANANA BALADEH",
-    "subcategory": "FRUITS",
+    "subcategory": "fruits",
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15762-1778999133527496",
     "product_setup_saved_at_utc": "2026-05-17T06:25:33.527496Z"
@@ -77840,7 +77846,7 @@
     "SUPPLIERS": "VEGETABLES AND FRUITS",
     "unit": "kg",
     "category": "VEGETABLES AND FRUITS",
-    "sub_category": "FRUITS",
+    "sub_category": "fruits",
     "offers": "0",
     "stock_in_geitawi_branch": "1.670",
     "consumption_in_geitawi_branch": "8.0",
@@ -77851,7 +77857,7 @@
     "VAT": "NO",
     "price_lbp": 300000.0,
     "price_usd": "3.33",
-    "cost": 2.1605,
+    "cost": 2.1604938271604937,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15763.jpg",
     "new_items": "",
     "manual": "",
@@ -77866,7 +77872,7 @@
         "consumption": "14.7"
       }
     },
-    "sub": "FRUITS",
+    "sub": "fruits",
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
@@ -77881,7 +77887,7 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "name": "TEFFEH AHMAR",
-    "subcategory": "FRUITS",
+    "subcategory": "fruits",
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15763-1779011434395310",
     "product_setup_saved_at_utc": "2026-05-17T09:50:34.395310Z"
@@ -77893,7 +77899,7 @@
     "SUPPLIERS": "VEGETABLES AND FRUITS",
     "unit": "kg",
     "category": "VEGETABLES AND FRUITS",
-    "sub_category": "FRUITS",
+    "sub_category": "fruits",
     "offers": "0",
     "stock_in_geitawi_branch": "1.965",
     "consumption_in_geitawi_branch": "5.7",
@@ -77904,7 +77910,7 @@
     "VAT": "NO",
     "price_lbp": 250000.0,
     "price_usd": "2.78",
-    "cost": 1.7857,
+    "cost": 1.7857142857142856,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15764.jpg",
     "new_items": "",
     "manual": "",
@@ -77919,7 +77925,7 @@
         "consumption": "13.3"
       }
     },
-    "sub": "FRUITS",
+    "sub": "fruits",
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
@@ -77934,7 +77940,7 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "name": "TEFFEH AKHDAR",
-    "subcategory": "FRUITS",
+    "subcategory": "fruits",
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15764-1779011098267352",
     "product_setup_saved_at_utc": "2026-05-17T09:44:58.267352Z"
@@ -98807,7 +98813,7 @@
   {
     "id": "17342",
     "barcode": "4023103073937",
-    "barcodes": "5281110225582",
+    "barcodes": "",
     "Product Description": "VILEDA EXTRA SENSATION MED",
     "product_description": "VILEDA EXTRA SENSATION MED",
     "description": "VILEDA EXTRA SENSATION MED",
@@ -98846,7 +98852,7 @@
     "import_source": "active products listing.pdf",
     "imported_at_utc": "2026-05-09T20:36:23.478018Z",
     "updated_at_utc": "2026-05-09T22:54:32.479137Z",
-    "barcode2": "5281110225582",
+    "barcode2": "",
     "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
     "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
     "active_listing_import_rolled_back_at_utc": "2026-05-09T22:46:29.404971Z",
@@ -112308,7 +112314,7 @@
     "VAT": "YES",
     "price_lbp": 245000.0,
     "price_usd": "2.72",
-    "cost": 2.3139,
+    "cost": 208250.0,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18199.jpg",
     "new_items": "",
     "manual": "",
@@ -114738,8 +114744,8 @@
     "name": "CLIPPER REUSABLE",
     "subcategory": "LIGHTER",
     "vat": 1,
-    "barcode2": "8412765008504",
-    "barcodes": "8412765008504",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "0.54",
     "linked_profile_enabled": false,
@@ -137515,8 +137521,8 @@
         "consumption": "0.0"
       }
     },
-    "barcode2": "6223013530218",
-    "barcodes": "6223013530218",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "3.72",
     "linked_profile_enabled": false,
@@ -150664,8 +150670,8 @@
     "name": "COLORING BOOK",
     "subcategory": "STATIONARY",
     "vat": 1,
-    "barcode2": "6823469460024",
-    "barcodes": "6823469460024",
+    "barcode2": "",
+    "barcodes": "",
     "expiry_days": "0",
     "cost_ht": "0.84",
     "linked_profile_enabled": false,
@@ -208385,7 +208391,15 @@
       }
     },
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "expiry_days": "0",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "product_setup_save_token": "PS-SAVE-21317-1778923608623174",
+    "product_setup_saved_at_utc": "2026-05-16T09:26:48.623174Z"
   },
   {
     "id": "21319",
@@ -237077,7 +237091,7 @@
     "secondary_subcategory": "",
     "manual": "",
     "Product Description": "NF BISCUIT RAHA 1 PCS",
-    "cost": 42500.0,
+    "cost": 0.4722,
     "secondary_category": "",
     "delivery_rules": "0.005",
     "secondary_sub_category": "",
@@ -239435,7 +239449,7 @@
   {
     "id": "21983",
     "barcode": "2709467",
-    "barcodes": "000",
+    "barcodes": "",
     "Product Description": "NF FRESH LEMONADE",
     "product_description": "NF FRESH LEMONADE",
     "description": "NF FRESH LEMONADE",
@@ -239474,7 +239488,7 @@
     "import_source": "active products listing.pdf",
     "imported_at_utc": "2026-05-09T20:36:23.478018Z",
     "updated_at_utc": "2026-05-09T22:54:32.479137Z",
-    "barcode2": "000",
+    "barcode2": "",
     "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
     "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
     "active_listing_import_rolled_back_at_utc": "2026-05-09T22:46:29.404971Z",
@@ -239968,7 +239982,7 @@
   {
     "id": "22010",
     "barcode": "2709409",
-    "barcodes": "11223344",
+    "barcodes": "",
     "Product Description": "NF DRIED APRICOT NT 100 G",
     "product_description": "NF DRIED APRICOT NT 100G",
     "description": "NF DRIED APRICOT NT 100G",
@@ -240007,7 +240021,7 @@
     "import_source": "active products listing.pdf",
     "imported_at_utc": "2026-05-09T20:36:23.478018Z",
     "updated_at_utc": "2026-05-09T22:54:32.479137Z",
-    "barcode2": "11223344",
+    "barcode2": "",
     "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
     "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
     "active_listing_import_rolled_back_at_utc": "2026-05-09T22:46:29.404971Z",
@@ -241324,7 +241338,7 @@
     "VAT": "NO",
     "price_lbp": 220000.0,
     "price_usd": "2.44",
-    "cost": 140000.0,
+    "cost": 1.54,
     "cost_ht": "140000.00",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID100002.jpg",
     "new_items": "",
@@ -244520,15 +244534,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "price_usd": "0.22",
-    "expiry_days": "0",
-    "linked_profile_enabled": false,
-    "linked_profile_repo_root": "",
-    "linked_profile_item_id": "",
-    "linked_profile_category": "",
-    "linked_profile_sub_category": "",
-    "product_setup_save_token": "PS-SAVE-100086-1778843420757255",
-    "product_setup_saved_at_utc": "2026-05-15T11:10:20.757255Z"
+    "price_usd": "0.22"
   },
   {
     "id": "100087",
@@ -254279,12 +254285,12 @@
     "VAT": "NO",
     "price_lbp": 180000.0,
     "price_usd": "2.00",
-    "cost": 153000.0,
+    "cost": 1.7,
     "cost_ht": "153000.00",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500022.jpg",
     "new_items": "x",
     "manual": "",
-    "delivery_rules": "",
+    "delivery_rules": "0.0",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -254305,7 +254311,11 @@
     "name": "NF DATES MIX 6 PCS",
     "supplier": "NOUNA'S FOOD",
     "subcategory": "NOUNA'S FOOD",
-    "vat": 0
+    "vat": 0,
+    "sub": "NOUNA'S FOOD",
+    "secondary_category": "",
+    "secondary_subcategory": "",
+    "secondary_sub_category": ""
   },
   {
     "id": "500023",
@@ -255658,7 +255668,7 @@
     "VAT": "NO",
     "price_lbp": 400000.0,
     "price_usd": "4.44",
-    "cost": 340000.0,
+    "cost": 3.777,
     "cost_ht": "340000.00",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500056.jpg",
     "new_items": "x",
@@ -255684,7 +255694,11 @@
     "name": "CLUB SANDWICH TUNA BROWN",
     "supplier": "NOUNA'S FOOD",
     "subcategory": "READY TO EAT",
-    "vat": 0
+    "vat": 0,
+    "sub": "READY TO EAT",
+    "secondary_category": "",
+    "secondary_subcategory": "",
+    "secondary_sub_category": ""
   },
   {
     "id": "500059",
@@ -259019,7 +259033,7 @@
     "VAT": "NO",
     "price_lbp": 350000.0,
     "price_usd": "3.89",
-    "cost": 297500.0,
+    "cost": 3.3,
     "cost_ht": "297500.00",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6000007.jpg",
     "new_items": "x",
