@@ -5858,5 +5858,61 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1779296952335",
+    "ts": "2026-05-20T17:09:12.335201Z",
+    "createdAt": "2026-05-20T17:09:12.335201Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-20T17:09:12.335201Z"
+      }
+    ],
+    "customer": {
+      "name": "Victoria T",
+      "phone": "76359362",
+      "address": "Home\nkhalil Badawi, AK, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.894875,35.533876"
+    },
+    "customer_name": "Victoria T",
+    "customer_phone": "76359362",
+    "pickup": false,
+    "items": [
+      {
+        "id": "12637",
+        "name": "MAZAYA LEMON +MINT",
+        "qty": 1,
+        "unitUsd": 1.39,
+        "totalUsd": 1.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12637.jpg"
+      },
+      {
+        "id": "14076",
+        "name": "BUZZ MANGO 5.5% 275 ML",
+        "qty": 2,
+        "unitUsd": 1.17,
+        "totalUsd": 2.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14076.jpg"
+      },
+      {
+        "id": "1433",
+        "name": "TANNOURINE WATER 0.5",
+        "qty": 12,
+        "unitUsd": 0.28,
+        "totalUsd": 3.36,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1433.jpg"
+      }
+    ],
+    "totalUsd": 8.44,
+    "totalLbp": 755000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
