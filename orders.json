@@ -5810,5 +5810,53 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1779296911918",
+    "ts": "2026-05-20T17:08:31.918032Z",
+    "createdAt": "2026-05-20T17:08:31.918032Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-20T17:08:31.918032Z"
+      }
+    ],
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "customer_name": "Radwyon",
+    "customer_phone": "78910763",
+    "pickup": false,
+    "items": [
+      {
+        "id": "18205",
+        "name": "MOZARELLA MONI 200 G",
+        "qty": 1,
+        "unitUsd": 3.44,
+        "totalUsd": 3.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18205.jpg"
+      },
+      {
+        "id": "12758",
+        "name": "ALPH REGULAR SIZE",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12758.jpg"
+      }
+    ],
+    "totalUsd": 4.92,
+    "totalLbp": 440000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
