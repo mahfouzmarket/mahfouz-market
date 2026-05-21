@@ -7562,11 +7562,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "277.0",
+    "stock_in_geitawi_branch": "253.0",
     "consumption_in_geitawi_branch": "823.0",
     "stock_in_medawar_branch": "477.0",
     "consumption_in_medawar_branch": "962.0",
-    "total_stock": "754.0",
+    "total_stock": "730.0",
     "total_consumption": "1785.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7578,7 +7578,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "277.0",
+        "stock": "253.0",
         "consumption": "823.0"
       },
       "Medawar": {
@@ -145999,11 +145999,11 @@
     "sub_category": "Croissant",
     "offers": "0",
     "stock_in_geitawi_branch": "19.0",
-    "consumption_in_geitawi_branch": "99.0",
+    "consumption_in_geitawi_branch": "98.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "77.0",
     "total_stock": "21.0",
-    "total_consumption": "176.0",
+    "total_consumption": "175.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
     "price_usd": "0.72",
@@ -146015,7 +146015,7 @@
     "branches": {
       "Geitawi": {
         "stock": "19.0",
-        "consumption": "99.0"
+        "consumption": "98.0"
       },
       "Medawar": {
         "stock": "2.0",
@@ -146032,7 +146032,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "21"
+    "totalStock": "6"
   },
   {
     "id": "19831",
