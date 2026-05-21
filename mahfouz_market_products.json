@@ -5485,12 +5485,12 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
-    "consumption_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "23.0",
+    "consumption_in_geitawi_branch": "25.0",
     "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "10.0",
-    "total_stock": "48.0",
-    "total_consumption": "34.0",
+    "total_stock": "47.0",
+    "total_consumption": "35.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
     "price_usd": "0.67",
@@ -5501,8 +5501,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
-        "consumption": "24.0"
+        "stock": "23.0",
+        "consumption": "25.0"
       },
       "Medawar": {
         "stock": "24.0",
@@ -5515,7 +5515,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "48"
+    "totalStock": "47"
   },
   {
     "id": "784",
@@ -90203,12 +90203,12 @@
     "category": "CHIPS",
     "sub_category": "SNIPS",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
-    "consumption_in_geitawi_branch": "19.0",
+    "stock_in_geitawi_branch": "15.0",
+    "consumption_in_geitawi_branch": "20.0",
     "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "12.0",
-    "total_stock": "37.0",
-    "total_consumption": "31.0",
+    "total_stock": "36.0",
+    "total_consumption": "32.0",
     "VAT": "YES",
     "price_lbp": 105000.0,
     "price_usd": "1.17",
@@ -90219,8 +90219,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
-        "consumption": "19.0"
+        "stock": "15.0",
+        "consumption": "20.0"
       },
       "Medawar": {
         "stock": "21.0",
@@ -90239,7 +90239,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "35"
+    "totalStock": "36"
   },
   {
     "id": "16788",
