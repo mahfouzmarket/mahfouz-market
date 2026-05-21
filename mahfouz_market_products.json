@@ -6410,11 +6410,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "64.0",
+    "stock_in_geitawi_branch": "63.0",
     "consumption_in_geitawi_branch": "181.0",
     "stock_in_medawar_branch": "144.0",
     "consumption_in_medawar_branch": "213.0",
-    "total_stock": "208.0",
+    "total_stock": "207.0",
     "total_consumption": "394.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6426,7 +6426,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "64.0",
+        "stock": "63.0",
         "consumption": "181.0"
       },
       "Medawar": {
@@ -21877,7 +21877,7 @@
   {
     "id": "6103",
     "barcode": "606485305359",
-    "Product Description": "AL KAZZI KERNELS 300 G",
+    "Product Description": "AL KAZZI KERNELS 300GR",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -21907,12 +21907,13 @@
         "consumption": "0.0"
       }
     },
-    "name": "AL KAZZI KERNELS 300 G",
+    "name": "AL KAZZI KERNELS 300GR",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "AL KAZZI",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "4"
   },
   {
     "id": "6104",
@@ -21998,7 +21999,7 @@
   {
     "id": "6106",
     "barcode": "606485313354",
-    "Product Description": "AL KAZZI MIXED NUTS 300 G",
+    "Product Description": "AL KAZZI MIXED NUTS 300GR",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -22028,7 +22029,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "AL KAZZI MIXED NUTS 300 G",
+    "name": "AL KAZZI MIXED NUTS 300GR",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "AL KAZZI",
     "vat": 1,
@@ -22038,7 +22039,7 @@
   {
     "id": "6125",
     "barcode": "606485306400",
-    "Product Description": "ALKAZZI PISTACHIOS 40 G",
+    "Product Description": "ALKAZZI PISTACHIOS 40G",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -22058,7 +22059,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ALKAZZI PISTACHIOS 40 G",
+    "name": "ALKAZZI PISTACHIOS 40G",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "AL KAZZI",
     "vat": 1,
@@ -22113,7 +22114,8 @@
       }
     },
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "10"
   },
   {
     "id": "6154",
@@ -22198,7 +22200,7 @@
   {
     "id": "6189",
     "barcode": "5285004020765",
-    "Product Description": "ARCHI MIXED NUTS 200 G",
+    "Product Description": "ARCHI MIXED NUTS 200G",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -22218,7 +22220,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ARCHI MIXED NUTS 200 G",
+    "name": "ARCHI MIXED NUTS 200G",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "ARCHI",
     "vat": 1,
@@ -22279,7 +22281,7 @@
   {
     "id": "6200",
     "barcode": "5285004020734",
-    "Product Description": "ARCHI KERNELS 275 G",
+    "Product Description": "ARCHI KERNELS 275G",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -22309,7 +22311,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "ARCHI KERNELS 275 G",
+    "name": "ARCHI KERNELS 275G",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "ARCHI",
     "vat": 1,
@@ -22319,7 +22321,7 @@
   {
     "id": "6210",
     "barcode": "5285004020031",
-    "Product Description": "ARCHI EXTRA NUTS 225 G",
+    "Product Description": "ARCHI EXTRA NUTS 225 GR",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -22349,17 +22351,18 @@
         "consumption": "1.0"
       }
     },
-    "name": "ARCHI EXTRA NUTS 225 G",
+    "name": "ARCHI EXTRA NUTS 225 GR",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "ARCHI",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "17"
   },
   {
     "id": "6216",
     "barcode": "606485303720",
-    "Product Description": "AL KAZZI BLANCHED PEANUTS 200 G",
+    "Product Description": "AL KAZZI BLANCHED PEANUTS 200GR",
     "SUPPLIERS": "AL KAZZI TRADING SAL",
     "unit": "-",
     "category": "NUTS",
@@ -22379,7 +22382,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "AL KAZZI BLANCHED PEANUTS 200 G",
+    "name": "AL KAZZI BLANCHED PEANUTS 200GR",
     "supplier": "AL KAZZI TRADING SAL",
     "subcategory": "AL KAZZI",
     "vat": 1,
@@ -22559,7 +22562,7 @@
   {
     "id": "6435",
     "barcode": "5285001528646",
-    "Product Description": "DERONI VERMICELLI 500 G",
+    "Product Description": "DERONI VERMICELLI 500GR",
     "SUPPLIERS": "BITAR INTERNATIONAL S.A.L",
     "unit": "-",
     "category": "FOOD",
@@ -22579,7 +22582,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "DERONI VERMICELLI 500 G",
+    "name": "DERONI VERMICELLI 500GR",
     "supplier": "BITAR INTERNATIONAL S.A.L",
     "subcategory": "SEEDS",
     "vat": 0,
@@ -22885,7 +22888,7 @@
   {
     "id": "6474",
     "barcode": "8714555000300",
-    "Product Description": "ZWAN LUNCHOUN CHICKEN 340 G",
+    "Product Description": "ZWAN LUNCHOUN CHICKEN 340G",
     "SUPPLIERS": "AL HAMAWI TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -22915,12 +22918,13 @@
         "consumption": "4.0"
       }
     },
-    "name": "ZWAN LUNCHOUN CHICKEN 340 G",
+    "name": "ZWAN LUNCHOUN CHICKEN 340G",
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "9"
   },
   {
     "id": "6495",
@@ -23252,7 +23256,7 @@
   {
     "id": "6523",
     "barcode": "5281117000212",
-    "Product Description": "ALWADI PEAS&CARROTS 800 G",
+    "Product Description": "ALWADI PEAS&CARROTS 800GR",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
     "unit": "-",
     "category": "FOOD",
@@ -23287,11 +23291,12 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "SMART FUNCTION SOCIETY SARL",
-    "name": "ALWADI PEAS&CARROTS 800 G",
+    "name": "ALWADI PEAS&CARROTS 800GR",
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "19"
   },
   {
     "id": "6642",
@@ -23377,7 +23382,7 @@
   {
     "id": "6720",
     "barcode": "5285002190590",
-    "Product Description": "ARUBA JELLY STRAWBERRY 85 G",
+    "Product Description": "ARUBA JELLY STRAWBERRY 85 GR",
     "SUPPLIERS": "HINTRAG",
     "unit": "-",
     "category": "FOOD",
@@ -23407,7 +23412,7 @@
         "consumption": "10.0"
       }
     },
-    "name": "ARUBA JELLY STRAWBERRY 85 G",
+    "name": "ARUBA JELLY STRAWBERRY 85 GR",
     "supplier": "HINTRAG",
     "subcategory": "BAKING & COOKING",
     "vat": 1,
@@ -23613,7 +23618,8 @@
       }
     },
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "19"
   },
   {
     "id": "6794",
@@ -23754,7 +23760,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 60000.0,
-    "cost": 0.56,
+    "cost": 0.0,
     "total_stock": "0.0",
     "total_consumption": "1.0",
     "stock_in_geitawi_branch": "0.0",
@@ -23798,12 +23804,11 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "0.56",
+    "price_usd": "0.67",
     "costUsd": 0.56,
     "cost_ht_usd": 0.56,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "price_usd": "0.67"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "6896",
@@ -23848,7 +23853,7 @@
   {
     "id": "6984",
     "barcode": "5283013317593",
-    "Product Description": "TARTINA CHEESE 133 G",
+    "Product Description": "TARTINA CHEESE 133G",
     "SUPPLIERS": "AL HAMAWI TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -23878,7 +23883,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "TARTINA CHEESE 133 G",
+    "name": "TARTINA CHEESE 133G",
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "PROCESSED CHEESE",
     "vat": 0,
@@ -23888,7 +23893,7 @@
   {
     "id": "6989",
     "barcode": "5281044026101",
-    "Product Description": "GOLDEN PHEASANT T.PASTE 70 G",
+    "Product Description": "GOLDEN PHEASANT T.PASTE 70G",
     "SUPPLIERS": "MASSOUD MASSOUD S.A.R.L",
     "unit": "-",
     "category": "FOOD",
@@ -23918,13 +23923,13 @@
         "consumption": "10.0"
       }
     },
-    "name": "GOLDEN PHEASANT T.PASTE 70 G",
+    "name": "GOLDEN PHEASANT T.PASTE 70G",
     "supplier": "MASSOUD MASSOUD S.A.R.L",
     "subcategory": "SAUCE",
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "10"
+    "totalStock": "12"
   },
   {
     "id": "7010",
@@ -24058,7 +24063,7 @@
   {
     "id": "7149",
     "barcode": "5283000301277",
-    "Product Description": "MAXIMS TUNA OIL 180 G",
+    "Product Description": "MAXIMS TUNA OIL 180 gr",
     "SUPPLIERS": "toters",
     "unit": "-",
     "category": "FOOD",
@@ -24088,7 +24093,7 @@
         "consumption": "8.0"
       }
     },
-    "name": "MAXIMS TUNA OIL 180 G",
+    "name": "MAXIMS TUNA OIL 180 gr",
     "supplier": "toters",
     "subcategory": "cans & jams",
     "vat": 1,
@@ -24345,7 +24350,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "2"
+    "totalStock": "7"
   },
   {
     "id": "7307",
@@ -24514,7 +24519,7 @@
   {
     "id": "7318",
     "barcode": "5280320000453",
-    "Product Description": "KAAK BRAN WITH THYME 250 G",
+    "Product Description": "KAAK BRAN WITH THYME 250G",
     "SUPPLIERS": "GLOBAL FOODS SAL",
     "unit": "-",
     "category": "FOOD",
@@ -24544,7 +24549,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "KAAK BRAN WITH THYME 250 G",
+    "name": "KAAK BRAN WITH THYME 250G",
     "supplier": "GLOBAL FOODS SAL",
     "subcategory": "BAKERY",
     "vat": 1,
@@ -24554,7 +24559,7 @@
   {
     "id": "7319",
     "barcode": "5280320000446",
-    "Product Description": "KAAK LIGHT SON 250 G",
+    "Product Description": "KAAK LIGHT SON 250G",
     "SUPPLIERS": "GLOBAL FOODS SAL",
     "unit": "-",
     "category": "FOOD",
@@ -24574,7 +24579,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "KAAK LIGHT SON 250 G",
+    "name": "KAAK LIGHT SON 250G",
     "supplier": "GLOBAL FOODS SAL",
     "subcategory": "BAKERY",
     "vat": 0,
@@ -24636,7 +24641,7 @@
   {
     "id": "7323",
     "barcode": "5280320000415",
-    "Product Description": "KAAK SESAME LONG 250 G FORNO",
+    "Product Description": "KAAK SESAME LONG 250G FORNO",
     "SUPPLIERS": "GLOBAL FOODS SAL",
     "unit": "-",
     "category": "FOOD",
@@ -24651,7 +24656,7 @@
     "VAT": "NO",
     "price_lbp": 180000.0,
     "price_usd": "2.00",
-    "cost": 1.79,
+    "cost": 1.08,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7323.jpg",
     "new_items": "",
     "manual": "",
@@ -24668,7 +24673,7 @@
     },
     "updatedAt": "2026-05-09T00:33:34",
     "priceRepair": "bimpos_20260508_under_cost_floor",
-    "name": "KAAK SESAME LONG 250 G FORNO",
+    "name": "KAAK SESAME LONG 250G FORNO",
     "supplier": "GLOBAL FOODS SAL",
     "subcategory": "BAKERY",
     "vat": 0,
@@ -24812,7 +24817,8 @@
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "26"
   },
   {
     "id": "7448",
@@ -24950,7 +24956,7 @@
   {
     "id": "7455",
     "barcode": "5281117000175",
-    "Product Description": "WAK GARDEN PEAS 800 G",
+    "Product Description": "WAK GARDEN PEAS 800G",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
     "unit": "-",
     "category": "FOOD",
@@ -24985,11 +24991,12 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "SMART FUNCTION SOCIETY SARL",
-    "name": "WAK GARDEN PEAS 800 G",
+    "name": "WAK GARDEN PEAS 800G",
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "17"
   },
   {
     "id": "7458",
@@ -25039,7 +25046,7 @@
   {
     "id": "7464",
     "barcode": "5281117000656",
-    "Product Description": "W/A FOUL MOUDAMMAS 400 G",
+    "Product Description": "W/A FOUL MOUDAMMAS 400G",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
     "unit": "-",
     "category": "FOOD",
@@ -25074,16 +25081,17 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "SMART FUNCTION SOCIETY SARL",
-    "name": "W/A FOUL MOUDAMMAS 400 G",
+    "name": "W/A FOUL MOUDAMMAS 400G",
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "88"
   },
   {
     "id": "7505",
     "barcode": "5283000301741",
-    "Product Description": "MAXIMS SLICED PINEAPPLE 565 G",
+    "Product Description": "MAXIMS SLICED PINEAPPLE 565GR",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -25113,13 +25121,13 @@
         "consumption": "3.0"
       }
     },
-    "name": "MAXIMS SLICED PINEAPPLE 565 G",
+    "name": "MAXIMS SLICED PINEAPPLE 565GR",
     "supplier": "EDWIN YAZBECK FOR TRADING",
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "8"
+    "totalStock": "1"
   },
   {
     "id": "7512",
@@ -25292,12 +25300,13 @@
     "subcategory": "cans & jams",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "30"
   },
   {
     "id": "7606",
     "barcode": "7702018489978",
-    "Product Description": "GILLETTE BLUE 3",
+    "Product Description": "GILLETTE  BLUE 3",
     "SUPPLIERS": "TRANSMED SAL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -25336,7 +25345,7 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "name": "GILLETTE BLUE 3",
+    "name": "GILLETTE  BLUE 3",
     "supplier": "TRANSMED SAL",
     "subcategory": "shaving",
     "vat": 1
@@ -25344,7 +25353,7 @@
   {
     "id": "7614",
     "barcode": "5998304547138",
-    "Product Description": "TAWOUS TOMATO PASTE 400 G",
+    "Product Description": "TAWOUS TOMATO PASTE 400G",
     "SUPPLIERS": "MASSOUD MASSOUD S.A.R.L",
     "unit": "-",
     "category": "FOOD",
@@ -25374,7 +25383,7 @@
         "consumption": "5.0"
       }
     },
-    "name": "TAWOUS TOMATO PASTE 400 G",
+    "name": "TAWOUS TOMATO PASTE 400G",
     "supplier": "MASSOUD MASSOUD S.A.R.L",
     "subcategory": "SAUCE",
     "vat": 1,
@@ -25385,7 +25394,7 @@
   {
     "id": "7630",
     "barcode": "788930251319",
-    "Product Description": "XTRA KETCHUP 340 G",
+    "Product Description": "XTRA KETCHUP 340G",
     "SUPPLIERS": "AL HAMAWI TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -25405,7 +25414,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "XTRA KETCHUP 340 G",
+    "name": "XTRA KETCHUP 340G",
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "KETCHUP, MAYO & MUSTARD",
     "vat": 1,
@@ -25425,7 +25434,7 @@
   {
     "id": "7645",
     "barcode": "788930251456",
-    "Product Description": "KETCHUP EXTRA 800 G SQUEEZ",
+    "Product Description": "KETCHUP EXTRA 800G SQUEEZ",
     "SUPPLIERS": "MASSOUD MASSOUD S.A.R.L",
     "unit": "-",
     "category": "FOOD",
@@ -25455,7 +25464,7 @@
         "consumption": "4.0"
       }
     },
-    "name": "KETCHUP EXTRA 800 G SQUEEZ",
+    "name": "KETCHUP EXTRA 800G SQUEEZ",
     "supplier": "MASSOUD MASSOUD S.A.R.L",
     "subcategory": "KETCHUP, MAYO & MUSTARD",
     "vat": 1,
@@ -25505,7 +25514,7 @@
   {
     "id": "7766",
     "barcode": "788930151459",
-    "Product Description": "LIBBYS KETCHUP 600 G",
+    "Product Description": "LIBBYS KETCHUP 600G",
     "SUPPLIERS": "MASSOUD MASSOUD S.A.R.L",
     "unit": "-",
     "category": "FOOD",
@@ -25525,7 +25534,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "LIBBYS KETCHUP 600 G",
+    "name": "LIBBYS KETCHUP 600G",
     "supplier": "MASSOUD MASSOUD S.A.R.L",
     "subcategory": "KETCHUP, MAYO & MUSTARD",
     "vat": 1,
@@ -25664,7 +25673,8 @@
     "subcategory": "SAUCE",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "-1"
   },
   {
     "id": "7828",
@@ -25709,7 +25719,7 @@
   {
     "id": "7860",
     "barcode": "5281099110114",
-    "Product Description": "YAMAMA TOMATO PASTE 300 G",
+    "Product Description": "YAMAMA TOMATO PASTE 300G",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -25739,7 +25749,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "YAMAMA TOMATO PASTE 300 G",
+    "name": "YAMAMA TOMATO PASTE 300G",
     "supplier": "EDWIN YAZBECK FOR TRADING",
     "subcategory": "SAUCE",
     "vat": 1,
@@ -25749,7 +25759,7 @@
   {
     "id": "7864",
     "barcode": "5281029370991",
-    "Product Description": "CHTOURA TAHINA 800 G",
+    "Product Description": "CHTOURA TAHINA 800G",
     "SUPPLIERS": "AL HAMAWI TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -25769,7 +25779,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "CHTOURA TAHINA 800 G",
+    "name": "CHTOURA TAHINA 800G",
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "TAHINA, LOUKOM & HALAWI",
     "vat": 1,
@@ -25829,7 +25839,7 @@
   {
     "id": "7867",
     "barcode": "623695000423",
-    "Product Description": "YAMAMA WHITE VINEGAR 1 L",
+    "Product Description": "YAMAMA WHITE VINEGAR 1L",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -25849,7 +25859,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "YAMAMA WHITE VINEGAR 1 L",
+    "name": "YAMAMA WHITE VINEGAR 1L",
     "supplier": "EDWIN YAZBECK FOR TRADING",
     "subcategory": "VINEGAR & PICKLES",
     "vat": 1,
@@ -25950,7 +25960,7 @@
   {
     "id": "7908",
     "barcode": "5283000901279",
-    "Product Description": "SUCRE MINCE 500 G AOUN",
+    "Product Description": "SUCRE MINCE 500G AOUN",
     "SUPPLIERS": "AOUN FOOD CO",
     "unit": "-",
     "category": "FOOD",
@@ -25980,7 +25990,7 @@
         "consumption": "0.0"
       }
     },
-    "name": "SUCRE MINCE 500 G AOUN",
+    "name": "SUCRE MINCE 500G AOUN",
     "supplier": "AOUN FOOD CO",
     "subcategory": "SEEDS",
     "vat": 0,
@@ -26151,7 +26161,7 @@
   {
     "id": "7987",
     "barcode": "5283000910226",
-    "Product Description": "AOUN CORETE SECHE DRIED 200 G",
+    "Product Description": "AOUN CORETE SECHE DRIED 200 gr",
     "SUPPLIERS": "AOUN FOOD CO",
     "unit": "-",
     "category": "FOOD",
@@ -26171,7 +26181,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "AOUN CORETE SECHE DRIED 200 G",
+    "name": "AOUN CORETE SECHE DRIED 200 gr",
     "supplier": "AOUN FOOD CO",
     "subcategory": "SEEDS",
     "vat": 0,
@@ -26375,7 +26385,7 @@
   {
     "id": "8069",
     "barcode": "5283022011666",
-    "Product Description": "ELSADA SHOWER GEL 750 ML",
+    "Product Description": "ELSADA SHOWER GEL  750 ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -26395,7 +26405,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ELSADA SHOWER GEL 750 ML",
+    "name": "ELSADA SHOWER GEL  750 ML",
     "supplier": "SADAPACK",
     "subcategory": "hand & body wash",
     "vat": 1,
@@ -26419,7 +26429,8 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-8069-1778915319185666",
-    "product_setup_saved_at_utc": "2026-05-16T07:08:39.185666Z"
+    "product_setup_saved_at_utc": "2026-05-16T07:08:39.185666Z",
+    "totalStock": "2"
   },
   {
     "id": "8071",
@@ -26619,7 +26630,8 @@
     "subcategory": "TOOLS",
     "vat": 1,
     "barcode2": "6971830760072",
-    "barcodes": "6971830760072"
+    "barcodes": "6971830760072",
+    "totalStock": "7"
   },
   {
     "id": "8141",
@@ -26911,7 +26923,8 @@
     "subcategory": "ALUMINUM FOIL",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "2"
   },
   {
     "id": "8157",
@@ -27156,7 +27169,7 @@
   {
     "id": "8169",
     "barcode": "5281002100263",
-    "Product Description": "ODEX L REG",
+    "Product Description": "ODEX LITER REG",
     "SUPPLIERS": "SPARTAN CHEMICAL CO SARL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -27186,12 +27199,13 @@
         "consumption": "7.0"
       }
     },
-    "name": "ODEX L REG",
+    "name": "ODEX LITER REG",
     "supplier": "SPARTAN CHEMICAL CO SARL",
     "subcategory": "DISH WASHING",
     "vat": 1,
     "barcode2": "5283002600262",
-    "barcodes": "5283002600262"
+    "barcodes": "5283002600262",
+    "totalStock": "12"
   },
   {
     "id": "8172",
@@ -27232,7 +27246,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "20"
+    "totalStock": "9"
   },
   {
     "id": "8268",
@@ -27352,7 +27366,7 @@
   {
     "id": "8299",
     "barcode": "5285001953363",
-    "Product Description": "SPIRTO ELSADA 1000 ML",
+    "Product Description": "SPIRTO ELSADA 1000ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -27372,7 +27386,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "SPIRTO ELSADA 1000 ML",
+    "name": "SPIRTO ELSADA 1000ML",
     "supplier": "SADAPACK",
     "subcategory": "SANITIZER",
     "vat": 1,
@@ -27392,7 +27406,7 @@
   {
     "id": "8305",
     "barcode": "5283009700170",
-    "Product Description": "DER GENERAL 750 ML",
+    "Product Description": "DER GENERAL  750 ML",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -27417,7 +27431,7 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "SMART FUNCTION SOCIETY SARL",
-    "name": "DER GENERAL 750 ML",
+    "name": "DER GENERAL  750 ML",
     "subcategory": "CLEANING",
     "vat": 1,
     "branches": {
@@ -27476,7 +27490,7 @@
   {
     "id": "8310",
     "barcode": "5283009705427",
-    "Product Description": "DER GENERAL 1.5 L",
+    "Product Description": "DER GENERAL   1.5 L",
     "SUPPLIERS": "SMART FUNCTION SOCIETY SARL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -27501,7 +27515,7 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "SMART FUNCTION SOCIETY SARL",
-    "name": "DER GENERAL 1.5 L",
+    "name": "DER GENERAL   1.5 L",
     "subcategory": "CLEANING",
     "vat": 1,
     "branches": {
@@ -28580,7 +28594,7 @@
   {
     "id": "8513",
     "barcode": "6281006130204",
-    "Product Description": "COMFORT 3 L",
+    "Product Description": "COMFORT 3L",
     "SUPPLIERS": "ENDURANCE SAL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -28610,7 +28624,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "COMFORT 3 L",
+    "name": "COMFORT 3L",
     "supplier": "ENDURANCE SAL",
     "subcategory": "CLOTH CLEANING",
     "vat": 1,
@@ -28620,7 +28634,7 @@
   {
     "id": "8519",
     "barcode": "6221048600135",
-    "Product Description": "COMFORT BLUE 1 L",
+    "Product Description": "COMFORT BLUE 1L",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "HOME USAGE",
@@ -28650,7 +28664,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "COMFORT BLUE 1 L",
+    "name": "COMFORT BLUE 1L",
     "supplier": "EDWIN YAZBECK FOR TRADING",
     "subcategory": "CLOTH CLEANING",
     "vat": 1,
@@ -29106,7 +29120,7 @@
   {
     "id": "8783",
     "barcode": "8714789930848",
-    "Product Description": "COLGATE OPTIC WHITE 75 ML",
+    "Product Description": "COLGATE OPTIC WHITE 75ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -29145,7 +29159,7 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "name": "COLGATE OPTIC WHITE 75 ML",
+    "name": "COLGATE OPTIC WHITE 75ML",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
     "vat": 1
@@ -29233,7 +29247,7 @@
   {
     "id": "8911",
     "barcode": "4005808828838",
-    "Product Description": "NIVEA DEO COOL KICK 150 ML",
+    "Product Description": "NIVEA DEO COOL KICK 150ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -29263,7 +29277,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "NIVEA DEO COOL KICK 150 ML",
+    "name": "NIVEA DEO COOL KICK 150ML",
     "supplier": "JACK DIB",
     "subcategory": "deodorant & roll on",
     "vat": 1,
@@ -29288,7 +29302,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 350000.0,
-    "cost": 3.24,
+    "cost": 0.0,
     "total_stock": "0.0",
     "total_consumption": "1.0",
     "stock_in_geitawi_branch": "0.0",
@@ -29332,12 +29346,11 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "3.24",
+    "price_usd": "3.89",
     "costUsd": 3.24,
     "cost_ht_usd": 3.24,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "price_usd": "3.89"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "8968",
@@ -29626,7 +29639,7 @@
   {
     "id": "9035",
     "barcode": "8711700915878",
-    "Product Description": "REXONA WOMEN 200 ML",
+    "Product Description": "REXONA WOMEN 200ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -29646,7 +29659,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "REXONA WOMEN 200 ML",
+    "name": "REXONA WOMEN 200ML",
     "supplier": "JACK DIB",
     "subcategory": "deodorant & roll on",
     "vat": 1,
@@ -29790,7 +29803,7 @@
   {
     "id": "9072",
     "barcode": "8717163997345",
-    "Product Description": "DOVE DEO 250 ML",
+    "Product Description": "DOVE DEO 250ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -29820,7 +29833,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "DOVE DEO 250 ML",
+    "name": "DOVE DEO 250ML",
     "supplier": "JACK DIB",
     "subcategory": "deodorant & roll on",
     "vat": 1,
@@ -29910,7 +29923,7 @@
   {
     "id": "9132",
     "barcode": "42299943",
-    "Product Description": "NIVEA ROLL WOMEN DBL EFFECT 50 ML",
+    "Product Description": "NIVEA ROLL WOMEN DBL EFFECT 50ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -29930,7 +29943,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "NIVEA ROLL WOMEN DBL EFFECT 50 ML",
+    "name": "NIVEA ROLL WOMEN DBL EFFECT 50ML",
     "supplier": "JACK DIB",
     "subcategory": "deodorant & roll on",
     "vat": 1,
@@ -30110,7 +30123,7 @@
   {
     "id": "9210",
     "barcode": "9557869007998",
-    "Product Description": "BALLONS 50 G",
+    "Product Description": "BALLONS 50GR",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -30130,7 +30143,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "BALLONS 50 G",
+    "name": "BALLONS 50GR",
     "supplier": "JACK DIB",
     "subcategory": "PICNIC & OFFICE USE",
     "vat": 1,
@@ -30623,7 +30636,7 @@
   {
     "id": "9571",
     "barcode": "5285001613236",
-    "Product Description": "JAVEL LA CROIX TRADIT. 2 L",
+    "Product Description": "JAVEL LA CROIX TRADIT. 2L",
     "SUPPLIERS": "NEAR EAST PERSONAL CARE CO SAL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -30653,7 +30666,7 @@
         "consumption": "3.0"
       }
     },
-    "name": "JAVEL LA CROIX TRADIT. 2 L",
+    "name": "JAVEL LA CROIX TRADIT. 2L",
     "supplier": "NEAR EAST PERSONAL CARE CO SAL",
     "subcategory": "DISH WASHING",
     "vat": 1,
@@ -30788,7 +30801,7 @@
   {
     "id": "9588",
     "barcode": "5283002600460",
-    "Product Description": "TAB 1 L 20% FREE",
+    "Product Description": "TAB 1LITER 20% FREE",
     "SUPPLIERS": "SPARTAN CHEMICAL CO SARL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -30818,7 +30831,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "TAB 1 L 20% FREE",
+    "name": "TAB 1LITER 20% FREE",
     "supplier": "SPARTAN CHEMICAL CO SARL",
     "subcategory": "CLEANING",
     "vat": 1,
@@ -31030,7 +31043,7 @@
   {
     "id": "9648",
     "barcode": "5285001953028",
-    "Product Description": "ELSADA GEL GREY 100 ML",
+    "Product Description": "ELSADA GEL GREY 100ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -31050,7 +31063,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ELSADA GEL GREY 100 ML",
+    "name": "ELSADA GEL GREY 100ML",
     "supplier": "SADAPACK",
     "subcategory": "hair care",
     "vat": 1,
@@ -31070,7 +31083,7 @@
   {
     "id": "9649",
     "barcode": "5285001953035",
-    "Product Description": "ELSADA BLUE 100 ML",
+    "Product Description": "ELSADA BLUE 100ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -31090,7 +31103,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ELSADA BLUE 100 ML",
+    "name": "ELSADA BLUE 100ML",
     "supplier": "SADAPACK",
     "subcategory": "hair care",
     "vat": 1,
@@ -31110,7 +31123,7 @@
   {
     "id": "9651",
     "barcode": "5287000234023",
-    "Product Description": "ELEGANCE STRONG 100 ML",
+    "Product Description": "ELEGANCE STRONG 100ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "FOOD",
@@ -31130,7 +31143,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ELEGANCE STRONG 100 ML",
+    "name": "ELEGANCE STRONG 100ML",
     "supplier": "SADAPACK",
     "subcategory": "SEEDS",
     "vat": 1,
@@ -31755,7 +31768,8 @@
     "subcategory": "PLAY CARDS",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "3"
   },
   {
     "id": "9889",
@@ -31917,7 +31931,6 @@
     "barcode2": "",
     "barcodes": "",
     "expiry_days": "0",
-    "cost_ht": "0.39",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -31964,7 +31977,8 @@
     "subcategory": "PICNIC & OFFICE USE",
     "vat": 1,
     "barcode2": "6281102040260",
-    "barcodes": "6281102040260"
+    "barcodes": "6281102040260",
+    "totalStock": "30"
   },
   {
     "id": "9989",
@@ -32198,7 +32212,7 @@
   {
     "id": "10073",
     "barcode": "5283002610148",
-    "Product Description": "SPARTAN QUICK 1200 G",
+    "Product Description": "SPARTAN QUICK 1200G",
     "SUPPLIERS": "SPARTAN CHEMICAL CO SARL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -32228,7 +32242,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "SPARTAN QUICK 1200 G",
+    "name": "SPARTAN QUICK 1200G",
     "supplier": "SPARTAN CHEMICAL CO SARL",
     "subcategory": "CLEANING",
     "vat": 1,
@@ -33290,7 +33304,8 @@
     "subcategory": "PICNIC & OFFICE USE",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "8"
   },
   {
     "id": "10336",
@@ -33681,6 +33696,7 @@
         "consumption": "0.0"
       }
     },
+    "totalStock": "4",
     "barcode2": "",
     "barcodes": ""
   },
@@ -34589,7 +34605,8 @@
     "subcategory": "TISSUES & TOILET PAPER",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "19"
   },
   {
     "id": "10542",
@@ -34754,7 +34771,7 @@
   {
     "id": "10592",
     "barcode": "5285001954087",
-    "Product Description": "ELSADA COTTON STERILE 100 G",
+    "Product Description": "ELSADA COTTON STERILE 100G",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -34784,12 +34801,13 @@
         "consumption": "0.0"
       }
     },
-    "name": "ELSADA COTTON STERILE 100 G",
+    "name": "ELSADA COTTON STERILE 100G",
     "supplier": "SADAPACK",
     "subcategory": "COTTONS",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "6"
   },
   {
     "id": "10593",
@@ -34829,7 +34847,8 @@
     "subcategory": "COTTONS",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "18"
   },
   {
     "id": "10598",
@@ -35029,7 +35048,8 @@
     "subcategory": "TISSUES & TOILET PAPER",
     "vat": 1,
     "barcode2": "5281030162349",
-    "barcodes": "5281030162349"
+    "barcodes": "5281030162349",
+    "totalStock": "4"
   },
   {
     "id": "10655",
@@ -35577,7 +35597,7 @@
   {
     "id": "10701",
     "barcode": "5281001216248",
-    "Product Description": "SANITA TRASH BAGS MEDIUM 30 L",
+    "Product Description": "SANITA TRASH BAGS MEDIUM 30L",
     "SUPPLIERS": "KTE KFOURY TRADING EST",
     "unit": "-",
     "category": "HOME USAGE",
@@ -35607,7 +35627,7 @@
         "consumption": "3.0"
       }
     },
-    "name": "SANITA TRASH BAGS MEDIUM 30 L",
+    "name": "SANITA TRASH BAGS MEDIUM 30L",
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "TRASH BAGS",
     "vat": 1,
@@ -35732,7 +35752,8 @@
     "subcategory": "WIPES",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "11"
   },
   {
     "id": "10715",
@@ -36064,7 +36085,7 @@
     "id": "10789",
     "barcode": "6926313588278",
     "barcodes": "",
-    "Product Description": "HACKER WARRIOR 750 ML",
+    "Product Description": "HACKER WARRIOR 750ML",
     "product_description": "HACKER WARRIOR 750ML",
     "description": "HACKER WARRIOR 750ML",
     "brand": "",
@@ -36078,7 +36099,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 420000.0,
-    "cost": 3.89,
+    "cost": 0.0,
     "total_stock": "6.0",
     "total_consumption": "3.0",
     "stock_in_geitawi_branch": "1.0",
@@ -36101,7 +36122,7 @@
     "createdByUserCode": "1",
     "import_source": "active products listing.pdf",
     "imported_at_utc": "2026-05-09T20:36:23.478018Z",
-    "updated_at_utc": "2026-05-19T12:22:00.790724Z",
+    "updated_at_utc": "2026-05-09T22:54:32.479137Z",
     "barcode2": "",
     "barcode_repair_note": "Cleared fake PRODNUM barcode from active listing import",
     "barcode_repaired_at_utc": "2026-05-09T22:30:47.014521Z",
@@ -36109,7 +36130,7 @@
     "active_listing_import_rollback_reason": "CSV has PRODNUM but no real barcode; imported rows made Product Setup heavy.",
     "import_note": "Imported only because PDF row contains BARCODE1/BARCODE2; active existing products were not changed.",
     "reactivated_from_active_listing_pdf_at_utc": "2026-05-09T22:54:32.479137Z",
-    "name": "HACKER WARRIOR 750 ML",
+    "name": "HACKER WARRIOR 750ML",
     "consumption_in_geitawi_branch": "1.0",
     "consumption_in_medawar_branch": "2.0",
     "stock_in_the_daily_market_branch": "0.0",
@@ -36122,14 +36143,12 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "3.89",
+    "totalStock": "5",
+    "price_usd": "4.67",
     "costUsd": 3.89,
     "cost_ht_usd": 3.89,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10789.jpg",
-    "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID10789.jpg",
-    "price_usd": "4.67"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "10799",
@@ -36245,7 +36264,7 @@
   {
     "id": "10828",
     "barcode": "6001085120946",
-    "Product Description": "VASELINE BLUE SEAL 100 ML",
+    "Product Description": "VASELINE BLUE SEAL 100ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -36275,12 +36294,13 @@
         "consumption": "0.0"
       }
     },
-    "name": "VASELINE BLUE SEAL 100 ML",
+    "name": "VASELINE BLUE SEAL 100ML",
     "supplier": "JACK DIB",
     "subcategory": "nail & skin care",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "6"
   },
   {
     "id": "10829",
@@ -36320,7 +36340,8 @@
     "subcategory": "nail & skin care",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "7"
   },
   {
     "id": "10833",
@@ -36531,7 +36552,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "5"
   },
   {
     "id": "10851",
@@ -36571,7 +36593,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "5"
   },
   {
     "id": "10852",
@@ -36772,7 +36795,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "3"
   },
   {
     "id": "10860",
@@ -36813,7 +36837,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3"
+    "totalStock": "2"
   },
   {
     "id": "10861",
@@ -36852,6 +36876,7 @@
         "consumption": "1.0"
       }
     },
+    "totalStock": "1",
     "barcode2": "",
     "barcodes": ""
   },
@@ -36894,7 +36919,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "4"
+    "totalStock": "2"
   },
   {
     "id": "10865",
@@ -36973,6 +36998,7 @@
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "femi care",
     "vat": 0,
+    "totalStock": "5",
     "barcode2": "5281001319369",
     "barcodes": "5281001319369"
   },
@@ -37055,7 +37081,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "4"
   },
   {
     "id": "10870",
@@ -37096,16 +37123,15 @@
     "vat": 0,
     "barcode2": "5281001319352",
     "barcodes": "5281001319352",
+    "totalStock": "5",
     "expiry_days": "0",
-    "cost_ht": "2.25",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-10870-1779260941326233",
-    "product_setup_saved_at_utc": "2026-05-20T07:09:01.326233Z",
-    "totalStock": "8"
+    "product_setup_saved_at_utc": "2026-05-20T07:09:01.326233Z"
   },
   {
     "id": "10875",
@@ -37145,7 +37171,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "1"
   },
   {
     "id": "10888",
@@ -37226,7 +37253,8 @@
     "subcategory": "shaving",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "2"
   },
   {
     "id": "10916",
@@ -37315,6 +37343,7 @@
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "femi care",
     "vat": 0,
+    "totalStock": "1",
     "barcode2": "",
     "barcodes": ""
   },
@@ -37476,7 +37505,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "11"
   },
   {
     "id": "10979",
@@ -37556,7 +37586,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "2"
   },
   {
     "id": "10985",
@@ -37601,7 +37632,7 @@
   {
     "id": "10986",
     "barcode": "42164104",
-    "Product Description": "NIVEA CREAM 60 ML",
+    "Product Description": "NIVEA CREAM 60ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -37631,12 +37662,13 @@
         "consumption": "4.0"
       }
     },
-    "name": "NIVEA CREAM 60 ML",
+    "name": "NIVEA CREAM 60ML",
     "supplier": "JACK DIB",
     "subcategory": "nail & skin care",
     "vat": 1,
     "barcode2": "6009607090012",
-    "barcodes": "6009607090012"
+    "barcodes": "6009607090012",
+    "totalStock": "10"
   },
   {
     "id": "11048",
@@ -37817,7 +37849,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 135000.0,
-    "cost": 1.25,
+    "cost": 0.0,
     "total_stock": "0.0",
     "total_consumption": "1.0",
     "stock_in_geitawi_branch": "0.0",
@@ -37861,12 +37893,11 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "1.25",
+    "price_usd": "1.50",
     "costUsd": 1.25,
     "cost_ht_usd": 1.25,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "price_usd": "1.50"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "11098",
@@ -37911,6 +37942,7 @@
   {
     "id": "11099",
     "barcode": "3574669909136",
+    "Product Description": "JOHNSONS N JOHNSONS  BABY OIL",
     "SUPPLIERS": "PLATCO",
     "unit": "-",
     "category": "FOOD",
@@ -37940,15 +37972,13 @@
         "consumption": "0.0"
       }
     },
-    "Product Description": "JOHNSONS N JOHNSONS BABY OIL",
-    "name": "JOHNSONS N JOHNSONS BABY OIL",
-    "productDescription": "JOHNSONS N JOHNSONS BABY OIL",
-    "description": "JOHNSONS N JOHNSONS BABY OIL",
+    "name": "JOHNSONS N JOHNSONS  BABY OIL",
     "barcode2": "8410207100724",
     "barcodes": "8410207100724",
     "supplier": "PLATCO",
     "subcategory": "SEEDS",
-    "vat": 1
+    "vat": 1,
+    "productDescription": "JOHNSONS N JOHNSONS BABY OIL"
   },
   {
     "id": "11107",
@@ -38104,7 +38134,7 @@
   {
     "id": "11312",
     "barcode": "8999999045920",
-    "Product Description": "LIFEBUOY LAWAN 99.9% TOTAL 10 110 G",
+    "Product Description": "LIFEBUOY LAWAN 99.9% TOTAL 10 110G",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -38134,7 +38164,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "LIFEBUOY LAWAN 99.9% TOTAL 10 110 G",
+    "name": "LIFEBUOY LAWAN 99.9% TOTAL 10 110G",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
@@ -38179,11 +38209,13 @@
     "barcodes": "",
     "supplier": "JACK DIB",
     "subcategory": "shampoo & cond",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "3"
   },
   {
     "id": "11400",
     "barcode": "3600541177741",
+    "Product Description": "ULTRA DOUX 400ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -38213,15 +38245,14 @@
         "consumption": "1.0"
       }
     },
-    "Product Description": "ULTRA DOUX 400 ML",
-    "name": "ULTRA DOUX 400 ML",
-    "productDescription": "ULTRA DOUX 400 ML",
-    "description": "ULTRA DOUX 400 ML",
+    "totalStock": "5",
+    "name": "ULTRA DOUX 400ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
     "subcategory": "shampoo & cond",
-    "vat": 1
+    "vat": 1,
+    "productDescription": "ULTRA DOUX 400 ML"
   },
   {
     "id": "11456",
@@ -38351,7 +38382,7 @@
   {
     "id": "11557",
     "barcode": "3610340634185",
-    "Product Description": "ULTRA DOUX NURTURING ALMOND MILK 400 ML",
+    "Product Description": "ULTRA DOUX NURTURING ALMOND MILK 400ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -38385,12 +38416,13 @@
     "secondary_subcategory": "",
     "supplier": "JACK DIB",
     "secondary_category": "",
-    "name": "ULTRA DOUX NURTURING ALMOND MILK 400 ML",
+    "name": "ULTRA DOUX NURTURING ALMOND MILK 400ML",
     "sub": "shampoo & cond",
     "secondary_sub_category": "",
     "barcode2": "",
     "subcategory": "shampoo & cond",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "3"
   },
   {
     "id": "11589",
@@ -38672,7 +38704,7 @@
   {
     "id": "11627",
     "barcode": "7702018844791",
-    "Product Description": "GILLETTE BLUE II PLUS FW 5S",
+    "Product Description": "GILLETTE BLUE II PLUS FW  5S",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "HOME USAGE",
@@ -38702,7 +38734,7 @@
         "consumption": "0.0"
       }
     },
-    "name": "GILLETTE BLUE II PLUS FW 5S",
+    "name": "GILLETTE BLUE II PLUS FW  5S",
     "barcode2": "",
     "barcodes": "",
     "supplier": "EDWIN YAZBECK FOR TRADING",
@@ -38832,7 +38864,7 @@
   {
     "id": "11683",
     "barcode": "3014260228859",
-    "Product Description": "GILLETTE RASIERSCHAUM LIMETTENDUFT 200 ML",
+    "Product Description": "GILLETTE RASIERSCHAUM LIMETTENDUFT 200ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -38852,7 +38884,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "GILLETTE RASIERSCHAUM LIMETTENDUFT 200 ML",
+    "name": "GILLETTE RASIERSCHAUM LIMETTENDUFT 200ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
@@ -38867,7 +38899,8 @@
         "stock": "6.0",
         "consumption": "0.0"
       }
-    }
+    },
+    "totalStock": "6"
   },
   {
     "id": "11750",
@@ -38907,7 +38940,8 @@
     "barcodes": "",
     "supplier": "JACK DIB",
     "subcategory": "shaving",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "2"
   },
   {
     "id": "11765",
@@ -38967,7 +39001,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 70000.0,
-    "cost": 0.65,
+    "cost": 0.0,
     "total_stock": "0.0",
     "total_consumption": "1.0",
     "stock_in_geitawi_branch": "0.0",
@@ -39011,12 +39045,11 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "0.65",
+    "price_usd": "0.78",
     "costUsd": 0.65,
     "cost_ht_usd": 0.65,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "price_usd": "0.78"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "11810",
@@ -39096,7 +39129,8 @@
     "barcodes": "",
     "supplier": "PLATCO",
     "subcategory": "hand & body wash",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "1"
   },
   {
     "id": "11837",
@@ -39297,7 +39331,7 @@
   {
     "id": "12086",
     "barcode": "5283022045791",
-    "Product Description": "DIMEX DISHWASHING POMEGRANATE 700 ML",
+    "Product Description": "DIMEX DISHWASHING POMEGRANATE 700ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -39312,7 +39346,7 @@
     "VAT": "YES",
     "price_lbp": 110000.0,
     "price_usd": "1.22",
-    "cost": 0.79838,
+    "cost": 0.82,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12086.jpg",
     "new_items": "",
     "manual": "",
@@ -39327,7 +39361,7 @@
         "consumption": "0.0"
       }
     },
-    "name": "DIMEX DISHWASHING POMEGRANATE 700 ML",
+    "name": "DIMEX DISHWASHING POMEGRANATE 700ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "SADAPACK",
@@ -39722,7 +39756,7 @@
         "consumption": "1.0"
       }
     },
-    "totalStock": "14"
+    "totalStock": "10"
   },
   {
     "id": "12274",
@@ -39819,10 +39853,10 @@
     "consumption_in_medawar_branch": "2.0",
     "total_stock": "12.0",
     "total_consumption": "2.0",
-    "VAT": "NO",
-    "price_lbp": 100000.0,
-    "price_usd": "1.11",
-    "cost": 0.5833333333333334,
+    "VAT": "YES",
+    "price_lbp": 170000.0,
+    "price_usd": "1.89",
+    "cost": 1.12,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12283.jpg",
     "new_items": "",
     "manual": "",
@@ -39842,12 +39876,12 @@
     "barcodes": "",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
-    "vat": 0
+    "vat": 1
   },
   {
     "id": "12289",
     "barcode": "6281001112013",
-    "Product Description": "COLGATE TP TRIPLE ACTION 125 ML",
+    "Product Description": "COLGATE TP TRIPLE ACTION 125ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -39877,7 +39911,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "COLGATE TP TRIPLE ACTION 125 ML",
+    "name": "COLGATE TP TRIPLE ACTION 125ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
@@ -39887,6 +39921,7 @@
   {
     "id": "12290",
     "barcode": "5011321599659",
+    "Product Description": "CREST HERBAL 125ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -39916,15 +39951,13 @@
         "consumption": "0.0"
       }
     },
-    "Product Description": "CREST HERBAL 125 ML",
-    "name": "CREST HERBAL 125 ML",
-    "productDescription": "CREST HERBAL 125 ML",
-    "description": "CREST HERBAL 125 ML",
+    "name": "CREST HERBAL 125ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
-    "vat": 1
+    "vat": 1,
+    "productDescription": "CREST HERBAL 125 ML"
   },
   {
     "id": "12294",
@@ -40009,6 +40042,7 @@
   {
     "id": "12316",
     "barcode": "5285000530015",
+    "Product Description": "CHAMSA 250G",
     "SUPPLIERS": "TRANSMED SAL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -40038,20 +40072,19 @@
         "consumption": "0.0"
       }
     },
-    "Product Description": "CHAMSA 250 G",
-    "name": "CHAMSA 250 G",
-    "productDescription": "CHAMSA 250 G",
-    "description": "CHAMSA 250 G",
+    "totalStock": "2",
+    "name": "CHAMSA 250G",
     "barcode2": "",
     "barcodes": "",
     "supplier": "TRANSMED SAL",
     "subcategory": "shaving",
-    "vat": 1
+    "vat": 1,
+    "productDescription": "CHAMSA 250 G"
   },
   {
     "id": "12325",
     "barcode": "6001067021452",
-    "Product Description": "COLGATE HERBAL 100 ML",
+    "Product Description": "COLGATE HERBAL 100ML",
     "SUPPLIERS": "PLATCO",
     "unit": "-",
     "category": "HOME USAGE",
@@ -40081,7 +40114,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "COLGATE HERBAL 100 ML",
+    "name": "COLGATE HERBAL 100ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "PLATCO",
@@ -40091,7 +40124,7 @@
   {
     "id": "12381",
     "barcode": "6920354812866",
-    "Product Description": "COLGATE FOR KIDS 2-5 YEARS 50 ML",
+    "Product Description": "COLGATE FOR KIDS 2-5 YEARS 50ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -40121,7 +40154,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "COLGATE FOR KIDS 2-5 YEARS 50 ML",
+    "name": "COLGATE FOR KIDS 2-5 YEARS 50ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
@@ -40202,6 +40235,7 @@
   {
     "id": "12413",
     "barcode": "5410076418145",
+    "Product Description": "CREST 3D WHITE 125G",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -40231,20 +40265,18 @@
         "consumption": "0.0"
       }
     },
-    "Product Description": "CREST 3D WHITE 125 G",
-    "name": "CREST 3D WHITE 125 G",
-    "productDescription": "CREST 3D WHITE 125 G",
-    "description": "CREST 3D WHITE 125 G",
+    "name": "CREST 3D WHITE 125G",
     "barcode2": "",
     "barcodes": "",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
-    "vat": 1
+    "vat": 1,
+    "productDescription": "CREST 3D WHITE 125 G"
   },
   {
     "id": "12450",
     "barcode": "8001090797483",
-    "Product Description": "CREST CAVITY 125 ML",
+    "Product Description": "CREST CAVITY 125ML",
     "SUPPLIERS": "TRANSMED SAL",
     "unit": "-",
     "category": "HOME USAGE",
@@ -40264,7 +40296,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "CREST CAVITY 125 ML",
+    "name": "CREST CAVITY 125ML",
     "barcode2": "",
     "barcodes": "",
     "supplier": "TRANSMED SAL",
@@ -40284,7 +40316,7 @@
   {
     "id": "12505",
     "barcode": "5281001915271",
-    "Product Description": "SANITA HAND SANITIZER SPRAY 60 ML",
+    "Product Description": "SANITA HAND SANITIZER SPRAY 60ML",
     "SUPPLIERS": "KTE KFOURY TRADING EST",
     "unit": "-",
     "category": "HOME USAGE",
@@ -40314,12 +40346,13 @@
         "consumption": "0.0"
       }
     },
-    "name": "SANITA HAND SANITIZER SPRAY 60 ML",
+    "name": "SANITA HAND SANITIZER SPRAY 60ML",
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "SANITIZER",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "4"
   },
   {
     "id": "12545",
@@ -40943,8 +40976,8 @@
     "vat": 0,
     "barcode2": "012300000192",
     "barcodes": "012300000192",
+    "totalStock": "60",
     "expiry_days": "0",
-    "cost_ht": "1.95",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -41543,7 +41576,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3"
+    "totalStock": "-2"
   },
   {
     "id": "12729",
@@ -41881,7 +41914,6 @@
     "barcode2": "",
     "barcodes": "",
     "expiry_days": "0",
-    "cost_ht": "1.64",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -42474,7 +42506,6 @@
     "barcode2": "",
     "barcodes": "",
     "expiry_days": "0",
-    "cost_ht": "1.04",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -42526,8 +42557,8 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
+    "totalStock": "26",
     "expiry_days": "0",
-    "cost_ht": "0.85",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -42765,7 +42796,7 @@
   {
     "id": "12841",
     "barcode": "8681900005016",
-    "Product Description": "FELIN CAT 5 L",
+    "Product Description": "FELIN CAT  5 L",
     "SUPPLIERS": "MTANIOS TRADING SARL",
     "unit": "-",
     "category": "PET SUPPLIES",
@@ -42795,12 +42826,13 @@
         "consumption": "2.0"
       }
     },
-    "name": "FELIN CAT 5 L",
+    "name": "FELIN CAT  5 L",
     "supplier": "MTANIOS TRADING SARL",
     "subcategory": "PETS SUPPLIES",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "7"
   },
   {
     "id": "12854",
@@ -43703,7 +43735,8 @@
     "subcategory": "shampoo & cond",
     "vat": 1,
     "barcode2": "5283022003395",
-    "barcodes": "5283022003395"
+    "barcodes": "5283022003395",
+    "totalStock": "1"
   },
   {
     "id": "12919",
@@ -43813,8 +43846,8 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
+    "totalStock": "1.135",
     "expiry_days": "0",
-    "cost_ht": "5.00",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -43861,7 +43894,8 @@
     "subcategory": "herbs & spices",
     "vat": 1,
     "barcode2": "5283000902641",
-    "barcodes": "5283000902641"
+    "barcodes": "5283000902641",
+    "totalStock": "33"
   },
   {
     "id": "12948",
@@ -44201,10 +44235,8 @@
     "supplier": "MTANIOS TRADING SARL",
     "subcategory": "sweets",
     "vat": 1,
-    "barcode2": "",
-    "barcodes": "",
+    "totalStock": "-2",
     "expiry_days": "0",
-    "cost_ht": "0.14",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -44256,7 +44288,7 @@
   {
     "id": "12982",
     "barcode": "8934839122485",
-    "Product Description": "CLOSEUP DIAMOND ATTRACTION 100 G",
+    "Product Description": "CLOSEUP DIAMOND ATTRACTION 100G",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -44286,7 +44318,7 @@
         "consumption": "2.0"
       }
     },
-    "name": "CLOSEUP DIAMOND ATTRACTION 100 G",
+    "name": "CLOSEUP DIAMOND ATTRACTION 100G",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
     "vat": 1,
@@ -44296,7 +44328,7 @@
   {
     "id": "12983",
     "barcode": "8934839122461",
-    "Product Description": "CLOSE UP DEEP ACTION MENTHOL FRESH 100 G",
+    "Product Description": "CLOSE UP DEEP ACTION MENTHOL FRESH 100G",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -44326,7 +44358,7 @@
         "consumption": "0.0"
       }
     },
-    "name": "CLOSE UP DEEP ACTION MENTHOL FRESH 100 G",
+    "name": "CLOSE UP DEEP ACTION MENTHOL FRESH 100G",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
     "vat": 1,
@@ -44336,7 +44368,7 @@
   {
     "id": "12984",
     "barcode": "6001067003366",
-    "Product Description": "COLGATE ADVANCED WHITE 100 ML",
+    "Product Description": "COLGATE ADVANCED WHITE 100ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -44366,12 +44398,13 @@
         "consumption": "2.0"
       }
     },
-    "name": "COLGATE ADVANCED WHITE 100 ML",
+    "name": "COLGATE ADVANCED WHITE 100ML",
     "supplier": "JACK DIB",
     "subcategory": "TOOTH CARE",
     "vat": 1,
     "barcode2": "6281001101192",
-    "barcodes": "6281001101192"
+    "barcodes": "6281001101192",
+    "totalStock": "5"
   },
   {
     "id": "12990",
@@ -44675,7 +44708,7 @@
   {
     "id": "13021",
     "barcode": "5285001528431",
-    "Product Description": "DERONI CONCHIGLIONI 500 G",
+    "Product Description": "DERONI CONCHIGLIONI 500GR",
     "SUPPLIERS": "BITAR INTERNATIONAL S.A.L",
     "unit": "-",
     "category": "FOOD",
@@ -44695,7 +44728,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "DERONI CONCHIGLIONI 500 G",
+    "name": "DERONI CONCHIGLIONI 500GR",
     "supplier": "BITAR INTERNATIONAL S.A.L",
     "subcategory": "PASTA & INDOMI",
     "vat": 1,
@@ -44991,7 +45024,7 @@
   {
     "id": "13036",
     "barcode": "5281017001333",
-    "Product Description": "CAFE SUPER BRASIL 400 G",
+    "Product Description": "CAFE SUPER BRASIL 400G",
     "SUPPLIERS": "SUPER BRASIL COMPANY SAL",
     "unit": "-",
     "category": "FOOD",
@@ -45021,7 +45054,7 @@
         "consumption": "7.0"
       }
     },
-    "name": "CAFE SUPER BRASIL 400 G",
+    "name": "CAFE SUPER BRASIL 400G",
     "supplier": "SUPER BRASIL COMPANY SAL",
     "subcategory": "instant coffee",
     "vat": 1,
@@ -45071,7 +45104,7 @@
   {
     "id": "13039",
     "barcode": "5285001953370",
-    "Product Description": "ELSADA ALCOHOL 500 ML",
+    "Product Description": "ELSADA ALCOHOL 500ML",
     "SUPPLIERS": "SADAPACK",
     "unit": "-",
     "category": "HOME USAGE",
@@ -45091,7 +45124,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "ELSADA ALCOHOL 500 ML",
+    "name": "ELSADA ALCOHOL 500ML",
     "supplier": "SADAPACK",
     "subcategory": "SANITIZER",
     "vat": 1,
@@ -45191,7 +45224,7 @@
   {
     "id": "13054",
     "barcode": "5285001528653",
-    "Product Description": "DERONI PASTA 500 G",
+    "Product Description": "DERONI PASTA 500GR",
     "SUPPLIERS": "BITAR INTERNATIONAL S.A.L",
     "unit": "-",
     "category": "FOOD",
@@ -45211,7 +45244,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "DERONI PASTA 500 G",
+    "name": "DERONI PASTA 500GR",
     "supplier": "BITAR INTERNATIONAL S.A.L",
     "subcategory": "PASTA & INDOMI",
     "vat": 0,
@@ -45486,7 +45519,8 @@
     "subcategory": "OIL & FAT",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "24"
   },
   {
     "id": "13079",
@@ -45655,7 +45689,7 @@
   {
     "id": "13087",
     "barcode": "6924470301198",
-    "Product Description": "PLOMA GLUE 120 G",
+    "Product Description": "PLOMA GLUE 120 GR",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -45690,7 +45724,7 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "supplier": "JACK DIB",
-    "name": "PLOMA GLUE 120 G",
+    "name": "PLOMA GLUE 120 GR",
     "subcategory": "glue",
     "vat": 1,
     "barcode2": "",
@@ -45740,7 +45774,7 @@
   {
     "id": "13099",
     "barcode": "5285001528455",
-    "Product Description": "DERONI SPIRALI PASTA 500 G",
+    "Product Description": "DERONI SPIRALI  PASTA 500 GR",
     "SUPPLIERS": "R&C DISTRIBUTION SAL USD",
     "unit": "-",
     "category": "FOOD",
@@ -45770,7 +45804,7 @@
         "consumption": "1.0"
       }
     },
-    "name": "DERONI SPIRALI PASTA 500 G",
+    "name": "DERONI SPIRALI  PASTA 500 GR",
     "supplier": "R&C DISTRIBUTION SAL USD",
     "subcategory": "PASTA & INDOMI",
     "vat": 1,
@@ -45830,7 +45864,7 @@
   {
     "id": "13115",
     "barcode": "5283024600103",
-    "Product Description": "TROPICANA CARTOON 1 L",
+    "Product Description": "TROPICANA CARTOON 1L",
     "SUPPLIERS": "PEPSI LBP",
     "unit": "-",
     "category": "BEVERAGES",
@@ -45860,12 +45894,13 @@
         "consumption": "1.0"
       }
     },
-    "name": "TROPICANA CARTOON 1 L",
+    "name": "TROPICANA CARTOON 1L",
     "supplier": "PEPSI LBP",
     "subcategory": "juice",
     "vat": 1,
     "barcode2": "5283024600073",
-    "barcodes": "5283024600073"
+    "barcodes": "5283024600073",
+    "totalStock": "3"
   },
   {
     "id": "13120",
@@ -46118,7 +46153,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 110000.0,
-    "cost": 1.02,
+    "cost": 0.0,
     "total_stock": "0.0",
     "total_consumption": "1.0",
     "stock_in_geitawi_branch": "0.0",
@@ -46162,12 +46197,11 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "1.02",
+    "price_usd": "1.22",
     "costUsd": 1.02,
     "cost_ht_usd": 1.02,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "price_usd": "1.22"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "13136",
@@ -46539,7 +46573,7 @@
   {
     "id": "13161",
     "barcode": "5285001529186",
-    "Product Description": "DERONI MUSHROOMS PCS 400 G",
+    "Product Description": "DERONI MUSHROOMS PIECES 400G",
     "SUPPLIERS": "R&C DISTRIBUTION SAL USD",
     "unit": "-",
     "category": "FOOD",
@@ -46559,7 +46593,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "DERONI MUSHROOMS PCS 400 G",
+    "name": "DERONI MUSHROOMS PIECES 400G",
     "supplier": "R&C DISTRIBUTION SAL USD",
     "subcategory": "cans & jams",
     "vat": 1,
@@ -46937,7 +46971,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "4"
+    "totalStock": "2"
   },
   {
     "id": "13198",
@@ -47088,7 +47122,8 @@
     "subcategory": "femi care",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "3"
   },
   {
     "id": "13205",
@@ -47128,7 +47163,8 @@
     "subcategory": "femi care",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "4"
   },
   {
     "id": "13206",
@@ -47168,7 +47204,8 @@
     "subcategory": "femi care",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "4"
   },
   {
     "id": "13207",
@@ -47213,7 +47250,7 @@
   {
     "id": "13209",
     "barcode": "5285001522897",
-    "Product Description": "DERONI BROWN BURGHUL 900 G",
+    "Product Description": "DERONI BROWN BURGHUL 900 GR",
     "SUPPLIERS": "BITAR INTERNATIONAL S.A.L",
     "unit": "-",
     "category": "FOOD",
@@ -47233,7 +47270,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "DERONI BROWN BURGHUL 900 G",
+    "name": "DERONI BROWN BURGHUL 900 GR",
     "supplier": "BITAR INTERNATIONAL S.A.L",
     "subcategory": "SEEDS",
     "vat": 1,
@@ -47253,7 +47290,7 @@
   {
     "id": "13210",
     "barcode": "5285001523955",
-    "Product Description": "DERONI GREEN LENTILS 900 G",
+    "Product Description": "DERONI GREEN LENTILS 900 GR",
     "SUPPLIERS": "R&C DISTRIBUTION SAL USD",
     "unit": "-",
     "category": "FOOD",
@@ -47273,7 +47310,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "DERONI GREEN LENTILS 900 G",
+    "name": "DERONI GREEN LENTILS 900 GR",
     "supplier": "R&C DISTRIBUTION SAL USD",
     "subcategory": "SEEDS",
     "vat": 0,
@@ -47346,10 +47383,10 @@
     "consumption_in_medawar_branch": "3.0",
     "total_stock": "2.0",
     "total_consumption": "4.0",
-    "VAT": "NO",
+    "VAT": "YES",
     "price_lbp": 35000.0,
     "price_usd": "0.39",
-    "cost": 0.275,
+    "cost": 0.31,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13222.jpg",
     "new_items": "",
     "manual": "",
@@ -47367,7 +47404,7 @@
     "name": "GIL NACETTE",
     "supplier": "PLATCO",
     "subcategory": "shaving",
-    "vat": 0,
+    "vat": 1,
     "barcode2": "",
     "barcodes": ""
   },
@@ -47510,7 +47547,7 @@
     "VAT": "YES",
     "price_lbp": 320000.0,
     "price_usd": "3.56",
-    "cost": 2.1507,
+    "cost": 1.98,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13238.jpg",
     "new_items": "",
     "manual": "",
@@ -47535,7 +47572,7 @@
   {
     "id": "13246",
     "barcode": "5283013324997",
-    "Product Description": "KWIK BITE BREADED CHICKEN TENDERS 500 G",
+    "Product Description": "KWIK BITE BREADED CHICKEN tenders 500 Gr",
     "SUPPLIERS": "AL HAMAWI TRADING",
     "unit": "-",
     "category": "FOOD",
@@ -47555,7 +47592,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "name": "KWIK BITE BREADED CHICKEN TENDERS 500 G",
+    "name": "KWIK BITE BREADED CHICKEN tenders 500 Gr",
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "FROZEN FOOD",
     "vat": 1,
@@ -47777,8 +47814,8 @@
     "Product Description": "CUP CARTOON",
     "SUPPLIERS": "mahfouz market",
     "unit": "-",
-    "category": "HOME USAGE",
-    "sub_category": "PICNIC & OFFICE USE",
+    "category": "mahfouz market",
+    "sub_category": "cup",
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "59.0",
@@ -47819,11 +47856,11 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "subcategory": "PICNIC & OFFICE USE",
+    "subcategory": "cup",
     "vat": 1,
+    "totalStock": "-3",
     "product_setup_save_token": "PS-SAVE-13286-1779096387288707",
-    "product_setup_saved_at_utc": "2026-05-18T09:26:27.288707Z",
-    "totalStock": "-16"
+    "product_setup_saved_at_utc": "2026-05-18T09:26:27.288707Z"
   },
   {
     "id": "13287",
@@ -48107,19 +48144,18 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
+    "totalStock": "-2",
+    "stock_in_the_daily_market_branch": "0.0",
+    "consumption_in_the_daily_market_branch": "0.0",
     "base_id": "1437",
     "is_bulk": true,
     "ignore_stock": true,
     "bulk_parent_id": 1437,
     "bulk_qty": 12,
     "productDescription": "RIM WATER 500ML x 12 pcs",
-    "description": "RIM WATER 500ML x 12 pcs",
-    "product_description": "RIM WATER 500ML x 12 pcs",
     "bulk_link_repaired_at_utc": "2026-05-18T15:02:43.584Z",
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z",
-    "stock_in_the_daily_market_branch": "0.0",
-    "consumption_in_the_daily_market_branch": "0.0",
     "deliveryRules": 0.225,
     "priceLbp": 220000,
     "priceUsd": 2.4444444444444446
@@ -48262,7 +48298,7 @@
     "VAT": "NO",
     "vat": 0,
     "price_lbp": 110000.0,
-    "cost": 1.02,
+    "cost": 0.0,
     "total_stock": "0.0",
     "total_consumption": "2.0",
     "stock_in_geitawi_branch": "0.0",
@@ -48306,12 +48342,11 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "1.02",
+    "price_usd": "1.22",
     "costUsd": 1.02,
     "cost_ht_usd": 1.02,
     "cost_formula": "sale_price_usd_div_1.2",
-    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "price_usd": "1.22"
+    "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z"
   },
   {
     "id": "13316",
@@ -48446,7 +48481,7 @@
   {
     "id": "13328",
     "barcode": "40084176",
-    "Product Description": "KINDER COUNTRY 23.5 G",
+    "Product Description": "KINDER COUNTRY 23.5G",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "CHI TAYIB",
@@ -48476,7 +48511,7 @@
         "consumption": "13.0"
       }
     },
-    "name": "KINDER COUNTRY 23.5 G",
+    "name": "KINDER COUNTRY 23.5G",
     "supplier": "EDWIN YAZBECK FOR TRADING",
     "subcategory": "sweets",
     "vat": 1,
@@ -48526,7 +48561,7 @@
   {
     "id": "13339",
     "barcode": "6223000492406",
-    "Product Description": "BAKE ROLZ OLIVE FLAVOR 48-52 G",
+    "Product Description": "BAKE ROLZ OLIVE FLAVOR 48-52 GM",
     "SUPPLIERS": "MTANIOS TRADING SARL",
     "unit": "-",
     "category": "CHI TAYIB",
@@ -48556,7 +48591,7 @@
         "consumption": "6.0"
       }
     },
-    "name": "BAKE ROLZ OLIVE FLAVOR 48-52 G",
+    "name": "BAKE ROLZ OLIVE FLAVOR 48-52 GM",
     "supplier": "MTANIOS TRADING SARL",
     "subcategory": "Crackers",
     "vat": 1,
@@ -48703,7 +48738,7 @@
   {
     "id": "13364",
     "barcode": "6922652401162",
-    "Product Description": "MERMAID TALCUM POWDER 120 G",
+    "Product Description": "MERMAID TALCUM POWDER 120 GMS",
     "SUPPLIERS": "PLATCO",
     "unit": "-",
     "category": "HOME USAGE",
@@ -48733,7 +48768,7 @@
         "consumption": "0.0"
       }
     },
-    "name": "MERMAID TALCUM POWDER 120 G",
+    "name": "MERMAID TALCUM POWDER 120 GMS",
     "supplier": "PLATCO",
     "subcategory": "BABY CARE",
     "vat": 1,
@@ -48783,7 +48818,7 @@
   {
     "id": "13367",
     "barcode": "8717644891551",
-    "Product Description": "REXONA MEN SPORT DEFENCE 200 ML",
+    "Product Description": "REXONA MEN SPORT DEFENCE 200ML",
     "SUPPLIERS": "JACK DIB",
     "unit": "-",
     "category": "HOME USAGE",
@@ -48814,7 +48849,7 @@
       }
     },
     "supplier": "JACK DIB",
-    "name": "REXONA MEN SPORT DEFENCE 200 ML",
+    "name": "REXONA MEN SPORT DEFENCE 200ML",
     "secondary_category": "",
     "sub": "deodorant & roll on",
     "secondary_sub_category": "",
