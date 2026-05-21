@@ -204326,9 +204326,9 @@
         "consumption": "1.0"
       }
     },
-    "totalStock": "5",
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "5"
   },
   {
     "id": "21208",
@@ -208598,7 +208598,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "34"
+    "totalStock": "32"
   },
   {
     "id": "21292",
@@ -223329,7 +223329,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "1"
+    "totalStock": "0"
   },
   {
     "id": "21592",
@@ -226881,7 +226881,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "1"
+    "totalStock": "-2"
   },
   {
     "id": "21663",
@@ -236694,7 +236694,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "-1"
+    "totalStock": "-2"
   },
   {
     "id": "21856",
@@ -237434,7 +237434,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "72"
+    "totalStock": "79"
   },
   {
     "id": "21871",
@@ -240296,7 +240296,7 @@
     "new_items": "x",
     "subcategory": "ice tea",
     "vat": 1,
-    "totalStock": "27"
+    "totalStock": "25"
   },
   {
     "id": "21952",
@@ -247441,8 +247441,8 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "7",
-    "price_usd": "6.28"
+    "price_usd": "6.28",
+    "totalStock": "7"
   },
   {
     "id": "100110",
@@ -250817,7 +250817,7 @@
     "supplier": "MAHMOUD CHOCOLATE USD",
     "subcategory": "Crackers",
     "vat": 1,
-    "totalStock": "25"
+    "totalStock": "26"
   },
   {
     "id": "300030",
@@ -253591,7 +253591,7 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "totalStock": "15"
+    "totalStock": "14"
   },
   {
     "id": "400009",
@@ -258703,7 +258703,7 @@
     "supplier": "TETA\"S KITCHEN",
     "subcategory": "FROZEN FOOD",
     "vat": 0,
-    "totalStock": "69"
+    "totalStock": "67"
   },
   {
     "id": "2000011",
@@ -258953,7 +258953,7 @@
     "supplier": "NOUNA'S FOOD",
     "subcategory": "SWEET & CANDIES",
     "vat": 0,
-    "totalStock": "19"
+    "totalStock": "17"
   },
   {
     "id": "2000016",
@@ -261385,7 +261385,7 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "totalStock": "6"
+    "totalStock": "7"
   },
   {
     "id": "7000004",
