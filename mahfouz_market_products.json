@@ -7564,11 +7564,11 @@
     "sub_category": "MINERAL WATER",
     "offers": "0",
     "stock_in_geitawi_branch": "246.0",
-    "consumption_in_geitawi_branch": "796.0",
+    "consumption_in_geitawi_branch": "823.0",
     "stock_in_medawar_branch": "436.0",
     "consumption_in_medawar_branch": "962.0",
     "total_stock": "682.0",
-    "total_consumption": "1758.0",
+    "total_consumption": "1785.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
     "price_usd": "0.28",
@@ -7580,7 +7580,7 @@
     "branches": {
       "Geitawi": {
         "stock": "246.0",
-        "consumption": "796.0"
+        "consumption": "823.0"
       },
       "Medawar": {
         "stock": "436.0",
@@ -7593,7 +7593,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "682"
+    "totalStock": "954"
   },
   {
     "id": "1435",
@@ -41337,9 +41337,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "79.0",
     "consumption_in_geitawi_branch": "142.0",
-    "stock_in_medawar_branch": "18.0",
+    "stock_in_medawar_branch": "17.0",
     "consumption_in_medawar_branch": "157.0",
-    "total_stock": "97.0",
+    "total_stock": "96.0",
     "total_consumption": "299.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41355,7 +41355,7 @@
         "consumption": "142.0"
       },
       "Medawar": {
-        "stock": "18.0",
+        "stock": "17.0",
         "consumption": "157.0"
       }
     },
