@@ -51781,11 +51781,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "66.0",
+    "stock_in_geitawi_branch": "65.0",
     "consumption_in_geitawi_branch": "188.0",
     "stock_in_medawar_branch": "80.0",
     "consumption_in_medawar_branch": "128.0",
-    "total_stock": "146.0",
+    "total_stock": "145.0",
     "total_consumption": "316.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -51797,7 +51797,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "66.0",
+        "stock": "65.0",
         "consumption": "188.0"
       },
       "Medawar": {
@@ -51811,7 +51811,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "147"
+    "totalStock": "145"
   },
   {
     "id": "13599",
@@ -54545,11 +54545,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "86.0",
+    "stock_in_geitawi_branch": "82.0",
     "consumption_in_geitawi_branch": "143.0",
     "stock_in_medawar_branch": "46.0",
     "consumption_in_medawar_branch": "148.0",
-    "total_stock": "132.0",
+    "total_stock": "128.0",
     "total_consumption": "291.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -54561,7 +54561,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "86.0",
+        "stock": "82.0",
         "consumption": "143.0"
       },
       "Medawar": {
@@ -54584,7 +54584,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13838-1778928514032900",
     "product_setup_saved_at_utc": "2026-05-16T10:48:34.032900Z",
-    "totalStock": "132"
+    "totalStock": "128"
   },
   {
     "id": "13839",
@@ -225885,12 +225885,12 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "28.0",
+        "stock": "27.0",
         "consumption": "23.0"
       }
     },
-    "stock_in_medawar_branch": "28.0",
-    "total_stock": "28.0",
+    "stock_in_medawar_branch": "27.0",
+    "total_stock": "27.0",
     "cost": 0.5189,
     "Product Description": "BISOUS POPSICLE STRAWBERRY LIGHT SORBET",
     "SUPPLIERS": "bisous douceur",
