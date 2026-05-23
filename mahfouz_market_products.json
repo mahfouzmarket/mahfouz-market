@@ -52913,9 +52913,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "41.0",
     "consumption_in_geitawi_branch": "57.0",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "66.0",
-    "total_stock": "47.0",
+    "total_stock": "45.0",
     "total_consumption": "123.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -52931,7 +52931,7 @@
         "consumption": "57.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "4.0",
         "consumption": "66.0"
       }
     },
@@ -57016,9 +57016,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "35.0",
-    "stock_in_medawar_branch": "-7.0",
+    "stock_in_medawar_branch": "-8.0",
     "consumption_in_medawar_branch": "12.0",
-    "total_stock": "-5.0",
+    "total_stock": "-6.0",
     "total_consumption": "47.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -57034,7 +57034,7 @@
         "consumption": "35.0"
       },
       "Medawar": {
-        "stock": "-7.0",
+        "stock": "-8.0",
         "consumption": "12.0"
       }
     },
@@ -111421,9 +111421,9 @@
     "category": "FOOD",
     "sub_category": "cans & jams",
     "offers": "0",
-    "stock_in_geitawi_branch": "25.0",
+    "stock_in_geitawi_branch": "17.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "25.0",
     "total_consumption": "1.0",
@@ -111441,11 +111441,11 @@
     "vat": 0,
     "branches": {
       "Geitawi": {
-        "stock": "25.0",
+        "stock": "17.0",
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "8.0",
         "consumption": "0.0"
       }
     },
