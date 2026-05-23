@@ -19244,9 +19244,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "870.0",
     "consumption_in_geitawi_branch": "1874.0",
-    "stock_in_medawar_branch": "437.0",
+    "stock_in_medawar_branch": "427.0",
     "consumption_in_medawar_branch": "2104.0",
-    "total_stock": "1307.0",
+    "total_stock": "1297.0",
     "total_consumption": "3978.0",
     "VAT": "NO",
     "price_lbp": 15000.0,
@@ -19262,7 +19262,7 @@
         "consumption": "1874.0"
       },
       "Medawar": {
-        "stock": "437.0",
+        "stock": "427.0",
         "consumption": "2104.0"
       }
     },
@@ -21645,11 +21645,11 @@
     "category": "FOOD",
     "sub_category": "herbs & spices",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "3.0",
     "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "16.0",
+    "total_stock": "15.0",
     "total_consumption": "6.0",
     "VAT": "YES",
     "price_lbp": 30000.0,
@@ -21661,7 +21661,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "3.0"
       },
       "Medawar": {
@@ -21674,7 +21674,8 @@
     "subcategory": "herbs & spices",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "15"
   },
   {
     "id": "6062",
@@ -53523,11 +53524,11 @@
     "category": "HOME USAGE",
     "sub_category": "deodorant & roll on",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "0.0",
     "VAT": "YES",
     "price_lbp": 180000.0,
@@ -53539,7 +53540,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -53556,7 +53557,8 @@
     "subcategory": "deodorant & roll on",
     "vat": 1,
     "barcode2": "5283022043643",
-    "barcodes": "5283022043643"
+    "barcodes": "5283022043643",
+    "totalStock": "2"
   },
   {
     "id": "13754",
