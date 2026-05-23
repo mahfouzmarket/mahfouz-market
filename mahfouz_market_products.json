@@ -2800,11 +2800,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "121.0",
+    "stock_in_geitawi_branch": "120.0",
     "consumption_in_geitawi_branch": "179.0",
     "stock_in_medawar_branch": "264.0",
     "consumption_in_medawar_branch": "218.0",
-    "total_stock": "385.0",
+    "total_stock": "384.0",
     "total_consumption": "397.0",
     "VAT": "YES",
     "price_lbp": 120000.0,
@@ -2816,7 +2816,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "121.0",
+        "stock": "120.0",
         "consumption": "179.0"
       },
       "Medawar": {
@@ -2830,7 +2830,7 @@
     "vat": 1,
     "barcode2": "5281012001574",
     "barcodes": "5281012001574",
-    "totalStock": "385"
+    "totalStock": "384"
   },
   {
     "id": "404",
@@ -75143,11 +75143,11 @@
     "category": "NUTS",
     "sub_category": "AL KAZZI",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "10.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "18.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -75163,7 +75163,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "10.0"
       },
       "Medawar": {
@@ -75173,7 +75173,7 @@
     },
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9"
+    "totalStock": "2"
   },
   {
     "id": "15556",
