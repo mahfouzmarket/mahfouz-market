@@ -13838,11 +13838,11 @@
     "category": "CHIPS",
     "sub_category": "MASTER",
     "offers": "0",
-    "stock_in_geitawi_branch": "25.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "26.0",
     "stock_in_medawar_branch": "25.0",
     "consumption_in_medawar_branch": "73.0",
-    "total_stock": "50.0",
+    "total_stock": "49.0",
     "total_consumption": "99.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -13854,7 +13854,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "25.0",
+        "stock": "24.0",
         "consumption": "26.0"
       },
       "Medawar": {
@@ -13868,7 +13868,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "50"
+    "totalStock": "49"
   },
   {
     "id": "3648",
@@ -19250,11 +19250,11 @@
     "category": "FOOD",
     "sub_category": "EGGS",
     "offers": "0",
-    "stock_in_geitawi_branch": "816.0",
+    "stock_in_geitawi_branch": "801.0",
     "consumption_in_geitawi_branch": "1874.0",
     "stock_in_medawar_branch": "375.0",
     "consumption_in_medawar_branch": "2104.0",
-    "total_stock": "1191.0",
+    "total_stock": "1176.0",
     "total_consumption": "3978.0",
     "VAT": "NO",
     "price_lbp": 15000.0,
@@ -19266,7 +19266,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "816.0",
+        "stock": "801.0",
         "consumption": "1874.0"
       },
       "Medawar": {
@@ -19289,7 +19289,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-5449-1778927464342461",
     "product_setup_saved_at_utc": "2026-05-16T10:31:04.342461Z",
-    "totalStock": "1223"
+    "totalStock": "1176"
   },
   {
     "id": "5608",
@@ -52070,11 +52070,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "37.0",
+    "stock_in_geitawi_branch": "36.0",
     "consumption_in_geitawi_branch": "68.0",
     "stock_in_medawar_branch": "45.0",
     "consumption_in_medawar_branch": "52.0",
-    "total_stock": "82.0",
+    "total_stock": "81.0",
     "total_consumption": "120.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -52086,7 +52086,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "37.0",
+        "stock": "36.0",
         "consumption": "68.0"
       },
       "Medawar": {
@@ -52100,7 +52100,7 @@
     "vat": 1,
     "barcode2": "5283024602374",
     "barcodes": "5283024602374",
-    "totalStock": "82"
+    "totalStock": "81"
   },
   {
     "id": "13607",
@@ -113018,11 +113018,11 @@
     "category": "BEVERAGES",
     "sub_category": "ENERGY DRINK",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
+    "stock_in_geitawi_branch": "15.0",
     "consumption_in_geitawi_branch": "24.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "15.0",
-    "total_stock": "28.0",
+    "total_stock": "27.0",
     "total_consumption": "39.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -113034,7 +113034,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
+        "stock": "15.0",
         "consumption": "24.0"
       },
       "Medawar": {
@@ -113052,7 +113052,7 @@
     "vat": 1,
     "barcode2": "5283024603975",
     "barcodes": "5283024603975",
-    "totalStock": "26"
+    "totalStock": "27"
   },
   {
     "id": "18176",
@@ -216189,11 +216189,11 @@
     "category": "HOME USAGE",
     "sub_category": "COTTONS",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "0.0",
+    "total_stock": "-1.0",
     "total_consumption": "2.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -216205,7 +216205,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -216218,7 +216218,8 @@
     "subcategory": "COTTONS",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "-1"
   },
   {
     "id": "21434",
