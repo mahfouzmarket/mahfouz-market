@@ -48208,12 +48208,12 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "48.0",
-    "consumption_in_geitawi_branch": "467.0",
+    "stock_in_geitawi_branch": "47.0",
+    "consumption_in_geitawi_branch": "468.0",
     "stock_in_medawar_branch": "132.0",
     "consumption_in_medawar_branch": "686.0",
-    "total_stock": "180.0",
-    "total_consumption": "1153.0",
+    "total_stock": "179.0",
+    "total_consumption": "1154.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
     "price_usd": "1.06",
@@ -48224,8 +48224,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "48.0",
-        "consumption": "467.0"
+        "stock": "47.0",
+        "consumption": "468.0"
       },
       "Medawar": {
         "stock": "132.0",
@@ -48238,7 +48238,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "180"
+    "totalStock": "179"
   },
   {
     "id": "13297",
@@ -113291,12 +113291,12 @@
     "category": "FOOD",
     "sub_category": "CHARCUTERIE",
     "offers": "0",
-    "stock_in_geitawi_branch": "-3.0",
-    "consumption_in_geitawi_branch": "26.0",
+    "stock_in_geitawi_branch": "-4.0",
+    "consumption_in_geitawi_branch": "27.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "3.0",
-    "total_consumption": "30.0",
+    "total_stock": "2.0",
+    "total_consumption": "31.0",
     "VAT": "YES",
     "price_lbp": 435000.0,
     "price_usd": "4.83",
@@ -113307,8 +113307,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-3.0",
-        "consumption": "26.0"
+        "stock": "-4.0",
+        "consumption": "27.0"
       },
       "Medawar": {
         "stock": "6.0",
@@ -113328,7 +113328,7 @@
     "supplier": "NOUNA'S FOOD",
     "subcategory": "CHARCUTERIE",
     "vat": 1,
-    "totalStock": "3"
+    "totalStock": "2"
   },
   {
     "id": "18194",
@@ -113339,12 +113339,12 @@
     "category": "FOOD",
     "sub_category": "CHARCUTERIE",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
-    "consumption_in_geitawi_branch": "17.0",
+    "stock_in_geitawi_branch": "2.0",
+    "consumption_in_geitawi_branch": "18.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "7.0",
-    "total_consumption": "20.0",
+    "total_stock": "6.0",
+    "total_consumption": "21.0",
     "VAT": "NO",
     "price_lbp": 330000.0,
     "price_usd": "3.67",
@@ -113355,8 +113355,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
-        "consumption": "17.0"
+        "stock": "2.0",
+        "consumption": "18.0"
       },
       "Medawar": {
         "stock": "4.0",
@@ -113380,7 +113380,7 @@
     "name": "FONDEL-EDAM 200 G",
     "subcategory": "CHARCUTERIE",
     "vat": 0,
-    "totalStock": "7"
+    "totalStock": "6"
   },
   {
     "id": "18195",
