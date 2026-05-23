@@ -5635,11 +5635,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "46.0",
     "stock_in_medawar_branch": "62.0",
     "consumption_in_medawar_branch": "152.0",
-    "total_stock": "62.0",
+    "total_stock": "60.0",
     "total_consumption": "198.0",
     "VAT": "YES",
     "price_lbp": 20000.0,
@@ -5651,7 +5651,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-2.0",
         "consumption": "46.0"
       },
       "Medawar": {
@@ -7604,11 +7604,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "733.0",
+    "stock_in_geitawi_branch": "732.0",
     "consumption_in_geitawi_branch": "589.0",
     "stock_in_medawar_branch": "182.0",
     "consumption_in_medawar_branch": "454.0",
-    "total_stock": "915.0",
+    "total_stock": "914.0",
     "total_consumption": "1043.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7620,7 +7620,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "733.0",
+        "stock": "732.0",
         "consumption": "589.0"
       },
       "Medawar": {
@@ -54314,11 +54314,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "33.0",
+    "stock_in_geitawi_branch": "32.0",
     "consumption_in_geitawi_branch": "169.0",
     "stock_in_medawar_branch": "57.0",
     "consumption_in_medawar_branch": "177.0",
-    "total_stock": "90.0",
+    "total_stock": "89.0",
     "total_consumption": "346.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -54330,7 +54330,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "33.0",
+        "stock": "32.0",
         "consumption": "169.0"
       },
       "Medawar": {
