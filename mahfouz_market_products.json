@@ -4819,11 +4819,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "99.0",
     "stock_in_medawar_branch": "19.0",
     "consumption_in_medawar_branch": "58.0",
-    "total_stock": "30.0",
+    "total_stock": "29.0",
     "total_consumption": "157.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -4835,7 +4835,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "99.0"
       },
       "Medawar": {
@@ -4849,7 +4849,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "30"
+    "totalStock": "29"
   },
   {
     "id": "710",
@@ -52913,11 +52913,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "40.0",
+    "stock_in_geitawi_branch": "39.0",
     "consumption_in_geitawi_branch": "57.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "66.0",
-    "total_stock": "42.0",
+    "total_stock": "41.0",
     "total_consumption": "123.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -52929,7 +52929,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "40.0",
+        "stock": "39.0",
         "consumption": "57.0"
       },
       "Medawar": {
@@ -52943,7 +52943,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "42"
+    "totalStock": "41"
   },
   {
     "id": "13673",
@@ -55323,11 +55323,11 @@
     "category": "CHIPS",
     "sub_category": "DOLSI",
     "offers": "0",
-    "stock_in_geitawi_branch": "31.0",
+    "stock_in_geitawi_branch": "30.0",
     "consumption_in_geitawi_branch": "57.0",
     "stock_in_medawar_branch": "53.0",
     "consumption_in_medawar_branch": "32.0",
-    "total_stock": "84.0",
+    "total_stock": "83.0",
     "total_consumption": "89.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -55339,7 +55339,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "31.0",
+        "stock": "30.0",
         "consumption": "57.0"
       },
       "Medawar": {
@@ -55362,7 +55362,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13867-1778951593776943",
     "product_setup_saved_at_utc": "2026-05-16T17:13:13.776943Z",
-    "totalStock": "84"
+    "totalStock": "83"
   },
   {
     "id": "13868",
@@ -136606,11 +136606,11 @@
     "category": "CIGARETTES",
     "sub_category": "ELECTRIC CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "183.0",
     "stock_in_medawar_branch": "30.0",
     "consumption_in_medawar_branch": "38.0",
-    "total_stock": "53.0",
+    "total_stock": "52.0",
     "total_consumption": "221.0",
     "VAT": "NO",
     "price_lbp": 175000.0,
@@ -136622,7 +136622,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "22.0",
         "consumption": "183.0"
       },
       "Medawar": {
@@ -136645,7 +136645,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-19425-1779081817747484",
     "product_setup_saved_at_utc": "2026-05-18T05:23:37.747484Z",
-    "totalStock": "53"
+    "totalStock": "52"
   },
   {
     "id": "19428",
@@ -241146,14 +241146,14 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "stock_in_medawar_branch": "15.0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_medawar_branch": "33.0",
     "consumption_in_geitawi_branch": "65.0",
-    "total_stock": "21.0",
+    "total_stock": "20.0",
     "total_consumption": "98.0",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "65.0"
       },
       "Medawar": {
@@ -241174,7 +241174,7 @@
     "new_items": "x",
     "subcategory": "ice tea",
     "vat": 1,
-    "totalStock": "22"
+    "totalStock": "20"
   },
   {
     "id": "21952",
