@@ -8842,11 +8842,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "29.0",
+    "stock_in_geitawi_branch": "27.0",
     "consumption_in_geitawi_branch": "64.0",
     "stock_in_medawar_branch": "-7.0",
     "consumption_in_medawar_branch": "25.0",
-    "total_stock": "22.0",
+    "total_stock": "20.0",
     "total_consumption": "89.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -8858,7 +8858,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "29.0",
+        "stock": "27.0",
         "consumption": "64.0"
       },
       "Medawar": {
@@ -8881,7 +8881,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-2213-1778907765144557",
     "product_setup_saved_at_utc": "2026-05-16T05:02:45.144557Z",
-    "totalStock": "32"
+    "totalStock": "20"
   },
   {
     "id": "2245",
@@ -12029,11 +12029,11 @@
     "category": "FOOD",
     "sub_category": "YOGURT",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "3.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "0.0",
+    "total_stock": "-1.0",
     "total_consumption": "5.0",
     "VAT": "NO",
     "price_lbp": 475000.0,
@@ -12049,7 +12049,7 @@
     "vat": 0,
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "3.0"
       },
       "Medawar": {
@@ -12059,7 +12059,7 @@
     },
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "0"
+    "totalStock": "-1"
   },
   {
     "id": "2942",
