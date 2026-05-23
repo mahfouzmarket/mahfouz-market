@@ -18923,12 +18923,12 @@
     "category": "FOOD",
     "sub_category": "PROCESSED CHEESE",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
-    "consumption_in_geitawi_branch": "15.0",
+    "stock_in_geitawi_branch": "4.0",
+    "consumption_in_geitawi_branch": "16.0",
     "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "15.0",
-    "total_stock": "12.0",
-    "total_consumption": "30.0",
+    "total_stock": "11.0",
+    "total_consumption": "31.0",
     "VAT": "NO",
     "price_lbp": 220000.0,
     "price_usd": "2.44",
@@ -18939,8 +18939,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
-        "consumption": "15.0"
+        "stock": "4.0",
+        "consumption": "16.0"
       },
       "Medawar": {
         "stock": "7.0",
@@ -18951,9 +18951,9 @@
     "supplier": "ARLA KALLASSI FOODS LB SAL",
     "subcategory": "PROCESSED CHEESE",
     "vat": 0,
+    "totalStock": "11",
     "barcode2": "",
-    "barcodes": "",
-    "totalStock": "13"
+    "barcodes": ""
   },
   {
     "id": "5353",
@@ -40565,12 +40565,12 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "45.0",
-    "consumption_in_geitawi_branch": "153.0",
+    "stock_in_geitawi_branch": "43.0",
+    "consumption_in_geitawi_branch": "155.0",
     "stock_in_medawar_branch": "22.0",
     "consumption_in_medawar_branch": "69.0",
-    "total_stock": "67.0",
-    "total_consumption": "222.0",
+    "total_stock": "65.0",
+    "total_consumption": "224.0",
     "VAT": "NO",
     "price_lbp": 165000.0,
     "price_usd": "1.83",
@@ -40581,8 +40581,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "45.0",
-        "consumption": "153.0"
+        "stock": "43.0",
+        "consumption": "155.0"
       },
       "Medawar": {
         "stock": "22.0",
@@ -40604,7 +40604,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12579-1778927916345407",
     "product_setup_saved_at_utc": "2026-05-16T10:38:36.345407Z",
-    "totalStock": "67"
+    "totalStock": "65"
   },
   {
     "id": "12582",
@@ -48208,12 +48208,12 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "50.0",
-    "consumption_in_geitawi_branch": "465.0",
+    "stock_in_geitawi_branch": "49.0",
+    "consumption_in_geitawi_branch": "466.0",
     "stock_in_medawar_branch": "132.0",
     "consumption_in_medawar_branch": "686.0",
-    "total_stock": "182.0",
-    "total_consumption": "1151.0",
+    "total_stock": "181.0",
+    "total_consumption": "1152.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
     "price_usd": "1.06",
@@ -48224,8 +48224,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "50.0",
-        "consumption": "465.0"
+        "stock": "49.0",
+        "consumption": "466.0"
       },
       "Medawar": {
         "stock": "132.0",
@@ -48238,7 +48238,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "182"
+    "totalStock": "181"
   },
   {
     "id": "13297",
