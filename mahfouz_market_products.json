@@ -28519,9 +28519,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "39.0",
     "consumption_in_geitawi_branch": "11.0",
-    "stock_in_medawar_branch": "81.0",
+    "stock_in_medawar_branch": "79.0",
     "consumption_in_medawar_branch": "20.0",
-    "total_stock": "120.0",
+    "total_stock": "118.0",
     "total_consumption": "31.0",
     "VAT": "YES",
     "price_lbp": 140000.0,
@@ -28537,7 +28537,7 @@
         "consumption": "11.0"
       },
       "Medawar": {
-        "stock": "81.0",
+        "stock": "79.0",
         "consumption": "20.0"
       }
     },
@@ -42429,11 +42429,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
+    "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "83.0",
     "stock_in_medawar_branch": "25.0",
     "consumption_in_medawar_branch": "17.0",
-    "total_stock": "30.0",
+    "total_stock": "29.0",
     "total_consumption": "100.0",
     "VAT": "NO",
     "price_lbp": 85000.0,
@@ -42445,7 +42445,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "83.0"
       },
       "Medawar": {
@@ -42468,7 +42468,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12767-1778928563756417",
     "product_setup_saved_at_utc": "2026-05-16T10:49:23.756417Z",
-    "totalStock": "32"
+    "totalStock": "29"
   },
   {
     "id": "12772",
@@ -55161,11 +55161,11 @@
     "category": "FOOD",
     "sub_category": "ICE",
     "offers": "0",
-    "stock_in_geitawi_branch": "20.0",
+    "stock_in_geitawi_branch": "19.0",
     "consumption_in_geitawi_branch": "74.0",
     "stock_in_medawar_branch": "41.0",
     "consumption_in_medawar_branch": "139.0",
-    "total_stock": "61.0",
+    "total_stock": "60.0",
     "total_consumption": "213.0",
     "VAT": "NO",
     "price_lbp": 50000.0,
@@ -55177,7 +55177,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "20.0",
+        "stock": "19.0",
         "consumption": "74.0"
       },
       "Medawar": {
@@ -55191,7 +55191,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "57"
+    "totalStock": "60"
   },
   {
     "id": "13849",
@@ -79099,11 +79099,11 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "FRUITS",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.160",
+    "stock_in_geitawi_branch": "-0.140",
     "consumption_in_geitawi_branch": "24.4",
     "stock_in_medawar_branch": "12.540",
     "consumption_in_medawar_branch": "52.0",
-    "total_stock": "12.700",
+    "total_stock": "12.400",
     "total_consumption": "76.4",
     "VAT": "NO",
     "price_lbp": 140000.0,
@@ -79115,7 +79115,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.160",
+        "stock": "-0.140",
         "consumption": "24.4"
       },
       "Medawar": {
@@ -79142,7 +79142,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15762-1778999133527496",
     "product_setup_saved_at_utc": "2026-05-17T06:25:33.527496Z",
-    "totalStock": "10.9"
+    "totalStock": "12.4"
   },
   {
     "id": "15763",
@@ -84045,11 +84045,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "75.0",
+    "stock_in_geitawi_branch": "73.0",
     "consumption_in_geitawi_branch": "114.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "93.0",
-    "total_stock": "80.0",
+    "total_stock": "78.0",
     "total_consumption": "207.0",
     "VAT": "NO",
     "price_lbp": 75000.0,
@@ -84061,7 +84061,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "75.0",
+        "stock": "73.0",
         "consumption": "114.0"
       },
       "Medawar": {
@@ -84075,7 +84075,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "85"
+    "totalStock": "78"
   },
   {
     "id": "16153",
