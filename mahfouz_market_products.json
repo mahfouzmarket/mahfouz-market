@@ -3227,11 +3227,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "73.0",
+    "stock_in_geitawi_branch": "72.0",
     "consumption_in_geitawi_branch": "139.0",
     "stock_in_medawar_branch": "506.0",
     "consumption_in_medawar_branch": "168.0",
-    "total_stock": "579.0",
+    "total_stock": "578.0",
     "total_consumption": "307.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -3243,7 +3243,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "73.0",
+        "stock": "72.0",
         "consumption": "139.0"
       },
       "Medawar": {
@@ -3257,7 +3257,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "581"
+    "totalStock": "578"
   },
   {
     "id": "463",
@@ -41580,7 +41580,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "286"
+    "totalStock": "304"
   },
   {
     "id": "12702",
@@ -43230,7 +43230,7 @@
     "name": "CROISSANT CRISPY CHOCOLATE",
     "subcategory": "Croissant",
     "vat": 0,
-    "totalStock": "54"
+    "totalStock": "55"
   },
   {
     "id": "12869",
@@ -43976,11 +43976,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "24.0",
     "stock_in_medawar_branch": "11.0",
     "consumption_in_medawar_branch": "18.0",
-    "total_stock": "23.0",
+    "total_stock": "21.0",
     "total_consumption": "42.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -43992,7 +43992,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "12.0",
+        "stock": "10.0",
         "consumption": "24.0"
       },
       "Medawar": {
@@ -44006,7 +44006,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "25"
+    "totalStock": "21"
   },
   {
     "id": "12916",
@@ -51922,7 +51922,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "51"
+    "totalStock": "54"
   },
   {
     "id": "13594",
@@ -82431,11 +82431,11 @@
     "category": "CHIPS",
     "sub_category": "MASTER",
     "offers": "0",
-    "stock_in_geitawi_branch": "34.0",
+    "stock_in_geitawi_branch": "33.0",
     "consumption_in_geitawi_branch": "79.0",
     "stock_in_medawar_branch": "71.0",
     "consumption_in_medawar_branch": "73.0",
-    "total_stock": "105.0",
+    "total_stock": "104.0",
     "total_consumption": "152.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -82447,7 +82447,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "34.0",
+        "stock": "33.0",
         "consumption": "79.0"
       },
       "Medawar": {
@@ -82461,7 +82461,7 @@
     "vat": 1,
     "barcode2": "5283003301137",
     "barcodes": "5283003301137",
-    "totalStock": "105"
+    "totalStock": "104"
   },
   {
     "id": "15980",
