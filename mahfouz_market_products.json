@@ -9304,11 +9304,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "26.0",
+    "stock_in_geitawi_branch": "25.0",
     "consumption_in_geitawi_branch": "100.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "67.0",
-    "total_stock": "31.0",
+    "total_stock": "30.0",
     "total_consumption": "167.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -9320,7 +9320,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "26.0",
+        "stock": "25.0",
         "consumption": "100.0"
       },
       "Medawar": {
@@ -9334,7 +9334,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "18"
+    "totalStock": "30"
   },
   {
     "id": "2383",
@@ -68590,11 +68590,11 @@
     "category": "FOOD",
     "sub_category": "PASTA & INDOMI",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "12.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "12.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
@@ -68606,7 +68606,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "12.0"
       },
       "Medawar": {
@@ -68620,7 +68620,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3"
+    "totalStock": "5"
   },
   {
     "id": "14962",
@@ -262016,11 +262016,11 @@
     "sub_category": "ENERGY DRINK",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "45.0",
+    "stock_in_geitawi_branch": "44.0",
     "consumption_in_geitawi_branch": "86.0",
     "stock_in_medawar_branch": "272.0",
     "consumption_in_medawar_branch": "131.0",
-    "total_stock": "317.0",
+    "total_stock": "316.0",
     "total_consumption": "217.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -262038,7 +262038,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "45.0",
+        "stock": "44.0",
         "consumption": "86.0"
       },
       "Medawar": {
@@ -262052,7 +262052,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "ENERGY DRINK",
     "vat": 1,
-    "totalStock": "317"
+    "totalStock": "316"
   },
   {
     "id": "2000015",
