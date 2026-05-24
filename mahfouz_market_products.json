@@ -3786,11 +3786,11 @@
     "sub_category": "coffee",
     "offers": "0",
     "stock_in_geitawi_branch": "646.0",
-    "consumption_in_geitawi_branch": "482.0",
+    "consumption_in_geitawi_branch": "480.0",
     "stock_in_medawar_branch": "1053.0",
     "consumption_in_medawar_branch": "344.0",
     "total_stock": "1699.0",
-    "total_consumption": "826.0",
+    "total_consumption": "824.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
     "price_usd": "0.56",
@@ -3802,7 +3802,7 @@
     "branches": {
       "Geitawi": {
         "stock": "646.0",
-        "consumption": "482.0"
+        "consumption": "480.0"
       },
       "Medawar": {
         "stock": "1053.0",
@@ -3824,7 +3824,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-608-1778914111735325",
     "product_setup_saved_at_utc": "2026-05-16T06:48:31.735325Z",
-    "totalStock": "1699"
+    "totalStock": "1058"
   },
   {
     "id": "611",
@@ -126720,7 +126720,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-1",
+    "totalStock": "0",
     "expiry_days": "0",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
@@ -163991,7 +163991,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "69"
+    "totalStock": "71"
   },
   {
     "id": "20319",
