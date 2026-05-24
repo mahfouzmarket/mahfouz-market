@@ -8791,11 +8791,11 @@
     "category": "FOOD",
     "sub_category": "COLD MEZA",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "23.0",
     "consumption_in_geitawi_branch": "51.0",
     "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "122.0",
-    "total_stock": "40.0",
+    "total_stock": "39.0",
     "total_consumption": "173.0",
     "VAT": "NO",
     "price_lbp": 160000.0,
@@ -8807,7 +8807,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "51.0"
       },
       "Medawar": {
@@ -8821,7 +8821,7 @@
     "vat": 0,
     "barcode2": "5287000550284",
     "barcodes": "5287000550284",
-    "totalStock": "51"
+    "totalStock": "39"
   },
   {
     "id": "2208",
@@ -52246,11 +52246,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "100.0",
     "stock_in_medawar_branch": "100.0",
     "consumption_in_medawar_branch": "75.0",
-    "total_stock": "123.0",
+    "total_stock": "122.0",
     "total_consumption": "175.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -52262,7 +52262,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "22.0",
         "consumption": "100.0"
       },
       "Medawar": {
@@ -52276,7 +52276,7 @@
     "vat": 1,
     "barcode2": "5283024602343",
     "barcodes": "5283024602343",
-    "totalStock": "129"
+    "totalStock": "122"
   },
   {
     "id": "13605",
@@ -55161,11 +55161,11 @@
     "category": "FOOD",
     "sub_category": "ICE",
     "offers": "0",
-    "stock_in_geitawi_branch": "19.0",
+    "stock_in_geitawi_branch": "18.0",
     "consumption_in_geitawi_branch": "74.0",
     "stock_in_medawar_branch": "41.0",
     "consumption_in_medawar_branch": "139.0",
-    "total_stock": "60.0",
+    "total_stock": "59.0",
     "total_consumption": "213.0",
     "VAT": "NO",
     "price_lbp": 50000.0,
@@ -55177,7 +55177,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "19.0",
+        "stock": "18.0",
         "consumption": "74.0"
       },
       "Medawar": {
@@ -55191,7 +55191,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "60"
+    "totalStock": "59"
   },
   {
     "id": "13849",
@@ -93822,11 +93822,11 @@
     "category": "CHI TAYIB",
     "sub_category": "rice cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
+    "stock_in_geitawi_branch": "15.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "28.0",
+    "total_stock": "27.0",
     "total_consumption": "11.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -93838,7 +93838,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
+        "stock": "15.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -93856,7 +93856,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "28"
+    "totalStock": "27"
   },
   {
     "id": "16958",
@@ -93867,11 +93867,11 @@
     "category": "CHI TAYIB",
     "sub_category": "rice cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "6.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "15.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -93883,7 +93883,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "9.0"
       },
       "Medawar": {
