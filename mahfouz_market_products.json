@@ -6442,11 +6442,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "54.0",
+    "stock_in_geitawi_branch": "53.0",
     "consumption_in_geitawi_branch": "200.0",
     "stock_in_medawar_branch": "130.0",
     "consumption_in_medawar_branch": "235.0",
-    "total_stock": "184.0",
+    "total_stock": "183.0",
     "total_consumption": "435.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6458,7 +6458,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "54.0",
+        "stock": "53.0",
         "consumption": "200.0"
       },
       "Medawar": {
@@ -6472,7 +6472,7 @@
     "vat": 1,
     "barcode2": "5283024602336",
     "barcodes": "5283024602336",
-    "totalStock": "176"
+    "totalStock": "183"
   },
   {
     "id": "1178",
@@ -101797,11 +101797,11 @@
     "category": "FOOD",
     "sub_category": "COLD MEZA",
     "offers": "0",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "18.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "49.0",
-    "total_stock": "24.0",
+    "total_stock": "23.0",
     "total_consumption": "67.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -101813,7 +101813,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "12.0",
+        "stock": "11.0",
         "consumption": "18.0"
       },
       "Medawar": {
@@ -101827,7 +101827,7 @@
     "vat": 0,
     "barcode2": "5287002749082",
     "barcodes": "5287002749082",
-    "totalStock": "29"
+    "totalStock": "23"
   },
   {
     "id": "17417",
@@ -185740,13 +185740,13 @@
     "vat": 1,
     "price_lbp": 160000.0,
     "cost": 1.219969,
-    "total_stock": "34.0",
+    "total_stock": "33.0",
     "total_consumption": "22.0",
-    "stock_in_geitawi_branch": "8.0",
+    "stock_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "26.0",
     "branches": {
       "Geitawi": {
-        "stock": "8.0",
+        "stock": "7.0",
         "consumption": "13.0"
       },
       "Medawar": {
@@ -185785,8 +185785,8 @@
     "delivery_rules": "0.005",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20788.jpg",
     "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20788.jpg",
-    "price_usd": "1.78",
-    "totalStock": "33"
+    "totalStock": "33",
+    "price_usd": "1.78"
   },
   {
     "id": "20789",
