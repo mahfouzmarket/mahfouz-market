@@ -3227,11 +3227,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "72.0",
+    "stock_in_geitawi_branch": "70.0",
     "consumption_in_geitawi_branch": "139.0",
     "stock_in_medawar_branch": "506.0",
     "consumption_in_medawar_branch": "168.0",
-    "total_stock": "578.0",
+    "total_stock": "576.0",
     "total_consumption": "307.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -3243,7 +3243,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "72.0",
+        "stock": "70.0",
         "consumption": "139.0"
       },
       "Medawar": {
@@ -3257,7 +3257,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "578"
+    "totalStock": "576"
   },
   {
     "id": "463",
@@ -19329,11 +19329,11 @@
     "category": "FOOD",
     "sub_category": "EGGS",
     "offers": "0",
-    "stock_in_geitawi_branch": "777.0",
+    "stock_in_geitawi_branch": "774.0",
     "consumption_in_geitawi_branch": "1936.0",
     "stock_in_medawar_branch": "383.0",
     "consumption_in_medawar_branch": "2104.0",
-    "total_stock": "1160.0",
+    "total_stock": "1157.0",
     "total_consumption": "4040.0",
     "VAT": "NO",
     "price_lbp": 15000.0,
@@ -19345,7 +19345,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "777.0",
+        "stock": "774.0",
         "consumption": "1936.0"
       },
       "Medawar": {
@@ -19368,7 +19368,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-5449-1778927464342461",
     "product_setup_saved_at_utc": "2026-05-16T10:31:04.342461Z",
-    "totalStock": "1162"
+    "totalStock": "1157"
   },
   {
     "id": "5608",
@@ -35319,11 +35319,11 @@
     "category": "HOME USAGE",
     "sub_category": "TISSUES & TOILET PAPER",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "6.0",
     "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "19.0",
+    "total_stock": "18.0",
     "total_consumption": "8.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -35335,7 +35335,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "6.0"
       },
       "Medawar": {
@@ -35355,7 +35355,8 @@
     "name": "ROSANA 170SH 15% dis",
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "TISSUES & TOILET PAPER",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "18"
   },
   {
     "id": "10659",
