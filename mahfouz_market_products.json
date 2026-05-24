@@ -7601,11 +7601,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "483.0",
+    "stock_in_geitawi_branch": "481.0",
     "consumption_in_geitawi_branch": "943.0",
     "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "1029.0",
-    "total_stock": "496.0",
+    "total_stock": "494.0",
     "total_consumption": "1972.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7617,7 +7617,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "483.0",
+        "stock": "481.0",
         "consumption": "943.0"
       },
       "Medawar": {
@@ -7631,7 +7631,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "516"
+    "totalStock": "494"
   },
   {
     "id": "1435",
@@ -14586,11 +14586,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "22.0",
+    "stock_in_geitawi_branch": "21.0",
     "consumption_in_geitawi_branch": "27.0",
     "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "35.0",
-    "total_stock": "32.0",
+    "total_stock": "31.0",
     "total_consumption": "62.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -14602,7 +14602,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "22.0",
+        "stock": "21.0",
         "consumption": "27.0"
       },
       "Medawar": {
@@ -14616,7 +14616,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "30"
+    "totalStock": "31"
   },
   {
     "id": "3945",
@@ -42087,11 +42087,11 @@
     "sub_category": "CIGARETTES",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "25.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "37.0",
     "stock_in_medawar_branch": "37.0",
     "consumption_in_medawar_branch": "78.0",
-    "total_stock": "62.0",
+    "total_stock": "61.0",
     "total_consumption": "115.0",
     "VAT": "NO",
     "price_lbp": 190000.0,
@@ -42109,7 +42109,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "25.0",
+        "stock": "24.0",
         "consumption": "37.0"
       },
       "Medawar": {
@@ -42123,7 +42123,7 @@
     "supplier": "CIGARETTES",
     "subcategory": "CIGARETTES",
     "vat": 0,
-    "totalStock": "63"
+    "totalStock": "61"
   },
   {
     "id": "12747",
@@ -49499,11 +49499,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "33.0",
     "stock_in_medawar_branch": "40.0",
     "consumption_in_medawar_branch": "33.0",
-    "total_stock": "53.0",
+    "total_stock": "51.0",
     "total_consumption": "66.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -49515,7 +49515,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "13.0",
+        "stock": "11.0",
         "consumption": "33.0"
       },
       "Medawar": {
@@ -49529,7 +49529,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "53"
+    "totalStock": "51"
   },
   {
     "id": "13396",
@@ -113154,11 +113154,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Vodka",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "20.0",
     "consumption_in_medawar_branch": "24.0",
-    "total_stock": "20.0",
+    "total_stock": "19.0",
     "total_consumption": "25.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -113170,7 +113170,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -113187,7 +113187,8 @@
     "subcategory": "Vodka",
     "vat": 0,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "19"
   },
   {
     "id": "18164",
@@ -259196,11 +259197,11 @@
     "sub_category": "TISSUES & TOILET PAPER",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "5.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "24.0",
+    "total_stock": "23.0",
     "total_consumption": "9.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -259218,7 +259219,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "12.0",
+        "stock": "11.0",
         "consumption": "5.0"
       },
       "Medawar": {
@@ -259231,7 +259232,8 @@
     "name": "ROSANA 270SHEETS 15% (COPY)",
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "TISSUES & TOILET PAPER",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "23"
   },
   {
     "id": "500017",
