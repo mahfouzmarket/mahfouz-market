@@ -89020,9 +89020,9 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "17.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "8.0",
     "total_stock": "0.0",
     "total_consumption": "25.0",
@@ -89036,11 +89036,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "17.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "8.0"
       }
     },
@@ -89068,9 +89068,9 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "18.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "10.0",
     "total_stock": "7.0",
     "total_consumption": "28.0",
@@ -89084,11 +89084,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
+        "stock": "3.0",
         "consumption": "18.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "4.0",
         "consumption": "10.0"
       }
     },
@@ -166657,9 +166657,9 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "-2.0",
+    "stock_in_geitawi_branch": "-3.0",
     "consumption_in_geitawi_branch": "24.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "15.0",
     "total_stock": "0.0",
     "total_consumption": "39.0",
@@ -166673,11 +166673,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
+        "stock": "-3.0",
         "consumption": "24.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "3.0",
         "consumption": "15.0"
       }
     },
