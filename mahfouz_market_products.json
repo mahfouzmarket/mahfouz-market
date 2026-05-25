@@ -3532,12 +3532,12 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "522.0",
-    "consumption_in_geitawi_branch": "1740.0",
+    "stock_in_geitawi_branch": "518.0",
+    "consumption_in_geitawi_branch": "1744.0",
     "stock_in_medawar_branch": "3068.0",
     "consumption_in_medawar_branch": "1235.0",
-    "total_stock": "3590.0",
-    "total_consumption": "2975.0",
+    "total_stock": "3586.0",
+    "total_consumption": "2979.0",
     "VAT": "NO",
     "price_lbp": 25000.0,
     "price_usd": "0.28",
@@ -3548,8 +3548,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "522.0",
-        "consumption": "1740.0"
+        "stock": "518.0",
+        "consumption": "1744.0"
       },
       "Medawar": {
         "stock": "3068.0",
@@ -3562,7 +3562,7 @@
     "vat": 0,
     "barcode2": "9556001297877",
     "barcodes": "9556001297877",
-    "totalStock": "3590"
+    "totalStock": "3586"
   },
   {
     "id": "494",
@@ -41453,12 +41453,12 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "18.0",
-    "consumption_in_geitawi_branch": "155.0",
+    "stock_in_geitawi_branch": "14.0",
+    "consumption_in_geitawi_branch": "159.0",
     "stock_in_medawar_branch": "49.0",
     "consumption_in_medawar_branch": "74.0",
-    "total_stock": "67.0",
-    "total_consumption": "229.0",
+    "total_stock": "63.0",
+    "total_consumption": "233.0",
     "VAT": "NO",
     "price_lbp": 125000.0,
     "price_usd": "1.39",
@@ -41469,8 +41469,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "18.0",
-        "consumption": "155.0"
+        "stock": "14.0",
+        "consumption": "159.0"
       },
       "Medawar": {
         "stock": "49.0",
@@ -41492,7 +41492,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12637-1778921664311781",
     "product_setup_saved_at_utc": "2026-05-16T08:54:24.311781Z",
-    "totalStock": "67"
+    "totalStock": "63"
   },
   {
     "id": "12668",
@@ -44392,12 +44392,12 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "-",
-    "stock_in_geitawi_branch": "-49.0",
-    "consumption_in_geitawi_branch": "342.0",
+    "stock_in_geitawi_branch": "-50.0",
+    "consumption_in_geitawi_branch": "343.0",
     "stock_in_medawar_branch": "-3.0",
     "consumption_in_medawar_branch": "230.0",
-    "total_stock": "-52.0",
-    "total_consumption": "572.0",
+    "total_stock": "-53.0",
+    "total_consumption": "573.0",
     "VAT": "YES",
     "price_lbp": 220000.0,
     "price_usd": "2.44",
@@ -44409,8 +44409,8 @@
     "pcs_in_box": "6",
     "branches": {
       "Geitawi": {
-        "stock": "-49.0",
-        "consumption": "342.0"
+        "stock": "-50.0",
+        "consumption": "343.0"
       },
       "Medawar": {
         "stock": "-3.0",
@@ -44450,7 +44450,7 @@
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "-52",
+    "totalStock": "-53",
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z"
   },
   {
@@ -239523,31 +239523,31 @@
     "cost": 0.1271,
     "branches": {
       "Geitawi": {
-        "stock": "-52.0",
-        "consumption": "422.0"
+        "stock": "-56.0",
+        "consumption": "426.0"
       },
       "Medawar": {
         "stock": "-86.0",
         "consumption": "465.0"
       }
     },
-    "stock_in_geitawi_branch": "-52.0",
-    "total_stock": "-138.0",
+    "stock_in_geitawi_branch": "-56.0",
+    "total_stock": "-142.0",
     "stock_in_medawar_branch": "-86.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
     "vat": 1,
-    "consumption_in_geitawi_branch": "422.0",
+    "consumption_in_geitawi_branch": "426.0",
     "consumption_in_medawar_branch": "465.0",
-    "total_consumption": "887.0",
+    "total_consumption": "891.0",
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "-138"
+    "totalStock": "-142"
   },
   {
     "id": "21871",
