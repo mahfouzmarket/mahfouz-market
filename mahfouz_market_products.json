@@ -5293,11 +5293,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "31.0",
     "stock_in_medawar_branch": "41.0",
     "consumption_in_medawar_branch": "14.0",
-    "total_stock": "64.0",
+    "total_stock": "63.0",
     "total_consumption": "45.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -5309,7 +5309,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "22.0",
         "consumption": "31.0"
       },
       "Medawar": {
@@ -5323,7 +5323,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "64"
+    "totalStock": "63"
   },
   {
     "id": "762",
@@ -7642,11 +7642,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "809.0",
+    "stock_in_geitawi_branch": "808.0",
     "consumption_in_geitawi_branch": "607.0",
     "stock_in_medawar_branch": "182.0",
     "consumption_in_medawar_branch": "469.0",
-    "total_stock": "991.0",
+    "total_stock": "990.0",
     "total_consumption": "1076.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7658,7 +7658,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "809.0",
+        "stock": "808.0",
         "consumption": "607.0"
       },
       "Medawar": {
@@ -7681,7 +7681,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "994"
+    "totalStock": "990"
   },
   {
     "id": "1437",
@@ -11772,11 +11772,11 @@
     "category": "FOOD",
     "sub_category": "DAIRY PRODUCTS",
     "offers": "0",
-    "stock_in_geitawi_branch": "36.0",
+    "stock_in_geitawi_branch": "35.0",
     "consumption_in_geitawi_branch": "106.0",
     "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "102.0",
-    "total_stock": "57.0",
+    "total_stock": "56.0",
     "total_consumption": "208.0",
     "VAT": "NO",
     "price_lbp": 315000.0,
@@ -11788,7 +11788,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "36.0",
+        "stock": "35.0",
         "consumption": "106.0"
       },
       "Medawar": {
@@ -11802,7 +11802,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "55"
+    "totalStock": "56"
   },
   {
     "id": "2824",
@@ -13894,11 +13894,11 @@
     "category": "CHIPS",
     "sub_category": "MASTER",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "29.0",
     "stock_in_medawar_branch": "25.0",
     "consumption_in_medawar_branch": "77.0",
-    "total_stock": "49.0",
+    "total_stock": "47.0",
     "total_consumption": "106.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -13910,7 +13910,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "22.0",
         "consumption": "29.0"
       },
       "Medawar": {
@@ -13924,7 +13924,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "48"
+    "totalStock": "47"
   },
   {
     "id": "3648",
@@ -42089,11 +42089,11 @@
     "sub_category": "CIGARETTES",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "23.0",
     "consumption_in_geitawi_branch": "39.0",
     "stock_in_medawar_branch": "37.0",
     "consumption_in_medawar_branch": "78.0",
-    "total_stock": "61.0",
+    "total_stock": "60.0",
     "total_consumption": "117.0",
     "VAT": "NO",
     "price_lbp": 190000.0,
@@ -42111,7 +42111,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "39.0"
       },
       "Medawar": {
@@ -42125,7 +42125,7 @@
     "supplier": "CIGARETTES",
     "subcategory": "CIGARETTES",
     "vat": 0,
-    "totalStock": "63"
+    "totalStock": "60"
   },
   {
     "id": "12747",
