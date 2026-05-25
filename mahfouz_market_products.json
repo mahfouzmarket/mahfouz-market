@@ -3533,11 +3533,11 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "553.0",
+    "stock_in_geitawi_branch": "551.0",
     "consumption_in_geitawi_branch": "1669.0",
     "stock_in_medawar_branch": "3076.0",
     "consumption_in_medawar_branch": "1198.0",
-    "total_stock": "3629.0",
+    "total_stock": "3627.0",
     "total_consumption": "2867.0",
     "VAT": "NO",
     "price_lbp": 25000.0,
@@ -3549,7 +3549,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "553.0",
+        "stock": "551.0",
         "consumption": "1669.0"
       },
       "Medawar": {
@@ -3563,7 +3563,7 @@
     "vat": 0,
     "barcode2": "9556001297877",
     "barcodes": "9556001297877",
-    "totalStock": "3625"
+    "totalStock": "3627"
   },
   {
     "id": "494",
@@ -3674,11 +3674,11 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "-24.0",
+    "stock_in_geitawi_branch": "-30.0",
     "consumption_in_geitawi_branch": "370.0",
     "stock_in_medawar_branch": "1043.0",
     "consumption_in_medawar_branch": "271.0",
-    "total_stock": "1019.0",
+    "total_stock": "1013.0",
     "total_consumption": "641.0",
     "VAT": "YES",
     "price_lbp": 30000.0,
@@ -3690,7 +3690,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-24.0",
+        "stock": "-30.0",
         "consumption": "370.0"
       },
       "Medawar": {
@@ -3711,7 +3711,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "instant coffee",
     "vat": 1,
-    "totalStock": "1030"
+    "totalStock": "1013"
   },
   {
     "id": "509",
