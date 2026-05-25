@@ -8948,5 +8948,45 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1779713576448",
+    "ts": "2026-05-25T12:52:56.448311Z",
+    "createdAt": "2026-05-25T12:52:56.448311Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-25T12:52:56.448311Z"
+      }
+    ],
+    "customer": {
+      "name": "Mohamed Issa",
+      "phone": "81182177",
+      "address": "non\nnon, بناية سمك بلبحر, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892399,35.530169"
+    },
+    "customer_name": "Mohamed Issa",
+    "customer_phone": "81182177",
+    "pickup": false,
+    "items": [
+      {
+        "id": "11619",
+        "name": "YUN HUAN 75MM",
+        "qty": 1,
+        "unitUsd": 3.67,
+        "totalUsd": 3.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID11619.jpg"
+      }
+    ],
+    "totalUsd": 4.58,
+    "totalLbp": 410000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
