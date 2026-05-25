@@ -2274,9 +2274,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "10.0",
-    "stock_in_medawar_branch": "8.0",
+    "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "11.0",
+    "total_stock": "3.0",
     "total_consumption": "14.0",
     "VAT": "YES",
     "price_lbp": 750000.0,
@@ -2292,7 +2292,7 @@
         "consumption": "10.0"
       },
       "Medawar": {
-        "stock": "8.0",
+        "stock": "0.0",
         "consumption": "4.0"
       }
     },
@@ -2303,7 +2303,6 @@
     "barcode2": "",
     "barcodes": "",
     "expiry_days": "0",
-    "cost_ht": "6.14",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -3563,7 +3562,7 @@
     "vat": 0,
     "barcode2": "9556001297877",
     "barcodes": "9556001297877",
-    "totalStock": "3624"
+    "totalStock": "3662"
   },
   {
     "id": "494",
@@ -3711,7 +3710,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "instant coffee",
     "vat": 1,
-    "totalStock": "1012"
+    "totalStock": "1030"
   },
   {
     "id": "509",
@@ -3843,7 +3842,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-608-1778914111735325",
     "product_setup_saved_at_utc": "2026-05-16T06:48:31.735325Z",
-    "totalStock": "1700"
+    "totalStock": "1716"
   },
   {
     "id": "611",
@@ -4303,7 +4302,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "452"
+    "totalStock": "454"
   },
   {
     "id": "672",
@@ -6391,7 +6390,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "159"
+    "totalStock": "112"
   },
   {
     "id": "1083",
@@ -6482,7 +6481,7 @@
     "vat": 1,
     "barcode2": "5283024602336",
     "barcodes": "5283024602336",
-    "totalStock": "167"
+    "totalStock": "180"
   },
   {
     "id": "1178",
@@ -7682,7 +7681,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "981"
+    "totalStock": "994"
   },
   {
     "id": "1437",
@@ -8803,9 +8802,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "23.0",
     "consumption_in_geitawi_branch": "53.0",
-    "stock_in_medawar_branch": "14.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "125.0",
-    "total_stock": "37.0",
+    "total_stock": "36.0",
     "total_consumption": "178.0",
     "VAT": "NO",
     "price_lbp": 160000.0,
@@ -8821,7 +8820,7 @@
         "consumption": "53.0"
       },
       "Medawar": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "125.0"
       }
     },
@@ -11542,7 +11541,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "58"
+    "totalStock": "56"
   },
   {
     "id": "2812",
@@ -11803,7 +11802,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "65"
+    "totalStock": "55"
   },
   {
     "id": "2824",
@@ -11985,7 +11984,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "151"
+    "totalStock": "153"
   },
   {
     "id": "2847",
@@ -13967,7 +13966,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "61"
+    "totalStock": "63"
   },
   {
     "id": "3649",
@@ -16983,7 +16982,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "73"
+    "totalStock": "77"
   },
   {
     "id": "4754",
@@ -24365,7 +24364,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "19"
+    "totalStock": "18"
   },
   {
     "id": "7248",
@@ -26920,7 +26919,8 @@
     "subcategory": "ALUMINUM FOIL",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "6"
   },
   {
     "id": "8144",
@@ -41186,7 +41186,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "267"
+    "totalStock": "190"
   },
   {
     "id": "12606",
@@ -41535,7 +41535,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12668-1778928133454119",
     "product_setup_saved_at_utc": "2026-05-16T10:42:13.454119Z",
-    "totalStock": "55"
+    "totalStock": "46"
   },
   {
     "id": "12701",
@@ -41585,7 +41585,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "286"
+    "totalStock": "330"
   },
   {
     "id": "12702",
@@ -44134,9 +44134,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.860",
     "consumption_in_geitawi_branch": "5.5",
-    "stock_in_medawar_branch": "0.740",
+    "stock_in_medawar_branch": "1.105",
     "consumption_in_medawar_branch": "2.1",
-    "total_stock": "1.600",
+    "total_stock": "1.965",
     "total_consumption": "7.6",
     "VAT": "NO",
     "price_lbp": 630000.0,
@@ -44152,7 +44152,7 @@
         "consumption": "5.5"
       },
       "Medawar": {
-        "stock": "0.740",
+        "stock": "1.105",
         "consumption": "2.1"
       }
     },
@@ -44443,7 +44443,7 @@
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "-37",
+    "totalStock": "-29",
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z"
   },
   {
@@ -44514,7 +44514,7 @@
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "-12",
+    "totalStock": "-8",
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z"
   },
   {
@@ -47196,7 +47196,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "366"
+    "totalStock": "367"
   },
   {
     "id": "13189",
@@ -48454,7 +48454,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "233"
+    "totalStock": "278"
   },
   {
     "id": "13297",
@@ -52059,7 +52059,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "139"
+    "totalStock": "147"
   },
   {
     "id": "13599",
@@ -52482,9 +52482,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "47.0",
     "consumption_in_geitawi_branch": "39.0",
-    "stock_in_medawar_branch": "103.0",
+    "stock_in_medawar_branch": "102.0",
     "consumption_in_medawar_branch": "69.0",
-    "total_stock": "150.0",
+    "total_stock": "149.0",
     "total_consumption": "108.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -52500,7 +52500,7 @@
         "consumption": "39.0"
       },
       "Medawar": {
-        "stock": "103.0",
+        "stock": "102.0",
         "consumption": "69.0"
       }
     },
@@ -53231,7 +53231,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "76"
+    "totalStock": "77"
   },
   {
     "id": "13674",
@@ -54622,9 +54622,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "30.0",
     "consumption_in_geitawi_branch": "180.0",
-    "stock_in_medawar_branch": "56.0",
+    "stock_in_medawar_branch": "57.0",
     "consumption_in_medawar_branch": "187.0",
-    "total_stock": "86.0",
+    "total_stock": "87.0",
     "total_consumption": "367.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -54640,7 +54640,7 @@
         "consumption": "180.0"
       },
       "Medawar": {
-        "stock": "56.0",
+        "stock": "57.0",
         "consumption": "187.0"
       }
     },
@@ -54791,7 +54791,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13837-1778920657264948",
     "product_setup_saved_at_utc": "2026-05-16T08:37:37.264948Z",
-    "totalStock": "172"
+    "totalStock": "120"
   },
   {
     "id": "13838",
@@ -54841,7 +54841,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13838-1778928514032900",
     "product_setup_saved_at_utc": "2026-05-16T10:48:34.032900Z",
-    "totalStock": "112"
+    "totalStock": "132"
   },
   {
     "id": "13839",
@@ -57204,9 +57204,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "17.0",
     "consumption_in_geitawi_branch": "51.0",
-    "stock_in_medawar_branch": "31.0",
+    "stock_in_medawar_branch": "32.0",
     "consumption_in_medawar_branch": "56.0",
-    "total_stock": "48.0",
+    "total_stock": "49.0",
     "total_consumption": "107.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -57222,7 +57222,7 @@
         "consumption": "51.0"
       },
       "Medawar": {
-        "stock": "31.0",
+        "stock": "32.0",
         "consumption": "56.0"
       }
     },
@@ -58762,7 +58762,7 @@
     "name": "NF BROWNI CHOCOLATE",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "45"
+    "totalStock": "28"
   },
   {
     "id": "14115",
@@ -64831,15 +64831,12 @@
   {
     "id": "14622",
     "barcode": "022644008174",
-    "barcode2": "",
-    "barcodes": "",
     "Product Description": "NAJJAR INSTANT COFFEE GOLD 95 GR",
     "SUPPLIERS": "EDWIN YAZBECK FOR TRADING",
     "unit": "-",
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "expiry_days": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "7.0",
@@ -64850,16 +64847,10 @@
     "price_lbp": 380000.0,
     "price_usd": "4.22",
     "cost": 3.24,
-    "cost_ht": "3.24",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14622.jpg",
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "linked_profile_enabled": false,
-    "linked_profile_repo_root": "",
-    "linked_profile_item_id": "",
-    "linked_profile_category": "",
-    "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
         "stock": "0.0",
@@ -64870,13 +64861,21 @@
         "consumption": "3.0"
       }
     },
-    "product_setup_save_token": "PS-SAVE-14622-1779638113449059",
-    "product_setup_saved_at_utc": "2026-05-24T15:55:13.449059Z",
     "name": "NAJJAR INSTANT COFFEE GOLD 95 GR",
     "supplier": "EDWIN YAZBECK FOR TRADING",
     "subcategory": "instant coffee",
     "vat": 1,
-    "totalStock": "8"
+    "barcode2": "",
+    "barcodes": "",
+    "totalStock": "8",
+    "expiry_days": "0",
+    "linked_profile_enabled": false,
+    "linked_profile_repo_root": "",
+    "linked_profile_item_id": "",
+    "linked_profile_category": "",
+    "linked_profile_sub_category": "",
+    "product_setup_save_token": "PS-SAVE-14622-1779638113449059",
+    "product_setup_saved_at_utc": "2026-05-24T15:55:13.449059Z"
   },
   {
     "id": "14623",
@@ -67384,9 +67383,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "16.0",
     "consumption_in_geitawi_branch": "96.0",
-    "stock_in_medawar_branch": "94.0",
+    "stock_in_medawar_branch": "93.0",
     "consumption_in_medawar_branch": "89.0",
-    "total_stock": "110.0",
+    "total_stock": "109.0",
     "total_consumption": "185.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -67402,7 +67401,7 @@
         "consumption": "96.0"
       },
       "Medawar": {
-        "stock": "94.0",
+        "stock": "93.0",
         "consumption": "89.0"
       }
     },
@@ -69318,9 +69317,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "10.0",
-    "stock_in_medawar_branch": "28.0",
+    "stock_in_medawar_branch": "29.0",
     "consumption_in_medawar_branch": "19.0",
-    "total_stock": "41.0",
+    "total_stock": "42.0",
     "total_consumption": "29.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
@@ -69336,7 +69335,7 @@
         "consumption": "10.0"
       },
       "Medawar": {
-        "stock": "28.0",
+        "stock": "29.0",
         "consumption": "19.0"
       }
     },
@@ -74068,9 +74067,9 @@
     "offers": "",
     "stock_in_geitawi_branch": "1.970",
     "consumption_in_geitawi_branch": "0.7",
-    "stock_in_medawar_branch": "1.530",
+    "stock_in_medawar_branch": "1.800",
     "consumption_in_medawar_branch": "3.2",
-    "total_stock": "3.500",
+    "total_stock": "3.770",
     "total_consumption": "3.9",
     "VAT": "NO",
     "price_lbp": 1400000.0,
@@ -74086,7 +74085,7 @@
         "consumption": "0.7"
       },
       "Medawar": {
-        "stock": "1.530",
+        "stock": "1.800",
         "consumption": "3.2"
       }
     },
@@ -82421,9 +82420,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "42.0",
     "consumption_in_geitawi_branch": "97.0",
-    "stock_in_medawar_branch": "92.0",
+    "stock_in_medawar_branch": "91.0",
     "consumption_in_medawar_branch": "73.0",
-    "total_stock": "134.0",
+    "total_stock": "133.0",
     "total_consumption": "170.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -82439,7 +82438,7 @@
         "consumption": "97.0"
       },
       "Medawar": {
-        "stock": "92.0",
+        "stock": "91.0",
         "consumption": "73.0"
       }
     },
@@ -90259,7 +90258,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-16734-1778917777422454",
     "product_setup_saved_at_utc": "2026-05-16T07:49:37.422454Z",
-    "totalStock": "183"
+    "totalStock": "153"
   },
   {
     "id": "16738",
@@ -91721,7 +91720,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3"
+    "totalStock": "1"
   },
   {
     "id": "16846",
@@ -96621,9 +96620,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "15.0",
-    "stock_in_medawar_branch": "19.0",
+    "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "23.0",
+    "total_stock": "25.0",
     "total_consumption": "44.0",
     "VAT": "NO",
     "price_lbp": 130000.0,
@@ -96639,7 +96638,7 @@
         "consumption": "15.0"
       },
       "Medawar": {
-        "stock": "19.0",
+        "stock": "21.0",
         "consumption": "29.0"
       }
     },
@@ -103828,11 +103827,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "17.0",
     "stock_in_medawar_branch": "54.0",
     "consumption_in_medawar_branch": "65.0",
-    "total_stock": "63.0",
+    "total_stock": "64.0",
     "total_consumption": "82.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -103844,7 +103843,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "10.0",
         "consumption": "17.0"
       },
       "Medawar": {
@@ -103862,7 +103861,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "63"
+    "totalStock": "66"
   },
   {
     "id": "17554",
@@ -106526,7 +106525,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "350"
+    "totalStock": "336"
   },
   {
     "id": "17720",
@@ -107000,7 +106999,7 @@
     "supplier": "JACK DIB",
     "subcategory": "LIGHTER",
     "vat": 1,
-    "totalStock": "121"
+    "totalStock": "122"
   },
   {
     "id": "17751",
@@ -131531,7 +131530,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "55"
+    "totalStock": "71"
   },
   {
     "id": "19147",
@@ -134963,11 +134962,11 @@
     "category": "HOME USAGE",
     "sub_category": "INSECT KILLER",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "2.0",
+    "total_stock": "3.0",
     "total_consumption": "2.0",
     "VAT": "NO",
     "price_lbp": 265000.0,
@@ -134979,7 +134978,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "3.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -134993,7 +134992,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "2"
+    "totalStock": "3"
   },
   {
     "id": "19291",
@@ -173987,9 +173986,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "2.0",
+    "total_stock": "1.0",
     "total_consumption": "1.0",
     "VAT": "YES",
     "price_lbp": 230000.0,
@@ -174005,7 +174004,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "1.0"
       }
     },
@@ -227056,12 +227055,12 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "28.0",
+        "stock": "27.0",
         "consumption": "24.0"
       }
     },
-    "stock_in_medawar_branch": "28.0",
-    "total_stock": "28.0",
+    "stock_in_medawar_branch": "27.0",
+    "total_stock": "27.0",
     "cost": 0.5189,
     "Product Description": "BISOUS POPSICLE STRAWBERRY LIGHT SORBET",
     "SUPPLIERS": "bisous douceur",
@@ -238896,11 +238895,11 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "cost": 0.6944,
-    "stock_in_medawar_branch": "-5.0",
+    "stock_in_medawar_branch": "-2.0",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_medawar_branch": "15.0",
     "consumption_in_geitawi_branch": "8.0",
-    "total_stock": "1.0",
+    "total_stock": "4.0",
     "total_consumption": "23.0",
     "branches": {
       "Geitawi": {
@@ -238908,7 +238907,7 @@
         "consumption": "8.0"
       },
       "Medawar": {
-        "stock": "-5.0",
+        "stock": "-2.0",
         "consumption": "15.0"
       }
     },
@@ -239495,13 +239494,13 @@
         "consumption": "409.0"
       },
       "Medawar": {
-        "stock": "-72.0",
+        "stock": "-71.0",
         "consumption": "449.0"
       }
     },
     "stock_in_geitawi_branch": "-42.0",
-    "total_stock": "-114.0",
-    "stock_in_medawar_branch": "-72.0",
+    "total_stock": "-113.0",
+    "stock_in_medawar_branch": "-71.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
@@ -239515,7 +239514,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "-114"
+    "totalStock": "-111"
   },
   {
     "id": "21871",
@@ -239716,7 +239715,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "89"
+    "totalStock": "83"
   },
   {
     "id": "21875",
@@ -241262,11 +241261,11 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "stock_in_medawar_branch": "10.0",
+    "stock_in_medawar_branch": "9.0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "5.0",
     "consumption_in_geitawi_branch": "11.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "16.0",
     "branches": {
       "Geitawi": {
@@ -241274,7 +241273,7 @@
         "consumption": "11.0"
       },
       "Medawar": {
-        "stock": "10.0",
+        "stock": "9.0",
         "consumption": "5.0"
       }
     },
@@ -261823,11 +261822,11 @@
     },
     "product_setup_save_token": "PS-SAVE-500045-1778917706338148",
     "product_setup_saved_at_utc": "2026-05-16T07:48:26.338148Z",
-    "totalStock": "3",
     "name": "HACKER ELECTRIC MOSQUITO MAT 30",
     "supplier": "JACK DIB",
     "subcategory": "INSECT KILLER",
-    "vat": 0
+    "vat": 0,
+    "totalStock": "3"
   },
   {
     "id": "500046",
