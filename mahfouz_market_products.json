@@ -13602,9 +13602,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "14.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "10.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "24.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -13620,7 +13620,7 @@
         "consumption": "14.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "10.0"
       }
     },
@@ -48456,11 +48456,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "34.0",
+    "stock_in_geitawi_branch": "33.0",
     "consumption_in_geitawi_branch": "523.0",
     "stock_in_medawar_branch": "197.0",
     "consumption_in_medawar_branch": "754.0",
-    "total_stock": "231.0",
+    "total_stock": "230.0",
     "total_consumption": "1277.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -48472,7 +48472,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "34.0",
+        "stock": "33.0",
         "consumption": "523.0"
       },
       "Medawar": {
@@ -48486,7 +48486,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "231"
+    "totalStock": "230"
   },
   {
     "id": "13297",
@@ -54570,11 +54570,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "181.0",
+    "stock_in_geitawi_branch": "180.0",
     "consumption_in_geitawi_branch": "16.0",
     "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "180.0",
+    "total_stock": "179.0",
     "total_consumption": "19.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -54586,7 +54586,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "181.0",
+        "stock": "180.0",
         "consumption": "16.0"
       },
       "Medawar": {
@@ -54600,7 +54600,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "372"
+    "totalStock": "371"
   },
   {
     "id": "13832",
