@@ -3104,12 +3104,12 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "32.0",
-    "consumption_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "31.0",
+    "consumption_in_geitawi_branch": "12.0",
     "stock_in_medawar_branch": "15.0",
     "consumption_in_medawar_branch": "22.0",
-    "total_stock": "47.0",
-    "total_consumption": "33.0",
+    "total_stock": "46.0",
+    "total_consumption": "34.0",
     "VAT": "YES",
     "price_lbp": 180000.0,
     "price_usd": "2.00",
@@ -3120,8 +3120,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "32.0",
-        "consumption": "11.0"
+        "stock": "31.0",
+        "consumption": "12.0"
       },
       "Medawar": {
         "stock": "15.0",
@@ -3134,7 +3134,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "52"
+    "totalStock": "46"
   },
   {
     "id": "441",
@@ -3186,12 +3186,12 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "166.0",
-    "consumption_in_geitawi_branch": "203.0",
+    "stock_in_geitawi_branch": "165.0",
+    "consumption_in_geitawi_branch": "204.0",
     "stock_in_medawar_branch": "463.0",
     "consumption_in_medawar_branch": "392.0",
-    "total_stock": "629.0",
-    "total_consumption": "595.0",
+    "total_stock": "628.0",
+    "total_consumption": "596.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
     "price_usd": "0.83",
@@ -3202,8 +3202,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "166.0",
-        "consumption": "203.0"
+        "stock": "165.0",
+        "consumption": "204.0"
       },
       "Medawar": {
         "stock": "463.0",
@@ -3216,7 +3216,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "631"
+    "totalStock": "628"
   },
   {
     "id": "455",
