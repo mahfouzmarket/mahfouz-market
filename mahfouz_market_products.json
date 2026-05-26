@@ -4025,11 +4025,11 @@
     "category": "COFFEE SHOP",
     "sub_category": "nescafe 3 in 1",
     "offers": "0",
-    "stock_in_geitawi_branch": "-18.0",
+    "stock_in_geitawi_branch": "-19.0",
     "consumption_in_geitawi_branch": "102.0",
     "stock_in_medawar_branch": "69.0",
     "consumption_in_medawar_branch": "11.0",
-    "total_stock": "51.0",
+    "total_stock": "50.0",
     "total_consumption": "113.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -4041,7 +4041,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-18.0",
+        "stock": "-19.0",
         "consumption": "102.0"
       },
       "Medawar": {
@@ -4064,7 +4064,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-643-1779255644013389",
     "product_setup_saved_at_utc": "2026-05-20T05:40:44.013389Z",
-    "totalStock": "51"
+    "totalStock": "50"
   },
   {
     "id": "644",
@@ -57586,11 +57586,11 @@
     "category": "BEVERAGES",
     "sub_category": "ENERGY DRINK",
     "offers": "0",
-    "stock_in_geitawi_branch": "66.0",
+    "stock_in_geitawi_branch": "65.0",
     "consumption_in_geitawi_branch": "37.0",
     "stock_in_medawar_branch": "61.0",
     "consumption_in_medawar_branch": "57.0",
-    "total_stock": "127.0",
+    "total_stock": "126.0",
     "total_consumption": "94.0",
     "VAT": "NO",
     "price_lbp": 195000.0,
@@ -57602,7 +57602,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "66.0",
+        "stock": "65.0",
         "consumption": "37.0"
       },
       "Medawar": {
@@ -57616,7 +57616,7 @@
     "vat": 0,
     "barcode2": "90162848",
     "barcodes": "90162848",
-    "totalStock": "81"
+    "totalStock": "126"
   },
   {
     "id": "14024",
@@ -84841,9 +84841,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "16.0",
     "consumption_in_geitawi_branch": "31.0",
-    "stock_in_medawar_branch": "15.0",
+    "stock_in_medawar_branch": "14.0",
     "consumption_in_medawar_branch": "25.0",
-    "total_stock": "31.0",
+    "total_stock": "30.0",
     "total_consumption": "56.0",
     "VAT": "YES",
     "price_lbp": 110000.0,
@@ -84859,7 +84859,7 @@
         "consumption": "31.0"
       },
       "Medawar": {
-        "stock": "15.0",
+        "stock": "14.0",
         "consumption": "25.0"
       }
     },
