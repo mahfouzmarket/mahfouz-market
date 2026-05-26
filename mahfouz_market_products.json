@@ -48434,11 +48434,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "33.0",
+    "stock_in_geitawi_branch": "32.0",
     "consumption_in_geitawi_branch": "523.0",
     "stock_in_medawar_branch": "192.0",
     "consumption_in_medawar_branch": "754.0",
-    "total_stock": "225.0",
+    "total_stock": "224.0",
     "total_consumption": "1277.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -48450,7 +48450,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "33.0",
+        "stock": "32.0",
         "consumption": "523.0"
       },
       "Medawar": {
@@ -48464,7 +48464,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "230"
+    "totalStock": "224"
   },
   {
     "id": "13297",
@@ -53129,11 +53129,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "91.0",
     "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "80.0",
-    "total_stock": "20.0",
+    "total_stock": "19.0",
     "total_consumption": "171.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -53145,7 +53145,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "91.0"
       },
       "Medawar": {
@@ -53159,7 +53159,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "20"
+    "totalStock": "19"
   },
   {
     "id": "13672",
@@ -199560,11 +199560,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Chewing gum",
     "offers": "0",
-    "stock_in_geitawi_branch": "41.0",
+    "stock_in_geitawi_branch": "40.0",
     "consumption_in_geitawi_branch": "53.0",
     "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "60.0",
-    "total_stock": "57.0",
+    "total_stock": "56.0",
     "total_consumption": "113.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -199576,7 +199576,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "41.0",
+        "stock": "40.0",
         "consumption": "53.0"
       },
       "Medawar": {
@@ -199590,7 +199590,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "65"
+    "totalStock": "56"
   },
   {
     "id": "21083",
