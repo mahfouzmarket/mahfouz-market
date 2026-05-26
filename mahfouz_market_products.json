@@ -2432,12 +2432,12 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "WHISKEY",
     "offers": "0",
-    "stock_in_geitawi_branch": "7.0",
-    "consumption_in_geitawi_branch": "7.0",
+    "stock_in_geitawi_branch": "6.0",
+    "consumption_in_geitawi_branch": "8.0",
     "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "9.0",
-    "total_stock": "23.0",
-    "total_consumption": "16.0",
+    "total_stock": "22.0",
+    "total_consumption": "17.0",
     "VAT": "YES",
     "price_lbp": 1420000.0,
     "price_usd": "15.78",
@@ -2448,8 +2448,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
-        "consumption": "7.0"
+        "stock": "6.0",
+        "consumption": "8.0"
       },
       "Medawar": {
         "stock": "16.0",
@@ -2462,7 +2462,7 @@
     "vat": 1,
     "barcode2": "5000267014005",
     "barcodes": "5000267014005",
-    "totalStock": "10"
+    "totalStock": "22"
   },
   {
     "id": "392",
