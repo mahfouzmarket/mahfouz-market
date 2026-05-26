@@ -3533,12 +3533,12 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "508.0",
-    "consumption_in_geitawi_branch": "1764.0",
+    "stock_in_geitawi_branch": "506.0",
+    "consumption_in_geitawi_branch": "1766.0",
     "stock_in_medawar_branch": "2953.0",
     "consumption_in_medawar_branch": "1290.0",
-    "total_stock": "3461.0",
-    "total_consumption": "3054.0",
+    "total_stock": "3459.0",
+    "total_consumption": "3056.0",
     "VAT": "NO",
     "price_lbp": 25000.0,
     "price_usd": "0.28",
@@ -3549,8 +3549,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "508.0",
-        "consumption": "1764.0"
+        "stock": "506.0",
+        "consumption": "1766.0"
       },
       "Medawar": {
         "stock": "2953.0",
@@ -3563,7 +3563,7 @@
     "vat": 0,
     "barcode2": "9556001297877",
     "barcodes": "9556001297877",
-    "totalStock": "3477"
+    "totalStock": "3459"
   },
   {
     "id": "494",
@@ -6405,12 +6405,12 @@
     "category": "BEVERAGES",
     "sub_category": "milk shake",
     "offers": "0",
-    "stock_in_geitawi_branch": "77.0",
-    "consumption_in_geitawi_branch": "110.0",
+    "stock_in_geitawi_branch": "75.0",
+    "consumption_in_geitawi_branch": "112.0",
     "stock_in_medawar_branch": "85.0",
     "consumption_in_medawar_branch": "103.0",
-    "total_stock": "162.0",
-    "total_consumption": "213.0",
+    "total_stock": "160.0",
+    "total_consumption": "215.0",
     "VAT": "YES",
     "price_lbp": 55000.0,
     "price_usd": "0.61",
@@ -6421,8 +6421,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "77.0",
-        "consumption": "110.0"
+        "stock": "75.0",
+        "consumption": "112.0"
       },
       "Medawar": {
         "stock": "85.0",
@@ -6444,7 +6444,7 @@
     "supplier": "LIBAN JUS SAL",
     "subcategory": "milk shake",
     "vat": 1,
-    "totalStock": "166"
+    "totalStock": "160"
   },
   {
     "id": "1173",
@@ -41566,12 +41566,12 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "164.0",
-    "consumption_in_geitawi_branch": "1583.0",
+    "stock_in_geitawi_branch": "161.0",
+    "consumption_in_geitawi_branch": "1586.0",
     "stock_in_medawar_branch": "619.0",
     "consumption_in_medawar_branch": "1671.0",
-    "total_stock": "783.0",
-    "total_consumption": "3254.0",
+    "total_stock": "780.0",
+    "total_consumption": "3257.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
     "price_usd": "0.89",
@@ -41582,8 +41582,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "164.0",
-        "consumption": "1583.0"
+        "stock": "161.0",
+        "consumption": "1586.0"
       },
       "Medawar": {
         "stock": "619.0",
@@ -41605,7 +41605,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "813"
+    "totalStock": "780"
   },
   {
     "id": "12702",
@@ -149970,12 +149970,12 @@
     "category": "CHI TAYIB",
     "sub_category": "Croissant",
     "offers": "0",
-    "stock_in_geitawi_branch": "-2.0",
-    "consumption_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "-4.0",
+    "consumption_in_geitawi_branch": "8.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "-2.0",
-    "total_consumption": "10.0",
+    "total_stock": "-4.0",
+    "total_consumption": "12.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
     "price_usd": "0.67",
@@ -149986,8 +149986,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
-        "consumption": "6.0"
+        "stock": "-4.0",
+        "consumption": "8.0"
       },
       "Medawar": {
         "stock": "0.0",
@@ -150004,7 +150004,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-2"
+    "totalStock": "-4"
   },
   {
     "id": "19950",
