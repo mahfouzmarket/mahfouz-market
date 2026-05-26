@@ -41557,11 +41557,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "172.0",
+    "stock_in_geitawi_branch": "171.0",
     "consumption_in_geitawi_branch": "1550.0",
     "stock_in_medawar_branch": "626.0",
     "consumption_in_medawar_branch": "1617.0",
-    "total_stock": "798.0",
+    "total_stock": "797.0",
     "total_consumption": "3167.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41573,7 +41573,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "172.0",
+        "stock": "171.0",
         "consumption": "1550.0"
       },
       "Medawar": {
@@ -41596,7 +41596,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "800"
+    "totalStock": "797"
   },
   {
     "id": "12702",
@@ -52452,9 +52452,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "31.0",
     "consumption_in_geitawi_branch": "144.0",
-    "stock_in_medawar_branch": "51.0",
+    "stock_in_medawar_branch": "50.0",
     "consumption_in_medawar_branch": "135.0",
-    "total_stock": "82.0",
+    "total_stock": "81.0",
     "total_consumption": "279.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -52470,7 +52470,7 @@
         "consumption": "144.0"
       },
       "Medawar": {
-        "stock": "51.0",
+        "stock": "50.0",
         "consumption": "135.0"
       }
     },
@@ -69858,9 +69858,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "3.0",
-    "stock_in_medawar_branch": "18.0",
+    "stock_in_medawar_branch": "17.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "20.0",
+    "total_stock": "19.0",
     "total_consumption": "6.0",
     "VAT": "YES",
     "price_lbp": 555000.0,
@@ -69876,7 +69876,7 @@
         "consumption": "3.0"
       },
       "Medawar": {
-        "stock": "18.0",
+        "stock": "17.0",
         "consumption": "3.0"
       }
     },
