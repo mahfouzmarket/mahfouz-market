@@ -259888,11 +259888,11 @@
   },
   {
     "id": "400022",
-    "stock_in_medawar_branch": "33.0",
+    "stock_in_medawar_branch": "32.0",
     "stock_in_geitawi_branch": "18.0",
     "consumption_in_medawar_branch": "5.0",
     "consumption_in_geitawi_branch": "5.0",
-    "total_stock": "51.0",
+    "total_stock": "50.0",
     "total_consumption": "10.0",
     "branches": {
       "Geitawi": {
@@ -259900,7 +259900,7 @@
         "consumption": "5.0"
       },
       "Medawar": {
-        "stock": "33.0",
+        "stock": "32.0",
         "consumption": "5.0"
       }
     },
