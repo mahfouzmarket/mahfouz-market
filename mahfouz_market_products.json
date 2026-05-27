@@ -2519,11 +2519,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "96.0",
+    "stock_in_geitawi_branch": "95.0",
     "consumption_in_geitawi_branch": "152.0",
     "stock_in_medawar_branch": "579.0",
     "consumption_in_medawar_branch": "234.0",
-    "total_stock": "675.0",
+    "total_stock": "674.0",
     "total_consumption": "386.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -2535,7 +2535,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "96.0",
+        "stock": "95.0",
         "consumption": "152.0"
       },
       "Medawar": {
@@ -50610,11 +50610,11 @@
     "sub_category": "KLATCHI",
     "offers": "0",
     "expiry_days": "365",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "33.0",
     "stock_in_medawar_branch": "52.0",
     "consumption_in_medawar_branch": "69.0",
-    "total_stock": "52.0",
+    "total_stock": "51.0",
     "total_consumption": "102.0",
     "VAT": "YES",
     "price_lbp": 120000.0,
@@ -50632,7 +50632,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "33.0"
       },
       "Medawar": {
