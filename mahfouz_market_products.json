@@ -748,9 +748,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "52.0",
     "consumption_in_geitawi_branch": "128.0",
-    "stock_in_medawar_branch": "96.0",
+    "stock_in_medawar_branch": "89.0",
     "consumption_in_medawar_branch": "131.0",
-    "total_stock": "148.0",
+    "total_stock": "141.0",
     "total_consumption": "259.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -766,7 +766,7 @@
         "consumption": "128.0"
       },
       "Medawar": {
-        "stock": "96.0",
+        "stock": "89.0",
         "consumption": "131.0"
       }
     },
@@ -776,7 +776,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "151"
+    "totalStock": "141"
   },
   {
     "id": "132",
@@ -4961,11 +4961,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "14.0",
+    "stock_in_geitawi_branch": "34.0",
     "consumption_in_geitawi_branch": "42.0",
     "stock_in_medawar_branch": "36.0",
     "consumption_in_medawar_branch": "33.0",
-    "total_stock": "50.0",
+    "total_stock": "70.0",
     "total_consumption": "75.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -4977,7 +4977,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "14.0",
+        "stock": "34.0",
         "consumption": "42.0"
       },
       "Medawar": {
@@ -4991,7 +4991,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "53"
+    "totalStock": "67"
   },
   {
     "id": "717",
@@ -5579,11 +5579,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "26.0",
+    "stock_in_geitawi_branch": "49.0",
     "consumption_in_geitawi_branch": "103.0",
     "stock_in_medawar_branch": "20.0",
     "consumption_in_medawar_branch": "73.0",
-    "total_stock": "46.0",
+    "total_stock": "69.0",
     "total_consumption": "176.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -5595,7 +5595,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "26.0",
+        "stock": "49.0",
         "consumption": "103.0"
       },
       "Medawar": {
@@ -5609,7 +5609,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "89"
+    "totalStock": "84"
   },
   {
     "id": "804",
@@ -52121,9 +52121,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "113.0",
     "consumption_in_geitawi_branch": "164.0",
-    "stock_in_medawar_branch": "86.0",
+    "stock_in_medawar_branch": "70.0",
     "consumption_in_medawar_branch": "148.0",
-    "total_stock": "199.0",
+    "total_stock": "183.0",
     "total_consumption": "312.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -52139,7 +52139,7 @@
         "consumption": "164.0"
       },
       "Medawar": {
-        "stock": "86.0",
+        "stock": "70.0",
         "consumption": "148.0"
       }
     },
@@ -52149,7 +52149,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "199"
+    "totalStock": "182"
   },
   {
     "id": "13601",
@@ -65437,9 +65437,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "60.0",
     "consumption_in_geitawi_branch": "21.0",
-    "stock_in_medawar_branch": "282.0",
+    "stock_in_medawar_branch": "276.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "342.0",
+    "total_stock": "336.0",
     "total_consumption": "50.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -65455,7 +65455,7 @@
         "consumption": "21.0"
       },
       "Medawar": {
-        "stock": "282.0",
+        "stock": "276.0",
         "consumption": "29.0"
       }
     },
@@ -65465,7 +65465,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "342"
+    "totalStock": "334"
   },
   {
     "id": "14689",
@@ -99575,7 +99575,7 @@
     "name": "COCKTAIL BANANA AND STRAWBERRY 270 ML",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "0"
+    "totalStock": "5"
   },
   {
     "id": "17298",
