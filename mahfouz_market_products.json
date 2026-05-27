@@ -13993,11 +13993,11 @@
     "sub_category": "MASTER",
     "offers": "0",
     "stock_in_geitawi_branch": "8.0",
-    "consumption_in_geitawi_branch": "29.0",
+    "consumption_in_geitawi_branch": "27.0",
     "stock_in_medawar_branch": "39.0",
     "consumption_in_medawar_branch": "56.0",
     "total_stock": "47.0",
-    "total_consumption": "85.0",
+    "total_consumption": "83.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
     "price_usd": "0.67",
@@ -14009,7 +14009,7 @@
     "branches": {
       "Geitawi": {
         "stock": "8.0",
-        "consumption": "29.0"
+        "consumption": "27.0"
       },
       "Medawar": {
         "stock": "39.0",
@@ -14022,7 +14022,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "47"
+    "totalStock": "50"
   },
   {
     "id": "3738",
@@ -105996,11 +105996,11 @@
     "sub_category": "COLD DRINKS",
     "offers": "0",
     "stock_in_geitawi_branch": "39.0",
-    "consumption_in_geitawi_branch": "57.0",
+    "consumption_in_geitawi_branch": "56.0",
     "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "24.0",
     "total_stock": "55.0",
-    "total_consumption": "81.0",
+    "total_consumption": "80.0",
     "VAT": "YES",
     "price_lbp": 125000.0,
     "price_usd": "1.39",
@@ -106012,7 +106012,7 @@
     "branches": {
       "Geitawi": {
         "stock": "39.0",
-        "consumption": "57.0"
+        "consumption": "56.0"
       },
       "Medawar": {
         "stock": "16.0",
