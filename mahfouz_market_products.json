@@ -1522,10 +1522,10 @@
     "offers": "0",
     "stock_in_geitawi_branch": "65.0",
     "consumption_in_geitawi_branch": "81.0",
-    "stock_in_medawar_branch": "65.0",
-    "consumption_in_medawar_branch": "109.0",
-    "total_stock": "130.0",
-    "total_consumption": "190.0",
+    "stock_in_medawar_branch": "64.0",
+    "consumption_in_medawar_branch": "105.0",
+    "total_stock": "129.0",
+    "total_consumption": "186.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
     "price_usd": "0.94",
@@ -1540,8 +1540,8 @@
         "consumption": "81.0"
       },
       "Medawar": {
-        "stock": "65.0",
-        "consumption": "109.0"
+        "stock": "64.0",
+        "consumption": "105.0"
       }
     },
     "sub": "ENERGY DRINK",
@@ -4824,7 +4824,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "103"
+    "totalStock": "102"
   },
   {
     "id": "709",
@@ -41549,9 +41549,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "154.0",
     "consumption_in_geitawi_branch": "1586.0",
-    "stock_in_medawar_branch": "613.0",
+    "stock_in_medawar_branch": "612.0",
     "consumption_in_medawar_branch": "1671.0",
-    "total_stock": "767.0",
+    "total_stock": "766.0",
     "total_consumption": "3257.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41567,7 +41567,7 @@
         "consumption": "1586.0"
       },
       "Medawar": {
-        "stock": "613.0",
+        "stock": "612.0",
         "consumption": "1671.0"
       }
     },
@@ -42180,7 +42180,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12747-1778928318550937",
     "product_setup_saved_at_utc": "2026-05-16T10:45:18.550937Z",
-    "totalStock": "53"
+    "totalStock": "50"
   },
   {
     "id": "12749",
@@ -48426,9 +48426,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "63.0",
     "consumption_in_geitawi_branch": "534.0",
-    "stock_in_medawar_branch": "218.0",
+    "stock_in_medawar_branch": "217.0",
     "consumption_in_medawar_branch": "778.0",
-    "total_stock": "281.0",
+    "total_stock": "280.0",
     "total_consumption": "1312.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -48444,7 +48444,7 @@
         "consumption": "534.0"
       },
       "Medawar": {
-        "stock": "218.0",
+        "stock": "217.0",
         "consumption": "778.0"
       }
     },
@@ -53149,7 +53149,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "25"
+    "totalStock": "21"
   },
   {
     "id": "13672",
@@ -88261,11 +88261,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
+    "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "87.0",
     "stock_in_medawar_branch": "23.0",
     "consumption_in_medawar_branch": "51.0",
-    "total_stock": "39.0",
+    "total_stock": "36.0",
     "total_consumption": "138.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -88277,7 +88277,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
+        "stock": "13.0",
         "consumption": "87.0"
       },
       "Medawar": {
@@ -88295,7 +88295,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "39"
+    "totalStock": "36"
   },
   {
     "id": "16526",
@@ -147608,11 +147608,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Croissant",
     "offers": "0",
-    "stock_in_geitawi_branch": "-2.0",
+    "stock_in_geitawi_branch": "-3.0",
     "consumption_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "9.0",
-    "total_stock": "-1.0",
+    "total_stock": "-2.0",
     "total_consumption": "13.0",
     "VAT": "NO",
     "price_lbp": 60000.0,
@@ -147624,7 +147624,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
+        "stock": "-3.0",
         "consumption": "4.0"
       },
       "Medawar": {
@@ -147642,7 +147642,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-1"
+    "totalStock": "-2"
   },
   {
     "id": "19850",
@@ -226113,8 +226113,8 @@
     "total_stock": "29.0",
     "total_consumption": "36.0",
     "VAT": "YES",
-    "price_lbp": 5287001932898.0,
-    "price_usd": "58744465.92",
+    "price_lbp": 100000.0,
+    "price_usd": "1.11",
     "cost": 0.61,
     "cost_ht": "0.61",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21606.jpg",
