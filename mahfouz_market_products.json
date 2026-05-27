@@ -1526,9 +1526,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "65.0",
     "consumption_in_geitawi_branch": "81.0",
-    "stock_in_medawar_branch": "63.0",
+    "stock_in_medawar_branch": "61.0",
     "consumption_in_medawar_branch": "109.0",
-    "total_stock": "128.0",
+    "total_stock": "126.0",
     "total_consumption": "190.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -1544,7 +1544,7 @@
         "consumption": "81.0"
       },
       "Medawar": {
-        "stock": "63.0",
+        "stock": "61.0",
         "consumption": "109.0"
       }
     },
@@ -142524,11 +142524,11 @@
     "category": "HOME USAGE",
     "sub_category": "PICNIC & OFFICE USE",
     "offers": "0",
-    "stock_in_geitawi_branch": "33.0",
+    "stock_in_geitawi_branch": "32.0",
     "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "33.0",
+    "total_stock": "32.0",
     "total_consumption": "8.0",
     "VAT": "NO",
     "price_lbp": 90000.0,
@@ -142540,7 +142540,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "33.0",
+        "stock": "32.0",
         "consumption": "7.0"
       },
       "Medawar": {
