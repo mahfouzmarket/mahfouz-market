@@ -63123,9 +63123,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "8.0",
+    "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "32.0",
-    "total_stock": "8.0",
+    "total_stock": "6.0",
     "total_consumption": "32.0",
     "VAT": "YES",
     "price_lbp": 30000.0,
@@ -63141,7 +63141,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "8.0",
+        "stock": "6.0",
         "consumption": "32.0"
       }
     },
@@ -100894,9 +100894,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "3.0",
-    "stock_in_medawar_branch": "3.0",
+    "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "10.0",
     "VAT": "NO",
     "price_lbp": 55000.0,
@@ -100912,7 +100912,7 @@
         "consumption": "3.0"
       },
       "Medawar": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "7.0"
       }
     },
@@ -124935,11 +124935,11 @@
     "category": "NUTS",
     "sub_category": "NATURAL NUTS",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "17.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "9.0",
+    "total_stock": "8.0",
     "total_consumption": "25.0",
     "VAT": "NO",
     "price_lbp": 160000.0,
@@ -124951,7 +124951,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "17.0"
       },
       "Medawar": {
@@ -146296,11 +146296,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Chewing gum",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "11.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "18.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
@@ -146312,7 +146312,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "7.0"
       },
       "Medawar": {
@@ -188393,11 +188393,11 @@
     "category": "NUTS",
     "sub_category": "NATURAL NUTS",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "6.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "10.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "16.0",
     "VAT": "NO",
     "price_lbp": 180000.0,
@@ -188409,7 +188409,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "6.0"
       },
       "Medawar": {
@@ -198958,11 +198958,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "22.0",
     "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "23.0",
-    "total_stock": "48.0",
+    "total_stock": "46.0",
     "total_consumption": "45.0",
     "VAT": "NO",
     "price_lbp": 45000.0,
@@ -198974,7 +198974,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "22.0",
         "consumption": "22.0"
       },
       "Medawar": {
@@ -212271,11 +212271,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "9.0",
     "consumption_in_geitawi_branch": "54.0",
     "stock_in_medawar_branch": "38.0",
     "consumption_in_medawar_branch": "46.0",
-    "total_stock": "49.0",
+    "total_stock": "47.0",
     "total_consumption": "100.0",
     "VAT": "NO",
     "price_lbp": 45000.0,
@@ -212287,7 +212287,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "9.0",
         "consumption": "54.0"
       },
       "Medawar": {
@@ -239939,7 +239939,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "34.0",
+        "stock": "30.0",
         "consumption": "110.0"
       },
       "Medawar": {
@@ -239947,8 +239947,8 @@
         "consumption": "123.0"
       }
     },
-    "stock_in_geitawi_branch": "34.0",
-    "total_stock": "115.0",
+    "stock_in_geitawi_branch": "30.0",
+    "total_stock": "111.0",
     "cost": 0.4,
     "stock_in_medawar_branch": "81.0",
     "Product Description": "CHOCO PRINCE 25 G ()",
@@ -265930,9 +265930,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "100.0",
     "consumption_in_geitawi_branch": "106.0",
-    "stock_in_medawar_branch": "216.0",
+    "stock_in_medawar_branch": "214.0",
     "consumption_in_medawar_branch": "189.0",
-    "total_stock": "316.0",
+    "total_stock": "314.0",
     "total_consumption": "295.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -265954,7 +265954,7 @@
         "consumption": "106.0"
       },
       "Medawar": {
-        "stock": "216.0",
+        "stock": "214.0",
         "consumption": "189.0"
       }
     },
