@@ -3535,11 +3535,11 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "502.0",
+    "stock_in_geitawi_branch": "500.0",
     "consumption_in_geitawi_branch": "1763.0",
     "stock_in_medawar_branch": "2910.0",
     "consumption_in_medawar_branch": "1290.0",
-    "total_stock": "3412.0",
+    "total_stock": "3410.0",
     "total_consumption": "3053.0",
     "VAT": "NO",
     "price_lbp": 25000.0,
@@ -3551,7 +3551,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "502.0",
+        "stock": "500.0",
         "consumption": "1763.0"
       },
       "Medawar": {
@@ -3565,7 +3565,7 @@
     "vat": 0,
     "barcode2": "9556001297877",
     "barcodes": "9556001297877",
-    "totalStock": "3456"
+    "totalStock": "3410"
   },
   {
     "id": "494",
@@ -6500,9 +6500,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "120.0",
     "consumption_in_geitawi_branch": "148.0",
-    "stock_in_medawar_branch": "100.0",
+    "stock_in_medawar_branch": "99.0",
     "consumption_in_medawar_branch": "216.0",
-    "total_stock": "220.0",
+    "total_stock": "219.0",
     "total_consumption": "364.0",
     "VAT": "YES",
     "price_lbp": 160000.0,
@@ -6518,7 +6518,7 @@
         "consumption": "148.0"
       },
       "Medawar": {
-        "stock": "100.0",
+        "stock": "99.0",
         "consumption": "216.0"
       }
     },
@@ -32928,11 +32928,11 @@
     "category": "CIGARETTES",
     "sub_category": "ROLLING CIGARETTE PAPER",
     "offers": "0",
-    "stock_in_geitawi_branch": "76.0",
+    "stock_in_geitawi_branch": "72.0",
     "consumption_in_geitawi_branch": "26.0",
     "stock_in_medawar_branch": "99.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": "175.0",
+    "total_stock": "171.0",
     "total_consumption": "42.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -32944,7 +32944,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "76.0",
+        "stock": "72.0",
         "consumption": "26.0"
       },
       "Medawar": {
@@ -32967,7 +32967,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-10246-1778956975731050",
     "product_setup_saved_at_utc": "2026-05-16T18:42:55.731050Z",
-    "totalStock": "184"
+    "totalStock": "171"
   },
   {
     "id": "10247",
@@ -41720,9 +41720,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "53.0",
     "consumption_in_geitawi_branch": "220.0",
-    "stock_in_medawar_branch": "63.0",
+    "stock_in_medawar_branch": "62.0",
     "consumption_in_medawar_branch": "116.0",
-    "total_stock": "116.0",
+    "total_stock": "115.0",
     "total_consumption": "336.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -41738,7 +41738,7 @@
         "consumption": "220.0"
       },
       "Medawar": {
-        "stock": "63.0",
+        "stock": "62.0",
         "consumption": "116.0"
       }
     },
@@ -101918,9 +101918,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "19.0",
-    "stock_in_medawar_branch": "11.0",
+    "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "50.0",
-    "total_stock": "22.0",
+    "total_stock": "21.0",
     "total_consumption": "69.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -101936,7 +101936,7 @@
         "consumption": "19.0"
       },
       "Medawar": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "50.0"
       }
     },
@@ -164479,9 +164479,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "136.0",
     "consumption_in_geitawi_branch": "111.0",
-    "stock_in_medawar_branch": "23.0",
+    "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "83.0",
-    "total_stock": "159.0",
+    "total_stock": "157.0",
     "total_consumption": "194.0",
     "VAT": "NO",
     "price_lbp": 75000.0,
@@ -164497,7 +164497,7 @@
         "consumption": "111.0"
       },
       "Medawar": {
-        "stock": "23.0",
+        "stock": "21.0",
         "consumption": "83.0"
       }
     },
