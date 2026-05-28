@@ -23771,11 +23771,11 @@
     "category": "PET SUPPLIES",
     "sub_category": "PETS FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "18.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "34.0",
     "VAT": "YES",
     "price_lbp": 95000.0,
@@ -23787,7 +23787,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "18.0"
       },
       "Medawar": {
@@ -23801,7 +23801,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "12"
+    "totalStock": "9"
   },
   {
     "id": "6793",
@@ -41786,11 +41786,11 @@
     "sub_category": "CIGARETTES",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "220.0",
     "stock_in_medawar_branch": "46.0",
     "consumption_in_medawar_branch": "121.0",
-    "total_stock": "50.0",
+    "total_stock": "49.0",
     "total_consumption": "341.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -41808,7 +41808,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "220.0"
       },
       "Medawar": {
@@ -41818,7 +41818,7 @@
     },
     "product_setup_save_token": "PS-SAVE-12712-1779887282130595",
     "product_setup_saved_at_utc": "2026-05-27T13:08:02.130595Z",
-    "totalStock": "87",
+    "totalStock": "49",
     "name": "MARLBORO CRAFTED RED",
     "supplier": "CIGARETTES",
     "subcategory": "CIGARETTES",
