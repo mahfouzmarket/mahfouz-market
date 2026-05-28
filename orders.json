@@ -9910,5 +9910,45 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1779974503211",
+    "ts": "2026-05-28T13:21:43.211218Z",
+    "createdAt": "2026-05-28T13:21:43.211218Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-28T13:21:43.211218Z"
+      }
+    ],
+    "customer": {
+      "name": "Mohamed Issa",
+      "phone": "81182177",
+      "address": "non\nnon, بناية سمك بلبحر, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.892399,35.530169"
+    },
+    "customer_name": "Mohamed Issa",
+    "customer_phone": "81182177",
+    "pickup": false,
+    "items": [
+      {
+        "id": "15900",
+        "name": "SFB TOP SECURITY 63MM",
+        "qty": 1,
+        "unitUsd": 2.94,
+        "totalUsd": 2.94,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15900.jpg"
+      }
+    ],
+    "totalUsd": 3.85,
+    "totalLbp": 345000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
