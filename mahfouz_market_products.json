@@ -3809,11 +3809,11 @@
     "category": "COFFEE SHOP",
     "sub_category": "coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "-9.0",
+    "stock_in_geitawi_branch": "-10.0",
     "consumption_in_geitawi_branch": "528.0",
     "stock_in_medawar_branch": "1056.0",
     "consumption_in_medawar_branch": "379.0",
-    "total_stock": "1047.0",
+    "total_stock": "1046.0",
     "total_consumption": "907.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
@@ -3825,7 +3825,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-9.0",
+        "stock": "-10.0",
         "consumption": "528.0"
       },
       "Medawar": {
@@ -3848,7 +3848,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-608-1778914111735325",
     "product_setup_saved_at_utc": "2026-05-16T06:48:31.735325Z",
-    "totalStock": "1048"
+    "totalStock": "1046"
   },
   {
     "id": "611",
@@ -7612,11 +7612,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "429.0",
+    "stock_in_geitawi_branch": "428.0",
     "consumption_in_geitawi_branch": "1043.0",
     "stock_in_medawar_branch": "-766.0",
     "consumption_in_medawar_branch": "1209.0",
-    "total_stock": "-337.0",
+    "total_stock": "-338.0",
     "total_consumption": "2252.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7628,7 +7628,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "429.0",
+        "stock": "428.0",
         "consumption": "1043.0"
       },
       "Medawar": {
@@ -7642,7 +7642,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-333"
+    "totalStock": "-338"
   },
   {
     "id": "1435",
