@@ -45777,12 +45777,12 @@
     "category": "HOME USAGE",
     "sub_category": "WOMAN CARE",
     "offers": "0",
-    "stock_in_geitawi_branch": "7.0",
-    "consumption_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "6.0",
+    "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "7.0",
-    "total_consumption": "6.0",
+    "total_stock": "6.0",
+    "total_consumption": "7.0",
     "VAT": "YES",
     "price_lbp": 285000.0,
     "price_usd": "3.17",
@@ -45797,8 +45797,8 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
-        "consumption": "6.0"
+        "stock": "6.0",
+        "consumption": "7.0"
       },
       "Medawar": {
         "stock": "0.0",
@@ -45815,7 +45815,8 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13062-1778664995307082",
-    "product_setup_saved_at_utc": "2026-05-13T09:36:35.307082Z"
+    "product_setup_saved_at_utc": "2026-05-13T09:36:35.307082Z",
+    "totalStock": "6"
   },
   {
     "id": "13063",
@@ -79688,12 +79689,12 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "fruits",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
-    "consumption_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "-1.0",
+    "consumption_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "5.0",
-    "total_stock": "4.0",
-    "total_consumption": "8.0",
+    "total_stock": "3.0",
+    "total_consumption": "9.0",
     "VAT": "NO",
     "price_lbp": 300000.0,
     "price_usd": "3.33",
@@ -79704,8 +79705,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
-        "consumption": "3.0"
+        "stock": "-1.0",
+        "consumption": "4.0"
       },
       "Medawar": {
         "stock": "4.0",
@@ -79729,7 +79730,7 @@
     "name": "KIWI",
     "subcategory": "fruits",
     "vat": 0,
-    "totalStock": "5",
+    "totalStock": "3",
     "product_setup_save_token": "PS-SAVE-15771-1779008913398932",
     "product_setup_saved_at_utc": "2026-05-17T09:08:33.398932Z"
   },
@@ -87377,14 +87378,14 @@
     "vat": 0,
     "price_lbp": 405000.0,
     "cost": 3.75,
-    "total_stock": "3.0",
-    "total_consumption": "1.0",
-    "stock_in_geitawi_branch": "3.0",
+    "total_stock": "2.0",
+    "total_consumption": "2.0",
+    "stock_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "0.0",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
-        "consumption": "1.0"
+        "stock": "2.0",
+        "consumption": "2.0"
       },
       "Medawar": {
         "stock": "0.0",
@@ -87408,7 +87409,7 @@
     "import_note": "Imported only because PDF row contains BARCODE1/BARCODE2; active existing products were not changed.",
     "reactivated_from_active_listing_pdf_at_utc": "2026-05-09T22:54:32.479137Z",
     "name": "ROSANA 18 ROLL 20% EXTRA",
-    "consumption_in_geitawi_branch": "1.0",
+    "consumption_in_geitawi_branch": "2.0",
     "consumption_in_medawar_branch": "0.0",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
@@ -87425,7 +87426,7 @@
     "cost_ht_usd": 3.75,
     "cost_formula": "sale_price_usd_div_1.2",
     "cost_formula_applied_at_utc": "2026-05-13T07:29:23.147369Z",
-    "totalStock": "3",
+    "totalStock": "2",
     "price_usd": "4.50"
   },
   {
@@ -180580,14 +180581,14 @@
     "vat": 0,
     "price_lbp": 400000.0,
     "cost": 2.7777777777777777,
-    "total_stock": "11.811",
-    "total_consumption": "4.8",
-    "stock_in_geitawi_branch": "2.811",
+    "total_stock": "11.011",
+    "total_consumption": "5.6",
+    "stock_in_geitawi_branch": "2.011",
     "stock_in_medawar_branch": "9.000",
     "branches": {
       "Geitawi": {
-        "stock": "2.811",
-        "consumption": "2.0"
+        "stock": "2.011",
+        "consumption": "2.8"
       },
       "Medawar": {
         "stock": "9.000",
@@ -180611,7 +180612,7 @@
     "import_note": "Imported only because PDF row contains BARCODE1/BARCODE2; active existing products were not changed.",
     "reactivated_from_active_listing_pdf_at_utc": "2026-05-09T22:54:32.479137Z",
     "name": "MECHMOUCH",
-    "consumption_in_geitawi_branch": "2.0",
+    "consumption_in_geitawi_branch": "2.8",
     "consumption_in_medawar_branch": "2.8",
     "stock_in_the_daily_market_branch": "0.000",
     "consumption_in_the_daily_market_branch": "0.0",
@@ -180639,7 +180640,7 @@
     "product_setup_save_token": "PS-SAVE-20673-1779011334639139",
     "product_setup_saved_at_utc": "2026-05-17T09:48:54.639139Z",
     "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20673.jpg",
-    "totalStock": "8.981"
+    "totalStock": "11.011"
   },
   {
     "id": "20674",
@@ -181044,12 +181045,12 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "FRUITS",
     "offers": "0",
-    "stock_in_geitawi_branch": "-0.115",
-    "consumption_in_geitawi_branch": "3.1",
+    "stock_in_geitawi_branch": "-0.780",
+    "consumption_in_geitawi_branch": "3.8",
     "stock_in_medawar_branch": "6.290",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "6.175",
-    "total_consumption": "7.1",
+    "total_stock": "5.510",
+    "total_consumption": "7.8",
     "VAT": "NO",
     "price_lbp": 350000.0,
     "price_usd": "3.89",
@@ -181060,8 +181061,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-0.115",
-        "consumption": "3.1"
+        "stock": "-0.780",
+        "consumption": "3.8"
       },
       "Medawar": {
         "stock": "6.290",
@@ -181085,7 +181086,7 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "totalStock": "7.74"
+    "totalStock": "5.51"
   },
   {
     "id": "20682",
