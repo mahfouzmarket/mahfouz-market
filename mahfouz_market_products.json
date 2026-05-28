@@ -3859,11 +3859,11 @@
     "category": "COFFEE SHOP",
     "sub_category": "HOT DRINK",
     "offers": "0",
-    "stock_in_geitawi_branch": "-8.0",
+    "stock_in_geitawi_branch": "-10.0",
     "consumption_in_geitawi_branch": "26.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "-8.0",
+    "total_stock": "-10.0",
     "total_consumption": "27.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -3875,7 +3875,7 @@
     "delivery_rules": "0.225",
     "branches": {
       "Geitawi": {
-        "stock": "-8.0",
+        "stock": "-10.0",
         "consumption": "26.0"
       },
       "Medawar": {
@@ -3898,7 +3898,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-611-1779256811419664",
     "product_setup_saved_at_utc": "2026-05-20T06:00:11.419664Z",
-    "totalStock": "16"
+    "totalStock": "-10"
   },
   {
     "id": "625",
@@ -24490,7 +24490,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "22"
+    "totalStock": "23"
   },
   {
     "id": "7305",
@@ -80070,7 +80070,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "OIL & FAT",
     "vat": 0,
-    "totalStock": "5",
+    "totalStock": "6",
     "barcode2": "",
     "barcodes": ""
   },
