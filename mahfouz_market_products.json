@@ -6543,11 +6543,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "181.0",
+    "stock_in_geitawi_branch": "180.0",
     "consumption_in_geitawi_branch": "218.0",
     "stock_in_medawar_branch": "133.0",
     "consumption_in_medawar_branch": "282.0",
-    "total_stock": "314.0",
+    "total_stock": "313.0",
     "total_consumption": "500.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -6559,7 +6559,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "181.0",
+        "stock": "180.0",
         "consumption": "218.0"
       },
       "Medawar": {
@@ -6573,7 +6573,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "315"
+    "totalStock": "313"
   },
   {
     "id": "1199",
@@ -24337,11 +24337,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "53.0",
+    "stock_in_geitawi_branch": "51.0",
     "consumption_in_geitawi_branch": "488.0",
     "stock_in_medawar_branch": "64.0",
     "consumption_in_medawar_branch": "479.0",
-    "total_stock": "117.0",
+    "total_stock": "115.0",
     "total_consumption": "967.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -24353,7 +24353,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "53.0",
+        "stock": "51.0",
         "consumption": "488.0"
       },
       "Medawar": {
@@ -24367,7 +24367,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "124"
+    "totalStock": "115"
   },
   {
     "id": "7247",
@@ -41672,7 +41672,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "433"
+    "totalStock": "431"
   },
   {
     "id": "12702",
@@ -44476,11 +44476,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "-",
-    "stock_in_geitawi_branch": "-52.0",
+    "stock_in_geitawi_branch": "-54.0",
     "consumption_in_geitawi_branch": "361.0",
     "stock_in_medawar_branch": "-4.0",
     "consumption_in_medawar_branch": "242.0",
-    "total_stock": "-56.0",
+    "total_stock": "-58.0",
     "total_consumption": "603.0",
     "VAT": "YES",
     "price_lbp": 220000.0,
@@ -44493,7 +44493,7 @@
     "pcs_in_box": "6",
     "branches": {
       "Geitawi": {
-        "stock": "-52.0",
+        "stock": "-54.0",
         "consumption": "361.0"
       },
       "Medawar": {
@@ -44534,7 +44534,7 @@
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "-56",
+    "totalStock": "-58",
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z"
   },
   {
@@ -108983,11 +108983,11 @@
     "category": "HOME USAGE",
     "sub_category": "DISH WASHING",
     "offers": "0",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "11.0",
     "stock_in_medawar_branch": "50.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "63.0",
+    "total_stock": "62.0",
     "total_consumption": "18.0",
     "VAT": "YES",
     "price_lbp": 190000.0,
@@ -108999,7 +108999,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "13.0",
+        "stock": "12.0",
         "consumption": "11.0"
       },
       "Medawar": {
@@ -109017,7 +109017,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "64"
+    "totalStock": "62"
   },
   {
     "id": "17913",
