@@ -6994,11 +6994,11 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "21.0",
     "consumption_in_geitawi_branch": "111.0",
     "stock_in_medawar_branch": "103.0",
     "consumption_in_medawar_branch": "89.0",
-    "total_stock": "127.0",
+    "total_stock": "124.0",
     "total_consumption": "200.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -7010,7 +7010,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "21.0",
         "consumption": "111.0"
       },
       "Medawar": {
@@ -7024,7 +7024,7 @@
     "vat": 1,
     "barcode2": "5281023001235",
     "barcodes": "5281023001235",
-    "totalStock": "130"
+    "totalStock": "124"
   },
   {
     "id": "1301",
@@ -24673,11 +24673,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "51.0",
     "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "40.0",
-    "total_stock": "21.0",
+    "total_stock": "20.0",
     "total_consumption": "91.0",
     "VAT": "NO",
     "price_lbp": 190000.0,
@@ -24689,7 +24689,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "13.0",
+        "stock": "12.0",
         "consumption": "51.0"
       },
       "Medawar": {
@@ -24704,7 +24704,7 @@
     "barcode2": "2285536410105",
     "barcodes": "2285536410105",
     "updatedAt": "2026-05-28T09:41:00",
-    "totalStock": "22"
+    "totalStock": "20"
   },
   {
     "id": "7311",
@@ -261810,14 +261810,14 @@
   {
     "id": "400061",
     "stock_in_medawar_branch": "32.0",
-    "stock_in_geitawi_branch": "19.0",
+    "stock_in_geitawi_branch": "18.0",
     "consumption_in_medawar_branch": "6.0",
     "consumption_in_geitawi_branch": "6.0",
-    "total_stock": "51.0",
+    "total_stock": "50.0",
     "total_consumption": "12.0",
     "branches": {
       "Geitawi": {
-        "stock": "19.0",
+        "stock": "18.0",
         "consumption": "6.0"
       },
       "Medawar": {
@@ -261855,7 +261855,7 @@
     "supplier": "ABI RAMIA BROS SARL",
     "subcategory": "sweets",
     "vat": 1,
-    "totalStock": "15"
+    "totalStock": "50"
   },
   {
     "id": "400062",
