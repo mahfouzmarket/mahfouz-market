@@ -7625,9 +7625,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "537.0",
     "consumption_in_geitawi_branch": "1042.0",
-    "stock_in_medawar_branch": "-1100.0",
+    "stock_in_medawar_branch": "-1101.0",
     "consumption_in_medawar_branch": "1235.0",
-    "total_stock": "-563.0",
+    "total_stock": "-564.0",
     "total_consumption": "2277.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7643,7 +7643,7 @@
         "consumption": "1042.0"
       },
       "Medawar": {
-        "stock": "-1100.0",
+        "stock": "-1101.0",
         "consumption": "1235.0"
       }
     },
@@ -18789,11 +18789,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "-5.0",
+    "stock_in_geitawi_branch": "-6.0",
     "consumption_in_geitawi_branch": "106.0",
     "stock_in_medawar_branch": "-21.0",
     "consumption_in_medawar_branch": "94.0",
-    "total_stock": "-26.0",
+    "total_stock": "-27.0",
     "total_consumption": "200.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -18805,7 +18805,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-5.0",
+        "stock": "-6.0",
         "consumption": "106.0"
       },
       "Medawar": {
@@ -53226,11 +53226,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "101.0",
     "stock_in_medawar_branch": "26.0",
     "consumption_in_medawar_branch": "81.0",
-    "total_stock": "25.0",
+    "total_stock": "24.0",
     "total_consumption": "182.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -53242,7 +53242,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "101.0"
       },
       "Medawar": {
@@ -53256,7 +53256,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "25"
+    "totalStock": "24"
   },
   {
     "id": "13672",
