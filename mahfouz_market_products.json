@@ -73992,11 +73992,11 @@
     "category": "FOOD",
     "sub_category": "DAIRY PRODUCTS",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.015",
+    "stock_in_geitawi_branch": "2.749",
     "consumption_in_geitawi_branch": "8.5",
     "stock_in_medawar_branch": "1.845",
     "consumption_in_medawar_branch": "6.7",
-    "total_stock": "4.860",
+    "total_stock": "4.594",
     "total_consumption": "15.2",
     "VAT": "NO",
     "price_lbp": 1805000.0,
@@ -74008,7 +74008,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.015",
+        "stock": "2.749",
         "consumption": "8.5"
       },
       "Medawar": {
@@ -247129,14 +247129,14 @@
   {
     "id": "100046",
     "stock_in_medawar_branch": "8.130",
-    "stock_in_geitawi_branch": "-1.520",
+    "stock_in_geitawi_branch": "-2.080",
     "consumption_in_medawar_branch": "8.2",
     "consumption_in_geitawi_branch": "6.4",
-    "total_stock": "6.610",
+    "total_stock": "6.050",
     "total_consumption": "14.6",
     "branches": {
       "Geitawi": {
-        "stock": "-1.520",
+        "stock": "-2.080",
         "consumption": "6.4"
       },
       "Medawar": {
