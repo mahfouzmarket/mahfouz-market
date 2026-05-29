@@ -4451,11 +4451,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "22.0",
+    "stock_in_geitawi_branch": "20.0",
     "consumption_in_geitawi_branch": "17.0",
     "stock_in_medawar_branch": "78.0",
     "consumption_in_medawar_branch": "44.0",
-    "total_stock": "100.0",
+    "total_stock": "98.0",
     "total_consumption": "61.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -4467,7 +4467,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "22.0",
+        "stock": "20.0",
         "consumption": "17.0"
       },
       "Medawar": {
@@ -4481,7 +4481,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "100"
+    "totalStock": "98"
   },
   {
     "id": "697",
@@ -7623,11 +7623,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "527.0",
+    "stock_in_geitawi_branch": "530.0",
     "consumption_in_geitawi_branch": "1042.0",
     "stock_in_medawar_branch": "-1104.0",
     "consumption_in_medawar_branch": "1235.0",
-    "total_stock": "-577.0",
+    "total_stock": "-574.0",
     "total_consumption": "2277.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7639,7 +7639,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "527.0",
+        "stock": "530.0",
         "consumption": "1042.0"
       },
       "Medawar": {
@@ -7653,7 +7653,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-577"
+    "totalStock": "-574"
   },
   {
     "id": "1435",
@@ -7664,11 +7664,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "951.0",
+    "stock_in_geitawi_branch": "953.0",
     "consumption_in_geitawi_branch": "671.0",
     "stock_in_medawar_branch": "-258.0",
     "consumption_in_medawar_branch": "532.0",
-    "total_stock": "693.0",
+    "total_stock": "695.0",
     "total_consumption": "1203.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7680,7 +7680,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "951.0",
+        "stock": "953.0",
         "consumption": "671.0"
       },
       "Medawar": {
@@ -7703,7 +7703,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "693"
+    "totalStock": "695"
   },
   {
     "id": "1437",
@@ -41648,9 +41648,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "157.0",
     "consumption_in_geitawi_branch": "1585.0",
-    "stock_in_medawar_branch": "463.0",
+    "stock_in_medawar_branch": "462.0",
     "consumption_in_medawar_branch": "1760.0",
-    "total_stock": "620.0",
+    "total_stock": "619.0",
     "total_consumption": "3345.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41666,7 +41666,7 @@
         "consumption": "1585.0"
       },
       "Medawar": {
-        "stock": "463.0",
+        "stock": "462.0",
         "consumption": "1760.0"
       }
     },
@@ -83365,11 +83365,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "79.0",
+    "stock_in_geitawi_branch": "93.0",
     "consumption_in_geitawi_branch": "248.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "242.0",
-    "total_stock": "79.0",
+    "total_stock": "93.0",
     "total_consumption": "490.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -83381,7 +83381,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "79.0",
+        "stock": "93.0",
         "consumption": "248.0"
       },
       "Medawar": {
@@ -83404,7 +83404,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-16071-1778925107826550",
     "product_setup_saved_at_utc": "2026-05-16T09:51:47.826550Z",
-    "totalStock": "79"
+    "totalStock": "93"
   },
   {
     "id": "16080",
@@ -88844,11 +88844,11 @@
     "category": "HOME USAGE",
     "sub_category": "INSECT KILLER",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "10.0",
     "stock_in_medawar_branch": "28.0",
     "consumption_in_medawar_branch": "24.0",
-    "total_stock": "29.0",
+    "total_stock": "31.0",
     "total_consumption": "34.0",
     "VAT": "NO",
     "price_lbp": 105000.0,
@@ -88860,7 +88860,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "3.0",
         "consumption": "10.0"
       },
       "Medawar": {
@@ -88874,7 +88874,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "29"
+    "totalStock": "31"
   },
   {
     "id": "16546",
@@ -240135,7 +240135,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "34.0",
+        "stock": "32.0",
         "consumption": "106.0"
       },
       "Medawar": {
@@ -240143,8 +240143,8 @@
         "consumption": "129.0"
       }
     },
-    "stock_in_geitawi_branch": "34.0",
-    "total_stock": "124.0",
+    "stock_in_geitawi_branch": "32.0",
+    "total_stock": "122.0",
     "cost": 0.36025,
     "stock_in_medawar_branch": "90.0",
     "Product Description": "CHOCO PRINCE 25 G ()",
@@ -240160,7 +240160,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "129"
+    "totalStock": "122"
   },
   {
     "id": "21878",
