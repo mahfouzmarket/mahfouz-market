@@ -52288,7 +52288,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "158"
+    "totalStock": "167"
   },
   {
     "id": "13602",
@@ -61909,11 +61909,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "8.0",
+    "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "186.0",
     "stock_in_medawar_branch": "58.0",
     "consumption_in_medawar_branch": "200.0",
-    "total_stock": "66.0",
+    "total_stock": "64.0",
     "total_consumption": "386.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -61925,7 +61925,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "8.0",
+        "stock": "6.0",
         "consumption": "186.0"
       },
       "Medawar": {
@@ -61948,7 +61948,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-14364-1778924724892851",
     "product_setup_saved_at_utc": "2026-05-16T09:45:24.892851Z",
-    "totalStock": "66"
+    "totalStock": "68"
   },
   {
     "id": "14370",
@@ -147860,7 +147860,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-5"
+    "totalStock": "-2"
   },
   {
     "id": "19850",
@@ -239780,7 +239780,7 @@
     "cost": 0.1271,
     "branches": {
       "Geitawi": {
-        "stock": "-94.0",
+        "stock": "-99.0",
         "consumption": "474.0"
       },
       "Medawar": {
@@ -239788,8 +239788,8 @@
         "consumption": "564.0"
       }
     },
-    "stock_in_geitawi_branch": "-94.0",
-    "total_stock": "-292.0",
+    "stock_in_geitawi_branch": "-99.0",
+    "total_stock": "-297.0",
     "stock_in_medawar_branch": "-198.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
@@ -239804,7 +239804,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "-298"
+    "totalStock": "-293"
   },
   {
     "id": "21871",
@@ -258272,9 +258272,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "8.0",
+    "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "12.0",
+    "total_stock": "11.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -258296,7 +258296,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "8.0",
+        "stock": "7.0",
         "consumption": "0.0"
       }
     },
@@ -266263,7 +266263,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "ENERGY DRINK",
     "vat": 1,
-    "totalStock": "264"
+    "totalStock": "268"
   },
   {
     "id": "2000015",
