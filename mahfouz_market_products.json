@@ -7065,12 +7065,12 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "147.0",
-    "consumption_in_geitawi_branch": "229.0",
+    "stock_in_geitawi_branch": "137.0",
+    "consumption_in_geitawi_branch": "236.0",
     "stock_in_medawar_branch": "245.0",
     "consumption_in_medawar_branch": "406.0",
-    "total_stock": "392.0",
-    "total_consumption": "635.0",
+    "total_stock": "382.0",
+    "total_consumption": "642.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
     "price_usd": "0.67",
@@ -7081,8 +7081,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "147.0",
-        "consumption": "229.0"
+        "stock": "137.0",
+        "consumption": "236.0"
       },
       "Medawar": {
         "stock": "245.0",
@@ -7095,7 +7095,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "401"
+    "totalStock": "382"
   },
   {
     "id": "1314",
@@ -7602,12 +7602,12 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "429.0",
-    "consumption_in_geitawi_branch": "1042.0",
+    "stock_in_geitawi_branch": "434.0",
+    "consumption_in_geitawi_branch": "1012.0",
     "stock_in_medawar_branch": "-963.0",
     "consumption_in_medawar_branch": "1235.0",
-    "total_stock": "-534.0",
-    "total_consumption": "2277.0",
+    "total_stock": "-529.0",
+    "total_consumption": "2247.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
     "price_usd": "0.28",
@@ -7618,8 +7618,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "429.0",
-        "consumption": "1042.0"
+        "stock": "434.0",
+        "consumption": "1012.0"
       },
       "Medawar": {
         "stock": "-963.0",
@@ -7632,7 +7632,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-534"
+    "totalStock": "-529"
   },
   {
     "id": "1435",
@@ -7645,9 +7645,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "694.0",
     "consumption_in_geitawi_branch": "671.0",
-    "stock_in_medawar_branch": "-9.0",
+    "stock_in_medawar_branch": "-11.0",
     "consumption_in_medawar_branch": "532.0",
-    "total_stock": "685.0",
+    "total_stock": "683.0",
     "total_consumption": "1203.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7663,7 +7663,7 @@
         "consumption": "671.0"
       },
       "Medawar": {
-        "stock": "-9.0",
+        "stock": "-11.0",
         "consumption": "532.0"
       }
     },
@@ -7682,7 +7682,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "685"
+    "totalStock": "687"
   },
   {
     "id": "1437",
@@ -24951,9 +24951,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "18.0",
-    "stock_in_medawar_branch": "170.0",
+    "stock_in_medawar_branch": "169.0",
     "consumption_in_medawar_branch": "515.0",
-    "total_stock": "170.0",
+    "total_stock": "169.0",
     "total_consumption": "533.0",
     "VAT": "NO",
     "price_lbp": 20000.0,
@@ -24969,7 +24969,7 @@
         "consumption": "18.0"
       },
       "Medawar": {
-        "stock": "170.0",
+        "stock": "169.0",
         "consumption": "515.0"
       }
     },
@@ -54874,7 +54874,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13837-1778920657264948",
     "product_setup_saved_at_utc": "2026-05-16T08:37:37.264948Z",
-    "totalStock": "112"
+    "totalStock": "152"
   },
   {
     "id": "13838",
@@ -86149,9 +86149,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "10.0",
+    "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "30.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -86167,7 +86167,7 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "10.0",
+        "stock": "9.0",
         "consumption": "29.0"
       }
     },
