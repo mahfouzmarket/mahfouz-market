@@ -7625,9 +7625,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "523.0",
     "consumption_in_geitawi_branch": "1042.0",
-    "stock_in_medawar_branch": "-1127.0",
+    "stock_in_medawar_branch": "-1128.0",
     "consumption_in_medawar_branch": "1235.0",
-    "total_stock": "-604.0",
+    "total_stock": "-605.0",
     "total_consumption": "2277.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7643,7 +7643,7 @@
         "consumption": "1042.0"
       },
       "Medawar": {
-        "stock": "-1127.0",
+        "stock": "-1128.0",
         "consumption": "1235.0"
       }
     },
@@ -9922,11 +9922,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "30.0",
+    "stock_in_geitawi_branch": "66.0",
     "consumption_in_geitawi_branch": "151.0",
     "stock_in_medawar_branch": "27.0",
     "consumption_in_medawar_branch": "140.0",
-    "total_stock": "57.0",
+    "total_stock": "93.0",
     "total_consumption": "291.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -9938,7 +9938,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "30.0",
+        "stock": "66.0",
         "consumption": "151.0"
       },
       "Medawar": {
@@ -9952,7 +9952,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "57"
+    "totalStock": "93"
   },
   {
     "id": "2474",
@@ -9963,11 +9963,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "44.0",
+    "stock_in_geitawi_branch": "68.0",
     "consumption_in_geitawi_branch": "93.0",
     "stock_in_medawar_branch": "28.0",
     "consumption_in_medawar_branch": "74.0",
-    "total_stock": "72.0",
+    "total_stock": "96.0",
     "total_consumption": "167.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -9979,7 +9979,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "44.0",
+        "stock": "68.0",
         "consumption": "93.0"
       },
       "Medawar": {
@@ -9993,7 +9993,7 @@
     "vat": 1,
     "barcode2": "5287000457422",
     "barcodes": "5287000457422",
-    "totalStock": "66"
+    "totalStock": "96"
   },
   {
     "id": "2475",
@@ -10135,11 +10135,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "1.0",
+    "total_stock": "2.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 280000.0,
@@ -10151,7 +10151,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -10165,7 +10165,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1"
+    "totalStock": "2"
   },
   {
     "id": "2483",
@@ -10176,11 +10176,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "1.0",
+    "total_stock": "2.0",
     "total_consumption": "4.0",
     "VAT": "YES",
     "price_lbp": 210000.0,
@@ -10192,7 +10192,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "2.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -10206,7 +10206,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1"
+    "totalStock": "2"
   },
   {
     "id": "2484",
@@ -10217,11 +10217,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "0.0",
+    "total_stock": "1.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 350000.0,
@@ -10233,7 +10233,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -10246,7 +10246,8 @@
     "subcategory": "cake",
     "vat": 1,
     "barcode2": "",
-    "barcodes": ""
+    "barcodes": "",
+    "totalStock": "1"
   },
   {
     "id": "2492",
@@ -10996,11 +10997,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "1.0",
+    "total_stock": "4.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -11012,7 +11013,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "3.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -11026,7 +11027,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "0"
+    "totalStock": "4"
   },
   {
     "id": "2628",
@@ -145454,11 +145455,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "1.0",
+    "total_stock": "4.0",
     "total_consumption": "6.0",
     "VAT": "YES",
     "price_lbp": 145000.0,
@@ -145470,7 +145471,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "3.0",
         "consumption": "4.0"
       },
       "Medawar": {
@@ -145484,7 +145485,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1"
+    "totalStock": "4"
   },
   {
     "id": "19765",
@@ -145495,11 +145496,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "3.0",
+    "total_stock": "5.0",
     "total_consumption": "4.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -145511,7 +145512,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "3.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -145525,7 +145526,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3"
+    "totalStock": "5"
   },
   {
     "id": "19766",
@@ -145741,11 +145742,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "2.0",
+    "total_stock": "4.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 145000.0,
@@ -145757,7 +145758,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "3.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -145771,7 +145772,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "2"
+    "totalStock": "4"
   },
   {
     "id": "19780",
@@ -145823,11 +145824,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "5.0",
+    "total_stock": "6.0",
     "total_consumption": "4.0",
     "VAT": "YES",
     "price_lbp": 390000.0,
@@ -145839,7 +145840,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -145853,7 +145854,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5"
+    "totalStock": "6"
   },
   {
     "id": "19787",
@@ -146396,9 +146397,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "9.0",
     "consumption_in_geitawi_branch": "12.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "25.0",
-    "total_stock": "13.0",
+    "total_stock": "12.0",
     "total_consumption": "37.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
@@ -146414,7 +146415,7 @@
         "consumption": "12.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "25.0"
       }
     },
