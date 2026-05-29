@@ -6502,11 +6502,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "115.0",
+    "stock_in_geitawi_branch": "110.0",
     "consumption_in_geitawi_branch": "146.0",
     "stock_in_medawar_branch": "86.0",
     "consumption_in_medawar_branch": "235.0",
-    "total_stock": "201.0",
+    "total_stock": "196.0",
     "total_consumption": "381.0",
     "VAT": "YES",
     "price_lbp": 160000.0,
@@ -6518,7 +6518,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "115.0",
+        "stock": "110.0",
         "consumption": "146.0"
       },
       "Medawar": {
@@ -6532,7 +6532,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "202"
+    "totalStock": "198"
   },
   {
     "id": "1182",
@@ -41487,9 +41487,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "56.0",
     "consumption_in_geitawi_branch": "122.0",
-    "stock_in_medawar_branch": "35.0",
+    "stock_in_medawar_branch": "36.0",
     "consumption_in_medawar_branch": "155.0",
-    "total_stock": "91.0",
+    "total_stock": "92.0",
     "total_consumption": "277.0",
     "VAT": "NO",
     "price_lbp": 205000.0,
@@ -41505,7 +41505,7 @@
         "consumption": "122.0"
       },
       "Medawar": {
-        "stock": "35.0",
+        "stock": "36.0",
         "consumption": "155.0"
       }
     },
@@ -41524,7 +41524,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12625-1778921820509273",
     "product_setup_saved_at_utc": "2026-05-16T08:57:00.509273Z",
-    "totalStock": "91"
+    "totalStock": "93"
   },
   {
     "id": "12637",
@@ -57762,11 +57762,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "16.0",
     "stock_in_medawar_branch": "94.0",
     "consumption_in_medawar_branch": "28.0",
-    "total_stock": "118.0",
+    "total_stock": "116.0",
     "total_consumption": "44.0",
     "VAT": "YES",
     "price_lbp": 95000.0,
@@ -57778,7 +57778,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "22.0",
         "consumption": "16.0"
       },
       "Medawar": {
@@ -57792,7 +57792,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "0"
+    "totalStock": "116"
   },
   {
     "id": "14058",
@@ -82592,11 +82592,11 @@
     "category": "CHIPS",
     "sub_category": "MASTER",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "95.0",
     "stock_in_medawar_branch": "62.0",
     "consumption_in_medawar_branch": "82.0",
-    "total_stock": "64.0",
+    "total_stock": "63.0",
     "total_consumption": "177.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -82608,7 +82608,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "95.0"
       },
       "Medawar": {
@@ -82622,7 +82622,7 @@
     "vat": 1,
     "barcode2": "5283003301137",
     "barcodes": "5283003301137",
-    "totalStock": "64"
+    "totalStock": "67"
   },
   {
     "id": "15980",
@@ -94060,11 +94060,11 @@
     "category": "CHI TAYIB",
     "sub_category": "rice cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "11.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "18.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -94076,7 +94076,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "11.0"
       },
       "Medawar": {
@@ -94094,7 +94094,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9"
+    "totalStock": "7"
   },
   {
     "id": "16959",
