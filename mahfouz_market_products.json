@@ -7664,11 +7664,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "960.0",
+    "stock_in_geitawi_branch": "959.0",
     "consumption_in_geitawi_branch": "671.0",
     "stock_in_medawar_branch": "-255.0",
     "consumption_in_medawar_branch": "532.0",
-    "total_stock": "705.0",
+    "total_stock": "704.0",
     "total_consumption": "1203.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7680,7 +7680,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "960.0",
+        "stock": "959.0",
         "consumption": "671.0"
       },
       "Medawar": {
@@ -7703,7 +7703,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "729"
+    "totalStock": "704"
   },
   {
     "id": "1437",
@@ -78968,11 +78968,11 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "VEGETABLES",
     "offers": "0",
-    "stock_in_geitawi_branch": "7.0",
+    "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "11.0",
     "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "16.0",
+    "total_stock": "15.0",
     "total_consumption": "18.0",
     "VAT": "NO",
     "price_lbp": 200000.0,
@@ -78984,7 +78984,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
+        "stock": "6.0",
         "consumption": "11.0"
       },
       "Medawar": {
@@ -79011,7 +79011,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15755-1779008639232500",
     "product_setup_saved_at_utc": "2026-05-17T09:03:59.232500Z",
-    "totalStock": "17"
+    "totalStock": "15"
   },
   {
     "id": "15756",
@@ -165005,11 +165005,11 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "17.0",
     "stock_in_medawar_branch": "17.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "17.0",
+    "total_stock": "16.0",
     "total_consumption": "20.0",
     "VAT": "NO",
     "price_lbp": 125000.0,
@@ -165021,7 +165021,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "17.0"
       },
       "Medawar": {
@@ -165035,7 +165035,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "17",
+    "totalStock": "16",
     "expiry_days": "0",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
@@ -178404,11 +178404,11 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "28.0",
+    "stock_in_geitawi_branch": "27.0",
     "consumption_in_geitawi_branch": "38.0",
     "stock_in_medawar_branch": "30.0",
     "consumption_in_medawar_branch": "38.0",
-    "total_stock": "58.0",
+    "total_stock": "57.0",
     "total_consumption": "76.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -178420,7 +178420,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "28.0",
+        "stock": "27.0",
         "consumption": "38.0"
       },
       "Medawar": {
@@ -178434,7 +178434,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "58"
+    "totalStock": "57"
   },
   {
     "id": "20630",
@@ -199335,11 +199335,11 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "31.0",
+    "stock_in_geitawi_branch": "30.0",
     "consumption_in_geitawi_branch": "28.0",
     "stock_in_medawar_branch": "56.0",
     "consumption_in_medawar_branch": "35.0",
-    "total_stock": "87.0",
+    "total_stock": "86.0",
     "total_consumption": "63.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -199351,7 +199351,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "31.0",
+        "stock": "30.0",
         "consumption": "28.0"
       },
       "Medawar": {
@@ -199365,7 +199365,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "87"
+    "totalStock": "86"
   },
   {
     "id": "21075",
