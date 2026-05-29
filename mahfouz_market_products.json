@@ -18773,11 +18773,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "106.0",
     "stock_in_medawar_branch": "-21.0",
     "consumption_in_medawar_branch": "94.0",
-    "total_stock": "-20.0",
+    "total_stock": "-21.0",
     "total_consumption": "200.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -18789,7 +18789,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "106.0"
       },
       "Medawar": {
@@ -37567,11 +37567,11 @@
     "category": "HOME USAGE",
     "sub_category": "shaving",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "5.0",
-    "total_stock": "13.0",
+    "total_stock": "12.0",
     "total_consumption": "7.0",
     "VAT": "NO",
     "price_lbp": 85000.0,
@@ -37583,7 +37583,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "2.0"
       },
       "Medawar": {
