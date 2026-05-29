@@ -7654,11 +7654,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "699.0",
+    "stock_in_geitawi_branch": "698.0",
     "consumption_in_geitawi_branch": "677.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "532.0",
-    "total_stock": "704.0",
+    "total_stock": "703.0",
     "total_consumption": "1209.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7670,7 +7670,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "699.0",
+        "stock": "698.0",
         "consumption": "677.0"
       },
       "Medawar": {
@@ -7693,7 +7693,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "704"
+    "totalStock": "703"
   },
   {
     "id": "1437",
@@ -17070,11 +17070,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "33.0",
+    "stock_in_geitawi_branch": "32.0",
     "consumption_in_geitawi_branch": "63.0",
     "stock_in_medawar_branch": "62.0",
     "consumption_in_medawar_branch": "47.0",
-    "total_stock": "95.0",
+    "total_stock": "94.0",
     "total_consumption": "110.0",
     "VAT": "NO",
     "price_lbp": 50000.0,
@@ -17086,7 +17086,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "33.0",
+        "stock": "32.0",
         "consumption": "63.0"
       },
       "Medawar": {
@@ -17100,7 +17100,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "100"
+    "totalStock": "94"
   },
   {
     "id": "4771",
@@ -55634,11 +55634,11 @@
     "category": "CHIPS",
     "sub_category": "DOLSI",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "22.0",
     "consumption_in_geitawi_branch": "80.0",
     "stock_in_medawar_branch": "33.0",
     "consumption_in_medawar_branch": "26.0",
-    "total_stock": "56.0",
+    "total_stock": "55.0",
     "total_consumption": "106.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -55650,7 +55650,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "22.0",
         "consumption": "80.0"
       },
       "Medawar": {
@@ -55664,7 +55664,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "56"
+    "totalStock": "55"
   },
   {
     "id": "13867",
@@ -59365,11 +59365,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "-3.0",
+    "stock_in_geitawi_branch": "-4.0",
     "consumption_in_geitawi_branch": "21.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "-2.0",
+    "total_stock": "-3.0",
     "total_consumption": "22.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -59381,7 +59381,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-3.0",
+        "stock": "-4.0",
         "consumption": "21.0"
       },
       "Medawar": {
@@ -59408,7 +59408,7 @@
     "name": "NOUNA'S FOOD LAZY CAKE",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "1"
+    "totalStock": "-3"
   },
   {
     "id": "14153",
@@ -61897,11 +61897,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "188.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "200.0",
-    "total_stock": "1.0",
+    "total_stock": "0.0",
     "total_consumption": "388.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -61913,7 +61913,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "188.0"
       },
       "Medawar": {
@@ -61936,7 +61936,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-14364-1778924724892851",
     "product_setup_saved_at_utc": "2026-05-16T09:45:24.892851Z",
-    "totalStock": "2"
+    "totalStock": "0"
   },
   {
     "id": "14370",
@@ -83648,11 +83648,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Wafers",
     "offers": "0",
-    "stock_in_geitawi_branch": "24.0",
+    "stock_in_geitawi_branch": "23.0",
     "consumption_in_geitawi_branch": "20.0",
     "stock_in_medawar_branch": "42.0",
     "consumption_in_medawar_branch": "45.0",
-    "total_stock": "66.0",
+    "total_stock": "65.0",
     "total_consumption": "65.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
@@ -83664,7 +83664,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "20.0"
       },
       "Medawar": {
@@ -83681,7 +83681,8 @@
     "subcategory": "Wafers",
     "vat": 1,
     "barcode2": "5281028648039",
-    "barcodes": "5281028648039"
+    "barcodes": "5281028648039",
+    "totalStock": "65"
   },
   {
     "id": "16104",
@@ -103251,11 +103252,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "36.0",
+    "stock_in_geitawi_branch": "35.0",
     "consumption_in_geitawi_branch": "26.0",
     "stock_in_medawar_branch": "-65.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": "-29.0",
+    "total_stock": "-30.0",
     "total_consumption": "42.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -103267,7 +103268,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "36.0",
+        "stock": "35.0",
         "consumption": "26.0"
       },
       "Medawar": {
@@ -103285,7 +103286,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-27"
+    "totalStock": "-30"
   },
   {
     "id": "17497",
@@ -105999,11 +106000,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "27.0",
+    "stock_in_geitawi_branch": "26.0",
     "consumption_in_geitawi_branch": "31.0",
     "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "33.0",
-    "total_stock": "43.0",
+    "total_stock": "42.0",
     "total_consumption": "64.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -106015,7 +106016,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "27.0",
+        "stock": "26.0",
         "consumption": "31.0"
       },
       "Medawar": {
@@ -106033,7 +106034,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "43"
+    "totalStock": "42"
   },
   {
     "id": "17696",
@@ -240101,7 +240102,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "30.0",
+        "stock": "29.0",
         "consumption": "106.0"
       },
       "Medawar": {
@@ -240109,8 +240110,8 @@
         "consumption": "129.0"
       }
     },
-    "stock_in_geitawi_branch": "30.0",
-    "total_stock": "122.0",
+    "stock_in_geitawi_branch": "29.0",
+    "total_stock": "121.0",
     "cost": 0.36025,
     "stock_in_medawar_branch": "92.0",
     "Product Description": "CHOCO PRINCE 25 G ()",
@@ -240126,7 +240127,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "125"
+    "totalStock": "121"
   },
   {
     "id": "21878",
@@ -241578,14 +241579,14 @@
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
     "stock_in_medawar_branch": "2.0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_medawar_branch": "11.0",
     "consumption_in_geitawi_branch": "11.0",
-    "total_stock": "5.0",
+    "total_stock": "4.0",
     "total_consumption": "22.0",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "11.0"
       },
       "Medawar": {
@@ -241607,7 +241608,7 @@
     "new_items": "x",
     "subcategory": "MASTER",
     "vat": 1,
-    "totalStock": "6"
+    "totalStock": "4"
   },
   {
     "id": "21925",
