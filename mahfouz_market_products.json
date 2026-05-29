@@ -7703,7 +7703,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "733"
+    "totalStock": "687"
   },
   {
     "id": "1437",
@@ -41272,7 +41272,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "91",
+    "totalStock": "59",
     "expiry_days": "0",
     "cost_ht": "1.75",
     "linked_profile_enabled": false,
@@ -52409,7 +52409,7 @@
     "vat": 1,
     "barcode2": "5283024602343",
     "barcodes": "5283024602343",
-    "totalStock": "109"
+    "totalStock": "114"
   },
   {
     "id": "13605",
@@ -98566,9 +98566,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "53.0",
-    "stock_in_medawar_branch": "23.0",
+    "stock_in_medawar_branch": "22.0",
     "consumption_in_medawar_branch": "51.0",
-    "total_stock": "35.0",
+    "total_stock": "34.0",
     "total_consumption": "104.0",
     "VAT": "NO",
     "price_lbp": 235000.0,
@@ -98584,7 +98584,7 @@
         "consumption": "53.0"
       },
       "Medawar": {
-        "stock": "23.0",
+        "stock": "22.0",
         "consumption": "51.0"
       }
     },
@@ -114051,9 +114051,9 @@
     "category": "FOOD",
     "sub_category": "CHARCUTERIE",
     "offers": "0",
-    "stock_in_geitawi_branch": "-3.0",
+    "stock_in_geitawi_branch": "-9.0",
     "consumption_in_geitawi_branch": "29.0",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "5.0",
     "total_stock": "3.0",
     "total_consumption": "34.0",
@@ -114067,11 +114067,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-3.0",
+        "stock": "-9.0",
         "consumption": "29.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "12.0",
         "consumption": "5.0"
       }
     },
@@ -114151,9 +114151,9 @@
     "category": "FOOD",
     "sub_category": "CHARCUTERIE",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "60.0",
-    "stock_in_medawar_branch": "9.0",
+    "stock_in_medawar_branch": "15.0",
     "consumption_in_medawar_branch": "15.0",
     "total_stock": "15.0",
     "total_consumption": "75.0",
@@ -114167,11 +114167,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "0.0",
         "consumption": "60.0"
       },
       "Medawar": {
-        "stock": "9.0",
+        "stock": "15.0",
         "consumption": "15.0"
       }
     },
@@ -114353,9 +114353,9 @@
     "category": "FOOD",
     "sub_category": "CHARCUTERIE",
     "offers": "",
-    "stock_in_geitawi_branch": "-8.0",
+    "stock_in_geitawi_branch": "-10.0",
     "consumption_in_geitawi_branch": "62.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "17.0",
     "total_stock": "-4.0",
     "total_consumption": "79.0",
@@ -114369,11 +114369,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-8.0",
+        "stock": "-10.0",
         "consumption": "62.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "6.0",
         "consumption": "17.0"
       }
     },
@@ -114405,9 +114405,9 @@
     "category": "FOOD",
     "sub_category": "CHARCUTERIE",
     "offers": "0",
-    "stock_in_geitawi_branch": "-5.0",
+    "stock_in_geitawi_branch": "-8.0",
     "consumption_in_geitawi_branch": "29.0",
-    "stock_in_medawar_branch": "3.0",
+    "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "11.0",
     "total_stock": "-2.0",
     "total_consumption": "40.0",
@@ -114421,11 +114421,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-5.0",
+        "stock": "-8.0",
         "consumption": "29.0"
       },
       "Medawar": {
-        "stock": "3.0",
+        "stock": "6.0",
         "consumption": "11.0"
       }
     },
