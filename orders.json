@@ -10345,5 +10345,53 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1780146580404",
+    "ts": "2026-05-30T13:09:40.404226Z",
+    "createdAt": "2026-05-30T13:09:40.404226Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-30T13:09:40.404226Z"
+      }
+    ],
+    "customer": {
+      "name": "juliana naacy",
+      "phone": "71090024",
+      "address": "home\nashou3 street, der mar mousa building, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895436,35.527812"
+    },
+    "customer_name": "juliana naacy",
+    "customer_phone": "71090024",
+    "pickup": false,
+    "items": [
+      {
+        "id": "21040",
+        "name": "BON LAIT LABAN 900 G",
+        "qty": 1,
+        "unitUsd": 1.89,
+        "totalUsd": 1.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21040.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 1.06,
+        "totalUsd": 1.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      }
+    ],
+    "totalUsd": 3.85,
+    "totalLbp": 345000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
