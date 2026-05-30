@@ -7722,9 +7722,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "185.0",
     "consumption_in_geitawi_branch": "102.0",
-    "stock_in_medawar_branch": "668.0",
+    "stock_in_medawar_branch": "667.0",
     "consumption_in_medawar_branch": "158.0",
-    "total_stock": "853.0",
+    "total_stock": "852.0",
     "total_consumption": "260.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -7740,7 +7740,7 @@
         "consumption": "102.0"
       },
       "Medawar": {
-        "stock": "668.0",
+        "stock": "667.0",
         "consumption": "158.0"
       }
     },
@@ -31273,12 +31273,12 @@
     "category": "HOME USAGE",
     "sub_category": "CLEANING",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
-    "consumption_in_geitawi_branch": "6.0",
-    "stock_in_medawar_branch": "36.0",
-    "consumption_in_medawar_branch": "10.0",
-    "total_stock": "39.0",
-    "total_consumption": "16.0",
+    "stock_in_geitawi_branch": "3",
+    "consumption_in_geitawi_branch": "6",
+    "stock_in_medawar_branch": "35.0",
+    "consumption_in_medawar_branch": "0.0",
+    "total_stock": "35.0",
+    "total_consumption": "0.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
     "price_usd": "0.83",
@@ -31288,13 +31288,9 @@
     "manual": "",
     "delivery_rules": "0.005",
     "branches": {
-      "Geitawi": {
-        "stock": "3.0",
-        "consumption": "6.0"
-      },
       "Medawar": {
-        "stock": "36.0",
-        "consumption": "10.0"
+        "stock": "35.0",
+        "consumption": "0.0"
       }
     },
     "name": "DIMEX 1 L",
@@ -31303,7 +31299,12 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "39"
+    "totalStock": "35",
+    "arabic_name": "",
+    "name_ar": "",
+    "description_ar": "",
+    "expiry_days": "0",
+    "cost_ht": "0.58"
   },
   {
     "id": "9630",
@@ -40925,7 +40926,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12579-1778927916345407",
     "product_setup_saved_at_utc": "2026-05-16T10:38:36.345407Z",
-    "totalStock": "65"
+    "totalStock": "41"
   },
   {
     "id": "12582",
