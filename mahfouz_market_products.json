@@ -58902,11 +58902,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "131.0",
     "stock_in_medawar_branch": "11.0",
     "consumption_in_medawar_branch": "69.0",
-    "total_stock": "22.0",
+    "total_stock": "21.0",
     "total_consumption": "200.0",
     "VAT": "NO",
     "price_lbp": 70000.0,
@@ -58918,7 +58918,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "131.0"
       },
       "Medawar": {
@@ -58943,7 +58943,7 @@
     "name": "NF BROWNI CHOCOLATE",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "22",
+    "totalStock": "21",
     "stock_in_nouna_branch": 0
   },
   {
@@ -247271,14 +247271,14 @@
   {
     "id": "100042",
     "stock_in_medawar_branch": "11.0",
-    "stock_in_geitawi_branch": "8.0",
+    "stock_in_geitawi_branch": "7.0",
     "consumption_in_medawar_branch": "2.0",
     "consumption_in_geitawi_branch": "3.0",
-    "total_stock": "19.0",
+    "total_stock": "18.0",
     "total_consumption": "5.0",
     "branches": {
       "Geitawi": {
-        "stock": "8.0",
+        "stock": "7.0",
         "consumption": "3.0"
       },
       "Medawar": {
@@ -247316,7 +247316,7 @@
     "supplier": "EBA",
     "subcategory": "SPARKLING WATER",
     "vat": 1,
-    "totalStock": "17"
+    "totalStock": "18"
   },
   {
     "id": "100044",
