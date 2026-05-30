@@ -3339,9 +3339,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "24.0",
-    "stock_in_medawar_branch": "27.0",
+    "stock_in_medawar_branch": "26.0",
     "consumption_in_medawar_branch": "32.0",
-    "total_stock": "32.0",
+    "total_stock": "31.0",
     "total_consumption": "56.0",
     "VAT": "YES",
     "price_lbp": 315000.0,
@@ -3357,7 +3357,7 @@
         "consumption": "24.0"
       },
       "Medawar": {
-        "stock": "27.0",
+        "stock": "26.0",
         "consumption": "32.0"
       }
     },
@@ -6477,11 +6477,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "227.0",
     "stock_in_medawar_branch": "111.0",
     "consumption_in_medawar_branch": "286.0",
-    "total_stock": "123.0",
+    "total_stock": "122.0",
     "total_consumption": "513.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6493,7 +6493,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "12.0",
+        "stock": "11.0",
         "consumption": "227.0"
       },
       "Medawar": {
@@ -6507,7 +6507,7 @@
     "vat": 1,
     "barcode2": "5283024602336",
     "barcodes": "5283024602336",
-    "totalStock": "125"
+    "totalStock": "122"
   },
   {
     "id": "1178",
@@ -240843,11 +240843,11 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "stock_in_geitawi_branch": "37.0",
     "consumption_in_medawar_branch": "41.0",
     "consumption_in_geitawi_branch": "21.0",
-    "total_stock": "42.0",
+    "total_stock": "41.0",
     "total_consumption": "62.0",
     "branches": {
       "Geitawi": {
@@ -240855,7 +240855,7 @@
         "consumption": "21.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "41.0"
       }
     },
