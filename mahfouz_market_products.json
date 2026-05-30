@@ -7672,9 +7672,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "922.0",
     "consumption_in_geitawi_branch": "687.0",
-    "stock_in_medawar_branch": "-269.0",
+    "stock_in_medawar_branch": "-275.0",
     "consumption_in_medawar_branch": "523.0",
-    "total_stock": "653.0",
+    "total_stock": "647.0",
     "total_consumption": "1210.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7690,7 +7690,7 @@
         "consumption": "687.0"
       },
       "Medawar": {
-        "stock": "-269.0",
+        "stock": "-275.0",
         "consumption": "523.0"
       }
     },
@@ -11818,9 +11818,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "18.0",
     "consumption_in_geitawi_branch": "119.0",
-    "stock_in_medawar_branch": "14.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "118.0",
-    "total_stock": "32.0",
+    "total_stock": "31.0",
     "total_consumption": "237.0",
     "VAT": "NO",
     "price_lbp": 315000.0,
@@ -11836,7 +11836,7 @@
         "consumption": "119.0"
       },
       "Medawar": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "118.0"
       }
     },
@@ -24381,9 +24381,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "44.0",
     "consumption_in_geitawi_branch": "494.0",
-    "stock_in_medawar_branch": "46.0",
+    "stock_in_medawar_branch": "45.0",
     "consumption_in_medawar_branch": "487.0",
-    "total_stock": "90.0",
+    "total_stock": "89.0",
     "total_consumption": "981.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -24399,7 +24399,7 @@
         "consumption": "494.0"
       },
       "Medawar": {
-        "stock": "46.0",
+        "stock": "45.0",
         "consumption": "487.0"
       }
     },
@@ -24461,11 +24461,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "-3.0",
+    "stock_in_geitawi_branch": "-6.0",
     "consumption_in_geitawi_branch": "98.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "85.0",
-    "total_stock": "-1.0",
+    "total_stock": "-4.0",
     "total_consumption": "183.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -24477,7 +24477,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-3.0",
+        "stock": "-6.0",
         "consumption": "98.0"
       },
       "Medawar": {
@@ -24491,7 +24491,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "14"
+    "totalStock": "-4"
   },
   {
     "id": "7304",
@@ -45834,11 +45834,11 @@
     "category": "HOME USAGE",
     "sub_category": "WOMAN CARE",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "7.0",
     "VAT": "YES",
     "price_lbp": 285000.0,
@@ -45854,7 +45854,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "7.0"
       },
       "Medawar": {
@@ -45873,7 +45873,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13062-1778664995307082",
     "product_setup_saved_at_utc": "2026-05-13T09:36:35.307082Z",
-    "totalStock": "6"
+    "totalStock": "5"
   },
   {
     "id": "13063",
@@ -47319,9 +47319,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "158.0",
-    "stock_in_medawar_branch": "241.0",
+    "stock_in_medawar_branch": "240.0",
     "consumption_in_medawar_branch": "326.0",
-    "total_stock": "265.0",
+    "total_stock": "264.0",
     "total_consumption": "484.0",
     "VAT": "NO",
     "price_lbp": 60000.0,
@@ -47337,7 +47337,7 @@
         "consumption": "158.0"
       },
       "Medawar": {
-        "stock": "241.0",
+        "stock": "240.0",
         "consumption": "326.0"
       }
     },
@@ -90471,11 +90471,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "71.0",
+    "stock_in_geitawi_branch": "70.0",
     "consumption_in_geitawi_branch": "553.0",
     "stock_in_medawar_branch": "58.0",
     "consumption_in_medawar_branch": "578.0",
-    "total_stock": "129.0",
+    "total_stock": "128.0",
     "total_consumption": "1131.0",
     "VAT": "NO",
     "price_lbp": 70000.0,
@@ -90487,7 +90487,7 @@
     "delivery_rules": "0.45",
     "branches": {
       "Geitawi": {
-        "stock": "71.0",
+        "stock": "70.0",
         "consumption": "553.0"
       },
       "Medawar": {
@@ -90514,7 +90514,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-16734-1778917777422454",
     "product_setup_saved_at_utc": "2026-05-16T07:49:37.422454Z",
-    "totalStock": "132"
+    "totalStock": "128"
   },
   {
     "id": "16738",
@@ -199881,11 +199881,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Chewing gum",
     "offers": "0",
-    "stock_in_geitawi_branch": "-3.0",
+    "stock_in_geitawi_branch": "-21.0",
     "consumption_in_geitawi_branch": "19.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "15.0",
-    "total_stock": "3.0",
+    "total_stock": "-15.0",
     "total_consumption": "34.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -199897,7 +199897,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-3.0",
+        "stock": "-21.0",
         "consumption": "19.0"
       },
       "Medawar": {
@@ -199920,7 +199920,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-21081-1779170992543194",
     "product_setup_saved_at_utc": "2026-05-19T06:09:52.543194Z",
-    "totalStock": "3",
+    "totalStock": "-15",
     "stock_in_nouna_branch": 0
   },
   {
@@ -231392,7 +231392,7 @@
     "cost": 2.292,
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "1.0",
         "consumption": "6.0"
       },
       "Medawar": {
@@ -231400,9 +231400,9 @@
         "consumption": "3.0"
       }
     },
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "11.0",
-    "total_stock": "14.0",
+    "total_stock": "12.0",
     "Product Description": "RELAX FAM 20",
     "SUPPLIERS": "KTE KFOURY TRADING EST",
     "subcategory": "femi care",
@@ -231416,7 +231416,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "14"
+    "totalStock": "12"
   },
   {
     "id": "21706",
