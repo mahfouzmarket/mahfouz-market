@@ -115099,11 +115099,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Wafers",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "11.0",
     "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "28.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "39.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -115115,7 +115115,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "11.0"
       },
       "Medawar": {
@@ -115133,7 +115133,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "10",
+    "totalStock": "9",
     "stock_in_nouna_branch": 0
   },
   {
