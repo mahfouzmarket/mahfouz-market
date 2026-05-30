@@ -1568,7 +1568,7 @@
     "vat": 1,
     "barcode2": "5287001490350",
     "barcodes": "5287001490350",
-    "totalStock": "54"
+    "totalStock": "58"
   },
   {
     "id": "234",
@@ -6468,9 +6468,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "11.0",
     "consumption_in_geitawi_branch": "228.0",
-    "stock_in_medawar_branch": "109.0",
+    "stock_in_medawar_branch": "108.0",
     "consumption_in_medawar_branch": "286.0",
-    "total_stock": "120.0",
+    "total_stock": "119.0",
     "total_consumption": "514.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6486,7 +6486,7 @@
         "consumption": "228.0"
       },
       "Medawar": {
-        "stock": "109.0",
+        "stock": "108.0",
         "consumption": "286.0"
       }
     },
@@ -6496,7 +6496,7 @@
     "vat": 1,
     "barcode2": "5283024602336",
     "barcodes": "5283024602336",
-    "totalStock": "120"
+    "totalStock": "125"
   },
   {
     "id": "1178",
@@ -7660,11 +7660,11 @@
     "sub_category": "MINERAL WATER",
     "offers": "0",
     "stock_in_geitawi_branch": "900.0",
-    "consumption_in_geitawi_branch": "690.0",
+    "consumption_in_geitawi_branch": "687.0",
     "stock_in_medawar_branch": "2706.0",
     "consumption_in_medawar_branch": "523.0",
     "total_stock": "3606.0",
-    "total_consumption": "1213.0",
+    "total_consumption": "1210.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
     "price_usd": "0.50",
@@ -7676,7 +7676,7 @@
     "branches": {
       "Geitawi": {
         "stock": "900.0",
-        "consumption": "690.0"
+        "consumption": "687.0"
       },
       "Medawar": {
         "stock": "2706.0",
@@ -7698,7 +7698,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "3608"
+    "totalStock": "3606"
   },
   {
     "id": "1437",
@@ -9085,9 +9085,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "9.0",
+    "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "165.0",
-    "total_stock": "9.0",
+    "total_stock": "8.0",
     "total_consumption": "165.0",
     "VAT": "NO",
     "price_lbp": 55000.0,
@@ -9103,7 +9103,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "165.0"
       }
     },
@@ -9117,7 +9117,7 @@
     "vat": 0,
     "barcode2": "683318558182",
     "barcodes": "683318558182",
-    "totalStock": "9"
+    "totalStock": "8"
   },
   {
     "id": "2298",
@@ -10040,7 +10040,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-2475-1779096923170555",
     "product_setup_saved_at_utc": "2026-05-18T09:35:23.170555Z",
-    "totalStock": "39"
+    "totalStock": "38"
   },
   {
     "id": "2476",
@@ -13544,7 +13544,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "582"
+    "totalStock": "520"
   },
   {
     "id": "3539",
@@ -41732,7 +41732,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "366"
+    "totalStock": "365"
   },
   {
     "id": "12702",
@@ -41795,9 +41795,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "217.0",
-    "stock_in_medawar_branch": "69.0",
+    "stock_in_medawar_branch": "67.0",
     "consumption_in_medawar_branch": "338.0",
-    "total_stock": "71.0",
+    "total_stock": "69.0",
     "total_consumption": "555.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41813,7 +41813,7 @@
         "consumption": "217.0"
       },
       "Medawar": {
-        "stock": "69.0",
+        "stock": "67.0",
         "consumption": "338.0"
       }
     },
@@ -41832,7 +41832,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12707-1778933947538790",
     "product_setup_saved_at_utc": "2026-05-16T12:19:07.538790Z",
-    "totalStock": "72"
+    "totalStock": "71"
   },
   {
     "id": "12712",
@@ -52287,9 +52287,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "68.0",
     "consumption_in_geitawi_branch": "156.0",
-    "stock_in_medawar_branch": "34.0",
+    "stock_in_medawar_branch": "33.0",
     "consumption_in_medawar_branch": "177.0",
-    "total_stock": "102.0",
+    "total_stock": "101.0",
     "total_consumption": "333.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -52305,7 +52305,7 @@
         "consumption": "156.0"
       },
       "Medawar": {
-        "stock": "34.0",
+        "stock": "33.0",
         "consumption": "177.0"
       }
     },
@@ -52315,7 +52315,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "102"
+    "totalStock": "104"
   },
   {
     "id": "13601",
@@ -52356,7 +52356,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "137"
+    "totalStock": "138"
   },
   {
     "id": "13602",
@@ -147369,9 +147369,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "116.0",
-    "stock_in_medawar_branch": "-1.0",
+    "stock_in_medawar_branch": "-2.0",
     "consumption_in_medawar_branch": "91.0",
-    "total_stock": "-3.0",
+    "total_stock": "-4.0",
     "total_consumption": "207.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -147387,7 +147387,7 @@
         "consumption": "116.0"
       },
       "Medawar": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "91.0"
       }
     },
@@ -147401,7 +147401,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-3",
+    "totalStock": "-4",
     "updatedAt": "2026-05-28T09:41:00",
     "arabic_name": "",
     "name_ar": "",
@@ -173346,7 +173346,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "41"
+    "totalStock": "40"
   },
   {
     "id": "20510",
@@ -266501,7 +266501,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "ENERGY DRINK",
     "vat": 1,
-    "totalStock": "87"
+    "totalStock": "86"
   },
   {
     "id": "2000015",
