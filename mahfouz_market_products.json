@@ -786,7 +786,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "67"
+    "totalStock": "68"
   },
   {
     "id": "132",
@@ -7751,7 +7751,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "822"
+    "totalStock": "834"
   },
   {
     "id": "1438",
@@ -10461,7 +10461,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "8"
+    "totalStock": "7"
   },
   {
     "id": "2514",
@@ -10787,7 +10787,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "6"
+    "totalStock": "7"
   },
   {
     "id": "2586",
@@ -36791,11 +36791,11 @@
     "category": "HOME USAGE",
     "sub_category": "WOMAN CARE",
     "offers": "0",
-    "stock_in_geitawi_branch": "48.0",
+    "stock_in_geitawi_branch": "47.0",
     "consumption_in_geitawi_branch": "16.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "48.0",
+    "total_stock": "47.0",
     "total_consumption": "16.0",
     "VAT": "YES",
     "price_lbp": 150000.0,
@@ -36807,7 +36807,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "48.0",
+        "stock": "47.0",
         "consumption": "16.0"
       },
       "Medawar": {
@@ -36830,7 +36830,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-10842-1778936886577207",
     "product_setup_saved_at_utc": "2026-05-16T13:08:06.577207Z",
-    "totalStock": "48"
+    "totalStock": "47"
   },
   {
     "id": "10848",
@@ -45841,11 +45841,11 @@
     "category": "HOME USAGE",
     "sub_category": "WOMAN CARE",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "4.0",
+    "total_stock": "3.0",
     "total_consumption": "7.0",
     "VAT": "YES",
     "price_lbp": 285000.0,
@@ -45861,7 +45861,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "7.0"
       },
       "Medawar": {
@@ -45880,7 +45880,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13062-1778664995307082",
     "product_setup_saved_at_utc": "2026-05-13T09:36:35.307082Z",
-    "totalStock": "4"
+    "totalStock": "3"
   },
   {
     "id": "13063",
@@ -103279,11 +103279,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "49.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "-1.0",
+    "total_stock": "-2.0",
     "total_consumption": "53.0",
     "VAT": "NO",
     "price_lbp": 280000.0,
@@ -103295,7 +103295,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "49.0"
       },
       "Medawar": {
@@ -103316,7 +103316,7 @@
     "supplier": "NOUNA'S FOOD",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "-1"
+    "totalStock": "-2"
   },
   {
     "id": "17493",
@@ -130143,7 +130143,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "30"
+    "totalStock": "31"
   },
   {
     "id": "19062",
@@ -150714,11 +150714,11 @@
     "category": "HOME USAGE",
     "sub_category": "BARBECUE & CHARCOAL",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "4.0",
     "VAT": "NO",
     "price_lbp": 325000.0,
@@ -150730,7 +150730,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "4.0"
       },
       "Medawar": {
@@ -150744,7 +150744,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "10"
+    "totalStock": "9"
   },
   {
     "id": "19970",
@@ -162501,11 +162501,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "7.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -162517,7 +162517,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "7.0"
       },
       "Medawar": {
@@ -162535,7 +162535,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "7"
+    "totalStock": "6"
   },
   {
     "id": "20260",
