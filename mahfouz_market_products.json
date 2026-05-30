@@ -18457,11 +18457,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "52.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "31.0",
-    "total_stock": "9.0",
+    "total_stock": "6.0",
     "total_consumption": "83.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -18473,7 +18473,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "3.0",
         "consumption": "52.0"
       },
       "Medawar": {
@@ -18487,7 +18487,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9"
+    "totalStock": "6"
   },
   {
     "id": "5081",
@@ -239984,7 +239984,7 @@
     "cost": 0.1271,
     "branches": {
       "Geitawi": {
-        "stock": "-126.0",
+        "stock": "-128.0",
         "consumption": "503.0"
       },
       "Medawar": {
@@ -239992,8 +239992,8 @@
         "consumption": "596.0"
       }
     },
-    "stock_in_geitawi_branch": "-126.0",
-    "total_stock": "-345.0",
+    "stock_in_geitawi_branch": "-128.0",
+    "total_stock": "-347.0",
     "stock_in_medawar_branch": "-219.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
@@ -240008,7 +240008,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "-344"
+    "totalStock": "-347"
   },
   {
     "id": "21871",
