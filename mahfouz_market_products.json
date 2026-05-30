@@ -41693,11 +41693,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "69.0",
+    "stock_in_geitawi_branch": "68.0",
     "consumption_in_geitawi_branch": "1596.0",
     "stock_in_medawar_branch": "313.0",
     "consumption_in_medawar_branch": "1732.0",
-    "total_stock": "382.0",
+    "total_stock": "381.0",
     "total_consumption": "3328.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41709,7 +41709,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "69.0",
+        "stock": "68.0",
         "consumption": "1596.0"
       },
       "Medawar": {
@@ -41732,7 +41732,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "385"
+    "totalStock": "381"
   },
   {
     "id": "12702",
@@ -258748,11 +258748,11 @@
     "sub_category": "deodorant & roll on",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -258770,7 +258770,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -258783,7 +258783,8 @@
     "name": "AXE ANARCHY FOR HIM 150 ML",
     "supplier": "JACK DIB",
     "subcategory": "deodorant & roll on",
-    "vat": 0
+    "vat": 0,
+    "totalStock": "5"
   },
   {
     "id": "300140",
