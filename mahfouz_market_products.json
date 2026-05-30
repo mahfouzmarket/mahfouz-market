@@ -2957,11 +2957,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "35.0",
+    "stock_in_geitawi_branch": "33.0",
     "consumption_in_geitawi_branch": "76.0",
     "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "100.0",
-    "total_stock": "59.0",
+    "total_stock": "57.0",
     "total_consumption": "176.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -2973,7 +2973,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "35.0",
+        "stock": "33.0",
         "consumption": "76.0"
       },
       "Medawar": {
@@ -2987,7 +2987,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "60"
+    "totalStock": "57"
   },
   {
     "id": "423",
@@ -71185,7 +71185,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-15138-1779031085574053",
     "product_setup_saved_at_utc": "2026-05-17T15:18:05.574053Z",
-    "totalStock": "33"
+    "totalStock": "36"
   },
   {
     "id": "15139",
@@ -143127,11 +143127,11 @@
     "category": "FOOD",
     "sub_category": "ICE",
     "offers": "0",
-    "stock_in_geitawi_branch": "-2.0",
+    "stock_in_geitawi_branch": "-3.0",
     "consumption_in_geitawi_branch": "6.0",
     "stock_in_medawar_branch": "-17.0",
     "consumption_in_medawar_branch": "36.0",
-    "total_stock": "-19.0",
+    "total_stock": "-20.0",
     "total_consumption": "42.0",
     "VAT": "NO",
     "price_lbp": 50000.0,
@@ -143143,7 +143143,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
+        "stock": "-3.0",
         "consumption": "6.0"
       },
       "Medawar": {
@@ -143155,7 +143155,7 @@
     "supplier": "SUPPLIERS DIVERS",
     "subcategory": "ICE",
     "vat": 0,
-    "totalStock": "-19",
+    "totalStock": "-20",
     "expiry_days": "0",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
@@ -211791,11 +211791,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "liqueur",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "7.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "21.0",
+    "total_stock": "19.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 200000.0,
@@ -211807,7 +211807,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "7.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -211825,7 +211825,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "21"
+    "totalStock": "19"
   },
   {
     "id": "21309",
