@@ -11414,9 +11414,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "17.0",
     "consumption_in_geitawi_branch": "21.0",
-    "stock_in_medawar_branch": "3.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "23.0",
-    "total_stock": "20.0",
+    "total_stock": "21.0",
     "total_consumption": "44.0",
     "VAT": "NO",
     "price_lbp": 475000.0,
@@ -11432,7 +11432,7 @@
         "consumption": "21.0"
       },
       "Medawar": {
-        "stock": "3.0",
+        "stock": "4.0",
         "consumption": "23.0"
       }
     },
@@ -11442,7 +11442,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "20"
+    "totalStock": "21"
   },
   {
     "id": "2806",
@@ -24993,7 +24993,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "14"
+    "totalStock": "12"
   },
   {
     "id": "7362",
@@ -40892,11 +40892,11 @@
     "sub_category": "CIGARETTES",
     "offers": "0",
     "stock_in_geitawi_branch": "41.0",
-    "consumption_in_geitawi_branch": "163.0",
+    "consumption_in_geitawi_branch": "165.0",
     "stock_in_medawar_branch": "22.0",
     "consumption_in_medawar_branch": "81.0",
     "total_stock": "63.0",
-    "total_consumption": "244.0",
+    "total_consumption": "246.0",
     "VAT": "NO",
     "price_lbp": 165000.0,
     "price_usd": "1.83",
@@ -40908,7 +40908,7 @@
     "branches": {
       "Geitawi": {
         "stock": "41.0",
-        "consumption": "163.0"
+        "consumption": "165.0"
       },
       "Medawar": {
         "stock": "22.0",
@@ -41230,7 +41230,7 @@
     "supplier": "CIGARETTES",
     "subcategory": "CIGARETTES",
     "vat": 0,
-    "totalStock": "161"
+    "totalStock": "160"
   },
   {
     "id": "12602",
@@ -55085,9 +55085,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "28.0",
     "consumption_in_geitawi_branch": "44.0",
-    "stock_in_medawar_branch": "29.0",
+    "stock_in_medawar_branch": "27.0",
     "consumption_in_medawar_branch": "76.0",
-    "total_stock": "57.0",
+    "total_stock": "55.0",
     "total_consumption": "120.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -55103,7 +55103,7 @@
         "consumption": "44.0"
       },
       "Medawar": {
-        "stock": "29.0",
+        "stock": "27.0",
         "consumption": "76.0"
       }
     },
@@ -55122,7 +55122,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13840-1778929266127484",
     "product_setup_saved_at_utc": "2026-05-16T11:01:06.127484Z",
-    "totalStock": "57",
+    "totalStock": "55",
     "stock_in_nouna_branch": 0
   },
   {
@@ -78804,9 +78804,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-12.280",
     "consumption_in_geitawi_branch": "41.4",
-    "stock_in_medawar_branch": "66.740",
+    "stock_in_medawar_branch": "67.740",
     "consumption_in_medawar_branch": "150.9",
-    "total_stock": "54.460",
+    "total_stock": "55.460",
     "total_consumption": "192.3",
     "VAT": "NO",
     "price_lbp": 75000.0,
@@ -78822,7 +78822,7 @@
         "consumption": "41.4"
       },
       "Medawar": {
-        "stock": "66.740",
+        "stock": "67.740",
         "consumption": "150.9"
       }
     },
@@ -78845,7 +78845,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15750-1779000919268907",
     "product_setup_saved_at_utc": "2026-05-17T06:55:19.268907Z",
-    "totalStock": "54.46"
+    "totalStock": "55.46"
   },
   {
     "id": "15751",
@@ -86301,9 +86301,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "17.0",
+    "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "32.0",
-    "total_stock": "17.0",
+    "total_stock": "16.0",
     "total_consumption": "33.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -86319,7 +86319,7 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "17.0",
+        "stock": "16.0",
         "consumption": "32.0"
       }
     },
@@ -86333,7 +86333,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "17"
+    "totalStock": "16"
   },
   {
     "id": "16299",
