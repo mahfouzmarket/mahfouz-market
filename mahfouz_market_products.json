@@ -6477,11 +6477,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "227.0",
     "stock_in_medawar_branch": "113.0",
     "consumption_in_medawar_branch": "286.0",
-    "total_stock": "126.0",
+    "total_stock": "125.0",
     "total_consumption": "513.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6493,7 +6493,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "13.0",
+        "stock": "12.0",
         "consumption": "227.0"
       },
       "Medawar": {
@@ -6507,7 +6507,7 @@
     "vat": 1,
     "barcode2": "5283024602336",
     "barcodes": "5283024602336",
-    "totalStock": "127"
+    "totalStock": "125"
   },
   {
     "id": "1178",
@@ -24450,7 +24450,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-13"
+    "totalStock": "-12"
   },
   {
     "id": "7248",
@@ -48669,7 +48669,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-19",
+    "totalStock": "-18",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
     "base_id": "1437",
@@ -54828,7 +54828,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "13"
+    "totalStock": "15"
   },
   {
     "id": "13835",
@@ -55019,7 +55019,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13838-1778928514032900",
     "product_setup_saved_at_utc": "2026-05-16T10:48:34.032900Z",
-    "totalStock": "75"
+    "totalStock": "76"
   },
   {
     "id": "13839",
@@ -85153,7 +85153,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-4"
+    "totalStock": "3"
   },
   {
     "id": "16222",
