@@ -4524,7 +4524,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "95"
+    "totalStock": "94"
   },
   {
     "id": "697",
@@ -9366,11 +9366,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "20.0",
     "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": "1.0",
+    "total_stock": "0.0",
     "total_consumption": "36.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -9382,7 +9382,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "20.0"
       },
       "Medawar": {
@@ -9398,7 +9398,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1"
+    "totalStock": "0"
   },
   {
     "id": "2381",
@@ -66987,11 +66987,11 @@
     "category": "BEVERAGES",
     "sub_category": "cold coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "40.0",
+    "stock_in_geitawi_branch": "38.0",
     "consumption_in_geitawi_branch": "76.0",
     "stock_in_medawar_branch": "1573.0",
     "consumption_in_medawar_branch": "91.0",
-    "total_stock": "1613.0",
+    "total_stock": "1611.0",
     "total_consumption": "167.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -67003,7 +67003,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "40.0",
+        "stock": "38.0",
         "consumption": "76.0"
       },
       "Medawar": {
@@ -67017,7 +67017,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1612"
+    "totalStock": "1611"
   },
   {
     "id": "14796",
@@ -67765,11 +67765,11 @@
     "category": "CHIPS",
     "sub_category": "FANTASIA",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "84.0",
     "stock_in_medawar_branch": "39.0",
     "consumption_in_medawar_branch": "113.0",
-    "total_stock": "45.0",
+    "total_stock": "44.0",
     "total_consumption": "197.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -67781,7 +67781,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "84.0"
       },
       "Medawar": {
@@ -67795,7 +67795,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "47"
+    "totalStock": "44"
   },
   {
     "id": "14845",
@@ -181508,6 +181508,11 @@
     "subcategory": "fruits",
     "vat": 0,
     "totalStock": "4.65",
+    "arabic_name": "أفوكا",
+    "name_ar": "أفوكا",
+    "description_ar": "أفوكا",
+    "non_stockable": false,
+    "nonStockable": false,
     "product_setup_save_token": "PS-SAVE-20672-1779000106848174",
     "product_setup_saved_at_utc": "2026-05-17T06:41:46.848174Z"
   },
@@ -181573,7 +181578,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "cost_ht": "2.31",
+    "cost_ht": "2.78",
     "costUsd": 2.31,
     "cost_ht_usd": 2.31,
     "cost_formula": "sale_price_usd_div_1.2",
@@ -181589,7 +181594,12 @@
     "product_setup_save_token": "PS-SAVE-20673-1779011334639139",
     "product_setup_saved_at_utc": "2026-05-17T09:48:54.639139Z",
     "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20673.jpg",
-    "totalStock": "6.781"
+    "totalStock": "6.781",
+    "arabic_name": "مشمش",
+    "name_ar": "مشمش",
+    "description_ar": "مشمش",
+    "non_stockable": false,
+    "nonStockable": false
   },
   {
     "id": "20674",
