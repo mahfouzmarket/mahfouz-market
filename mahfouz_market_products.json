@@ -53156,7 +53156,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "39",
+    "totalStock": "34",
     "expiry_days": "0",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
@@ -85044,11 +85044,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "2.0",
+    "total_stock": "1.0",
     "total_consumption": "1.0",
     "VAT": "NO",
     "price_lbp": 180000.0,
@@ -85060,7 +85060,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -85076,7 +85076,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "2"
+    "totalStock": "1"
   },
   {
     "id": "16197",
@@ -93943,11 +93943,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "27.0",
     "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "11.0",
-    "total_stock": "17.0",
+    "total_stock": "16.0",
     "total_consumption": "38.0",
     "VAT": "YES",
     "price_lbp": 165000.0,
@@ -93959,7 +93959,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "27.0"
       },
       "Medawar": {
@@ -93977,7 +93977,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "17"
+    "totalStock": "16"
   },
   {
     "id": "16942",
@@ -93988,11 +93988,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "18.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "10.0",
-    "total_stock": "4.0",
+    "total_stock": "3.0",
     "total_consumption": "28.0",
     "VAT": "YES",
     "price_lbp": 165000.0,
@@ -94004,7 +94004,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "18.0"
       },
       "Medawar": {
@@ -94022,7 +94022,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "4"
+    "totalStock": "3"
   },
   {
     "id": "16948",
@@ -145644,11 +145644,11 @@
     "category": "PET SUPPLIES",
     "sub_category": "PETS FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
+    "stock_in_geitawi_branch": "15.0",
     "consumption_in_geitawi_branch": "13.0",
     "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "25.0",
-    "total_stock": "15.0",
+    "total_stock": "14.0",
     "total_consumption": "38.0",
     "VAT": "YES",
     "price_lbp": 120000.0,
@@ -145664,7 +145664,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
+        "stock": "15.0",
         "consumption": "13.0"
       },
       "Medawar": {
@@ -145674,7 +145674,7 @@
     },
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "15"
+    "totalStock": "14"
   },
   {
     "id": "19764",
@@ -164868,11 +164868,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "130.0",
+    "stock_in_geitawi_branch": "131.0",
     "consumption_in_geitawi_branch": "110.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "91.0",
-    "total_stock": "136.0",
+    "total_stock": "137.0",
     "total_consumption": "201.0",
     "VAT": "NO",
     "price_lbp": 75000.0,
@@ -164884,7 +164884,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "130.0",
+        "stock": "131.0",
         "consumption": "110.0"
       },
       "Medawar": {
@@ -164898,7 +164898,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "138"
+    "totalStock": "137"
   },
   {
     "id": "20310",
