@@ -18295,11 +18295,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "10.0",
+    "stock_in_geitawi_branch": "9.0",
     "consumption_in_geitawi_branch": "44.0",
     "stock_in_medawar_branch": "-9.0",
     "consumption_in_medawar_branch": "38.0",
-    "total_stock": "1.0",
+    "total_stock": "0.0",
     "total_consumption": "82.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -18311,7 +18311,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "10.0",
+        "stock": "9.0",
         "consumption": "44.0"
       },
       "Medawar": {
@@ -18325,7 +18325,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1"
+    "totalStock": "0"
   },
   {
     "id": "5067",
@@ -18814,11 +18814,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "110.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "94.0",
-    "total_stock": "15.0",
+    "total_stock": "14.0",
     "total_consumption": "204.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -18830,7 +18830,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "13.0",
+        "stock": "12.0",
         "consumption": "110.0"
       },
       "Medawar": {
@@ -18851,7 +18851,7 @@
     "supplier": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
     "vat": 1,
-    "totalStock": "15"
+    "totalStock": "14"
   },
   {
     "id": "5156",
@@ -53439,11 +53439,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "27.0",
+    "stock_in_geitawi_branch": "26.0",
     "consumption_in_geitawi_branch": "132.0",
     "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "101.0",
-    "total_stock": "26.0",
+    "total_stock": "25.0",
     "total_consumption": "233.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -53455,7 +53455,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "27.0",
+        "stock": "26.0",
         "consumption": "132.0"
       },
       "Medawar": {
@@ -53469,7 +53469,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "26"
+    "totalStock": "25"
   },
   {
     "id": "13675",
@@ -53480,11 +53480,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
+    "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "112.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "98.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "210.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -53496,7 +53496,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "112.0"
       },
       "Medawar": {
@@ -53514,7 +53514,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "7"
+    "totalStock": "6"
   },
   {
     "id": "13717",
@@ -54639,7 +54639,7 @@
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "16",
+    "totalStock": "15",
     "supplier": "RIM REFRESHMENT SAL USD",
     "subcategory": "MINERAL WATER",
     "vat": 1
@@ -71221,11 +71221,11 @@
     "category": "CIGARETTES",
     "sub_category": "ELECTRIC CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "85.0",
+    "stock_in_geitawi_branch": "84.0",
     "consumption_in_geitawi_branch": "246.0",
     "stock_in_medawar_branch": "33.0",
     "consumption_in_medawar_branch": "73.0",
-    "total_stock": "118.0",
+    "total_stock": "117.0",
     "total_consumption": "319.0",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -71237,7 +71237,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "85.0",
+        "stock": "84.0",
         "consumption": "246.0"
       },
       "Medawar": {
@@ -71260,7 +71260,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-15139-1779081633380051",
     "product_setup_saved_at_utc": "2026-05-18T05:20:33.380051Z",
-    "totalStock": "118"
+    "totalStock": "117"
   },
   {
     "id": "15140",
@@ -178650,11 +178650,11 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "19.0",
+    "stock_in_geitawi_branch": "18.0",
     "consumption_in_geitawi_branch": "43.0",
     "stock_in_medawar_branch": "22.0",
     "consumption_in_medawar_branch": "35.0",
-    "total_stock": "41.0",
+    "total_stock": "40.0",
     "total_consumption": "78.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -178666,7 +178666,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "19.0",
+        "stock": "18.0",
         "consumption": "43.0"
       },
       "Medawar": {
@@ -178680,7 +178680,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "36"
+    "totalStock": "40"
   },
   {
     "id": "20630",
@@ -178732,11 +178732,11 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "27.0",
+    "stock_in_geitawi_branch": "26.0",
     "consumption_in_geitawi_branch": "52.0",
     "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "48.0",
+    "total_stock": "47.0",
     "total_consumption": "81.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -178748,7 +178748,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "27.0",
+        "stock": "26.0",
         "consumption": "52.0"
       },
       "Medawar": {
@@ -178762,7 +178762,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "45"
+    "totalStock": "47"
   },
   {
     "id": "20633",
