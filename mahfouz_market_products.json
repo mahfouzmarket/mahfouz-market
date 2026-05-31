@@ -1733,7 +1733,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9"
+    "totalStock": "14"
   },
   {
     "id": "251",
@@ -3231,7 +3231,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "364"
+    "totalStock": "386"
   },
   {
     "id": "455",
@@ -6508,7 +6508,7 @@
     "vat": 1,
     "barcode2": "5283024602336",
     "barcodes": "5283024602336",
-    "totalStock": "107"
+    "totalStock": "108"
   },
   {
     "id": "1178",
@@ -23815,11 +23815,11 @@
     "category": "PET SUPPLIES",
     "sub_category": "PETS FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "10.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "14.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "24.0",
     "VAT": "YES",
     "price_lbp": 95000.0,
@@ -23831,7 +23831,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "10.0"
       },
       "Medawar": {
@@ -23845,7 +23845,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "8"
+    "totalStock": "6"
   },
   {
     "id": "6793",
@@ -41880,7 +41880,7 @@
     },
     "product_setup_save_token": "PS-SAVE-12712-1779887282130595",
     "product_setup_saved_at_utc": "2026-05-27T13:08:02.130595Z",
-    "totalStock": "78",
+    "totalStock": "82",
     "name": "MARLBORO CRAFTED RED",
     "supplier": "CIGARETTES",
     "subcategory": "CIGARETTES",
@@ -157327,11 +157327,11 @@
     "category": "PET SUPPLIES",
     "sub_category": "PETS FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "17.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "15.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "32.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -157343,7 +157343,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "17.0"
       },
       "Medawar": {
@@ -157357,7 +157357,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3"
+    "totalStock": "2"
   },
   {
     "id": "20144",
