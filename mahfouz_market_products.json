@@ -44810,11 +44810,11 @@
     "category": "HOME USAGE",
     "sub_category": "TOOTH CARE",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "4.0",
+    "total_stock": "3.0",
     "total_consumption": "0.0",
     "VAT": "YES",
     "price_lbp": 125000.0,
@@ -44826,7 +44826,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -44840,7 +44840,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "4"
+    "totalStock": "3"
   },
   {
     "id": "12984",
@@ -51938,11 +51938,11 @@
     "category": "BEVERAGES",
     "sub_category": "ice tea",
     "offers": "0",
-    "stock_in_geitawi_branch": "32.0",
+    "stock_in_geitawi_branch": "29.0",
     "consumption_in_geitawi_branch": "73.0",
     "stock_in_medawar_branch": "43.0",
     "consumption_in_medawar_branch": "72.0",
-    "total_stock": "75.0",
+    "total_stock": "72.0",
     "total_consumption": "145.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -51954,7 +51954,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "32.0",
+        "stock": "29.0",
         "consumption": "73.0"
       },
       "Medawar": {
@@ -51968,7 +51968,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "75"
+    "totalStock": "72"
   },
   {
     "id": "13588",
@@ -209160,11 +209160,11 @@
     "category": "HOME USAGE",
     "sub_category": "TOOTH CARE",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "4.0",
+    "total_stock": "3.0",
     "total_consumption": "3.0",
     "VAT": "NO",
     "price_lbp": 190000.0,
@@ -209176,7 +209176,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -209190,7 +209190,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5"
+    "totalStock": "3"
   },
   {
     "id": "21252",
