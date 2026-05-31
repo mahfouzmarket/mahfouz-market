@@ -164868,11 +164868,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "132.0",
+    "stock_in_geitawi_branch": "131.0",
     "consumption_in_geitawi_branch": "110.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "91.0",
-    "total_stock": "138.0",
+    "total_stock": "137.0",
     "total_consumption": "201.0",
     "VAT": "NO",
     "price_lbp": 75000.0,
@@ -164884,7 +164884,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "132.0",
+        "stock": "131.0",
         "consumption": "110.0"
       },
       "Medawar": {
@@ -164898,7 +164898,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "139"
+    "totalStock": "137"
   },
   {
     "id": "20310",
@@ -195232,11 +195232,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "-4.0",
+    "stock_in_geitawi_branch": "-5.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "6.0",
-    "total_stock": "-4.0",
+    "total_stock": "-5.0",
     "total_consumption": "15.0",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -195248,7 +195248,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-4.0",
+        "stock": "-5.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -195269,7 +195269,7 @@
     "supplier": "NOUNA'S FOOD",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "-4"
+    "totalStock": "-5"
   },
   {
     "id": "20989",
@@ -244699,11 +244699,11 @@
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
     "expiry_days": "15",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "20.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "21.0",
     "VAT": "NO",
     "price_lbp": 220000.0,
@@ -244721,7 +244721,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "20.0"
       },
       "Medawar": {
@@ -244739,7 +244739,7 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "totalStock": "3"
+    "totalStock": "2"
   },
   {
     "id": "90028",
