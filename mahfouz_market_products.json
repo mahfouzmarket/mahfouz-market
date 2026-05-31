@@ -41296,11 +41296,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "125.0",
+    "stock_in_geitawi_branch": "123.0",
     "consumption_in_geitawi_branch": "442.0",
     "stock_in_medawar_branch": "70.0",
     "consumption_in_medawar_branch": "384.0",
-    "total_stock": "195.0",
+    "total_stock": "193.0",
     "total_consumption": "826.0",
     "VAT": "NO",
     "price_lbp": 175000.0,
@@ -41312,7 +41312,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "125.0",
+        "stock": "123.0",
         "consumption": "442.0"
       },
       "Medawar": {
@@ -41326,7 +41326,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "198",
+    "totalStock": "193",
     "expiry_days": "0",
     "cost_ht": "1.75",
     "linked_profile_enabled": false,
@@ -42497,9 +42497,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "8.0",
-    "stock_in_medawar_branch": "9.0",
+    "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "15.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -42515,7 +42515,7 @@
         "consumption": "8.0"
       },
       "Medawar": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "7.0"
       }
     },
