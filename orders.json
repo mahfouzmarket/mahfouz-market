@@ -10733,5 +10733,45 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1780206358274",
+    "ts": "2026-05-31T05:45:58.274531Z",
+    "createdAt": "2026-05-31T05:45:58.274531Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-05-31T05:45:58.274531Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "home\nsaint louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.893817,35.528591"
+    },
+    "customer_name": "Elias Mahfouz",
+    "customer_phone": "70185604",
+    "pickup": false,
+    "items": [
+      {
+        "id": "300168",
+        "name": "1er choix SUNFLOWER OIL 5LTR",
+        "qty": 1,
+        "unitUsd": 13.78,
+        "totalUsd": 13.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300168.jpg"
+      }
+    ],
+    "totalUsd": 16.2,
+    "totalLbp": 1450000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
