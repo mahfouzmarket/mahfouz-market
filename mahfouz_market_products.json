@@ -53316,11 +53316,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "8.0",
+    "stock_in_geitawi_branch": "7.0",
     "consumption_in_geitawi_branch": "105.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "81.0",
-    "total_stock": "9.0",
+    "total_stock": "8.0",
     "total_consumption": "186.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -53332,7 +53332,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "8.0",
+        "stock": "7.0",
         "consumption": "105.0"
       },
       "Medawar": {
@@ -53346,7 +53346,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "11"
+    "totalStock": "8"
   },
   {
     "id": "13672",
@@ -54821,11 +54821,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "45.0",
+    "stock_in_geitawi_branch": "44.0",
     "consumption_in_geitawi_branch": "202.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "189.0",
-    "total_stock": "45.0",
+    "total_stock": "44.0",
     "total_consumption": "391.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -54837,7 +54837,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "45.0",
+        "stock": "44.0",
         "consumption": "202.0"
       },
       "Medawar": {
@@ -54851,7 +54851,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "45"
+    "totalStock": "44"
   },
   {
     "id": "13835",
@@ -59434,11 +59434,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "-4.0",
+    "stock_in_geitawi_branch": "-5.0",
     "consumption_in_geitawi_branch": "51.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "51.0",
-    "total_stock": "-4.0",
+    "total_stock": "-5.0",
     "total_consumption": "102.0",
     "VAT": "YES",
     "price_lbp": 105000.0,
@@ -59450,7 +59450,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-4.0",
+        "stock": "-5.0",
         "consumption": "51.0"
       },
       "Medawar": {
@@ -59471,7 +59471,7 @@
     "supplier": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
     "vat": 1,
-    "totalStock": "-4"
+    "totalStock": "-5"
   },
   {
     "id": "14152",
@@ -79551,9 +79551,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-1.210",
     "consumption_in_geitawi_branch": "4.7",
-    "stock_in_medawar_branch": "-1.770",
+    "stock_in_medawar_branch": "0.000",
     "consumption_in_medawar_branch": "10.7",
-    "total_stock": "-2.980",
+    "total_stock": "-1.210",
     "total_consumption": "15.4",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -79569,7 +79569,7 @@
         "consumption": "4.7"
       },
       "Medawar": {
-        "stock": "-1.770",
+        "stock": "0.000",
         "consumption": "10.7"
       }
     },
@@ -79591,8 +79591,10 @@
     "subcategory": "fruits",
     "vat": 0,
     "totalStock": "-2.98",
-    "product_setup_save_token": "PS-SAVE-15764-1779011098267352",
-    "product_setup_saved_at_utc": "2026-05-17T09:44:58.267352Z"
+    "arabic_name": "",
+    "name_ar": "",
+    "product_setup_save_token": "PS-SAVE-15764-1780243601421778",
+    "product_setup_saved_at_utc": "2026-05-31T16:06:41.421778Z"
   },
   {
     "id": "15765",
