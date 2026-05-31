@@ -30,7 +30,9 @@ jobs:
       - name: Checkout full history
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          # Each app write is a single orders.json commit; HEAD + parent is
+          # enough for guarded diffing and avoids multi-minute full checkouts.
+          fetch-depth: 2
 
       - name: Setup Node
         uses: actions/setup-node@v4
