@@ -19233,11 +19233,11 @@
     "category": "FOOD",
     "sub_category": "BUTTER",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "5.0",
-    "total_stock": "9.0",
+    "total_stock": "8.0",
     "total_consumption": "14.0",
     "VAT": "NO",
     "price_lbp": 555000.0,
@@ -19249,7 +19249,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -19263,7 +19263,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9"
+    "totalStock": "8"
   },
   {
     "id": "5364",
@@ -41325,7 +41325,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "205",
+    "totalStock": "207",
     "expiry_days": "0",
     "cost_ht": "1.75",
     "linked_profile_enabled": false,
@@ -42636,7 +42636,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12767-1778928563756417",
     "product_setup_saved_at_utc": "2026-05-16T10:49:23.756417Z",
-    "totalStock": "23"
+    "totalStock": "24"
   },
   {
     "id": "12772",
@@ -55220,7 +55220,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13842-1778929170252179",
     "product_setup_saved_at_utc": "2026-05-16T10:59:30.252179Z",
-    "totalStock": "5"
+    "totalStock": "8"
   },
   {
     "id": "13843",
@@ -224923,7 +224923,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "7"
+    "totalStock": "9"
   },
   {
     "id": "21573",
