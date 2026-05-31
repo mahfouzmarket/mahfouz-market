@@ -7709,11 +7709,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "105.0",
+    "stock_in_geitawi_branch": "104.0",
     "consumption_in_geitawi_branch": "686.0",
     "stock_in_medawar_branch": "1994.0",
     "consumption_in_medawar_branch": "522.0",
-    "total_stock": "2099.0",
+    "total_stock": "2098.0",
     "total_consumption": "1208.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -7725,7 +7725,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "105.0",
+        "stock": "104.0",
         "consumption": "686.0"
       },
       "Medawar": {
@@ -7748,7 +7748,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "2099"
+    "totalStock": "2098"
   },
   {
     "id": "1437",
@@ -15097,7 +15097,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "77"
+    "totalStock": "76"
   },
   {
     "id": "4026",
@@ -19465,11 +19465,11 @@
     "category": "FOOD",
     "sub_category": "EGGS",
     "offers": "0",
-    "stock_in_geitawi_branch": "537.0",
+    "stock_in_geitawi_branch": "534.0",
     "consumption_in_geitawi_branch": "2057.0",
     "stock_in_medawar_branch": "59.0",
     "consumption_in_medawar_branch": "2411.0",
-    "total_stock": "596.0",
+    "total_stock": "593.0",
     "total_consumption": "4468.0",
     "VAT": "NO",
     "price_lbp": 15000.0,
@@ -19481,7 +19481,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "537.0",
+        "stock": "534.0",
         "consumption": "2057.0"
       },
       "Medawar": {
@@ -19504,7 +19504,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-5449-1778927464342461",
     "product_setup_saved_at_utc": "2026-05-16T10:31:04.342461Z",
-    "totalStock": "596",
+    "totalStock": "593",
     "stock_in_nouna_branch": 0
   },
   {
@@ -44659,7 +44659,7 @@
     "bulk_link_repair_source": "mahfouz_market_products_bulk_download_1",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "0",
+    "totalStock": "17.5",
     "bulk_virtual_stock_repaired_at_utc": "2026-05-20T06:06:46.169Z"
   },
   {
@@ -47390,11 +47390,11 @@
     "category": "HOME USAGE",
     "sub_category": "TISSUES & TOILET PAPER",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "161.0",
     "stock_in_medawar_branch": "207.0",
     "consumption_in_medawar_branch": "334.0",
-    "total_stock": "218.0",
+    "total_stock": "217.0",
     "total_consumption": "495.0",
     "VAT": "NO",
     "price_lbp": 60000.0,
@@ -47406,7 +47406,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "161.0"
       },
       "Medawar": {
@@ -47420,7 +47420,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "218"
+    "totalStock": "217"
   },
   {
     "id": "13189",
@@ -132179,7 +132179,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "34"
+    "totalStock": "33"
   },
   {
     "id": "19147",
@@ -179054,7 +179054,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "36"
+    "totalStock": "30"
   },
   {
     "id": "20630",
@@ -179136,7 +179136,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "45"
+    "totalStock": "41"
   },
   {
     "id": "20633",
