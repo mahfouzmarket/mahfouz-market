@@ -11671,11 +11671,11 @@
     "category": "FOOD",
     "sub_category": "DAIRY PRODUCTS",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "38.0",
     "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "46.0",
-    "total_stock": "21.0",
+    "total_stock": "20.0",
     "total_consumption": "84.0",
     "VAT": "NO",
     "price_lbp": 460000.0,
@@ -11687,7 +11687,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "38.0"
       },
       "Medawar": {
@@ -68275,11 +68275,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "5.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "5.0",
     "VAT": "YES",
     "price_lbp": 145000.0,
@@ -68295,7 +68295,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "5.0"
       },
       "Medawar": {
@@ -264094,11 +264094,11 @@
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
     "expiry_days": "365",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "3.0",
+    "total_stock": "2.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 360000.0,
@@ -264116,7 +264116,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "0.0"
       },
       "Medawar": {
