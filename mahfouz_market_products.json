@@ -24524,11 +24524,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "-2.0",
+    "stock_in_geitawi_branch": "-4.0",
     "consumption_in_geitawi_branch": "100.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "84.0",
-    "total_stock": "-1.0",
+    "total_stock": "-3.0",
     "total_consumption": "184.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -24540,7 +24540,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
+        "stock": "-4.0",
         "consumption": "100.0"
       },
       "Medawar": {
@@ -24554,7 +24554,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "1"
+    "totalStock": "-3"
   },
   {
     "id": "7304",
@@ -40907,9 +40907,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "130.0",
-    "stock_in_medawar_branch": "27.0",
+    "stock_in_medawar_branch": "26.0",
     "consumption_in_medawar_branch": "68.0",
-    "total_stock": "29.0",
+    "total_stock": "28.0",
     "total_consumption": "198.0",
     "VAT": "NO",
     "price_lbp": 165000.0,
@@ -40925,7 +40925,7 @@
         "consumption": "130.0"
       },
       "Medawar": {
-        "stock": "27.0",
+        "stock": "26.0",
         "consumption": "68.0"
       }
     },
@@ -41357,11 +41357,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "111.0",
+    "stock_in_geitawi_branch": "110.0",
     "consumption_in_geitawi_branch": "445.0",
     "stock_in_medawar_branch": "64.0",
     "consumption_in_medawar_branch": "364.0",
-    "total_stock": "175.0",
+    "total_stock": "174.0",
     "total_consumption": "809.0",
     "VAT": "NO",
     "price_lbp": 175000.0,
@@ -41373,7 +41373,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "111.0",
+        "stock": "110.0",
         "consumption": "445.0"
       },
       "Medawar": {
@@ -41387,7 +41387,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "177",
+    "totalStock": "174",
     "expiry_days": "0",
     "cost_ht": "1.75",
     "linked_profile_enabled": false,
@@ -41759,9 +41759,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-34.0",
     "consumption_in_geitawi_branch": "1617.0",
-    "stock_in_medawar_branch": "220.0",
+    "stock_in_medawar_branch": "219.0",
     "consumption_in_medawar_branch": "1690.0",
-    "total_stock": "186.0",
+    "total_stock": "185.0",
     "total_consumption": "3307.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -41777,7 +41777,7 @@
         "consumption": "1617.0"
       },
       "Medawar": {
-        "stock": "220.0",
+        "stock": "219.0",
         "consumption": "1690.0"
       }
     },
@@ -240732,13 +240732,13 @@
         "consumption": "98.0"
       },
       "Medawar": {
-        "stock": "35.0",
+        "stock": "34.0",
         "consumption": "68.0"
       }
     },
     "stock_in_geitawi_branch": "19.0",
-    "total_stock": "54.0",
-    "stock_in_medawar_branch": "35.0",
+    "total_stock": "53.0",
+    "stock_in_medawar_branch": "34.0",
     "cost": 0.13,
     "Product Description": "TROPICANA ICE CREAM MELON",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
@@ -240883,13 +240883,13 @@
         "consumption": "578.0"
       },
       "Medawar": {
-        "stock": "-269.0",
+        "stock": "-270.0",
         "consumption": "637.0"
       }
     },
     "stock_in_geitawi_branch": "-193.0",
-    "total_stock": "-462.0",
-    "stock_in_medawar_branch": "-269.0",
+    "total_stock": "-463.0",
+    "stock_in_medawar_branch": "-270.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
     "subcategory": "ICEBERG",
