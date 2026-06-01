@@ -79755,11 +79755,11 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "fruits",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.210",
+    "stock_in_geitawi_branch": "0.000",
     "consumption_in_geitawi_branch": "4.7",
     "stock_in_medawar_branch": "-1.210",
     "consumption_in_medawar_branch": "10.7",
-    "total_stock": "-2.420",
+    "total_stock": "-1.210",
     "total_consumption": "15.4",
     "VAT": "NO",
     "price_lbp": 250000.0,
@@ -79771,7 +79771,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.210",
+        "stock": "0.000",
         "consumption": "4.7"
       },
       "Medawar": {
