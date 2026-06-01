@@ -7668,7 +7668,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5427"
+    "totalStock": "5827"
   },
   {
     "id": "1435",
@@ -7718,7 +7718,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "1877"
+    "totalStock": "1797"
   },
   {
     "id": "1437",
@@ -7763,7 +7763,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "370",
+    "totalStock": "376",
     "stock": "536",
     "branch_stock": {
       "Geitawi": {
@@ -9989,7 +9989,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "48"
+    "totalStock": "47"
   },
   {
     "id": "2474",
@@ -11834,7 +11834,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-2819-1778929015884121",
     "product_setup_saved_at_utc": "2026-05-16T10:56:55.884121Z",
-    "totalStock": "9"
+    "totalStock": "13"
   },
   {
     "id": "2821",
@@ -15820,7 +15820,7 @@
     "supplier": "MAHMOUD CHOCOLATE",
     "subcategory": "rice cake",
     "vat": 1,
-    "totalStock": "45"
+    "totalStock": "43"
   },
   {
     "id": "4360",
@@ -24598,7 +24598,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "36"
+    "totalStock": "33"
   },
   {
     "id": "7306",
@@ -27488,7 +27488,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "35"
+    "totalStock": "26"
   },
   {
     "id": "8169",
@@ -41729,7 +41729,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "167"
+    "totalStock": "172"
   },
   {
     "id": "12702",
@@ -42324,7 +42324,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12747-1778928318550937",
     "product_setup_saved_at_utc": "2026-05-16T10:45:18.550937Z",
-    "totalStock": "44"
+    "totalStock": "37"
   },
   {
     "id": "12749",
@@ -44522,11 +44522,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "-",
-    "stock_in_geitawi_branch": "-9.0",
+    "stock_in_geitawi_branch": "-11.0",
     "consumption_in_geitawi_branch": "349.0",
     "stock_in_medawar_branch": "-3.0",
     "consumption_in_medawar_branch": "229.0",
-    "total_stock": "-12.0",
+    "total_stock": "-14.0",
     "total_consumption": "578.0",
     "VAT": "YES",
     "price_lbp": 220000.0,
@@ -44539,7 +44539,7 @@
     "pcs_in_box": "6",
     "branches": {
       "Geitawi": {
-        "stock": "-9.0",
+        "stock": "-11.0",
         "consumption": "349.0"
       },
       "Medawar": {
@@ -45203,11 +45203,11 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "-",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "13.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "19.0",
-    "total_stock": "0.0",
+    "total_stock": "-1.0",
     "total_consumption": "32.0",
     "VAT": "NO",
     "price_lbp": 500000.0,
@@ -45220,7 +45220,7 @@
     "pcs_in_box": "30",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "13.0"
       },
       "Medawar": {
@@ -48603,7 +48603,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "190"
+    "totalStock": "181"
   },
   {
     "id": "13297",
@@ -48653,7 +48653,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-3.25",
+    "totalStock": "-1",
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
     "is_bulk": true,
@@ -53390,7 +53390,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9"
+    "totalStock": "8"
   },
   {
     "id": "13674",
@@ -55476,7 +55476,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "55"
+    "totalStock": "71"
   },
   {
     "id": "13857",
@@ -56807,11 +56807,11 @@
     "category": "BEVERAGES",
     "sub_category": "ENERGY DRINK",
     "offers": "0",
-    "stock_in_geitawi_branch": "26.0",
+    "stock_in_geitawi_branch": "25.0",
     "consumption_in_geitawi_branch": "58.0",
     "stock_in_medawar_branch": "155.0",
     "consumption_in_medawar_branch": "155.0",
-    "total_stock": "181.0",
+    "total_stock": "180.0",
     "total_consumption": "213.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -56823,7 +56823,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "26.0",
+        "stock": "25.0",
         "consumption": "58.0"
       },
       "Medawar": {
@@ -63842,7 +63842,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-5"
+    "totalStock": "-2"
   },
   {
     "id": "14521",
@@ -65816,7 +65816,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "16"
+    "totalStock": "15"
   },
   {
     "id": "14703",
@@ -67499,7 +67499,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "22"
+    "totalStock": "23"
   },
   {
     "id": "14841",
@@ -68184,7 +68184,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-5"
+    "totalStock": "-6"
   },
   {
     "id": "14930",
@@ -90650,7 +90650,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-16734-1778917777422454",
     "product_setup_saved_at_utc": "2026-05-16T07:49:37.422454Z",
-    "totalStock": "164"
+    "totalStock": "150"
   },
   {
     "id": "16738",
@@ -119148,11 +119148,11 @@
     "category": "HOME USAGE",
     "sub_category": "PICNIC & OFFICE USE",
     "offers": "0",
-    "stock_in_geitawi_branch": "15.0",
+    "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "15.0",
+    "total_stock": "14.0",
     "total_consumption": "4.0",
     "VAT": "YES",
     "price_lbp": 150000.0,
@@ -119168,7 +119168,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "15.0",
+        "stock": "14.0",
         "consumption": "4.0"
       },
       "Medawar": {
@@ -137127,7 +137127,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-19382-1778951689802177",
     "product_setup_saved_at_utc": "2026-05-16T17:14:49.802177Z",
-    "totalStock": "25",
+    "totalStock": "24",
     "stock_in_nouna_branch": 0
   },
   {
@@ -240228,7 +240228,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "-493"
+    "totalStock": "-474"
   },
   {
     "id": "21871",
@@ -243126,7 +243126,7 @@
     "new_items": "x",
     "subcategory": "ice tea",
     "vat": 1,
-    "totalStock": "42"
+    "totalStock": "45"
   },
   {
     "id": "21952",
@@ -267258,7 +267258,7 @@
     "supplier": "AL HAMAWI TRADING",
     "subcategory": "ENERGY DRINK",
     "vat": 1,
-    "totalStock": "50"
+    "totalStock": "59"
   },
   {
     "id": "2000015",
