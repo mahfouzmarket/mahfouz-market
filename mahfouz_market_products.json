@@ -31385,9 +31385,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "2.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "2.0",
+    "total_stock": "1.0",
     "total_consumption": "4.0",
     "VAT": "YES",
     "price_lbp": 450000.0,
@@ -31403,7 +31403,7 @@
         "consumption": "2.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "2.0"
       }
     },
@@ -39943,9 +39943,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "50.0",
+    "stock_in_medawar_branch": "49.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "54.0",
+    "total_stock": "53.0",
     "total_consumption": "2.0",
     "VAT": "YES",
     "price_lbp": 155000.0,
@@ -39961,7 +39961,7 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "50.0",
+        "stock": "49.0",
         "consumption": "1.0"
       }
     },
@@ -83838,7 +83838,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-16071-1778925107826550",
     "product_setup_saved_at_utc": "2026-05-16T09:51:47.826550Z",
-    "totalStock": "106"
+    "totalStock": "105"
   },
   {
     "id": "16080",
@@ -107748,7 +107748,7 @@
     "supplier": "JACK DIB",
     "subcategory": "LIGHTER",
     "vat": 1,
-    "totalStock": "83"
+    "totalStock": "82"
   },
   {
     "id": "17751",
@@ -256434,9 +256434,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "1.0",
     "VAT": "YES",
     "price_lbp": 320000.0,
@@ -256458,7 +256458,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "1.0"
       }
     },
