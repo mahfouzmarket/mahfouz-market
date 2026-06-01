@@ -4213,7 +4213,7 @@
     "vat": 0,
     "stock_in_the_daily_market_branch": "0.0",
     "consumption_in_the_daily_market_branch": "0.0",
-    "totalStock": "-1",
+    "totalStock": "23.045",
     "is_bulk": true,
     "ignore_stock": true,
     "bulk_parent_id": 502,
@@ -49718,9 +49718,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "14.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "14.0",
+    "total_stock": "13.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 285000.0,
@@ -49736,7 +49736,7 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "2.0"
       }
     },
@@ -71489,9 +71489,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "7.0",
-    "stock_in_medawar_branch": "20.0",
+    "stock_in_medawar_branch": "19.0",
     "consumption_in_medawar_branch": "5.0",
-    "total_stock": "32.0",
+    "total_stock": "31.0",
     "total_consumption": "12.0",
     "VAT": "NO",
     "price_lbp": 40000.0,
@@ -71507,7 +71507,7 @@
         "consumption": "7.0"
       },
       "Medawar": {
-        "stock": "20.0",
+        "stock": "19.0",
         "consumption": "5.0"
       }
     },
