@@ -4330,11 +4330,11 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "93.0",
+    "stock_in_geitawi_branch": "90.0",
     "consumption_in_geitawi_branch": "265.0",
     "stock_in_medawar_branch": "142.0",
     "consumption_in_medawar_branch": "261.0",
-    "total_stock": "235.0",
+    "total_stock": "232.0",
     "total_consumption": "526.0",
     "VAT": "YES",
     "price_lbp": 30000.0,
@@ -4346,7 +4346,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "93.0",
+        "stock": "90.0",
         "consumption": "265.0"
       },
       "Medawar": {
@@ -4360,7 +4360,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "242"
+    "totalStock": "232"
   },
   {
     "id": "672",
@@ -24607,11 +24607,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Croissant",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "21.0",
     "consumption_in_geitawi_branch": "154.0",
     "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "104.0",
-    "total_stock": "30.0",
+    "total_stock": "28.0",
     "total_consumption": "258.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
@@ -24623,7 +24623,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "21.0",
         "consumption": "154.0"
       },
       "Medawar": {
@@ -24643,7 +24643,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "32"
+    "totalStock": "28"
   },
   {
     "id": "7306",
