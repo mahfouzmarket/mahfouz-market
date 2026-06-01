@@ -24485,9 +24485,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-6.0",
     "consumption_in_geitawi_branch": "92.0",
-    "stock_in_medawar_branch": "-7.0",
+    "stock_in_medawar_branch": "-2.0",
     "consumption_in_medawar_branch": "99.0",
-    "total_stock": "-13.0",
+    "total_stock": "-8.0",
     "total_consumption": "191.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -24503,7 +24503,7 @@
         "consumption": "92.0"
       },
       "Medawar": {
-        "stock": "-7.0",
+        "stock": "-2.0",
         "consumption": "99.0"
       }
     },
@@ -24513,7 +24513,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-13"
+    "totalStock": "-8"
   },
   {
     "id": "7248",
@@ -24526,9 +24526,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "100.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "84.0",
-    "total_stock": "-2.0",
+    "total_stock": "1.0",
     "total_consumption": "184.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -24544,7 +24544,7 @@
         "consumption": "100.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "3.0",
         "consumption": "84.0"
       }
     },
@@ -24554,7 +24554,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-1"
+    "totalStock": "1"
   },
   {
     "id": "7304",
@@ -43409,9 +43409,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "146.0",
-    "stock_in_medawar_branch": "-12.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "189.0",
-    "total_stock": "2.0",
+    "total_stock": "17.0",
     "total_consumption": "335.0",
     "VAT": "NO",
     "price_lbp": 65000.0,
@@ -43427,7 +43427,7 @@
         "consumption": "146.0"
       },
       "Medawar": {
-        "stock": "-12.0",
+        "stock": "3.0",
         "consumption": "189.0"
       }
     },
@@ -43448,7 +43448,7 @@
     "name": "CROISSANT CRISPY CHOCOLATE",
     "subcategory": "Croissant",
     "vat": 0,
-    "totalStock": "2"
+    "totalStock": "17"
   },
   {
     "id": "12869",
@@ -48691,9 +48691,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "36.0",
     "consumption_in_geitawi_branch": "507.0",
-    "stock_in_medawar_branch": "115.0",
+    "stock_in_medawar_branch": "145.0",
     "consumption_in_medawar_branch": "810.0",
-    "total_stock": "151.0",
+    "total_stock": "181.0",
     "total_consumption": "1317.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -48709,7 +48709,7 @@
         "consumption": "507.0"
       },
       "Medawar": {
-        "stock": "115.0",
+        "stock": "145.0",
         "consumption": "810.0"
       }
     },
@@ -48719,7 +48719,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "151"
+    "totalStock": "181"
   },
   {
     "id": "13297",
@@ -69757,9 +69757,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "76.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "92.0",
-    "total_stock": "7.0",
+    "total_stock": "9.0",
     "total_consumption": "168.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -69775,7 +69775,7 @@
         "consumption": "76.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "6.0",
         "consumption": "92.0"
       }
     },
@@ -69785,7 +69785,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "8"
+    "totalStock": "9"
   },
   {
     "id": "15040",
@@ -79926,11 +79926,11 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "fruits",
     "offers": "0",
-    "stock_in_geitawi_branch": "-4.400",
+    "stock_in_geitawi_branch": "0.775",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "7.815",
     "consumption_in_medawar_branch": "7.3",
-    "total_stock": "3.415",
+    "total_stock": "8.590",
     "total_consumption": "8.3",
     "VAT": "NO",
     "price_lbp": 450000.0,
@@ -79942,7 +79942,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-4.400",
+        "stock": "0.775",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -79967,7 +79967,7 @@
     "name": "ENJAS",
     "subcategory": "fruits",
     "vat": 0,
-    "totalStock": "3.415",
+    "totalStock": "10.495",
     "arabic_name": "إجاص",
     "name_ar": "إجاص",
     "description_ar": "إجاص",
@@ -85570,9 +85570,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "-4.0",
+    "stock_in_medawar_branch": "-2.0",
     "consumption_in_medawar_branch": "24.0",
-    "total_stock": "-4.0",
+    "total_stock": "-2.0",
     "total_consumption": "24.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -85588,7 +85588,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "-4.0",
+        "stock": "-2.0",
         "consumption": "24.0"
       }
     },
@@ -85598,7 +85598,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-4"
+    "totalStock": "-2"
   },
   {
     "id": "16245",
@@ -148438,9 +148438,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "110.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "14.0",
     "consumption_in_medawar_branch": "102.0",
-    "total_stock": "6.0",
+    "total_stock": "16.0",
     "total_consumption": "212.0",
     "VAT": "NO",
     "price_lbp": 65000.0,
@@ -148456,7 +148456,7 @@
         "consumption": "110.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "14.0",
         "consumption": "102.0"
       }
     },
@@ -148470,7 +148470,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "6"
+    "totalStock": "16"
   },
   {
     "id": "19846",
@@ -162958,9 +162958,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "8.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "10.0",
+    "total_stock": "15.0",
     "total_consumption": "0.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -162976,7 +162976,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "8.0",
+        "stock": "13.0",
         "consumption": "0.0"
       }
     },
@@ -162987,7 +162987,8 @@
     "supplier": "AL HATAB",
     "name": "CRISPY CROISSANT CHEESE AND OLIVE",
     "subcategory": "Croissant",
-    "vat": 1
+    "vat": 1,
+    "totalStock": "15"
   },
   {
     "id": "20257",
@@ -241760,7 +241761,7 @@
     "product_setup_saved_at_utc": "2026-04-28T17:22:10.951677Z",
     "subcategory": "Digestive Biscuits",
     "vat": 1,
-    "totalStock": "38",
+    "totalStock": "40",
     "stock_in_nouna_branch": 0
   },
   {
@@ -245147,13 +245148,13 @@
     "vat": 0,
     "price_lbp": 200000.0,
     "cost": 1.85,
-    "total_stock": "-1.0",
+    "total_stock": "13.0",
     "total_consumption": "31.0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "13.0",
     "stock_in_medawar_branch": "0.0",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "13.0",
         "consumption": "25.0"
       },
       "Medawar": {
@@ -245205,7 +245206,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-22009-1778926500311898",
     "product_setup_saved_at_utc": "2026-05-16T10:15:00.311898Z",
-    "totalStock": "3"
+    "totalStock": "17"
   },
   {
     "id": "22010",
