@@ -62136,11 +62136,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "30.0",
+    "stock_in_geitawi_branch": "29.0",
     "consumption_in_geitawi_branch": "184.0",
     "stock_in_medawar_branch": "49.0",
     "consumption_in_medawar_branch": "186.0",
-    "total_stock": "79.0",
+    "total_stock": "78.0",
     "total_consumption": "370.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -62152,7 +62152,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "30.0",
+        "stock": "29.0",
         "consumption": "184.0"
       },
       "Medawar": {
@@ -62175,7 +62175,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-14364-1778924724892851",
     "product_setup_saved_at_utc": "2026-05-16T09:45:24.892851Z",
-    "totalStock": "81"
+    "totalStock": "78"
   },
   {
     "id": "14370",
@@ -62274,9 +62274,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-33.0",
     "consumption_in_geitawi_branch": "12.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "17.0",
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "-9.0",
+    "total_stock": "-16.0",
     "total_consumption": "20.0",
     "VAT": "YES",
     "price_lbp": 140000.0,
@@ -62292,7 +62292,7 @@
         "consumption": "12.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "17.0",
         "consumption": "8.0"
       }
     },
@@ -226656,18 +226656,18 @@
         "consumption": "3.0"
       },
       "Medawar": {
-        "stock": "-3.0",
+        "stock": "-5.0",
         "consumption": "3.0"
       }
     },
     "stock_in_geitawi_branch": "4.0",
-    "total_stock": "1.0",
+    "total_stock": "-1.0",
     "Product Description": "MAGIC CLEAN STRONG & DURABLE SPONGE PLUS *",
     "SUPPLIERS": "waybe group",
     "subcategory": "DISH WASHING",
     "vat": 0,
     "consumption_in_geitawi_branch": "3.0",
-    "stock_in_medawar_branch": "-3.0",
+    "stock_in_medawar_branch": "-5.0",
     "consumption_in_medawar_branch": "3.0",
     "total_consumption": "6.0",
     "secondary_category": "",
