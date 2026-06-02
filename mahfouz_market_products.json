@@ -98758,11 +98758,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "READY TO EAT",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "0.0",
+    "total_stock": "1.0",
     "total_consumption": "10.0",
     "VAT": "NO",
     "price_lbp": 600000.0,
@@ -98774,7 +98774,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "0.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -98795,7 +98795,7 @@
     "supplier": "NOUNA'S FOOD",
     "subcategory": "READY TO EAT",
     "vat": 0,
-    "totalStock": "2",
+    "totalStock": "1",
     "priceLbp": 600000.0,
     "priceUsd": 6.666666666666667
   },
@@ -99472,11 +99472,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "READY TO EAT",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "7.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "1.0",
+    "total_stock": "2.0",
     "total_consumption": "9.0",
     "VAT": "NO",
     "price_lbp": 450000.0,
@@ -99488,7 +99488,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "7.0"
       },
       "Medawar": {
@@ -99513,7 +99513,7 @@
     "name": "FATTOUCH SALAD",
     "subcategory": "READY TO EAT",
     "vat": 0,
-    "totalStock": "1",
+    "totalStock": "2",
     "priceLbp": 450000.0,
     "priceUsd": 5.0
   },
@@ -104862,11 +104862,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "30.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "1.0",
+    "total_stock": "4.0",
     "total_consumption": "30.0",
     "VAT": "NO",
     "price_lbp": 220000.0,
@@ -104878,7 +104878,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "4.0",
         "consumption": "30.0"
       },
       "Medawar": {
@@ -104903,7 +104903,7 @@
     "name": "COCKTAIL BANANA AND STRAWBERRY 270 ML",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "1",
+    "totalStock": "4",
     "priceLbp": 220000.0,
     "priceUsd": 2.4444444444444446
   },
@@ -256963,11 +256963,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
-    "stock_in_geitawi_branch": "13.0",
+    "stock_in_geitawi_branch": "16.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_geitawi_branch": "8.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "13.0",
+    "total_stock": "16.0",
     "total_consumption": "8.0",
     "vat": 0,
     "price_lbp": 219600.0,
@@ -256984,7 +256984,7 @@
     "linked_profile_item_id": "90153",
     "branches": {
       "Geitawi": {
-        "stock": "13.0",
+        "stock": "16.0",
         "consumption": "8.0"
       },
       "Medawar": {
@@ -257007,7 +257007,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-90153-1778490719920000",
     "product_setup_saved_at_utc": "2026-05-11T09:11:59.920Z",
-    "totalStock": "13",
+    "totalStock": "16",
     "priceLbp": 219600.0,
     "priceUsd": 2.44
   },
@@ -275818,11 +275818,11 @@
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
     "expiry_days": "365",
-    "stock_in_geitawi_branch": "-3.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "-1.0",
+    "total_stock": "3.0",
     "total_consumption": "3.0",
     "VAT": "NO",
     "price_lbp": 360000.0,
@@ -275840,7 +275840,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "-3.0",
+        "stock": "1.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -275925,11 +275925,11 @@
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
     "expiry_days": "365",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "1.0",
+    "total_stock": "5.0",
     "total_consumption": "1.0",
     "VAT": "NO",
     "price_lbp": 180000.0,
@@ -275947,7 +275947,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "4.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -275965,7 +275965,7 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "totalStock": "2",
+    "totalStock": "5",
     "priceLbp": 180000.0,
     "priceUsd": 2.0
   },
@@ -281117,11 +281117,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
-    "stock_in_geitawi_branch": "0",
+    "stock_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "2.0",
     "consumption_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "2.0",
+    "total_stock": "6.0",
     "total_consumption": "0.0",
     "vat": 0,
     "price_lbp": 180000.0,
@@ -281137,12 +281137,16 @@
     "linked_profile_repo_root": "Nounas_Food",
     "linked_profile_item_id": "2709451",
     "branches": {
+      "Geitawi": {
+        "stock": "4.0",
+        "consumption": "0.0"
+      },
       "Medawar": {
         "stock": "2.0",
         "consumption": "0.0"
       }
     },
-    "totalStock": "2",
+    "totalStock": "6",
     "name": "NF DATES ALMOND 6 PCS",
     "supplier": "NOUNA'S FOOD",
     "subcategory": "NOUNA'S FOOD",
@@ -282925,11 +282929,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_geitawi_branch": "4.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "0.0",
+    "total_stock": "1.0",
     "total_consumption": "4.0",
     "vat": 0,
     "price_lbp": 750000.0,
@@ -282946,7 +282950,7 @@
     "linked_profile_item_id": "8000007",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "4.0"
       },
       "Medawar": {
@@ -282954,7 +282958,7 @@
         "consumption": "0.0"
       }
     },
-    "totalStock": "2",
+    "totalStock": "1",
     "name": "HALLOUM QUINOA SALAD",
     "barcode2": "",
     "supplier": "NOUNA'S FOOD",
