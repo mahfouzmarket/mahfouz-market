@@ -128272,9 +128272,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "33.0",
     "consumption_in_geitawi_branch": "3.0",
-    "stock_in_medawar_branch": "21.0",
+    "stock_in_medawar_branch": "20.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "54.0",
+    "total_stock": "53.0",
     "total_consumption": "6.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -128290,7 +128290,7 @@
         "consumption": "3.0"
       },
       "Medawar": {
-        "stock": "21.0",
+        "stock": "20.0",
         "consumption": "3.0"
       }
     },
@@ -248601,7 +248601,7 @@
     "barcode": "5281021261051",
     "barcode2": "",
     "barcodes": "",
-    "Product Description": "BONJUS PARADISO VANILLA",
+    "Product Description": "BONJUS KRAZY KONE VANILLA",
     "SUPPLIERS": "F AND B TRADING bonjus S.A.L",
     "unit": "-",
     "category": "ICE CREAM",
@@ -248612,7 +248612,7 @@
     "price_lbp": 75000.0,
     "price_usd": "0.83",
     "cost": 0.55,
-    "cost_ht": "1.14",
+    "cost_ht": "0.55",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID100053.jpg",
     "new_items": "x",
     "manual": "",
@@ -248624,11 +248624,16 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-100053-1777467980689238",
     "product_setup_saved_at_utc": "2026-04-29T13:06:20.689238Z",
-    "name": "BONJUS PARADISO VANILLA",
+    "name": "BONJUS KRAZY KONE VANILLA",
     "supplier": "F AND B TRADING bonjus S.A.L",
     "subcategory": "BONJUS",
     "vat": 0,
-    "totalStock": "9"
+    "totalStock": "-2",
+    "arabic_name": "",
+    "name_ar": "",
+    "description_ar": "",
+    "non_stockable": false,
+    "nonStockable": false
   },
   {
     "id": "100055",
