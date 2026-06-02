@@ -8039,9 +8039,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "144.0",
     "consumption_in_geitawi_branch": "1052.0",
-    "stock_in_medawar_branch": "5041.0",
+    "stock_in_medawar_branch": "5040.0",
     "consumption_in_medawar_branch": "1191.0",
-    "total_stock": "5185.0",
+    "total_stock": "5184.0",
     "total_consumption": "2243.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -8057,7 +8057,7 @@
         "consumption": "1052.0"
       },
       "Medawar": {
-        "stock": "5041.0",
+        "stock": "5040.0",
         "consumption": "1191.0"
       }
     },
@@ -54894,9 +54894,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "64.0",
     "consumption_in_geitawi_branch": "81.0",
-    "stock_in_medawar_branch": "117.0",
+    "stock_in_medawar_branch": "116.0",
     "consumption_in_medawar_branch": "146.0",
-    "total_stock": "181.0",
+    "total_stock": "180.0",
     "total_consumption": "227.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -54912,7 +54912,7 @@
         "consumption": "81.0"
       },
       "Medawar": {
-        "stock": "117.0",
+        "stock": "116.0",
         "consumption": "146.0"
       }
     },
@@ -58830,9 +58830,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "33.0",
-    "stock_in_medawar_branch": "29.0",
+    "stock_in_medawar_branch": "28.0",
     "consumption_in_medawar_branch": "33.0",
-    "total_stock": "31.0",
+    "total_stock": "30.0",
     "total_consumption": "66.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -58848,7 +58848,7 @@
         "consumption": "33.0"
       },
       "Medawar": {
-        "stock": "29.0",
+        "stock": "28.0",
         "consumption": "33.0"
       }
     },
@@ -259804,11 +259804,11 @@
   },
   {
     "id": "100064",
-    "stock_in_medawar_branch": "53.0",
+    "stock_in_medawar_branch": "52.0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "50.0",
     "consumption_in_geitawi_branch": "0.0",
-    "total_stock": "53.0",
+    "total_stock": "52.0",
     "total_consumption": "50.0",
     "branches": {
       "Geitawi": {
@@ -259816,7 +259816,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "53.0",
+        "stock": "52.0",
         "consumption": "50.0"
       }
     },
