@@ -8083,9 +8083,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-151.0",
     "consumption_in_geitawi_branch": "725.0",
-    "stock_in_medawar_branch": "1546.0",
+    "stock_in_medawar_branch": "1545.0",
     "consumption_in_medawar_branch": "564.0",
-    "total_stock": "1395.0",
+    "total_stock": "1394.0",
     "total_consumption": "1289.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8101,7 +8101,7 @@
         "consumption": "725.0"
       },
       "Medawar": {
-        "stock": "1546.0",
+        "stock": "1545.0",
         "consumption": "564.0"
       }
     },
@@ -10514,11 +10514,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "49.0",
+    "stock_in_geitawi_branch": "52.0",
     "consumption_in_geitawi_branch": "102.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "82.0",
-    "total_stock": "61.0",
+    "total_stock": "64.0",
     "total_consumption": "184.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -10530,7 +10530,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "49.0",
+        "stock": "52.0",
         "consumption": "102.0"
       },
       "Medawar": {
@@ -10544,7 +10544,7 @@
     "vat": 1,
     "barcode2": "5287000457422",
     "barcodes": "5287000457422",
-    "totalStock": "61",
+    "totalStock": "64",
     "priceLbp": 35000.0,
     "priceUsd": 0.3888888888888889
   },
@@ -10557,11 +10557,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "53.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "62.0",
-    "total_stock": "21.0",
+    "total_stock": "22.0",
     "total_consumption": "115.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -10573,7 +10573,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "10.0",
         "consumption": "53.0"
       },
       "Medawar": {
@@ -10596,7 +10596,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-2475-1779096923170555",
     "product_setup_saved_at_utc": "2026-05-18T09:35:23.170555Z",
-    "totalStock": "21",
+    "totalStock": "22",
     "priceLbp": 70000.0,
     "priceUsd": 0.7777777777777778
   },
@@ -43214,9 +43214,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "105.0",
     "consumption_in_geitawi_branch": "215.0",
-    "stock_in_medawar_branch": "35.0",
+    "stock_in_medawar_branch": "34.0",
     "consumption_in_medawar_branch": "342.0",
-    "total_stock": "140.0",
+    "total_stock": "139.0",
     "total_consumption": "557.0",
     "VAT": "NO",
     "price_lbp": 200000.0,
@@ -43238,7 +43238,7 @@
         "consumption": "215.0"
       },
       "Medawar": {
-        "stock": "35.0",
+        "stock": "34.0",
         "consumption": "342.0"
       }
     },
@@ -251915,7 +251915,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "27.0",
         "consumption": "119.0"
       },
       "Medawar": {
@@ -251923,8 +251923,8 @@
         "consumption": "143.0"
       }
     },
-    "stock_in_geitawi_branch": "23.0",
-    "total_stock": "80.0",
+    "stock_in_geitawi_branch": "27.0",
+    "total_stock": "84.0",
     "cost": 0.36025,
     "stock_in_medawar_branch": "57.0",
     "Product Description": "CHOCO PRINCE 25 G ()",
@@ -251940,7 +251940,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "80",
+    "totalStock": "84",
     "priceLbp": 50000.0,
     "priceUsd": 0.5555555555555556
   },
