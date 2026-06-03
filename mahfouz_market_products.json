@@ -4271,11 +4271,11 @@
     "category": "COFFEE SHOP",
     "sub_category": "nescafe 3 in 1",
     "offers": "0",
-    "stock_in_geitawi_branch": "-31.0",
+    "stock_in_geitawi_branch": "-32.0",
     "consumption_in_geitawi_branch": "102.0",
     "stock_in_medawar_branch": "-4.0",
     "consumption_in_medawar_branch": "9.0",
-    "total_stock": "-35.0",
+    "total_stock": "-36.0",
     "total_consumption": "111.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -4287,7 +4287,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-31.0",
+        "stock": "-32.0",
         "consumption": "102.0"
       },
       "Medawar": {
@@ -4310,7 +4310,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-643-1779255644013389",
     "product_setup_saved_at_utc": "2026-05-20T05:40:44.013389Z",
-    "totalStock": "-34",
+    "totalStock": "-36",
     "priceLbp": 65000.0,
     "priceUsd": 0.7222222222222222
   },
@@ -43212,11 +43212,11 @@
     "sub_category": "CIGARETTES",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "105.0",
+    "stock_in_geitawi_branch": "106.0",
     "consumption_in_geitawi_branch": "215.0",
     "stock_in_medawar_branch": "34.0",
     "consumption_in_medawar_branch": "342.0",
-    "total_stock": "139.0",
+    "total_stock": "140.0",
     "total_consumption": "557.0",
     "VAT": "NO",
     "price_lbp": 200000.0,
@@ -43234,7 +43234,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "105.0",
+        "stock": "106.0",
         "consumption": "215.0"
       },
       "Medawar": {
@@ -59874,11 +59874,11 @@
     "category": "FOOD",
     "sub_category": "MILK",
     "offers": "0",
-    "stock_in_geitawi_branch": "17.0",
+    "stock_in_geitawi_branch": "16.0",
     "consumption_in_geitawi_branch": "17.0",
     "stock_in_medawar_branch": "73.0",
     "consumption_in_medawar_branch": "11.0",
-    "total_stock": "90.0",
+    "total_stock": "89.0",
     "total_consumption": "28.0",
     "VAT": "NO",
     "price_lbp": 35000.0,
@@ -59894,7 +59894,7 @@
     "vat": 0,
     "branches": {
       "Geitawi": {
-        "stock": "17.0",
+        "stock": "16.0",
         "consumption": "17.0"
       },
       "Medawar": {
@@ -59904,7 +59904,7 @@
     },
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "91",
+    "totalStock": "89",
     "priceLbp": 35000.0,
     "priceUsd": 0.3888888888888889
   },
@@ -97776,11 +97776,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Digestive Biscuits",
     "offers": "0",
-    "stock_in_geitawi_branch": "33.0",
+    "stock_in_geitawi_branch": "32.0",
     "consumption_in_geitawi_branch": "13.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "23.0",
-    "total_stock": "33.0",
+    "total_stock": "32.0",
     "total_consumption": "36.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -97792,7 +97792,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "33.0",
+        "stock": "32.0",
         "consumption": "13.0"
       },
       "Medawar": {
@@ -97810,7 +97810,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "35",
+    "totalStock": "32",
     "priceLbp": 130000.0,
     "priceUsd": 1.4444444444444444
   },
