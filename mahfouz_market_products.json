@@ -3326,11 +3326,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "63.0",
+    "stock_in_geitawi_branch": "57.0",
     "consumption_in_geitawi_branch": "209.0",
     "stock_in_medawar_branch": "221.0",
     "consumption_in_medawar_branch": "408.0",
-    "total_stock": "284.0",
+    "total_stock": "278.0",
     "total_consumption": "617.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
@@ -3342,7 +3342,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "63.0",
+        "stock": "57.0",
         "consumption": "209.0"
       },
       "Medawar": {
@@ -4236,11 +4236,11 @@
     "category": "COFFEE SHOP",
     "sub_category": "nescafe 3 in 1",
     "offers": "0",
-    "stock_in_geitawi_branch": "-35.0",
+    "stock_in_geitawi_branch": "-36.0",
     "consumption_in_geitawi_branch": "102.0",
     "stock_in_medawar_branch": "-4.0",
     "consumption_in_medawar_branch": "9.0",
-    "total_stock": "-39.0",
+    "total_stock": "-40.0",
     "total_consumption": "111.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -4252,7 +4252,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-35.0",
+        "stock": "-36.0",
         "consumption": "102.0"
       },
       "Medawar": {
