@@ -7829,11 +7829,11 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "38.0",
+    "stock_in_geitawi_branch": "37.0",
     "consumption_in_geitawi_branch": "60.0",
     "stock_in_medawar_branch": "44.0",
     "consumption_in_medawar_branch": "34.0",
-    "total_stock": "82.0",
+    "total_stock": "81.0",
     "total_consumption": "94.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -7845,7 +7845,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "38.0",
+        "stock": "37.0",
         "consumption": "60.0"
       },
       "Medawar": {
@@ -7859,7 +7859,7 @@
     "vat": 1,
     "barcode2": "5281023001365",
     "barcodes": "5281023001365",
-    "totalStock": "82",
+    "totalStock": "81",
     "priceLbp": 65000.0,
     "priceUsd": 0.7222222222222222
   },
@@ -9726,11 +9726,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "50.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "31.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "81.0",
     "VAT": "YES",
     "price_lbp": 140000.0,
@@ -9742,7 +9742,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "50.0"
       },
       "Medawar": {
@@ -9756,7 +9756,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "6",
+    "totalStock": "5",
     "priceLbp": 140000.0,
     "priceUsd": 1.5555555555555556,
     "updatedAt": "2026-05-28T09:41:00"
@@ -100016,11 +100016,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Digestive Biscuits",
     "offers": "0",
-    "stock_in_geitawi_branch": "-1.0",
+    "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "28.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "5.0",
+    "total_stock": "4.0",
     "total_consumption": "32.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -100032,7 +100032,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-1.0",
+        "stock": "-2.0",
         "consumption": "28.0"
       },
       "Medawar": {
@@ -100050,7 +100050,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5",
+    "totalStock": "4",
     "priceLbp": 35000.0,
     "priceUsd": 0.3888888888888889
   },
@@ -181940,11 +181940,11 @@
     "category": "CHI TAYIB",
     "sub_category": "Digestive Biscuits",
     "offers": "0",
-    "stock_in_geitawi_branch": "14.0",
+    "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "22.0",
     "stock_in_medawar_branch": "19.0",
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "33.0",
+    "total_stock": "32.0",
     "total_consumption": "30.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -181956,7 +181956,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "22.0"
       },
       "Medawar": {
@@ -181974,7 +181974,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "33",
+    "totalStock": "32",
     "priceLbp": 90000.0,
     "priceUsd": 1.0
   },
