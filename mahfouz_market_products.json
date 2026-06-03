@@ -4107,11 +4107,11 @@
     "category": "FOOD",
     "sub_category": "instant coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "12.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "50.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "62.0",
     "VAT": "YES",
     "price_lbp": 360000.0,
@@ -4123,7 +4123,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "0.0",
         "consumption": "12.0"
       },
       "Medawar": {
@@ -9597,11 +9597,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "5.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "6.0",
     "VAT": "NO",
     "price_lbp": 300000.0,
@@ -9613,7 +9613,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "5.0"
       },
       "Medawar": {
@@ -24446,11 +24446,11 @@
     "category": "FOOD",
     "sub_category": "cans & jams",
     "offers": "0",
-    "stock_in_geitawi_branch": "7.0",
+    "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "26.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "26.0",
-    "total_stock": "13.0",
+    "total_stock": "12.0",
     "total_consumption": "52.0",
     "VAT": "NO",
     "price_lbp": 90000.0,
@@ -24462,7 +24462,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
+        "stock": "6.0",
         "consumption": "26.0"
       },
       "Medawar": {
@@ -90320,11 +90320,11 @@
     "category": "HOME USAGE",
     "sub_category": "CLEANING",
     "offers": "0",
-    "stock_in_geitawi_branch": "11.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "12.0",
     "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "12.0",
-    "total_stock": "24.0",
+    "total_stock": "23.0",
     "total_consumption": "24.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -90336,7 +90336,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "12.0"
       },
       "Medawar": {
@@ -117769,11 +117769,11 @@
     "category": "FOOD",
     "sub_category": "cans & jams",
     "offers": "0",
-    "stock_in_geitawi_branch": "16.0",
+    "stock_in_geitawi_branch": "15.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "6.0",
-    "total_stock": "16.0",
+    "total_stock": "15.0",
     "total_consumption": "7.0",
     "VAT": "NO",
     "price_lbp": 240000.0,
@@ -117789,7 +117789,7 @@
     "vat": 0,
     "branches": {
       "Geitawi": {
-        "stock": "16.0",
+        "stock": "15.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -250875,7 +250875,7 @@
     "cost": 0.1271,
     "branches": {
       "Geitawi": {
-        "stock": "-246.0",
+        "stock": "-250.0",
         "consumption": "623.0"
       },
       "Medawar": {
@@ -250883,8 +250883,8 @@
         "consumption": "618.0"
       }
     },
-    "stock_in_geitawi_branch": "-246.0",
-    "total_stock": "-534.0",
+    "stock_in_geitawi_branch": "-250.0",
+    "total_stock": "-538.0",
     "stock_in_medawar_branch": "-288.0",
     "Product Description": "TROPICANA ICE CREAM TRIO",
     "SUPPLIERS": "LIBAN JUS SAL GLACES",
