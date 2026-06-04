@@ -4005,9 +4005,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-95.0",
     "consumption_in_geitawi_branch": "542.0",
-    "stock_in_medawar_branch": "882.0",
+    "stock_in_medawar_branch": "880.0",
     "consumption_in_medawar_branch": "393.0",
-    "total_stock": "787.0",
+    "total_stock": "785.0",
     "total_consumption": "935.0",
     "VAT": "YES",
     "price_lbp": 50000.0,
@@ -4023,7 +4023,7 @@
         "consumption": "542.0"
       },
       "Medawar": {
-        "stock": "882.0",
+        "stock": "880.0",
         "consumption": "393.0"
       }
     },
@@ -4042,7 +4042,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-608-1778914111735325",
     "product_setup_saved_at_utc": "2026-05-16T06:48:31.735325Z",
-    "totalStock": "799",
+    "totalStock": "785",
     "priceLbp": 50000.0,
     "priceUsd": 0.5555555555555556
   },
@@ -7997,9 +7997,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "260.0",
     "consumption_in_geitawi_branch": "1072.0",
-    "stock_in_medawar_branch": "4625.0",
+    "stock_in_medawar_branch": "4623.0",
     "consumption_in_medawar_branch": "1244.0",
-    "total_stock": "4885.0",
+    "total_stock": "4883.0",
     "total_consumption": "2316.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -8015,7 +8015,7 @@
         "consumption": "1072.0"
       },
       "Medawar": {
-        "stock": "4625.0",
+        "stock": "4623.0",
         "consumption": "1244.0"
       }
     },
@@ -8025,7 +8025,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "4964",
+    "totalStock": "4883",
     "priceLbp": 25000.0,
     "priceUsd": 0.2777777777777778
   },
@@ -98118,11 +98118,11 @@
     "category": "FOOD",
     "sub_category": "cans & jams",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
+    "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "8.0",
     "stock_in_medawar_branch": "15.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "20.0",
+    "total_stock": "19.0",
     "total_consumption": "12.0",
     "VAT": "YES",
     "price_lbp": 185000.0,
@@ -98134,7 +98134,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "8.0"
       },
       "Medawar": {
