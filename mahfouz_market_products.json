@@ -107188,11 +107188,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "11.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "18.0",
     "VAT": "YES",
     "price_lbp": 140000.0,
@@ -107204,7 +107204,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "11.0"
       },
       "Medawar": {
@@ -124139,11 +124139,11 @@
     "category": "CHIPS",
     "sub_category": "DOLSI",
     "offers": "0",
-    "stock_in_geitawi_branch": "15.0",
+    "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "35.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "20.0",
-    "total_stock": "27.0",
+    "total_stock": "26.0",
     "total_consumption": "55.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -124155,7 +124155,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "15.0",
+        "stock": "14.0",
         "consumption": "35.0"
       },
       "Medawar": {
@@ -278679,11 +278679,11 @@
     "sub_category": "Wafers",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "7.0",
+    "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "10.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "10.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -278701,7 +278701,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
+        "stock": "6.0",
         "consumption": "10.0"
       },
       "Medawar": {
