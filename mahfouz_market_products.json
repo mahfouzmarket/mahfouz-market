@@ -81768,9 +81768,9 @@
     "category": "HOME USAGE",
     "sub_category": "TISSUES & TOILET PAPER",
     "offers": "0",
-    "stock_in_geitawi_branch": "-13.0",
+    "stock_in_geitawi_branch": "7.0",
     "consumption_in_geitawi_branch": "28.0",
-    "stock_in_medawar_branch": "40.0",
+    "stock_in_medawar_branch": "20.0",
     "consumption_in_medawar_branch": "30.0",
     "total_stock": "27.0",
     "total_consumption": "58.0",
@@ -81784,11 +81784,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-13.0",
+        "stock": "7.0",
         "consumption": "28.0"
       },
       "Medawar": {
-        "stock": "40.0",
+        "stock": "20.0",
         "consumption": "30.0"
       }
     },
