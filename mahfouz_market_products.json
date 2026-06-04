@@ -50678,11 +50678,11 @@
     "category": "mahfouz market",
     "sub_category": "cup",
     "offers": "0",
-    "stock_in_geitawi_branch": "0.0",
+    "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "125.0",
     "stock_in_medawar_branch": "-115.0",
     "consumption_in_medawar_branch": "348.0",
-    "total_stock": "-115.0",
+    "total_stock": "-116.0",
     "total_consumption": "473.0",
     "VAT": "YES",
     "price_lbp": 3000.0,
@@ -50694,7 +50694,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "0.0",
+        "stock": "-1.0",
         "consumption": "125.0"
       },
       "Medawar": {
@@ -54723,11 +54723,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "84.0",
+    "stock_in_geitawi_branch": "83.0",
     "consumption_in_geitawi_branch": "202.0",
     "stock_in_medawar_branch": "86.0",
     "consumption_in_medawar_branch": "128.0",
-    "total_stock": "170.0",
+    "total_stock": "169.0",
     "total_consumption": "330.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -54739,7 +54739,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "84.0",
+        "stock": "83.0",
         "consumption": "202.0"
       },
       "Medawar": {
@@ -203686,11 +203686,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "34.0",
+    "stock_in_geitawi_branch": "30.0",
     "consumption_in_geitawi_branch": "74.0",
     "stock_in_medawar_branch": "50.0",
     "consumption_in_medawar_branch": "116.0",
-    "total_stock": "84.0",
+    "total_stock": "80.0",
     "total_consumption": "190.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -203702,7 +203702,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "34.0",
+        "stock": "30.0",
         "consumption": "74.0"
       },
       "Medawar": {
