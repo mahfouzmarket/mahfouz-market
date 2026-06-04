@@ -6836,9 +6836,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "49.0",
     "consumption_in_geitawi_branch": "226.0",
-    "stock_in_medawar_branch": "102.0",
+    "stock_in_medawar_branch": "101.0",
     "consumption_in_medawar_branch": "328.0",
-    "total_stock": "151.0",
+    "total_stock": "150.0",
     "total_consumption": "554.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -6854,7 +6854,7 @@
         "consumption": "226.0"
       },
       "Medawar": {
-        "stock": "102.0",
+        "stock": "101.0",
         "consumption": "328.0"
       }
     },
@@ -9551,9 +9551,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "34.0",
     "consumption_in_geitawi_branch": "138.0",
-    "stock_in_medawar_branch": "30.0",
+    "stock_in_medawar_branch": "29.0",
     "consumption_in_medawar_branch": "354.0",
-    "total_stock": "64.0",
+    "total_stock": "63.0",
     "total_consumption": "492.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -9569,7 +9569,7 @@
         "consumption": "138.0"
       },
       "Medawar": {
-        "stock": "30.0",
+        "stock": "29.0",
         "consumption": "354.0"
       }
     },
@@ -52250,9 +52250,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "33.0",
-    "stock_in_medawar_branch": "-8.0",
+    "stock_in_medawar_branch": "-9.0",
     "consumption_in_medawar_branch": "15.0",
-    "total_stock": "0.0",
+    "total_stock": "-1.0",
     "total_consumption": "48.0",
     "VAT": "YES",
     "price_lbp": 120000.0,
@@ -52268,7 +52268,7 @@
         "consumption": "33.0"
       },
       "Medawar": {
-        "stock": "-8.0",
+        "stock": "-9.0",
         "consumption": "15.0"
       }
     },
@@ -53286,9 +53286,9 @@
     "expiry_days": "365",
     "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "36.0",
-    "stock_in_medawar_branch": "9.0",
+    "stock_in_medawar_branch": "8.0",
     "consumption_in_medawar_branch": "75.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "111.0",
     "VAT": "YES",
     "price_lbp": 140000.0,
@@ -53310,7 +53310,7 @@
         "consumption": "36.0"
       },
       "Medawar": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "75.0"
       }
     },
@@ -239569,7 +239569,7 @@
     "vat": 1,
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "1.0",
     "branches": {
       "Geitawi": {
@@ -239577,11 +239577,11 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "3.0",
         "consumption": "1.0"
       }
     },
-    "total_stock": "5.0",
+    "total_stock": "3.0",
     "total_consumption": "2.0",
     "secondary_category": "",
     "secondary_subcategory": "",
@@ -264576,11 +264576,11 @@
   },
   {
     "id": "300005",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "4.0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "7.0",
     "consumption_in_geitawi_branch": "8.0",
-    "total_stock": "6.0",
+    "total_stock": "4.0",
     "total_consumption": "15.0",
     "branches": {
       "Geitawi": {
@@ -264588,7 +264588,7 @@
         "consumption": "8.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "4.0",
         "consumption": "7.0"
       }
     },
@@ -281385,9 +281385,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "157.0",
-    "stock_in_medawar_branch": "-18.0",
+    "stock_in_medawar_branch": "-21.0",
     "consumption_in_medawar_branch": "283.0",
-    "total_stock": "6.0",
+    "total_stock": "3.0",
     "total_consumption": "440.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -281409,7 +281409,7 @@
         "consumption": "157.0"
       },
       "Medawar": {
-        "stock": "-18.0",
+        "stock": "-21.0",
         "consumption": "283.0"
       }
     },
