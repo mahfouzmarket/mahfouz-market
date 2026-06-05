@@ -8038,11 +8038,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "-28.0",
+    "stock_in_geitawi_branch": "-30.0",
     "consumption_in_geitawi_branch": "1104.0",
     "stock_in_medawar_branch": "4257.0",
     "consumption_in_medawar_branch": "1292.0",
-    "total_stock": "4229.0",
+    "total_stock": "4227.0",
     "total_consumption": "2396.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -8054,7 +8054,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-28.0",
+        "stock": "-30.0",
         "consumption": "1104.0"
       },
       "Medawar": {
@@ -8068,7 +8068,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "4229",
+    "totalStock": "4227",
     "priceLbp": 25000.0,
     "priceUsd": 0.2777777777777778
   },
@@ -58532,11 +58532,11 @@
     "category": "CHIPS",
     "sub_category": "DOLSI",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "70.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "36.0",
-    "total_stock": "16.0",
+    "total_stock": "15.0",
     "total_consumption": "106.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -58548,7 +58548,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "70.0"
       },
       "Medawar": {
@@ -58562,7 +58562,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "24",
+    "totalStock": "15",
     "stock_in_nouna_branch": 0,
     "priceLbp": 80000.0,
     "priceUsd": 0.8888888888888888
