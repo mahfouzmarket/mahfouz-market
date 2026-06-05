@@ -16577,9 +16577,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "74.0",
     "consumption_in_geitawi_branch": "83.0",
-    "stock_in_medawar_branch": "83.0",
+    "stock_in_medawar_branch": "82.0",
     "consumption_in_medawar_branch": "129.0",
-    "total_stock": "157.0",
+    "total_stock": "156.0",
     "total_consumption": "212.0",
     "VAT": "YES",
     "price_lbp": 55000.0,
@@ -16595,7 +16595,7 @@
         "consumption": "83.0"
       },
       "Medawar": {
-        "stock": "83.0",
+        "stock": "82.0",
         "consumption": "129.0"
       }
     },
@@ -25638,9 +25638,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "89.0",
     "consumption_in_geitawi_branch": "496.0",
-    "stock_in_medawar_branch": "68.0",
+    "stock_in_medawar_branch": "67.0",
     "consumption_in_medawar_branch": "490.0",
-    "total_stock": "157.0",
+    "total_stock": "156.0",
     "total_consumption": "986.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -25656,7 +25656,7 @@
         "consumption": "496.0"
       },
       "Medawar": {
-        "stock": "68.0",
+        "stock": "67.0",
         "consumption": "490.0"
       }
     },
@@ -45323,9 +45323,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "26.0",
     "consumption_in_geitawi_branch": "24.0",
-    "stock_in_medawar_branch": "14.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "14.0",
-    "total_stock": "40.0",
+    "total_stock": "39.0",
     "total_consumption": "38.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -45341,7 +45341,7 @@
         "consumption": "24.0"
       },
       "Medawar": {
-        "stock": "14.0",
+        "stock": "13.0",
         "consumption": "14.0"
       }
     },
@@ -109926,9 +109926,9 @@
     "category": "BEVERAGES",
     "sub_category": "cold coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "9.0",
     "consumption_in_geitawi_branch": "2.0",
-    "stock_in_medawar_branch": "18.0",
+    "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "21.0",
     "total_consumption": "2.0",
@@ -109942,11 +109942,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "9.0",
         "consumption": "2.0"
       },
       "Medawar": {
-        "stock": "18.0",
+        "stock": "12.0",
         "consumption": "0.0"
       }
     },
@@ -109973,9 +109973,9 @@
     "category": "BEVERAGES",
     "sub_category": "cold coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "9.0",
     "consumption_in_geitawi_branch": "4.0",
-    "stock_in_medawar_branch": "16.0",
+    "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "4.0",
     "total_stock": "19.0",
     "total_consumption": "8.0",
@@ -109989,11 +109989,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "9.0",
         "consumption": "4.0"
       },
       "Medawar": {
-        "stock": "16.0",
+        "stock": "10.0",
         "consumption": "4.0"
       }
     },
@@ -112255,9 +112255,9 @@
     "category": "BEVERAGES",
     "sub_category": "cold coffee",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "10.0",
     "consumption_in_geitawi_branch": "6.0",
-    "stock_in_medawar_branch": "19.0",
+    "stock_in_medawar_branch": "13.0",
     "consumption_in_medawar_branch": "0.0",
     "total_stock": "23.0",
     "total_consumption": "6.0",
@@ -112271,11 +112271,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "10.0",
         "consumption": "6.0"
       },
       "Medawar": {
-        "stock": "19.0",
+        "stock": "13.0",
         "consumption": "0.0"
       }
     },
