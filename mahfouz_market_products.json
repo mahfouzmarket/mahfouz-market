@@ -16225,9 +16225,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "21.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "22.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "43.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -16243,7 +16243,7 @@
         "consumption": "21.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "22.0"
       }
     },
@@ -43761,9 +43761,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-113.0",
     "consumption_in_geitawi_branch": "1687.0",
-    "stock_in_medawar_branch": "-36.0",
+    "stock_in_medawar_branch": "-38.0",
     "consumption_in_medawar_branch": "1789.0",
-    "total_stock": "-149.0",
+    "total_stock": "-151.0",
     "total_consumption": "3476.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -43779,7 +43779,7 @@
         "consumption": "1687.0"
       },
       "Medawar": {
-        "stock": "-36.0",
+        "stock": "-38.0",
         "consumption": "1789.0"
       }
     },
@@ -138645,9 +138645,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "47.0",
-    "stock_in_medawar_branch": "19.0",
+    "stock_in_medawar_branch": "18.0",
     "consumption_in_medawar_branch": "23.0",
-    "total_stock": "25.0",
+    "total_stock": "24.0",
     "total_consumption": "70.0",
     "VAT": "YES",
     "price_lbp": 110000.0,
@@ -138663,7 +138663,7 @@
         "consumption": "47.0"
       },
       "Medawar": {
-        "stock": "19.0",
+        "stock": "18.0",
         "consumption": "23.0"
       }
     },
@@ -238654,12 +238654,12 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "16.0",
+        "stock": "15.0",
         "consumption": "62.0"
       }
     },
-    "stock_in_medawar_branch": "16.0",
-    "total_stock": "16.0",
+    "stock_in_medawar_branch": "15.0",
+    "total_stock": "15.0",
     "stock_in_geitawi_branch": "0.0",
     "Product Description": "BISOUS POPSICLE MULBERRY",
     "SUPPLIERS": "bisous douceur",
@@ -238810,12 +238810,12 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "74.0",
+        "stock": "73.0",
         "consumption": "58.0"
       }
     },
-    "stock_in_medawar_branch": "74.0",
-    "total_stock": "74.0",
+    "stock_in_medawar_branch": "73.0",
+    "total_stock": "73.0",
     "stock_in_geitawi_branch": "0.0",
     "Product Description": "BISOUS POPSICLE LEMON SORBET",
     "SUPPLIERS": "bisous douceur",
@@ -259490,11 +259490,11 @@
   },
   {
     "id": "100044",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "5.0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "12.0",
     "consumption_in_geitawi_branch": "7.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "19.0",
     "branches": {
       "Geitawi": {
@@ -259502,7 +259502,7 @@
         "consumption": "7.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "12.0"
       }
     },
