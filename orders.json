@@ -13414,5 +13414,93 @@
     "clientClosed": true,
     "clientClosedAt": "2026-06-06T16:32:55.020695Z",
     "clientClosedBy": "shop"
+  },
+  {
+    "orderId": "ord-1780774684909",
+    "ts": "2026-06-06T19:38:04.909844Z",
+    "createdAt": "2026-06-06T19:38:04.909844Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-06T19:38:04.909844Z"
+      }
+    ],
+    "customer": {
+      "name": "Nadine Bechara",
+      "phone": "81333720",
+      "address": "بيروت الاشرفية\nالمطران عطالله, وقف السريان, Floor 1, No Elevator",
+      "location": "https://www.google.com/maps?q=33.889665,35.524464"
+    },
+    "customer_name": "Nadine Bechara",
+    "customer_phone": "81333720",
+    "pickup": false,
+    "items": [
+      {
+        "id": "21476",
+        "name": "BIHAR COW KASHKAVAL CHEESE 275 G",
+        "qty": 1,
+        "unitUsd": 5.67,
+        "totalUsd": 5.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21476.jpg"
+      },
+      {
+        "id": "2821",
+        "name": "LABNEH KHOURY 400 G",
+        "qty": 1,
+        "unitUsd": 3.5,
+        "totalUsd": 3.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2821.jpg"
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "qty": 1,
+        "unitUsd": 1.44,
+        "totalUsd": 1.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg"
+      },
+      {
+        "id": "13969",
+        "name": "PICON 8 PORTIONS 120 G",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13969.jpg"
+      },
+      {
+        "id": "13897",
+        "name": "PUCK DANISH WHITE 200 GR",
+        "qty": 1,
+        "unitUsd": 1.44,
+        "totalUsd": 1.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13897.jpg"
+      },
+      {
+        "id": "5278",
+        "name": "THREE CHEFS CHEESE LOW SALT",
+        "qty": 2,
+        "unitUsd": 2.44,
+        "totalUsd": 4.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5278.jpg"
+      },
+      {
+        "id": "21298",
+        "name": "MILKA EXTRA CHUNKY CARAMEL SALTED ALMOND C",
+        "qty": 1,
+        "unitUsd": 3.89,
+        "totalUsd": 3.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21298.jpg"
+      }
+    ],
+    "totalUsd": 23.63,
+    "totalLbp": 2115000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
