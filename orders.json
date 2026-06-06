@@ -13316,5 +13316,85 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1780763083344",
+    "ts": "2026-06-06T16:24:43.344270Z",
+    "createdAt": "2026-06-06T16:24:43.344270Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-06T16:24:43.344270Z"
+      }
+    ],
+    "customer": {
+      "name": "Ahmad Elkassem",
+      "phone": "76831352",
+      "address": "home\nElkhodor street, no name, Floor 1, No Elevator · in front of nano shop",
+      "location": "https://www.google.com/maps?q=33.90197436705422,35.53174149245024"
+    },
+    "customer_name": "Ahmad Elkassem",
+    "customer_phone": "76831352",
+    "pickup": false,
+    "items": [
+      {
+        "id": "300028",
+        "name": "TAKIS VOLCANO 90 G",
+        "qty": 1,
+        "unitUsd": 3.22,
+        "totalUsd": 3.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300028.jpg"
+      },
+      {
+        "id": "300032",
+        "name": "TAKIS DRAGON SWEET CHILLI 55 G",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300032.jpg"
+      },
+      {
+        "id": "3647",
+        "name": "MASTERS S&V 80 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3647.jpg"
+      },
+      {
+        "id": "1178",
+        "name": "PEPSI 2.25 L",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1178.jpg"
+      },
+      {
+        "id": "300031",
+        "name": "TAKIS FUEGO 90 G",
+        "qty": 1,
+        "unitUsd": 3.11,
+        "totalUsd": 3.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300031.jpg"
+      },
+      {
+        "id": "226",
+        "name": "DARK BLUE 330 ML",
+        "qty": 1,
+        "unitUsd": 0.72,
+        "totalUsd": 0.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID226.jpg"
+      }
+    ],
+    "totalUsd": 11.9,
+    "totalLbp": 1065000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
