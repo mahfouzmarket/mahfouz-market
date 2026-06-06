@@ -25047,11 +25047,11 @@
     "category": "PET SUPPLIES",
     "sub_category": "PETS FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "26.0",
+    "stock_in_geitawi_branch": "25.0",
     "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "25.0",
     "consumption_in_medawar_branch": "17.0",
-    "total_stock": "51.0",
+    "total_stock": "50.0",
     "total_consumption": "26.0",
     "VAT": "YES",
     "price_lbp": 95000.0,
@@ -25063,7 +25063,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "26.0",
+        "stock": "25.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -25077,7 +25077,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "51",
+    "totalStock": "50",
     "priceLbp": 95000.0,
     "priceUsd": 1.0555555555555556
   },
@@ -95420,9 +95420,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "118.0",
     "consumption_in_geitawi_branch": "622.0",
-    "stock_in_medawar_branch": "114.0",
+    "stock_in_medawar_branch": "113.0",
     "consumption_in_medawar_branch": "657.0",
-    "total_stock": "232.0",
+    "total_stock": "231.0",
     "total_consumption": "1279.0",
     "VAT": "NO",
     "price_lbp": 70000.0,
@@ -95438,7 +95438,7 @@
         "consumption": "622.0"
       },
       "Medawar": {
-        "stock": "114.0",
+        "stock": "113.0",
         "consumption": "657.0"
       }
     },
