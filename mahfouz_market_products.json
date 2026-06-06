@@ -2921,11 +2921,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "58.0",
+    "stock_in_geitawi_branch": "57.0",
     "consumption_in_geitawi_branch": "93.0",
     "stock_in_medawar_branch": "111.0",
     "consumption_in_medawar_branch": "119.0",
-    "total_stock": "169.0",
+    "total_stock": "168.0",
     "total_consumption": "212.0",
     "VAT": "YES",
     "price_lbp": 150000.0,
@@ -2937,7 +2937,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "58.0",
+        "stock": "57.0",
         "consumption": "93.0"
       },
       "Medawar": {
@@ -2951,7 +2951,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "171",
+    "totalStock": "168",
     "priceLbp": 150000.0,
     "priceUsd": 1.6666666666666667
   },
@@ -8082,11 +8082,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "45.0",
+    "stock_in_geitawi_branch": "44.0",
     "consumption_in_geitawi_branch": "767.0",
     "stock_in_medawar_branch": "-418.0",
     "consumption_in_medawar_branch": "592.0",
-    "total_stock": "-373.0",
+    "total_stock": "-374.0",
     "total_consumption": "1359.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8098,7 +8098,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "45.0",
+        "stock": "44.0",
         "consumption": "767.0"
       },
       "Medawar": {
@@ -8121,7 +8121,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "-372",
+    "totalStock": "-374",
     "priceLbp": 45000.0,
     "priceUsd": 0.5
   },
@@ -143434,11 +143434,11 @@
     "category": "NUTS",
     "sub_category": "KLATCHI",
     "offers": "0",
-    "stock_in_geitawi_branch": "9.0",
+    "stock_in_geitawi_branch": "8.0",
     "consumption_in_geitawi_branch": "29.0",
     "stock_in_medawar_branch": "33.0",
     "consumption_in_medawar_branch": "58.0",
-    "total_stock": "42.0",
+    "total_stock": "41.0",
     "total_consumption": "87.0",
     "VAT": "NO",
     "price_lbp": 400000.0,
@@ -143450,7 +143450,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "9.0",
+        "stock": "8.0",
         "consumption": "29.0"
       },
       "Medawar": {
@@ -143464,7 +143464,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "43",
+    "totalStock": "41",
     "priceLbp": 400000.0,
     "priceUsd": 4.444444444444445
   },
