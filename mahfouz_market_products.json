@@ -20688,11 +20688,11 @@
     "category": "FOOD",
     "sub_category": "SEEDS",
     "offers": "0",
-    "stock_in_geitawi_branch": "-2.0",
+    "stock_in_geitawi_branch": "-3.0",
     "consumption_in_geitawi_branch": "5.0",
     "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "-3.0",
+    "total_stock": "-4.0",
     "total_consumption": "9.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -20704,7 +20704,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
+        "stock": "-3.0",
         "consumption": "5.0"
       },
       "Medawar": {
@@ -50907,11 +50907,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "108.0",
+    "stock_in_geitawi_branch": "107.0",
     "consumption_in_geitawi_branch": "579.0",
     "stock_in_medawar_branch": "138.0",
     "consumption_in_medawar_branch": "854.0",
-    "total_stock": "246.0",
+    "total_stock": "245.0",
     "total_consumption": "1433.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -50923,7 +50923,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "108.0",
+        "stock": "107.0",
         "consumption": "579.0"
       },
       "Medawar": {
@@ -124959,11 +124959,11 @@
     "category": "HOME USAGE",
     "sub_category": "PICNIC & OFFICE USE",
     "offers": "0",
-    "stock_in_geitawi_branch": "10.0",
+    "stock_in_geitawi_branch": "9.0",
     "consumption_in_geitawi_branch": "11.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "11.0",
     "VAT": "YES",
     "price_lbp": 150000.0,
@@ -124979,7 +124979,7 @@
     "vat": 1,
     "branches": {
       "Geitawi": {
-        "stock": "10.0",
+        "stock": "9.0",
         "consumption": "11.0"
       },
       "Medawar": {
