@@ -7482,9 +7482,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "202.0",
     "consumption_in_geitawi_branch": "237.0",
-    "stock_in_medawar_branch": "207.0",
+    "stock_in_medawar_branch": "204.0",
     "consumption_in_medawar_branch": "476.0",
-    "total_stock": "409.0",
+    "total_stock": "406.0",
     "total_consumption": "713.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -7500,7 +7500,7 @@
         "consumption": "237.0"
       },
       "Medawar": {
-        "stock": "207.0",
+        "stock": "204.0",
         "consumption": "476.0"
       }
     },
@@ -8082,11 +8082,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "57.0",
+    "stock_in_geitawi_branch": "45.0",
     "consumption_in_geitawi_branch": "767.0",
     "stock_in_medawar_branch": "-417.0",
     "consumption_in_medawar_branch": "592.0",
-    "total_stock": "-360.0",
+    "total_stock": "-372.0",
     "total_consumption": "1359.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8098,7 +8098,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "57.0",
+        "stock": "45.0",
         "consumption": "767.0"
       },
       "Medawar": {
@@ -8121,7 +8121,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "-360",
+    "totalStock": "-372",
     "priceLbp": 45000.0,
     "priceUsd": 0.5
   },
@@ -56116,11 +56116,11 @@
     "category": "ICE CREAM",
     "sub_category": "ICEBERG",
     "offers": "0",
-    "stock_in_geitawi_branch": "-7.0",
+    "stock_in_geitawi_branch": "-8.0",
     "consumption_in_geitawi_branch": "118.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "67.0",
-    "total_stock": "-6.0",
+    "total_stock": "-7.0",
     "total_consumption": "185.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -56132,7 +56132,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-7.0",
+        "stock": "-8.0",
         "consumption": "118.0"
       },
       "Medawar": {
@@ -56146,7 +56146,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-6",
+    "totalStock": "-7",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112
   },
