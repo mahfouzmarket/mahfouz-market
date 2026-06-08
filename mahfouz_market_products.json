@@ -3329,9 +3329,9 @@
     "stock_in_geitawi_branch": "54.0",
     "consumption_in_geitawi_branch": "244.0",
     "stock_in_medawar_branch": "121.0",
-    "consumption_in_medawar_branch": "494.0",
+    "consumption_in_medawar_branch": "465.0",
     "total_stock": "175.0",
-    "total_consumption": "738.0",
+    "total_consumption": "709.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
     "price_usd": "0.83",
@@ -3347,7 +3347,7 @@
       },
       "Medawar": {
         "stock": "121.0",
-        "consumption": "494.0"
+        "consumption": "465.0"
       }
     },
     "name": "ALMAZA 25 CL",
@@ -3372,9 +3372,9 @@
     "stock_in_geitawi_branch": "64.0",
     "consumption_in_geitawi_branch": "167.0",
     "stock_in_medawar_branch": "355.0",
-    "consumption_in_medawar_branch": "262.0",
+    "consumption_in_medawar_branch": "242.0",
     "total_stock": "419.0",
-    "total_consumption": "429.0",
+    "total_consumption": "409.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
     "price_usd": "1.44",
@@ -3390,7 +3390,7 @@
       },
       "Medawar": {
         "stock": "355.0",
-        "consumption": "262.0"
+        "consumption": "242.0"
       }
     },
     "name": "ALMAZA CAN 50 CL",
@@ -71034,9 +71034,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "47.0",
     "consumption_in_geitawi_branch": "33.0",
-    "stock_in_medawar_branch": "39.0",
+    "stock_in_medawar_branch": "25.0",
     "consumption_in_medawar_branch": "33.0",
-    "total_stock": "86.0",
+    "total_stock": "72.0",
     "total_consumption": "66.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -71052,7 +71052,7 @@
         "consumption": "33.0"
       },
       "Medawar": {
-        "stock": "39.0",
+        "stock": "25.0",
         "consumption": "33.0"
       }
     },
@@ -71062,7 +71062,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "86",
+    "totalStock": "72",
     "priceLbp": 60000.0,
     "priceUsd": 0.6666666666666666
   },
@@ -71077,9 +71077,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "30.0",
     "consumption_in_geitawi_branch": "48.0",
-    "stock_in_medawar_branch": "13.0",
+    "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "40.0",
-    "total_stock": "43.0",
+    "total_stock": "32.0",
     "total_consumption": "88.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -71095,7 +71095,7 @@
         "consumption": "48.0"
       },
       "Medawar": {
-        "stock": "13.0",
+        "stock": "2.0",
         "consumption": "40.0"
       }
     },
@@ -71105,7 +71105,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "43",
+    "totalStock": "32",
     "priceLbp": 60000.0,
     "priceUsd": 0.6666666666666666
   },
@@ -82264,9 +82264,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "39.0",
     "consumption_in_geitawi_branch": "13.0",
-    "stock_in_medawar_branch": "17.0",
+    "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "56.0",
+    "total_stock": "46.0",
     "total_consumption": "17.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -82282,7 +82282,7 @@
         "consumption": "13.0"
       },
       "Medawar": {
-        "stock": "17.0",
+        "stock": "7.0",
         "consumption": "4.0"
       }
     },
@@ -82296,7 +82296,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "56",
+    "totalStock": "46",
     "priceLbp": 60000.0,
     "priceUsd": 0.6666666666666666
   },
@@ -93486,9 +93486,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "16.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "31.0",
-    "total_stock": "0.0",
+    "total_stock": "-2.0",
     "total_consumption": "47.0",
     "VAT": "NO",
     "price_lbp": 105000.0,
@@ -93504,7 +93504,7 @@
         "consumption": "16.0"
       },
       "Medawar": {
-        "stock": "1.0",
+        "stock": "-1.0",
         "consumption": "31.0"
       }
     },
@@ -93514,7 +93514,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "0",
+    "totalStock": "-2",
     "priceLbp": 105000.0,
     "priceUsd": 1.1666666666666667
   },
