@@ -2621,11 +2621,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "124.0",
+    "stock_in_geitawi_branch": "122.0",
     "consumption_in_geitawi_branch": "173.0",
     "stock_in_medawar_branch": "375.0",
     "consumption_in_medawar_branch": "239.0",
-    "total_stock": "499.0",
+    "total_stock": "497.0",
     "total_consumption": "412.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -2637,7 +2637,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "124.0",
+        "stock": "122.0",
         "consumption": "173.0"
       },
       "Medawar": {
@@ -108679,11 +108679,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "21.0",
+    "stock_in_geitawi_branch": "20.0",
     "consumption_in_geitawi_branch": "68.0",
     "stock_in_medawar_branch": "-31.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": "-10.0",
+    "total_stock": "-11.0",
     "total_consumption": "84.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -108695,7 +108695,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "21.0",
+        "stock": "20.0",
         "consumption": "68.0"
       },
       "Medawar": {
@@ -116658,9 +116658,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "3.0",
-    "stock_in_medawar_branch": "-4.0",
+    "stock_in_medawar_branch": "-2.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "-2.0",
+    "total_stock": "0.0",
     "total_consumption": "7.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -116676,7 +116676,7 @@
         "consumption": "3.0"
       },
       "Medawar": {
-        "stock": "-4.0",
+        "stock": "-2.0",
         "consumption": "4.0"
       }
     },
@@ -116690,7 +116690,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-2",
+    "totalStock": "0",
     "priceLbp": 200000.0,
     "priceUsd": 2.2222222222222223
   },
