@@ -61193,7 +61193,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "0",
+    "totalStock": "-1",
     "priceLbp": 45000.0,
     "priceUsd": 0.5,
     "expiry_days": "0",
@@ -103798,9 +103798,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "117.0",
     "consumption_in_geitawi_branch": "653.0",
-    "stock_in_medawar_branch": "71.0",
+    "stock_in_medawar_branch": "69.0",
     "consumption_in_medawar_branch": "690.0",
-    "total_stock": "188.0",
+    "total_stock": "186.0",
     "total_consumption": "1343.0",
     "VAT": "NO",
     "price_lbp": 70000.0,
@@ -103816,7 +103816,7 @@
         "consumption": "653.0"
       },
       "Medawar": {
-        "stock": "71.0",
+        "stock": "69.0",
         "consumption": "690.0"
       }
     },
