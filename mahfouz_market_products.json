@@ -4326,9 +4326,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "35.0",
-    "stock_in_medawar_branch": "8.0",
+    "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "49.0",
-    "total_stock": "22.0",
+    "total_stock": "21.0",
     "total_consumption": "84.0",
     "VAT": "YES",
     "price_lbp": 275000.0,
@@ -4344,7 +4344,7 @@
         "consumption": "35.0"
       },
       "Medawar": {
-        "stock": "8.0",
+        "stock": "7.0",
         "consumption": "49.0"
       }
     },
@@ -72852,11 +72852,11 @@
     "category": "HOME USAGE",
     "sub_category": "femi care",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "4.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "8.0",
+    "total_stock": "6.0",
     "total_consumption": "8.0",
     "VAT": "NO",
     "price_lbp": 280000.0,
@@ -72868,7 +72868,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
+        "stock": "3.0",
         "consumption": "4.0"
       },
       "Medawar": {
@@ -72882,7 +72882,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "8",
+    "totalStock": "6",
     "priceLbp": 280000.0,
     "priceUsd": 3.111111111111111,
     "expiry_days": "0",
@@ -80833,9 +80833,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "3.0",
     "VAT": "NO",
     "price_lbp": 245000.0,
@@ -80851,7 +80851,7 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "2.0"
       }
     },
