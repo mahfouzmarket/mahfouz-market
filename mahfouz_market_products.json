@@ -90079,28 +90079,28 @@
     "unit": "kg",
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "VEGETABLES",
-    "offers": "0",
-    "stock_in_geitawi_branch": "10.226",
+    "offers": "",
+    "stock_in_geitawi_branch": "0.000",
     "consumption_in_geitawi_branch": "58.8",
-    "stock_in_medawar_branch": "21.461",
+    "stock_in_medawar_branch": "0.000",
     "consumption_in_medawar_branch": "156.1",
-    "total_stock": "31.687",
+    "total_stock": "0.000",
     "total_consumption": "214.9",
     "VAT": "NO",
-    "price_lbp": 120000.0,
-    "price_usd": "1.33",
-    "cost": 0.9375,
+    "price_lbp": 150000.0,
+    "price_usd": "1.67",
+    "cost": 0.0,
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15745.jpg",
     "new_items": "",
     "manual": "",
-    "delivery_rules": "0.005",
+    "delivery_rules": "",
     "branches": {
       "Geitawi": {
-        "stock": "10.226",
+        "stock": "0.000",
         "consumption": "58.8"
       },
       "Medawar": {
-        "stock": "21.461",
+        "stock": "0.000",
         "consumption": "156.1"
       }
     },
@@ -90112,7 +90112,7 @@
     "barcode2": "",
     "barcodes": "",
     "expiry_days": "0",
-    "cost_ht": "0.94",
+    "cost_ht": "0.00",
     "linked_profile_enabled": false,
     "linked_profile_repo_root": "",
     "linked_profile_item_id": "",
@@ -90123,14 +90123,20 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15745-1779009533478756",
     "product_setup_saved_at_utc": "2026-05-17T09:18:53.478756Z",
-    "totalStock": "31.687",
+    "totalStock": "0",
     "arabic_name": "بندورة",
     "name_ar": "بندورة",
     "description_ar": "بندورة",
     "non_stockable": false,
     "nonStockable": false,
-    "priceLbp": 120000.0,
-    "priceUsd": 1.3333333333333333,
+    "scale_item_enabled": true,
+    "scaleItemEnabled": true,
+    "scale_code": "7100001",
+    "scaleCode": "7100001",
+    "scale_plu": 1,
+    "scalePlu": 1,
+    "priceLbp": 150000.0,
+    "priceUsd": 1.6666666666666667,
     "totalConsumption": 0.0
   },
   {
@@ -257434,13 +257440,13 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "7.0"
       }
     },
     "stock_in_geitawi_branch": "3.0",
-    "total_stock": "7.0",
-    "stock_in_medawar_branch": "4.0",
+    "total_stock": "6.0",
+    "stock_in_medawar_branch": "3.0",
     "Product Description": "KTEER TAYIB POP CORN",
     "SUPPLIERS": "KTEER TAYIB",
     "subcategory": "SEEDS",
@@ -280866,11 +280872,11 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "stock_in_medawar_branch": "20.0",
+    "stock_in_medawar_branch": "-20.0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_medawar_branch": "39.0",
     "consumption_in_geitawi_branch": "22.0",
-    "total_stock": "23.0",
+    "total_stock": "-17.0",
     "total_consumption": "61.0",
     "branches": {
       "Geitawi": {
@@ -280878,7 +280884,7 @@
         "consumption": "22.0"
       },
       "Medawar": {
-        "stock": "20.0",
+        "stock": "-20.0",
         "consumption": "39.0"
       }
     },
@@ -281368,11 +281374,11 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "1.0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "49.0",
     "consumption_in_geitawi_branch": "0.0",
-    "total_stock": "6.0",
+    "total_stock": "1.0",
     "total_consumption": "49.0",
     "branches": {
       "Geitawi": {
@@ -281380,7 +281386,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "1.0",
         "consumption": "49.0"
       }
     },
@@ -281425,11 +281431,11 @@
     "linked_profile_item_id": "",
     "linked_profile_category": "",
     "linked_profile_sub_category": "",
-    "stock_in_medawar_branch": "7.0",
+    "stock_in_medawar_branch": "3.0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "55.0",
     "consumption_in_geitawi_branch": "0.0",
-    "total_stock": "7.0",
+    "total_stock": "3.0",
     "total_consumption": "55.0",
     "branches": {
       "Geitawi": {
@@ -281437,7 +281443,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "7.0",
+        "stock": "3.0",
         "consumption": "55.0"
       }
     },
@@ -307494,9 +307500,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "-32.0",
     "consumption_in_geitawi_branch": "107.0",
-    "stock_in_medawar_branch": "-10.0",
+    "stock_in_medawar_branch": "-9.0",
     "consumption_in_medawar_branch": "99.0",
-    "total_stock": "-42.0",
+    "total_stock": "-41.0",
     "total_consumption": "206.0",
     "VAT": "NO",
     "price_lbp": 155000.0,
@@ -307518,7 +307524,7 @@
         "consumption": "107.0"
       },
       "Medawar": {
-        "stock": "-10.0",
+        "stock": "-9.0",
         "consumption": "99.0"
       }
     },
