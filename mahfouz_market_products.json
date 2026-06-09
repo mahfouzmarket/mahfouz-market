@@ -5712,11 +5712,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "27.0",
+    "stock_in_geitawi_branch": "26.0",
     "consumption_in_geitawi_branch": "66.0",
     "stock_in_medawar_branch": "54.0",
     "consumption_in_medawar_branch": "44.0",
-    "total_stock": "81.0",
+    "total_stock": "80.0",
     "total_consumption": "110.0",
     "VAT": "YES",
     "price_lbp": 35000.0,
@@ -5728,7 +5728,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "27.0",
+        "stock": "26.0",
         "consumption": "66.0"
       },
       "Medawar": {
@@ -5742,7 +5742,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "81",
+    "totalStock": "80",
     "priceLbp": 35000.0,
     "priceUsd": 0.3888888888888889,
     "expiry_days": "0",
