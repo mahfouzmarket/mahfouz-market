@@ -68163,12 +68163,12 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
-    "consumption_in_geitawi_branch": "35.0",
+    "stock_in_geitawi_branch": "4.0",
+    "consumption_in_geitawi_branch": "36.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "6.0",
-    "total_stock": "8.0",
-    "total_consumption": "41.0",
+    "total_stock": "7.0",
+    "total_consumption": "42.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
     "price_usd": "1.33",
@@ -68179,8 +68179,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
-        "consumption": "35.0"
+        "stock": "4.0",
+        "consumption": "36.0"
       },
       "Medawar": {
         "stock": "3.0",
@@ -68206,7 +68206,7 @@
     "name": "NOUNA'S FOOD LAZY CAKE",
     "subcategory": "NOUNA'S FOOD",
     "vat": 0,
-    "totalStock": "8",
+    "totalStock": "7",
     "priceLbp": 120000.0,
     "priceUsd": 1.3333333333333333,
     "non_stockable": false,
@@ -71081,12 +71081,12 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
-    "consumption_in_geitawi_branch": "193.0",
+    "stock_in_geitawi_branch": "0.0",
+    "consumption_in_geitawi_branch": "194.0",
     "stock_in_medawar_branch": "-5.0",
     "consumption_in_medawar_branch": "222.0",
-    "total_stock": "-4.0",
-    "total_consumption": "415.0",
+    "total_stock": "-5.0",
+    "total_consumption": "416.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
     "price_usd": "1.33",
@@ -71097,8 +71097,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
-        "consumption": "193.0"
+        "stock": "0.0",
+        "consumption": "194.0"
       },
       "Medawar": {
         "stock": "-5.0",
@@ -71120,7 +71120,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-14364-1778924724892851",
     "product_setup_saved_at_utc": "2026-05-16T09:45:24.892851Z",
-    "totalStock": "-4",
+    "totalStock": "-5",
     "priceLbp": 120000.0,
     "priceUsd": 1.3333333333333333,
     "non_stockable": false,
