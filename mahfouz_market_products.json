@@ -4156,9 +4156,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "48.0",
-    "stock_in_medawar_branch": "29.0",
+    "stock_in_medawar_branch": "28.0",
     "consumption_in_medawar_branch": "70.0",
-    "total_stock": "42.0",
+    "total_stock": "41.0",
     "total_consumption": "118.0",
     "VAT": "YES",
     "price_lbp": 325000.0,
@@ -4174,7 +4174,7 @@
         "consumption": "48.0"
       },
       "Medawar": {
-        "stock": "29.0",
+        "stock": "28.0",
         "consumption": "70.0"
       }
     },
@@ -6519,9 +6519,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "51.0",
-    "stock_in_medawar_branch": "84.0",
+    "stock_in_medawar_branch": "83.0",
     "consumption_in_medawar_branch": "175.0",
-    "total_stock": "97.0",
+    "total_stock": "96.0",
     "total_consumption": "226.0",
     "VAT": "YES",
     "price_lbp": 20000.0,
@@ -6537,7 +6537,7 @@
         "consumption": "51.0"
       },
       "Medawar": {
-        "stock": "84.0",
+        "stock": "83.0",
         "consumption": "175.0"
       }
     },
@@ -8025,9 +8025,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "-9.0",
+    "stock_in_geitawi_branch": "15.0",
     "consumption_in_geitawi_branch": "146.0",
-    "stock_in_medawar_branch": "116.0",
+    "stock_in_medawar_branch": "92.0",
     "consumption_in_medawar_branch": "94.0",
     "total_stock": "107.0",
     "total_consumption": "240.0",
@@ -8041,11 +8041,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-9.0",
+        "stock": "15.0",
         "consumption": "146.0"
       },
       "Medawar": {
-        "stock": "116.0",
+        "stock": "92.0",
         "consumption": "94.0"
       }
     },
@@ -8274,9 +8274,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "28.0",
     "consumption_in_geitawi_branch": "24.0",
-    "stock_in_medawar_branch": "43.0",
+    "stock_in_medawar_branch": "19.0",
     "consumption_in_medawar_branch": "27.0",
     "total_stock": "47.0",
     "total_consumption": "51.0",
@@ -8290,11 +8290,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "28.0",
         "consumption": "24.0"
       },
       "Medawar": {
-        "stock": "43.0",
+        "stock": "19.0",
         "consumption": "27.0"
       }
     },
@@ -8304,7 +8304,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "50",
+    "totalStock": "47",
     "priceLbp": 70000.0,
     "priceUsd": 0.7777777777777778,
     "expiry_days": "0",
@@ -8500,9 +8500,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "28.0",
+    "stock_in_geitawi_branch": "52.0",
     "consumption_in_geitawi_branch": "72.0",
-    "stock_in_medawar_branch": "134.0",
+    "stock_in_medawar_branch": "110.0",
     "consumption_in_medawar_branch": "31.0",
     "total_stock": "162.0",
     "total_consumption": "103.0",
@@ -8516,11 +8516,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "28.0",
+        "stock": "52.0",
         "consumption": "72.0"
       },
       "Medawar": {
-        "stock": "134.0",
+        "stock": "110.0",
         "consumption": "31.0"
       }
     },
@@ -8779,9 +8779,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "91.0",
     "consumption_in_geitawi_branch": "762.0",
-    "stock_in_medawar_branch": "-868.0",
+    "stock_in_medawar_branch": "-870.0",
     "consumption_in_medawar_branch": "546.0",
-    "total_stock": "-777.0",
+    "total_stock": "-779.0",
     "total_consumption": "1308.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8797,7 +8797,7 @@
         "consumption": "762.0"
       },
       "Medawar": {
-        "stock": "-868.0",
+        "stock": "-870.0",
         "consumption": "546.0"
       }
     },
@@ -40964,9 +40964,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "12.0",
     "consumption_in_geitawi_branch": "10.0",
-    "stock_in_medawar_branch": "-10.0",
+    "stock_in_medawar_branch": "-11.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "2.0",
+    "total_stock": "1.0",
     "total_consumption": "10.0",
     "VAT": "YES",
     "price_lbp": 220000.0,
@@ -40982,7 +40982,7 @@
         "consumption": "10.0"
       },
       "Medawar": {
-        "stock": "-10.0",
+        "stock": "-11.0",
         "consumption": "0.0"
       }
     },
@@ -47370,9 +47370,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-6.0",
     "consumption_in_geitawi_branch": "456.0",
-    "stock_in_medawar_branch": "32.0",
+    "stock_in_medawar_branch": "31.0",
     "consumption_in_medawar_branch": "372.0",
-    "total_stock": "26.0",
+    "total_stock": "25.0",
     "total_consumption": "828.0",
     "VAT": "NO",
     "price_lbp": 175000.0,
@@ -47388,7 +47388,7 @@
         "consumption": "456.0"
       },
       "Medawar": {
-        "stock": "32.0",
+        "stock": "31.0",
         "consumption": "372.0"
       }
     },
@@ -56474,9 +56474,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "2.0",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "9.0",
+    "total_stock": "8.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 160000.0,
@@ -56492,7 +56492,7 @@
         "consumption": "2.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "1.0"
       }
     },
@@ -60019,11 +60019,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "123.0",
+    "stock_in_geitawi_branch": "122.0",
     "consumption_in_geitawi_branch": "164.0",
     "stock_in_medawar_branch": "44.0",
     "consumption_in_medawar_branch": "108.0",
-    "total_stock": "167.0",
+    "total_stock": "166.0",
     "total_consumption": "272.0",
     "VAT": "YES",
     "price_lbp": 130000.0,
@@ -60035,7 +60035,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "123.0",
+        "stock": "122.0",
         "consumption": "164.0"
       },
       "Medawar": {
@@ -60049,7 +60049,7 @@
     "vat": 1,
     "barcode2": "5283024602367",
     "barcodes": "5283024602367",
-    "totalStock": "167",
+    "totalStock": "166",
     "priceLbp": 130000.0,
     "priceUsd": 1.4444444444444444,
     "expiry_days": "0",
@@ -66215,11 +66215,11 @@
     "category": "BEVERAGES",
     "sub_category": "ENERGY DRINK",
     "offers": "0",
-    "stock_in_geitawi_branch": "61.0",
+    "stock_in_geitawi_branch": "60.0",
     "consumption_in_geitawi_branch": "47.0",
     "stock_in_medawar_branch": "-13.0",
     "consumption_in_medawar_branch": "74.0",
-    "total_stock": "48.0",
+    "total_stock": "47.0",
     "total_consumption": "121.0",
     "VAT": "YES",
     "price_lbp": 160000.0,
@@ -66231,7 +66231,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "61.0",
+        "stock": "60.0",
         "consumption": "47.0"
       },
       "Medawar": {
@@ -66245,7 +66245,7 @@
     "vat": 1,
     "barcode2": "90162848",
     "barcodes": "90162848",
-    "totalStock": "48",
+    "totalStock": "47",
     "priceLbp": 160000.0,
     "priceUsd": 1.7777777777777777,
     "expiry_days": "0",
@@ -77464,9 +77464,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "16.0",
     "consumption_in_geitawi_branch": "17.0",
-    "stock_in_medawar_branch": "18.0",
+    "stock_in_medawar_branch": "17.0",
     "consumption_in_medawar_branch": "30.0",
-    "total_stock": "34.0",
+    "total_stock": "33.0",
     "total_consumption": "47.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -77482,7 +77482,7 @@
         "consumption": "17.0"
       },
       "Medawar": {
-        "stock": "18.0",
+        "stock": "17.0",
         "consumption": "30.0"
       }
     },
@@ -90514,9 +90514,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "12.565",
     "consumption_in_geitawi_branch": "43.9",
-    "stock_in_medawar_branch": "46.253",
+    "stock_in_medawar_branch": "45.953",
     "consumption_in_medawar_branch": "111.6",
-    "total_stock": "58.818",
+    "total_stock": "58.518",
     "total_consumption": "155.5",
     "VAT": "NO",
     "price_lbp": 300000.0,
@@ -90532,7 +90532,7 @@
         "consumption": "43.9"
       },
       "Medawar": {
-        "stock": "46.253",
+        "stock": "45.953",
         "consumption": "111.6"
       }
     },
@@ -140641,11 +140641,11 @@
     "category": "CHI TAYIB",
     "sub_category": "rice cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "5.0",
+    "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "16.0",
     "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "18.0",
-    "total_stock": "11.0",
+    "total_stock": "10.0",
     "total_consumption": "34.0",
     "VAT": "YES",
     "price_lbp": 200000.0,
@@ -140657,7 +140657,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "16.0"
       },
       "Medawar": {
@@ -140675,7 +140675,7 @@
     "vat": 1,
     "barcode2": "8690526025001",
     "barcodes": "8690526025001",
-    "totalStock": "19",
+    "totalStock": "10",
     "priceLbp": 200000.0,
     "priceUsd": 2.2222222222222223,
     "expiry_days": "0",
@@ -205008,9 +205008,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "12.0",
+    "stock_in_geitawi_branch": "36.0",
     "consumption_in_geitawi_branch": "50.0",
-    "stock_in_medawar_branch": "61.0",
+    "stock_in_medawar_branch": "37.0",
     "consumption_in_medawar_branch": "34.0",
     "total_stock": "73.0",
     "total_consumption": "84.0",
@@ -205024,11 +205024,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "12.0",
+        "stock": "36.0",
         "consumption": "50.0"
       },
       "Medawar": {
-        "stock": "61.0",
+        "stock": "37.0",
         "consumption": "34.0"
       }
     },
@@ -205055,9 +205055,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
+    "stock_in_geitawi_branch": "25.0",
     "consumption_in_geitawi_branch": "26.0",
-    "stock_in_medawar_branch": "62.0",
+    "stock_in_medawar_branch": "38.0",
     "consumption_in_medawar_branch": "21.0",
     "total_stock": "63.0",
     "total_consumption": "47.0",
@@ -205071,11 +205071,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
+        "stock": "25.0",
         "consumption": "26.0"
       },
       "Medawar": {
-        "stock": "62.0",
+        "stock": "38.0",
         "consumption": "21.0"
       }
     },
@@ -205102,9 +205102,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "15.0",
+    "stock_in_geitawi_branch": "39.0",
     "consumption_in_geitawi_branch": "56.0",
-    "stock_in_medawar_branch": "59.0",
+    "stock_in_medawar_branch": "35.0",
     "consumption_in_medawar_branch": "30.0",
     "total_stock": "74.0",
     "total_consumption": "86.0",
@@ -205118,11 +205118,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "15.0",
+        "stock": "39.0",
         "consumption": "56.0"
       },
       "Medawar": {
-        "stock": "59.0",
+        "stock": "35.0",
         "consumption": "30.0"
       }
     },
@@ -228920,9 +228920,9 @@
     "category": "BEVERAGES",
     "sub_category": "SPARKLING WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "18.0",
+    "stock_in_geitawi_branch": "42.0",
     "consumption_in_geitawi_branch": "40.0",
-    "stock_in_medawar_branch": "76.0",
+    "stock_in_medawar_branch": "52.0",
     "consumption_in_medawar_branch": "36.0",
     "total_stock": "94.0",
     "total_consumption": "76.0",
@@ -228936,11 +228936,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "18.0",
+        "stock": "42.0",
         "consumption": "40.0"
       },
       "Medawar": {
-        "stock": "76.0",
+        "stock": "52.0",
         "consumption": "36.0"
       }
     },
@@ -241399,9 +241399,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "1.0",
-    "stock_in_medawar_branch": "11.0",
+    "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "25.0",
+    "total_stock": "24.0",
     "total_consumption": "3.0",
     "VAT": "NO",
     "price_lbp": 350000.0,
@@ -241417,7 +241417,7 @@
         "consumption": "1.0"
       },
       "Medawar": {
-        "stock": "11.0",
+        "stock": "10.0",
         "consumption": "2.0"
       }
     },
@@ -260348,12 +260348,12 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "70.0",
+        "stock": "68.0",
         "consumption": "40.0"
       }
     },
-    "stock_in_medawar_branch": "70.0",
-    "total_stock": "70.0",
+    "stock_in_medawar_branch": "68.0",
+    "total_stock": "68.0",
     "stock_in_geitawi_branch": "0.0",
     "Product Description": "BISOUS POPSICLE MELON SORBET",
     "SUPPLIERS": "bisous douceur",
@@ -274902,16 +274902,16 @@
     "cost": 0.53125,
     "branches": {
       "Geitawi": {
-        "stock": "7.0",
+        "stock": "31.0",
         "consumption": "36.0"
       },
       "Medawar": {
-        "stock": "66.0",
+        "stock": "42.0",
         "consumption": "20.0"
       }
     },
-    "stock_in_geitawi_branch": "7.0",
-    "stock_in_medawar_branch": "66.0",
+    "stock_in_geitawi_branch": "31.0",
+    "stock_in_medawar_branch": "42.0",
     "total_stock": "73.0",
     "Product Description": "RIM SPARKLING GREEN APPLE 330 ML",
     "SUPPLIERS": "RIM REFRESHMENT SAL USD",
@@ -300034,12 +300034,26 @@
     "new_items": "x",
     "total_stock": "0.0",
     "totalStock": "0",
+    "stock_in_medawar_branch": "-24.0",
+    "branches": {
+      "Geitawi": {
+        "stock": "24.0",
+        "consumption": "0.0"
+      },
+      "Medawar": {
+        "stock": "-24.0",
+        "consumption": "0.0"
+      }
+    },
+    "stock_in_geitawi_branch": "24.0",
     "name": "RIM SPARKLING ROSE WATER 330 ML",
     "supplier": "RIM REFRESHMENT SAL USD",
     "subcategory": "SPARKLING WATER",
     "vat": 1,
     "priceLbp": 65000.0,
     "priceUsd": 0.7222222222222222,
+    "consumption_in_geitawi_branch": "0.0",
+    "consumption_in_medawar_branch": "0.0",
     "total_consumption": "0.0"
   },
   {
@@ -300069,19 +300083,25 @@
     "new_items": "x",
     "total_stock": "24.0",
     "totalStock": "24",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "12.0",
     "branches": {
+      "Geitawi": {
+        "stock": "12.0",
+        "consumption": "0.0"
+      },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "12.0",
         "consumption": "0.0"
       }
     },
+    "stock_in_geitawi_branch": "12.0",
     "name": "RIM SPARKLINO GRAPEFRUIT WATER 330 ML",
     "supplier": "RIM REFRESHMENT SAL USD",
     "subcategory": "SPARKLING WATER",
     "vat": 1,
     "priceLbp": 70000.0,
     "priceUsd": 0.7777777777777778,
+    "consumption_in_geitawi_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
     "total_consumption": "0.0"
   },
