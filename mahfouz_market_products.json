@@ -8053,14 +8053,18 @@
     "supplier": "RIM REFRESHMENT SAL USD",
     "subcategory": "SPARKLING WATER",
     "vat": 1,
-    "barcode2": "5281023001235",
-    "barcodes": "5281023001235",
+    "barcode2": "",
+    "barcodes": "",
     "totalStock": "11",
-    "priceLbp": 65000.0,
-    "priceUsd": 0.7222222222222222,
+    "arabic_name": "",
+    "name_ar": "",
+    "description_ar": "",
     "expiry_days": "0",
     "non_stockable": false,
     "nonStockable": false,
+    "cost_ht": "0.47",
+    "priceLbp": 65000.0,
+    "priceUsd": 0.7222222222222222,
     "totalConsumption": 0.0
   },
   {
@@ -112761,9 +112765,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "23.0",
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "24.0",
+    "total_stock": "23.0",
     "total_consumption": "8.0",
     "VAT": "NO",
     "price_lbp": 150000.0,
@@ -112783,7 +112787,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "8.0"
       }
     },
