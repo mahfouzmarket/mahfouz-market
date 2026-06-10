@@ -852,11 +852,11 @@
     "category": "BEVERAGES",
     "sub_category": "ENERGY DRINK",
     "offers": "0",
-    "stock_in_geitawi_branch": "40.0",
+    "stock_in_geitawi_branch": "39.0",
     "consumption_in_geitawi_branch": "133.0",
     "stock_in_medawar_branch": "64.0",
     "consumption_in_medawar_branch": "162.0",
-    "total_stock": "104.0",
+    "total_stock": "103.0",
     "total_consumption": "295.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -868,7 +868,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "40.0",
+        "stock": "39.0",
         "consumption": "133.0"
       },
       "Medawar": {
@@ -882,7 +882,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "104",
+    "totalStock": "103",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112,
     "expiry_days": "0",
@@ -16065,9 +16065,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "27.0",
-    "stock_in_medawar_branch": "29.0",
+    "stock_in_medawar_branch": "28.0",
     "consumption_in_medawar_branch": "60.0",
-    "total_stock": "34.0",
+    "total_stock": "33.0",
     "total_consumption": "87.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
@@ -16083,7 +16083,7 @@
         "consumption": "27.0"
       },
       "Medawar": {
-        "stock": "29.0",
+        "stock": "28.0",
         "consumption": "60.0"
       }
     },
@@ -19505,9 +19505,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "87.0",
-    "stock_in_medawar_branch": "43.0",
+    "stock_in_medawar_branch": "42.0",
     "consumption_in_medawar_branch": "82.0",
-    "total_stock": "56.0",
+    "total_stock": "55.0",
     "total_consumption": "169.0",
     "VAT": "NO",
     "price_lbp": 70000.0,
@@ -19523,7 +19523,7 @@
         "consumption": "87.0"
       },
       "Medawar": {
-        "stock": "43.0",
+        "stock": "42.0",
         "consumption": "82.0"
       }
     },
@@ -33430,11 +33430,11 @@
     "category": "HOME USAGE",
     "sub_category": "CLOTH CLEANING",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "7.0",
-    "total_stock": "11.0",
+    "total_stock": "10.0",
     "total_consumption": "7.0",
     "VAT": "YES",
     "price_lbp": 360000.0,
@@ -33446,7 +33446,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -41344,11 +41344,11 @@
     "category": "HOME USAGE",
     "sub_category": "TRASH BAGS",
     "offers": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "-2.0",
     "consumption_in_medawar_branch": "8.0",
-    "total_stock": "0.0",
+    "total_stock": "-1.0",
     "total_consumption": "10.0",
     "VAT": "YES",
     "price_lbp": 640000.0,
@@ -41360,7 +41360,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -41374,7 +41374,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "2",
+    "totalStock": "-1",
     "priceLbp": 640000.0,
     "priceUsd": 7.111111111111111,
     "expiry_days": "0",
@@ -47688,11 +47688,11 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "20.0",
+    "stock_in_geitawi_branch": "19.0",
     "consumption_in_geitawi_branch": "148.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "192.0",
-    "total_stock": "25.0",
+    "total_stock": "24.0",
     "total_consumption": "340.0",
     "VAT": "NO",
     "price_lbp": 220000.0,
@@ -47704,7 +47704,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "20.0",
+        "stock": "19.0",
         "consumption": "148.0"
       },
       "Medawar": {
@@ -47727,7 +47727,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12625-1778921820509273",
     "product_setup_saved_at_utc": "2026-05-16T08:57:00.509273Z",
-    "totalStock": "26",
+    "totalStock": "24",
     "priceLbp": 220000.0,
     "priceUsd": 2.4444444444444446,
     "arabic_name": "",
@@ -47752,11 +47752,11 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "23.0",
+    "stock_in_geitawi_branch": "51.0",
     "consumption_in_geitawi_branch": "185.0",
     "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "79.0",
-    "total_stock": "44.0",
+    "total_stock": "72.0",
     "total_consumption": "264.0",
     "VAT": "NO",
     "price_lbp": 125000.0,
@@ -47768,7 +47768,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "23.0",
+        "stock": "51.0",
         "consumption": "185.0"
       },
       "Medawar": {
@@ -47791,7 +47791,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12637-1778921664311781",
     "product_setup_saved_at_utc": "2026-05-16T08:54:24.311781Z",
-    "totalStock": "44",
+    "totalStock": "72",
     "priceLbp": 125000.0,
     "priceUsd": 1.3888888888888888,
     "non_stockable": false,
@@ -159750,11 +159750,11 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "17.0",
+    "stock_in_geitawi_branch": "16.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "15.0",
     "consumption_in_medawar_branch": "5.0",
-    "total_stock": "32.0",
+    "total_stock": "31.0",
     "total_consumption": "7.0",
     "VAT": "NO",
     "price_lbp": 125000.0,
@@ -159766,7 +159766,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "17.0",
+        "stock": "16.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -159780,7 +159780,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "29",
+    "totalStock": "31",
     "expiry_days": "0",
     "cost_ht": "1.19",
     "linked_profile_enabled": false,
@@ -189697,11 +189697,11 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "-21.0",
+    "stock_in_geitawi_branch": "18.0",
     "consumption_in_geitawi_branch": "20.0",
     "stock_in_medawar_branch": "10.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "-11.0",
+    "total_stock": "28.0",
     "total_consumption": "23.0",
     "VAT": "NO",
     "price_lbp": 125000.0,
@@ -189713,7 +189713,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-21.0",
+        "stock": "18.0",
         "consumption": "20.0"
       },
       "Medawar": {
@@ -189727,7 +189727,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "49",
+    "totalStock": "28",
     "stock_in_nouna_branch": 0,
     "arabic_name": "",
     "name_ar": "",
@@ -236674,9 +236674,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "7.0",
     "consumption_in_geitawi_branch": "11.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "12.0",
+    "total_stock": "11.0",
     "total_consumption": "40.0",
     "VAT": "NO",
     "price_lbp": 400000.0,
@@ -236692,7 +236692,7 @@
         "consumption": "11.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "29.0"
       }
     },
@@ -268252,7 +268252,7 @@
     "cost": 9.2,
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "7.0"
       },
       "Medawar": {
@@ -268260,8 +268260,8 @@
         "consumption": "3.0"
       }
     },
-    "stock_in_geitawi_branch": "3.0",
-    "total_stock": "5.0",
+    "stock_in_geitawi_branch": "2.0",
+    "total_stock": "4.0",
     "stock_in_medawar_branch": "2.0",
     "Product Description": "NAKHLA TOW APPLES 250 G",
     "SUPPLIERS": "CIGARETTES",
@@ -268276,7 +268276,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "2",
+    "totalStock": "4",
     "arabic_name": "",
     "name_ar": "",
     "description_ar": "",
@@ -292633,11 +292633,11 @@
     "sub_category": "TANBAK",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "2.0",
-    "total_stock": "2.0",
+    "total_stock": "1.0",
     "total_consumption": "2.0",
     "VAT": "NO",
     "price_lbp": 570000.0,
@@ -292655,7 +292655,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "0.0"
       },
       "Medawar": {
@@ -292669,7 +292669,7 @@
     "supplier": "CIGARETTES",
     "subcategory": "TANBAK",
     "vat": 0,
-    "totalStock": "2",
+    "totalStock": "1",
     "priceLbp": 570000.0,
     "priceUsd": 6.333333333333333,
     "non_stockable": false,
@@ -299232,16 +299232,16 @@
     "cost_ht": "0.65",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300216.jpg",
     "new_items": "x",
-    "total_stock": "40.0",
+    "total_stock": "39.0",
     "totalStock": "40",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "23.0",
     "branches": {
       "Geitawi": {
         "stock": "16.0",
         "consumption": "7.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "23.0",
         "consumption": "0.0"
       }
     },
