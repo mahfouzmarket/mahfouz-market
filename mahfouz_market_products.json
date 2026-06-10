@@ -2885,11 +2885,11 @@
     "category": "ALCOHOL 18+ (RESTRICTED)",
     "sub_category": "Beer",
     "offers": "0",
-    "stock_in_geitawi_branch": "116.0",
+    "stock_in_geitawi_branch": "115.0",
     "consumption_in_geitawi_branch": "169.0",
     "stock_in_medawar_branch": "368.0",
     "consumption_in_medawar_branch": "265.0",
-    "total_stock": "484.0",
+    "total_stock": "483.0",
     "total_consumption": "434.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -2901,7 +2901,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "116.0",
+        "stock": "115.0",
         "consumption": "169.0"
       },
       "Medawar": {
@@ -2915,7 +2915,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "484",
+    "totalStock": "483",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112,
     "expiry_days": "0",
@@ -47832,11 +47832,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "120.0",
+    "stock_in_geitawi_branch": "119.0",
     "consumption_in_geitawi_branch": "1644.0",
     "stock_in_medawar_branch": "231.0",
     "consumption_in_medawar_branch": "1865.0",
-    "total_stock": "351.0",
+    "total_stock": "350.0",
     "total_consumption": "3509.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -47848,7 +47848,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "120.0",
+        "stock": "119.0",
         "consumption": "1644.0"
       },
       "Medawar": {
@@ -47871,7 +47871,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-12701-1778933772132179",
     "product_setup_saved_at_utc": "2026-05-16T12:16:12.132179Z",
-    "totalStock": "351",
+    "totalStock": "350",
     "priceLbp": 80000.0,
     "priceUsd": 0.8888888888888888,
     "non_stockable": false,
@@ -66481,11 +66481,11 @@
     "category": "FOOD",
     "sub_category": "cans & jams",
     "offers": "0",
-    "stock_in_geitawi_branch": "30.0",
+    "stock_in_geitawi_branch": "29.0",
     "consumption_in_geitawi_branch": "76.0",
     "stock_in_medawar_branch": "68.0",
     "consumption_in_medawar_branch": "75.0",
-    "total_stock": "98.0",
+    "total_stock": "97.0",
     "total_consumption": "151.0",
     "VAT": "YES",
     "price_lbp": 195000.0,
@@ -66497,7 +66497,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "30.0",
+        "stock": "29.0",
         "consumption": "76.0"
       },
       "Medawar": {
@@ -66511,7 +66511,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "99",
+    "totalStock": "97",
     "priceLbp": 195000.0,
     "priceUsd": 2.1666666666666665,
     "expiry_days": "0",
@@ -80701,11 +80701,11 @@
     "category": "FOOD",
     "sub_category": "KETCHUP, MAYO & MUSTARD",
     "offers": "0",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "10.0",
     "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "8.0",
+    "total_stock": "7.0",
     "total_consumption": "39.0",
     "VAT": "YES",
     "price_lbp": 135000.0,
@@ -80717,7 +80717,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "10.0"
       },
       "Medawar": {
@@ -80731,7 +80731,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "6",
+    "totalStock": "7",
     "priceLbp": 135000.0,
     "priceUsd": 1.5,
     "expiry_days": "0",
@@ -285919,12 +285919,12 @@
     "cost_ht": 1.22,
     "lastCostHtUsd": 1.22,
     "price_lbp": 155000.0,
-    "stock_in_geitawi_branch": "-2.0",
+    "stock_in_geitawi_branch": "-3.0",
     "stock_in_medawar_branch": "0.0",
-    "total_stock": "-2.0",
+    "total_stock": "-3.0",
     "branches": {
       "Geitawi": {
-        "stock": "-2.0",
+        "stock": "-3.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -285951,13 +285951,13 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
+    "totalStock": "-3",
     "priceLbp": 155000.0,
     "price_usd": "1.72",
     "priceUsd": 1.7222222222222223,
     "expiry_days": "0",
     "non_stockable": false,
     "nonStockable": false,
-    "totalStock": -2.0,
     "totalConsumption": 0.0
   },
   {
