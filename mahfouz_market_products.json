@@ -42883,12 +42883,12 @@
     "category": "HOME USAGE",
     "sub_category": "femi care",
     "offers": "0",
-    "stock_in_geitawi_branch": "1.0",
-    "consumption_in_geitawi_branch": "8.0",
+    "stock_in_geitawi_branch": "0.0",
+    "consumption_in_geitawi_branch": "9.0",
     "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "8.0",
-    "total_consumption": "11.0",
+    "total_stock": "7.0",
+    "total_consumption": "12.0",
     "VAT": "NO",
     "price_lbp": 380000.0,
     "price_usd": "4.22",
@@ -42899,8 +42899,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "1.0",
-        "consumption": "8.0"
+        "stock": "0.0",
+        "consumption": "9.0"
       },
       "Medawar": {
         "stock": "7.0",
@@ -42911,7 +42911,7 @@
     "supplier": "KTE KFOURY TRADING EST",
     "subcategory": "femi care",
     "vat": 0,
-    "totalStock": "8",
+    "totalStock": "7",
     "barcode2": "5281001319369",
     "barcodes": "5281001319369",
     "priceLbp": 380000.0,
@@ -60007,12 +60007,12 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "42.0",
-    "consumption_in_geitawi_branch": "164.0",
+    "stock_in_geitawi_branch": "41.0",
+    "consumption_in_geitawi_branch": "165.0",
     "stock_in_medawar_branch": "38.0",
     "consumption_in_medawar_branch": "211.0",
-    "total_stock": "80.0",
-    "total_consumption": "375.0",
+    "total_stock": "79.0",
+    "total_consumption": "376.0",
     "VAT": "YES",
     "price_lbp": 60000.0,
     "price_usd": "0.67",
@@ -60023,8 +60023,8 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "42.0",
-        "consumption": "164.0"
+        "stock": "41.0",
+        "consumption": "165.0"
       },
       "Medawar": {
         "stock": "38.0",
@@ -60037,7 +60037,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "80",
+    "totalStock": "79",
     "priceLbp": 60000.0,
     "priceUsd": 0.6666666666666666,
     "expiry_days": "0",
