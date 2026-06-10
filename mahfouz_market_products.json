@@ -8779,9 +8779,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2252.0",
     "consumption_in_geitawi_branch": "775.0",
-    "stock_in_medawar_branch": "-711.0",
+    "stock_in_medawar_branch": "-717.0",
     "consumption_in_medawar_branch": "592.0",
-    "total_stock": "1541.0",
+    "total_stock": "1535.0",
     "total_consumption": "1367.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8797,7 +8797,7 @@
         "consumption": "775.0"
       },
       "Medawar": {
-        "stock": "-711.0",
+        "stock": "-717.0",
         "consumption": "592.0"
       }
     },
@@ -10375,11 +10375,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "34.0",
+    "stock_in_geitawi_branch": "33.0",
     "consumption_in_geitawi_branch": "144.0",
-    "stock_in_medawar_branch": "24.0",
+    "stock_in_medawar_branch": "39.0",
     "consumption_in_medawar_branch": "364.0",
-    "total_stock": "58.0",
+    "total_stock": "72.0",
     "total_consumption": "508.0",
     "VAT": "NO",
     "price_lbp": 95000.0,
@@ -10391,11 +10391,11 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "34.0",
+        "stock": "33.0",
         "consumption": "144.0"
       },
       "Medawar": {
-        "stock": "24.0",
+        "stock": "39.0",
         "consumption": "364.0"
       }
     },
@@ -10405,7 +10405,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "58",
+    "totalStock": "72",
     "stock_in_nouna_branch": 0,
     "priceLbp": 95000.0,
     "priceUsd": 1.0555555555555556,
@@ -10570,9 +10570,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "50.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "35.0",
-    "total_stock": "0.0",
+    "total_stock": "3.0",
     "total_consumption": "85.0",
     "VAT": "YES",
     "price_lbp": 140000.0,
@@ -10588,7 +10588,7 @@
         "consumption": "50.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "3.0",
         "consumption": "35.0"
       }
     },
@@ -10598,7 +10598,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5",
+    "totalStock": "3",
     "priceLbp": 140000.0,
     "priceUsd": 1.5555555555555556,
     "expiry_days": "0",
@@ -10618,9 +10618,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "59.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "39.0",
-    "total_stock": "5.0",
+    "total_stock": "7.0",
     "total_consumption": "98.0",
     "VAT": "YES",
     "price_lbp": 170000.0,
@@ -10636,7 +10636,7 @@
         "consumption": "59.0"
       },
       "Medawar": {
-        "stock": "1.0",
+        "stock": "3.0",
         "consumption": "39.0"
       }
     },
@@ -10646,7 +10646,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5",
+    "totalStock": "7",
     "updatedAt": "2026-05-28T09:41:00",
     "priceLbp": 170000.0,
     "priceUsd": 1.8888888888888888,
@@ -10715,9 +10715,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "4.0",
     "consumption_in_geitawi_branch": "100.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "7.0",
     "consumption_in_medawar_branch": "90.0",
-    "total_stock": "6.0",
+    "total_stock": "11.0",
     "total_consumption": "190.0",
     "VAT": "YES",
     "price_lbp": 80000.0,
@@ -10733,7 +10733,7 @@
         "consumption": "100.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "7.0",
         "consumption": "90.0"
       }
     },
@@ -10743,7 +10743,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "26",
+    "totalStock": "11",
     "priceLbp": 80000.0,
     "priceUsd": 0.8888888888888888,
     "expiry_days": "0",
@@ -11478,11 +11478,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "51.0",
+    "stock_in_geitawi_branch": "50.0",
     "consumption_in_geitawi_branch": "61.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "60.0",
-    "total_stock": "52.0",
+    "total_stock": "51.0",
     "total_consumption": "121.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -11494,7 +11494,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "51.0",
+        "stock": "50.0",
         "consumption": "61.0"
       },
       "Medawar": {
@@ -11517,7 +11517,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-2475-1779096923170555",
     "product_setup_saved_at_utc": "2026-05-18T09:35:23.170555Z",
-    "totalStock": "52",
+    "totalStock": "51",
     "priceLbp": 70000.0,
     "priceUsd": 0.7777777777777778,
     "non_stockable": false,
@@ -11627,11 +11627,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "5.0",
+    "total_stock": "4.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 280000.0,
@@ -11643,7 +11643,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -11657,7 +11657,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5",
+    "totalStock": "4",
     "priceLbp": 280000.0,
     "priceUsd": 3.111111111111111,
     "expiry_days": "0",
@@ -11909,11 +11909,11 @@
     "category": "CHI TAYIB",
     "sub_category": "cake",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "2.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "3.0",
     "VAT": "YES",
     "price_lbp": 300000.0,
@@ -11925,7 +11925,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "5.0",
         "consumption": "2.0"
       },
       "Medawar": {
@@ -11939,7 +11939,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "7",
+    "totalStock": "6",
     "priceLbp": 300000.0,
     "priceUsd": 3.3333333333333335,
     "expiry_days": "0",
@@ -28050,11 +28050,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "6.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "108.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "98.0",
-    "total_stock": "7.0",
+    "total_stock": "4.0",
     "total_consumption": "206.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -28066,7 +28066,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "6.0",
+        "stock": "3.0",
         "consumption": "108.0"
       },
       "Medawar": {
@@ -28080,7 +28080,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "7",
+    "totalStock": "4",
     "priceLbp": 120000.0,
     "priceUsd": 1.3333333333333333,
     "expiry_days": "0",
@@ -28147,9 +28147,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-2.0",
     "consumption_in_geitawi_branch": "168.0",
-    "stock_in_medawar_branch": "7.0",
+    "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "133.0",
-    "total_stock": "5.0",
+    "total_stock": "10.0",
     "total_consumption": "301.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
@@ -28165,7 +28165,7 @@
         "consumption": "168.0"
       },
       "Medawar": {
-        "stock": "7.0",
+        "stock": "12.0",
         "consumption": "133.0"
       }
     },
@@ -28181,7 +28181,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "36",
+    "totalStock": "10",
     "priceLbp": 75000.0,
     "priceUsd": 0.8333333333333334,
     "expiry_days": "0",
@@ -28247,9 +28247,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "6.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "13.0",
-    "total_stock": "1.0",
+    "total_stock": "2.0",
     "total_consumption": "19.0",
     "VAT": "NO",
     "price_lbp": 185000.0,
@@ -28265,7 +28265,7 @@
         "consumption": "6.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "1.0",
         "consumption": "13.0"
       }
     },
@@ -28276,7 +28276,7 @@
     "barcode2": "",
     "barcodes": "",
     "updatedAt": "2026-05-28T09:41:00",
-    "totalStock": "5",
+    "totalStock": "2",
     "priceLbp": 185000.0,
     "priceUsd": 2.0555555555555554,
     "expiry_days": "0",
@@ -28295,9 +28295,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "20.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "47.0",
-    "total_stock": "2.0",
+    "total_stock": "4.0",
     "total_consumption": "67.0",
     "VAT": "NO",
     "price_lbp": 90000.0,
@@ -28313,7 +28313,7 @@
         "consumption": "20.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "2.0",
         "consumption": "47.0"
       }
     },
@@ -28323,7 +28323,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "2",
+    "totalStock": "4",
     "updatedAt": "2026-05-28T09:41:00",
     "priceLbp": 90000.0,
     "priceUsd": 1.0,
@@ -28343,9 +28343,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "63.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "48.0",
-    "total_stock": "2.0",
+    "total_stock": "4.0",
     "total_consumption": "111.0",
     "VAT": "NO",
     "price_lbp": 190000.0,
@@ -28361,7 +28361,7 @@
         "consumption": "63.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "2.0",
         "consumption": "48.0"
       }
     },
@@ -28372,7 +28372,7 @@
     "barcode2": "2285536410105",
     "barcodes": "2285536410105",
     "updatedAt": "2026-05-28T09:41:00",
-    "totalStock": "2",
+    "totalStock": "4",
     "priceLbp": 190000.0,
     "priceUsd": 2.111111111111111,
     "expiry_days": "0",
@@ -28391,9 +28391,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-1.0",
     "consumption_in_geitawi_branch": "51.0",
-    "stock_in_medawar_branch": "2.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "44.0",
-    "total_stock": "1.0",
+    "total_stock": "3.0",
     "total_consumption": "95.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -28409,7 +28409,7 @@
         "consumption": "51.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "4.0",
         "consumption": "44.0"
       }
     },
@@ -52638,11 +52638,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "66.0",
+    "stock_in_geitawi_branch": "65.0",
     "consumption_in_geitawi_branch": "36.0",
     "stock_in_medawar_branch": "9.0",
     "consumption_in_medawar_branch": "54.0",
-    "total_stock": "75.0",
+    "total_stock": "74.0",
     "total_consumption": "90.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -52654,7 +52654,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "66.0",
+        "stock": "65.0",
         "consumption": "36.0"
       },
       "Medawar": {
@@ -52668,7 +52668,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "76",
+    "totalStock": "74",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112,
     "expiry_days": "0",
@@ -52878,11 +52878,11 @@
     "category": "FOOD",
     "sub_category": "BAKERY",
     "offers": "0",
-    "stock_in_geitawi_branch": "4.0",
+    "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "13.0",
     "stock_in_medawar_branch": "3.0",
     "consumption_in_medawar_branch": "39.0",
-    "total_stock": "7.0",
+    "total_stock": "6.0",
     "total_consumption": "52.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -52894,7 +52894,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "3.0",
         "consumption": "13.0"
       },
       "Medawar": {
@@ -52910,7 +52910,7 @@
     "vat": 1,
     "barcode2": "5280320005649",
     "barcodes": "5280320005649",
-    "totalStock": "7",
+    "totalStock": "6",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112,
     "expiry_days": "0",
@@ -63019,11 +63019,11 @@
     "category": "CIGARETTES",
     "sub_category": "CIGARETTES",
     "offers": "0",
-    "stock_in_geitawi_branch": "48.0",
+    "stock_in_geitawi_branch": "47.0",
     "consumption_in_geitawi_branch": "201.0",
     "stock_in_medawar_branch": "12.0",
     "consumption_in_medawar_branch": "196.0",
-    "total_stock": "60.0",
+    "total_stock": "59.0",
     "total_consumption": "397.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -63035,7 +63035,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "48.0",
+        "stock": "47.0",
         "consumption": "201.0"
       },
       "Medawar": {
@@ -63058,7 +63058,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-13838-1778928514032900",
     "product_setup_saved_at_utc": "2026-05-16T10:48:34.032900Z",
-    "totalStock": "60",
+    "totalStock": "59",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112,
     "non_stockable": false,
@@ -63569,9 +63569,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "51.0",
+    "stock_in_medawar_branch": "50.0",
     "consumption_in_medawar_branch": "445.0",
-    "total_stock": "51.0",
+    "total_stock": "50.0",
     "total_consumption": "445.0",
     "VAT": "NO",
     "price_lbp": 40000.0,
@@ -63587,7 +63587,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "51.0",
+        "stock": "50.0",
         "consumption": "445.0"
       }
     },
@@ -65079,9 +65079,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "45.0",
-    "stock_in_medawar_branch": "-1.0",
+    "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "26.0",
-    "total_stock": "2.0",
+    "total_stock": "5.0",
     "total_consumption": "71.0",
     "VAT": "YES",
     "price_lbp": 110000.0,
@@ -65097,7 +65097,7 @@
         "consumption": "45.0"
       },
       "Medawar": {
-        "stock": "-1.0",
+        "stock": "2.0",
         "consumption": "26.0"
       }
     },
@@ -65107,7 +65107,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "3",
+    "totalStock": "5",
     "priceLbp": 110000.0,
     "priceUsd": 1.2222222222222223,
     "expiry_days": "0",
@@ -90080,11 +90080,11 @@
     "category": "VEGETABLES AND FRUITS",
     "sub_category": "VEGETABLES",
     "offers": "",
-    "stock_in_geitawi_branch": "0.000",
+    "stock_in_geitawi_branch": "-1.000",
     "consumption_in_geitawi_branch": "58.8",
     "stock_in_medawar_branch": "20.000",
     "consumption_in_medawar_branch": "156.1",
-    "total_stock": "20.000",
+    "total_stock": "19.000",
     "total_consumption": "214.9",
     "VAT": "NO",
     "price_lbp": 110000.0,
@@ -90096,7 +90096,7 @@
     "delivery_rules": "",
     "branches": {
       "Geitawi": {
-        "stock": "0.000",
+        "stock": "-1.000",
         "consumption": "58.8"
       },
       "Medawar": {
@@ -90123,7 +90123,7 @@
     "vat": 0,
     "product_setup_save_token": "PS-SAVE-15745-1779009533478756",
     "product_setup_saved_at_utc": "2026-05-17T09:18:53.478756Z",
-    "totalStock": "20",
+    "totalStock": "19",
     "arabic_name": "بندورة",
     "name_ar": "بندورة",
     "description_ar": "بندورة",
@@ -105399,9 +105399,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-4.0",
     "consumption_in_geitawi_branch": "79.0",
-    "stock_in_medawar_branch": "-7.0",
+    "stock_in_medawar_branch": "-5.0",
     "consumption_in_medawar_branch": "44.0",
-    "total_stock": "-11.0",
+    "total_stock": "-9.0",
     "total_consumption": "123.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -105417,7 +105417,7 @@
         "consumption": "79.0"
       },
       "Medawar": {
-        "stock": "-7.0",
+        "stock": "-5.0",
         "consumption": "44.0"
       }
     },
@@ -105427,7 +105427,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "-7",
+    "totalStock": "-9",
     "priceLbp": 100000.0,
     "priceUsd": 1.1111111111111112,
     "expiry_days": "0",
@@ -105446,9 +105446,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "66.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "5.0",
     "consumption_in_medawar_branch": "30.0",
-    "total_stock": "9.0",
+    "total_stock": "10.0",
     "total_consumption": "96.0",
     "VAT": "YES",
     "price_lbp": 120000.0,
@@ -105464,7 +105464,7 @@
         "consumption": "66.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "5.0",
         "consumption": "30.0"
       }
     },
@@ -105476,7 +105476,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "12",
+    "totalStock": "10",
     "priceLbp": 120000.0,
     "priceUsd": 1.3333333333333333,
     "expiry_days": "0",
@@ -105495,9 +105495,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "57.0",
-    "stock_in_medawar_branch": "4.0",
+    "stock_in_medawar_branch": "6.0",
     "consumption_in_medawar_branch": "34.0",
-    "total_stock": "5.0",
+    "total_stock": "7.0",
     "total_consumption": "91.0",
     "VAT": "YES",
     "price_lbp": 125000.0,
@@ -105513,7 +105513,7 @@
         "consumption": "57.0"
       },
       "Medawar": {
-        "stock": "4.0",
+        "stock": "6.0",
         "consumption": "34.0"
       }
     },
@@ -105523,7 +105523,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "5",
+    "totalStock": "7",
     "priceLbp": 125000.0,
     "priceUsd": 1.3888888888888888,
     "expiry_days": "0",
@@ -113136,9 +113136,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "98.0",
-    "stock_in_medawar_branch": "1.0",
+    "stock_in_medawar_branch": "-1.0",
     "consumption_in_medawar_branch": "132.0",
-    "total_stock": "4.0",
+    "total_stock": "2.0",
     "total_consumption": "230.0",
     "VAT": "YES",
     "price_lbp": 55000.0,
@@ -113154,7 +113154,7 @@
         "consumption": "98.0"
       },
       "Medawar": {
-        "stock": "1.0",
+        "stock": "-1.0",
         "consumption": "132.0"
       }
     },
@@ -113763,9 +113763,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "6.0",
     "consumption_in_geitawi_branch": "13.0",
-    "stock_in_medawar_branch": "25.0",
+    "stock_in_medawar_branch": "24.0",
     "consumption_in_medawar_branch": "16.0",
-    "total_stock": "31.0",
+    "total_stock": "30.0",
     "total_consumption": "29.0",
     "VAT": "YES",
     "price_lbp": 100000.0,
@@ -113781,7 +113781,7 @@
         "consumption": "13.0"
       },
       "Medawar": {
-        "stock": "25.0",
+        "stock": "24.0",
         "consumption": "16.0"
       }
     },
@@ -169202,9 +169202,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "13.0",
     "consumption_in_geitawi_branch": "120.0",
-    "stock_in_medawar_branch": "-3.0",
+    "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "103.0",
-    "total_stock": "10.0",
+    "total_stock": "14.0",
     "total_consumption": "223.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -169220,7 +169220,7 @@
         "consumption": "120.0"
       },
       "Medawar": {
-        "stock": "-3.0",
+        "stock": "1.0",
         "consumption": "103.0"
       }
     },
@@ -169234,7 +169234,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "10",
+    "totalStock": "14",
     "updatedAt": "2026-05-28T09:41:00",
     "priceLbp": 65000.0,
     "priceUsd": 0.7222222222222222,
@@ -169257,9 +169257,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "3.0",
     "consumption_in_geitawi_branch": "45.0",
-    "stock_in_medawar_branch": "3.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "4.0",
-    "total_stock": "6.0",
+    "total_stock": "7.0",
     "total_consumption": "49.0",
     "VAT": "YES",
     "price_lbp": 75000.0,
@@ -169275,7 +169275,7 @@
         "consumption": "45.0"
       },
       "Medawar": {
-        "stock": "3.0",
+        "stock": "4.0",
         "consumption": "4.0"
       }
     },
@@ -169289,7 +169289,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "6",
+    "totalStock": "7",
     "arabic_name": "",
     "name_ar": "",
     "description_ar": "",
@@ -170948,9 +170948,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "5.0",
     "consumption_in_geitawi_branch": "42.0",
-    "stock_in_medawar_branch": "0.0",
+    "stock_in_medawar_branch": "2.0",
     "consumption_in_medawar_branch": "49.0",
-    "total_stock": "5.0",
+    "total_stock": "7.0",
     "total_consumption": "91.0",
     "VAT": "NO",
     "price_lbp": 90000.0,
@@ -170966,7 +170966,7 @@
         "consumption": "42.0"
       },
       "Medawar": {
-        "stock": "0.0",
+        "stock": "2.0",
         "consumption": "49.0"
       }
     },
@@ -170976,7 +170976,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "9",
+    "totalStock": "7",
     "priceLbp": 90000.0,
     "priceUsd": 1.0,
     "expiry_days": "0",
@@ -240642,9 +240642,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "51.0",
-    "stock_in_medawar_branch": "62.0",
+    "stock_in_medawar_branch": "61.0",
     "consumption_in_medawar_branch": "75.0",
-    "total_stock": "63.0",
+    "total_stock": "62.0",
     "total_consumption": "126.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -240660,7 +240660,7 @@
         "consumption": "51.0"
       },
       "Medawar": {
-        "stock": "62.0",
+        "stock": "61.0",
         "consumption": "75.0"
       }
     },
@@ -263497,13 +263497,13 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "2.0",
+        "stock": "4.0",
         "consumption": "45.0"
       }
     },
     "stock_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "2.0",
-    "total_stock": "2.0",
+    "stock_in_medawar_branch": "4.0",
+    "total_stock": "4.0",
     "Product Description": "AL FORNO TANNOUR HELP IN HEIGHT REDUCTION",
     "SUPPLIERS": "GLOBAL FOODS SAL",
     "subcategory": "BAKERY",
@@ -263517,7 +263517,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "3",
+    "totalStock": "4",
     "priceLbp": 95000.0,
     "priceUsd": 1.0555555555555556,
     "expiry_days": "0",
