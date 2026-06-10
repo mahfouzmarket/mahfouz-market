@@ -5054,11 +5054,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "25.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "6.0",
     "stock_in_medawar_branch": "85.0",
     "consumption_in_medawar_branch": "136.0",
-    "total_stock": "110.0",
+    "total_stock": "109.0",
     "total_consumption": "142.0",
     "VAT": "YES",
     "price_lbp": 20000.0,
@@ -5070,7 +5070,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "25.0",
+        "stock": "24.0",
         "consumption": "6.0"
       },
       "Medawar": {
@@ -5084,7 +5084,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "110",
+    "totalStock": "109",
     "priceLbp": 20000.0,
     "priceUsd": 0.2222222222222222,
     "expiry_days": "0",
@@ -6135,11 +6135,11 @@
     "category": "BEVERAGES",
     "sub_category": "juice",
     "offers": "0",
-    "stock_in_geitawi_branch": "22.0",
+    "stock_in_geitawi_branch": "21.0",
     "consumption_in_geitawi_branch": "67.0",
     "stock_in_medawar_branch": "25.0",
     "consumption_in_medawar_branch": "43.0",
-    "total_stock": "47.0",
+    "total_stock": "46.0",
     "total_consumption": "110.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -6151,7 +6151,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "22.0",
+        "stock": "21.0",
         "consumption": "67.0"
       },
       "Medawar": {
@@ -6165,7 +6165,7 @@
     "vat": 1,
     "barcode2": "7622210049384",
     "barcodes": "7622210049384",
-    "totalStock": "63",
+    "totalStock": "46",
     "priceLbp": 65000.0,
     "priceUsd": 0.7222222222222222,
     "expiry_days": "0",
@@ -8779,9 +8779,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2246.0",
     "consumption_in_geitawi_branch": "775.0",
-    "stock_in_medawar_branch": "-717.0",
+    "stock_in_medawar_branch": "-718.0",
     "consumption_in_medawar_branch": "592.0",
-    "total_stock": "1529.0",
+    "total_stock": "1528.0",
     "total_consumption": "1367.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8797,7 +8797,7 @@
         "consumption": "775.0"
       },
       "Medawar": {
-        "stock": "-717.0",
+        "stock": "-718.0",
         "consumption": "592.0"
       }
     },
@@ -13747,9 +13747,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "61.0",
     "consumption_in_geitawi_branch": "203.0",
-    "stock_in_medawar_branch": "53.0",
+    "stock_in_medawar_branch": "51.0",
     "consumption_in_medawar_branch": "200.0",
-    "total_stock": "114.0",
+    "total_stock": "112.0",
     "total_consumption": "403.0",
     "VAT": "YES",
     "price_lbp": 65000.0,
@@ -13765,7 +13765,7 @@
         "consumption": "203.0"
       },
       "Medawar": {
-        "stock": "53.0",
+        "stock": "51.0",
         "consumption": "200.0"
       }
     },
@@ -18982,11 +18982,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "68.0",
+    "stock_in_geitawi_branch": "66.0",
     "consumption_in_geitawi_branch": "95.0",
     "stock_in_medawar_branch": "103.0",
     "consumption_in_medawar_branch": "72.0",
-    "total_stock": "171.0",
+    "total_stock": "169.0",
     "total_consumption": "167.0",
     "VAT": "NO",
     "price_lbp": 90000.0,
@@ -18998,7 +18998,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "68.0",
+        "stock": "66.0",
         "consumption": "95.0"
       },
       "Medawar": {
@@ -19012,7 +19012,7 @@
     "vat": 0,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "171",
+    "totalStock": "169",
     "priceLbp": 90000.0,
     "priceUsd": 1.0,
     "expiry_days": "0",
@@ -22243,9 +22243,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "685.0",
     "consumption_in_geitawi_branch": "1919.0",
-    "stock_in_medawar_branch": "375.0",
+    "stock_in_medawar_branch": "345.0",
     "consumption_in_medawar_branch": "2848.0",
-    "total_stock": "1060.0",
+    "total_stock": "1030.0",
     "total_consumption": "4767.0",
     "VAT": "NO",
     "price_lbp": 15000.0,
@@ -22261,7 +22261,7 @@
         "consumption": "1919.0"
       },
       "Medawar": {
-        "stock": "375.0",
+        "stock": "345.0",
         "consumption": "2848.0"
       }
     },
@@ -47194,9 +47194,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "7.0",
     "consumption_in_geitawi_branch": "78.0",
-    "stock_in_medawar_branch": "18.0",
+    "stock_in_medawar_branch": "16.0",
     "consumption_in_medawar_branch": "95.0",
-    "total_stock": "25.0",
+    "total_stock": "23.0",
     "total_consumption": "173.0",
     "VAT": "NO",
     "price_lbp": 240000.0,
@@ -47212,7 +47212,7 @@
         "consumption": "78.0"
       },
       "Medawar": {
-        "stock": "18.0",
+        "stock": "16.0",
         "consumption": "95.0"
       }
     },
@@ -115991,9 +115991,9 @@
     "expiry_days": "0",
     "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "24.0",
-    "stock_in_medawar_branch": "6.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "29.0",
-    "total_stock": "20.0",
+    "total_stock": "18.0",
     "total_consumption": "53.0",
     "VAT": "YES",
     "price_lbp": 70000.0,
@@ -116015,7 +116015,7 @@
         "consumption": "24.0"
       },
       "Medawar": {
-        "stock": "6.0",
+        "stock": "4.0",
         "consumption": "29.0"
       }
     },
@@ -119593,11 +119593,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "62.0",
+    "stock_in_geitawi_branch": "61.0",
     "consumption_in_geitawi_branch": "73.0",
     "stock_in_medawar_branch": "44.0",
     "consumption_in_medawar_branch": "98.0",
-    "total_stock": "106.0",
+    "total_stock": "105.0",
     "total_consumption": "171.0",
     "VAT": "YES",
     "price_lbp": 85000.0,
@@ -119609,7 +119609,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "62.0",
+        "stock": "61.0",
         "consumption": "73.0"
       },
       "Medawar": {
@@ -119627,7 +119627,7 @@
     "vat": 1,
     "barcode2": "5000159557610",
     "barcodes": "5000159557610",
-    "totalStock": "111",
+    "totalStock": "105",
     "priceLbp": 85000.0,
     "priceUsd": 0.9444444444444444,
     "expiry_days": "0",
@@ -189107,9 +189107,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-6.0",
     "consumption_in_geitawi_branch": "80.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "76.0",
-    "total_stock": "-1.0",
+    "total_stock": "-2.0",
     "total_consumption": "156.0",
     "VAT": "NO",
     "price_lbp": 70000.0,
@@ -189125,7 +189125,7 @@
         "consumption": "80.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "76.0"
       }
     },
@@ -189988,11 +189988,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "31.0",
+    "stock_in_geitawi_branch": "30.0",
     "consumption_in_geitawi_branch": "126.0",
     "stock_in_medawar_branch": "52.0",
     "consumption_in_medawar_branch": "127.0",
-    "total_stock": "83.0",
+    "total_stock": "82.0",
     "total_consumption": "253.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -190004,7 +190004,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "31.0",
+        "stock": "30.0",
         "consumption": "126.0"
       },
       "Medawar": {
@@ -190022,7 +190022,7 @@
     "vat": 0,
     "barcode2": "5900951311505",
     "barcodes": "5900951311505",
-    "totalStock": "94",
+    "totalStock": "82",
     "priceLbp": 80000.0,
     "priceUsd": 0.8888888888888888,
     "expiry_days": "0",
@@ -229638,11 +229638,11 @@
     "category": "CHI TAYIB",
     "sub_category": "sweets",
     "offers": "0",
-    "stock_in_geitawi_branch": "-4.0",
+    "stock_in_geitawi_branch": "-5.0",
     "consumption_in_geitawi_branch": "19.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "9.0",
-    "total_stock": "-4.0",
+    "total_stock": "-5.0",
     "total_consumption": "28.0",
     "VAT": "YES",
     "price_lbp": 40000.0,
@@ -229654,7 +229654,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "-4.0",
+        "stock": "-5.0",
         "consumption": "19.0"
       },
       "Medawar": {
@@ -277481,13 +277481,13 @@
         "consumption": "47.0"
       },
       "Medawar": {
-        "stock": "73.0",
+        "stock": "72.0",
         "consumption": "73.0"
       }
     },
     "stock_in_geitawi_branch": "47.0",
-    "total_stock": "120.0",
-    "stock_in_medawar_branch": "73.0",
+    "total_stock": "119.0",
+    "stock_in_medawar_branch": "72.0",
     "cost": 0.4879,
     "Product Description": "MARS 40G",
     "SUPPLIERS": "TRANSMED F&B SAL LBP",
@@ -280203,11 +280203,11 @@
     "category": "NOUNA'S FOOD",
     "sub_category": "NOUNA'S FOOD",
     "offers": "",
-    "stock_in_geitawi_branch": "2.0",
+    "stock_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_geitawi_branch": "1.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "2.0",
+    "total_stock": "1.0",
     "total_consumption": "2.0",
     "vat": 0,
     "price_lbp": 600000.0,
@@ -280224,7 +280224,7 @@
     "linked_profile_item_id": "90141",
     "branches": {
       "Geitawi": {
-        "stock": "2.0",
+        "stock": "1.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -280240,7 +280240,7 @@
     "secondary_subcategory": "",
     "secondary_sub_category": "",
     "VAT": "NO",
-    "totalStock": "2",
+    "totalStock": "1",
     "barcode2": "",
     "arabic_name": "",
     "name_ar": "",
