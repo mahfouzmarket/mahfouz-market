@@ -47834,9 +47834,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "104.0",
     "consumption_in_geitawi_branch": "1644.0",
-    "stock_in_medawar_branch": "221.0",
+    "stock_in_medawar_branch": "220.0",
     "consumption_in_medawar_branch": "1865.0",
-    "total_stock": "325.0",
+    "total_stock": "324.0",
     "total_consumption": "3509.0",
     "VAT": "NO",
     "price_lbp": 80000.0,
@@ -47852,7 +47852,7 @@
         "consumption": "1644.0"
       },
       "Medawar": {
-        "stock": "221.0",
+        "stock": "220.0",
         "consumption": "1865.0"
       }
     },
@@ -56905,9 +56905,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "1.0",
     "consumption_in_geitawi_branch": "6.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "3.0",
-    "total_stock": "6.0",
+    "total_stock": "5.0",
     "total_consumption": "9.0",
     "VAT": "YES",
     "price_lbp": 205000.0,
@@ -56923,7 +56923,7 @@
         "consumption": "6.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "3.0"
       }
     },
@@ -62694,9 +62694,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "118.0",
     "consumption_in_geitawi_branch": "119.0",
-    "stock_in_medawar_branch": "276.0",
+    "stock_in_medawar_branch": "275.0",
     "consumption_in_medawar_branch": "218.0",
-    "total_stock": "394.0",
+    "total_stock": "393.0",
     "total_consumption": "337.0",
     "VAT": "YES",
     "price_lbp": 25000.0,
@@ -62712,7 +62712,7 @@
         "consumption": "119.0"
       },
       "Medawar": {
-        "stock": "276.0",
+        "stock": "275.0",
         "consumption": "218.0"
       },
       "The Daily Market": {
@@ -78437,9 +78437,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "0.0",
     "consumption_in_geitawi_branch": "0.0",
-    "stock_in_medawar_branch": "5.0",
+    "stock_in_medawar_branch": "4.0",
     "consumption_in_medawar_branch": "1.0",
-    "total_stock": "5.0",
+    "total_stock": "4.0",
     "total_consumption": "1.0",
     "VAT": "YES",
     "price_lbp": 90000.0,
@@ -78459,7 +78459,7 @@
         "consumption": "0.0"
       },
       "Medawar": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "1.0"
       }
     },
@@ -300327,6 +300327,47 @@
     "priceLbp": 290000.0,
     "priceUsd": 3.2222222222222223,
     "consumption_in_medawar_branch": "0.0",
+    "total_consumption": "0.0"
+  },
+  {
+    "id": "300242",
+    "barcode": "5281032090107",
+    "barcode2": "",
+    "barcodes": "",
+    "Product Description": "MIMOSA LIQUID HAND SOAP PINE SCENT 4L",
+    "arabic_name": "",
+    "name_ar": "",
+    "description_ar": "",
+    "SUPPLIERS": "SADAPACK",
+    "unit": "-",
+    "category": "HOME USAGE",
+    "sub_category": "hand & body wash",
+    "offers": "0",
+    "delivery_rules": "",
+    "expiry_days": "0",
+    "VAT": "YES",
+    "non_stockable": false,
+    "nonStockable": false,
+    "scale_item_enabled": false,
+    "scaleItemEnabled": false,
+    "scale_code": "",
+    "scaleCode": "",
+    "scale_plu": 0,
+    "scalePlu": 0,
+    "price_lbp": 105000.0,
+    "price_usd": "1.17",
+    "cost": 0.79,
+    "cost_ht": "0.79",
+    "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300242.jpg",
+    "new_items": "x",
+    "total_stock": "0.0",
+    "totalStock": "0",
+    "name": "MIMOSA LIQUID HAND SOAP PINE SCENT 4L",
+    "supplier": "SADAPACK",
+    "subcategory": "hand & body wash",
+    "vat": 1,
+    "priceLbp": 105000.0,
+    "priceUsd": 1.1666666666666667,
     "total_consumption": "0.0"
   },
   {
