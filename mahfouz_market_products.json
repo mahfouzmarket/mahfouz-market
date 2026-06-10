@@ -8777,11 +8777,11 @@
     "category": "BEVERAGES",
     "sub_category": "MINERAL WATER",
     "offers": "0",
-    "stock_in_geitawi_branch": "25.0",
+    "stock_in_geitawi_branch": "24.0",
     "consumption_in_geitawi_branch": "775.0",
     "stock_in_medawar_branch": "-689.0",
     "consumption_in_medawar_branch": "592.0",
-    "total_stock": "-664.0",
+    "total_stock": "-665.0",
     "total_consumption": "1367.0",
     "VAT": "YES",
     "price_lbp": 45000.0,
@@ -8793,7 +8793,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "25.0",
+        "stock": "24.0",
         "consumption": "775.0"
       },
       "Medawar": {
@@ -8816,7 +8816,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": 1,
-    "totalStock": "-664",
+    "totalStock": "-665",
     "priceLbp": 45000.0,
     "priceUsd": 0.5,
     "non_stockable": false,
@@ -48462,11 +48462,11 @@
     "sub_category": "CIGARETTES",
     "offers": "0",
     "expiry_days": "0",
-    "stock_in_geitawi_branch": "15.0",
+    "stock_in_geitawi_branch": "14.0",
     "consumption_in_geitawi_branch": "33.0",
     "stock_in_medawar_branch": "20.0",
     "consumption_in_medawar_branch": "90.0",
-    "total_stock": "35.0",
+    "total_stock": "34.0",
     "total_consumption": "123.0",
     "VAT": "NO",
     "price_lbp": 190000.0,
@@ -48484,7 +48484,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "15.0",
+        "stock": "14.0",
         "consumption": "33.0"
       },
       "Medawar": {
@@ -48498,7 +48498,7 @@
     "supplier": "CIGARETTES",
     "subcategory": "CIGARETTES",
     "vat": 0,
-    "totalStock": "44",
+    "totalStock": "34",
     "arabic_name": "",
     "name_ar": "",
     "description_ar": "",
@@ -275268,7 +275268,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "56.0",
+        "stock": "55.0",
         "consumption": "19.0"
       },
       "Medawar": {
@@ -275276,8 +275276,8 @@
         "consumption": "25.0"
       }
     },
-    "stock_in_geitawi_branch": "56.0",
-    "total_stock": "91.0",
+    "stock_in_geitawi_branch": "55.0",
+    "total_stock": "90.0",
     "stock_in_medawar_branch": "35.0",
     "cost": 0.325,
     "Product Description": "HALLS MENTHOL FLAVOR (COPY)",
@@ -275293,7 +275293,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "92",
+    "totalStock": "90",
     "priceLbp": 45000.0,
     "priceUsd": 0.5,
     "expiry_days": "0",
