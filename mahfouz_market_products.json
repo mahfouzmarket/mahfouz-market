@@ -7461,11 +7461,11 @@
     "category": "BEVERAGES",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "stock_in_geitawi_branch": "72.0",
+    "stock_in_geitawi_branch": "71.0",
     "consumption_in_geitawi_branch": "146.0",
     "stock_in_medawar_branch": "1.0",
     "consumption_in_medawar_branch": "265.0",
-    "total_stock": "73.0",
+    "total_stock": "72.0",
     "total_consumption": "411.0",
     "VAT": "YES",
     "price_lbp": 160000.0,
@@ -7477,7 +7477,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "72.0",
+        "stock": "71.0",
         "consumption": "146.0"
       },
       "Medawar": {
@@ -7491,7 +7491,7 @@
     "vat": 1,
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "73",
+    "totalStock": "72",
     "priceLbp": 160000.0,
     "priceUsd": 1.7777777777777777,
     "expiry_days": "0",
@@ -257629,7 +257629,7 @@
     "linked_profile_sub_category": "",
     "branches": {
       "Geitawi": {
-        "stock": "4.0",
+        "stock": "2.0",
         "consumption": "9.0"
       },
       "Medawar": {
@@ -257637,8 +257637,8 @@
         "consumption": "0.0"
       }
     },
-    "stock_in_geitawi_branch": "4.0",
-    "total_stock": "5.0",
+    "stock_in_geitawi_branch": "2.0",
+    "total_stock": "3.0",
     "cost": 1.75,
     "stock_in_medawar_branch": "1.0",
     "Product Description": "MAXI BELLA PIZZA TOPPING 500 G",
@@ -257654,7 +257654,7 @@
     "new_items": "",
     "manual": "",
     "delivery_rules": "0.005",
-    "totalStock": "5",
+    "totalStock": "3",
     "priceLbp": 250000.0,
     "priceUsd": 2.7777777777777777,
     "expiry_days": "0",
