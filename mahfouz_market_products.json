@@ -7604,9 +7604,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "64.0",
     "consumption_in_geitawi_branch": "86.0",
-    "stock_in_medawar_branch": "-5.0",
+    "stock_in_medawar_branch": "-6.0",
     "consumption_in_medawar_branch": "101.0",
-    "total_stock": "59.0",
+    "total_stock": "58.0",
     "total_consumption": "187.0",
     "VAT": "YES",
     "price_lbp": 180000.0,
@@ -7622,7 +7622,7 @@
         "consumption": "86.0"
       },
       "Medawar": {
-        "stock": "-5.0",
+        "stock": "-6.0",
         "consumption": "101.0"
       }
     },
@@ -142097,11 +142097,11 @@
     "category": "NUTS",
     "sub_category": "NATURAL NUTS",
     "offers": "",
-    "stock_in_geitawi_branch": "3.0",
+    "stock_in_geitawi_branch": "2.0",
     "consumption_in_geitawi_branch": "1.0",
     "stock_in_medawar_branch": "21.0",
     "consumption_in_medawar_branch": "5.0",
-    "total_stock": "24.0",
+    "total_stock": "23.0",
     "total_consumption": "6.0",
     "VAT": "NO",
     "price_lbp": 390000.0,
@@ -142113,7 +142113,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "3.0",
+        "stock": "2.0",
         "consumption": "1.0"
       },
       "Medawar": {
@@ -142138,7 +142138,7 @@
     "secondary_category": "",
     "secondary_subcategory": "",
     "secondary_sub_category": "",
-    "totalStock": "24",
+    "totalStock": "23",
     "priceLbp": 390000.0,
     "priceUsd": 4.333333333333333,
     "non_stockable": false,
