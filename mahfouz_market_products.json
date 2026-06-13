@@ -4728,9 +4728,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "-3",
     "consumption_in_geitawi_branch": "23",
-    "stock_in_medawar_branch": "3",
+    "stock_in_medawar_branch": "2",
     "consumption_in_medawar_branch": "27",
-    "total_stock": "0",
+    "total_stock": "-1",
     "total_consumption": "50",
     "VAT": "YES",
     "price_lbp": "190,000",
@@ -4746,7 +4746,7 @@
         "consumption": "23"
       },
       "Medawar": {
-        "stock": "3",
+        "stock": "2",
         "consumption": "27"
       }
     },
@@ -4756,7 +4756,7 @@
     "vat": "yes",
     "barcode2": "",
     "barcodes": "",
-    "totalStock": "0"
+    "totalStock": "-1"
   },
   {
     "id": "704",
@@ -7785,9 +7785,9 @@
     "offers": "0",
     "stock_in_geitawi_branch": "2095",
     "consumption_in_geitawi_branch": "781",
-    "stock_in_medawar_branch": "-1317",
+    "stock_in_medawar_branch": "-1318",
     "consumption_in_medawar_branch": "686",
-    "total_stock": "778",
+    "total_stock": "777",
     "total_consumption": "1467",
     "VAT": "YES",
     "price_lbp": "45,000",
@@ -7803,7 +7803,7 @@
         "consumption": "781"
       },
       "Medawar": {
-        "stock": "-1317",
+        "stock": "-1318",
         "consumption": "686"
       }
     },
@@ -7822,7 +7822,7 @@
     "supplier": "TANNOURINE",
     "subcategory": "MINERAL WATER",
     "vat": "yes",
-    "totalStock": "778"
+    "totalStock": "777"
   },
   {
     "id": "1437",
@@ -42139,11 +42139,11 @@
     "category": "CIGARETTES",
     "sub_category": "TANBAK",
     "offers": "0",
-    "stock_in_geitawi_branch": "45",
+    "stock_in_geitawi_branch": "44",
     "consumption_in_geitawi_branch": "186",
     "stock_in_medawar_branch": "37",
     "consumption_in_medawar_branch": "83",
-    "total_stock": "82",
+    "total_stock": "81",
     "total_consumption": "269",
     "VAT": "NO",
     "price_lbp": "120,000",
@@ -42155,7 +42155,7 @@
     "delivery_rules": "0.005",
     "branches": {
       "Geitawi": {
-        "stock": "45",
+        "stock": "44",
         "consumption": "186"
       },
       "Medawar": {
@@ -42178,7 +42178,7 @@
     "linked_profile_sub_category": "",
     "product_setup_save_token": "PS-SAVE-12637-1778921664311781",
     "product_setup_saved_at_utc": "2026-05-16T08:54:24.311781Z",
-    "totalStock": "82",
+    "totalStock": "81",
     "priceLbp": 125000.0,
     "priceUsd": 1.3888888888888888,
     "arabic_name": "",
@@ -273705,12 +273705,12 @@
     "cost_ht": "1.21",
     "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1000008.jpg",
     "new_items": "x",
-    "total_stock": "7",
-    "totalStock": "7",
-    "stock_in_geitawi_branch": "7",
+    "total_stock": "6",
+    "totalStock": "6",
+    "stock_in_geitawi_branch": "6",
     "branches": {
       "Geitawi": {
-        "stock": "7"
+        "stock": "6"
       }
     },
     "vat": "yes"
