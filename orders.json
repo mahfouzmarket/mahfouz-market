@@ -14751,5 +14751,93 @@
     "driverAckAt": "2026-06-12T17:56:13.063653Z",
     "pickedUpAt": "2026-06-12T17:56:09.468315Z",
     "deliveredAt": "2026-06-12T17:56:50.526876Z"
+  },
+  {
+    "orderId": "ord-1781316705401",
+    "ts": "2026-06-13T02:11:45.401813Z",
+    "createdAt": "2026-06-13T02:11:45.401813Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-13T02:11:45.401813Z"
+      }
+    ],
+    "customer": {
+      "name": "Mia",
+      "phone": "71110775",
+      "address": "home\nmokhtar ziadeh, bineye li aa het furn joscar, Floor 2, No Elevator · call on arrival",
+      "location": "https://www.google.com/maps?q=33.892601,35.529640"
+    },
+    "customer_name": "Mia",
+    "customer_phone": "71110775",
+    "pickup": false,
+    "items": [
+      {
+        "id": "2125",
+        "name": "HOMMOS SIA",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2125.jpg"
+      },
+      {
+        "id": "13897",
+        "name": "PUCK DANISH WHITE 200 GR",
+        "qty": 1,
+        "unitUsd": 1.44,
+        "totalUsd": 1.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13897.jpg"
+      },
+      {
+        "id": "16148",
+        "name": "SAJ MARKOUK",
+        "qty": 1,
+        "unitUsd": 0.83,
+        "totalUsd": 0.83,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16148.jpg"
+      },
+      {
+        "id": "5019",
+        "name": "ETI GONG HONEY MUSTARD 34 G",
+        "qty": 2,
+        "unitUsd": 0.61,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5019.jpg"
+      },
+      {
+        "id": "16733",
+        "name": "DRAYKE ORIGINAL FLAVOR 80 G",
+        "qty": 1,
+        "unitUsd": 1.44,
+        "totalUsd": 1.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16733.jpg"
+      },
+      {
+        "id": "2825",
+        "name": "DOUBLE CREME ROBOU3 TAANAYEL",
+        "qtyKg": 0.3,
+        "unitUsd": 5.61,
+        "totalUsd": 1.68,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2825.jpg"
+      },
+      {
+        "id": "15746",
+        "name": "KHYAR",
+        "qtyKg": 0.5,
+        "unitUsd": 1.11,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15746.jpg"
+      }
+    ],
+    "totalUsd": 9.91,
+    "totalLbp": 886500,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
