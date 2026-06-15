@@ -507,7 +507,7 @@
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "18.0",
+    "total_stock": "13.0",
     "total_consumption": "44.0",
     "VAT": "NO",
     "price_lbp": 120000.0,
@@ -533,16 +533,16 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "18.0",
+        "stock": "13.0",
         "consumption": "44.0"
       }
     },
     "product_setup_save_token": "PS-SAVE-14152-1779367965582442",
     "product_setup_saved_at_utc": "2026-05-21T12:52:45.582442Z",
-    "stock_in_nouna_branch": "18.0",
+    "stock_in_nouna_branch": "13.0",
     "consumption_in_nouna_branch": "44.0",
-    "totalStock": "18",
-    "updated_at_utc": "2026-06-11T12:29:08.888702Z",
+    "totalStock": "13",
+    "updated_at_utc": "2026-06-15T05:38:01.999589Z",
     "name": "LAZY CAKE",
     "supplier": "NOUNA'S FOOD",
     "subcategory": "cakes by piece",
@@ -37957,7 +37957,7 @@
     "category": "HEALTHY CHOICES",
     "sub_category": "HEALTHY CHOICES",
     "offers": "",
-    "total_stock": "12.0",
+    "total_stock": "10.0",
     "total_consumption": "16.0",
     "price_lbp": 360000.0,
     "price_usd": "4.00",
@@ -37987,7 +37987,7 @@
     "name": "NF DATES MIX 12 PCS",
     "subcategory": "HEALTHY CHOICES",
     "vat": 0,
-    "stock_in_nouna_branch": "12.0",
+    "stock_in_nouna_branch": "10.0",
     "consumption_in_nouna_branch": "16.0",
     "branches": {
       "Geitawi": {
@@ -37999,12 +37999,12 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "12.0",
+        "stock": "10.0",
         "consumption": "16.0"
       }
     },
-    "totalStock": "12",
-    "updated_at_utc": "2026-06-12T09:12:40.136907Z",
+    "totalStock": "10",
+    "updated_at_utc": "2026-06-15T05:38:02.005586Z",
     "barcode2": "",
     "barcodes": "",
     "expiry_days": "365",
