@@ -737,7 +737,7 @@
     "category": "COLD DRINKS",
     "sub_category": "COLD DRINKS",
     "offers": "0",
-    "total_stock": "88.0",
+    "total_stock": "82.0",
     "total_consumption": "93.0",
     "price_lbp": 160000.0,
     "price_usd": "1.78",
@@ -820,7 +820,7 @@
     ],
     "shortcut_category": "",
     "shortcut_sub_category": "",
-    "stock_in_nouna_branch": "88.0",
+    "stock_in_nouna_branch": "82.0",
     "consumption_in_nouna_branch": "93.0",
     "branches": {
       "Geitawi": {
@@ -832,7 +832,7 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "88.0",
+        "stock": "82.0",
         "consumption": "93.0"
       }
     },
@@ -852,8 +852,8 @@
     "linked_profile_sub_category": "COLD DRINKS",
     "product_setup_save_token": "PS-SAVE-16375-1779360790409558",
     "product_setup_saved_at_utc": "2026-05-21T10:53:10.409558Z",
-    "totalStock": "88",
-    "updated_at_utc": "2026-06-17T12:55:31.485733Z",
+    "totalStock": "82",
+    "updated_at_utc": "2026-06-18T09:51:23.078917Z",
     "supplier": "NOUNA'S FOOD",
     "priceLbp": 160000.0,
     "priceUsd": 1.7777777777777777
@@ -4905,7 +4905,7 @@
     "category": "SANDWICHES",
     "sub_category": "CLUB SANDWICHES",
     "offers": "0",
-    "total_stock": "10.0",
+    "total_stock": "9.0",
     "total_consumption": "10.0",
     "price_lbp": 350000.0,
     "price_usd": "3.89",
@@ -5004,7 +5004,7 @@
         "note": "Samir"
       }
     ],
-    "stock_in_nouna_branch": "10.0",
+    "stock_in_nouna_branch": "9.0",
     "consumption_in_nouna_branch": "10.0",
     "branches": {
       "Geitawi": {
@@ -5016,12 +5016,12 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "10.0",
+        "stock": "9.0",
         "consumption": "10.0"
       }
     },
-    "totalStock": "10",
-    "updated_at_utc": "2026-06-18T09:12:25.473075Z",
+    "totalStock": "9",
+    "updated_at_utc": "2026-06-18T09:51:23.078917Z",
     "name": "CLUB SANDWICH TUNA",
     "barcode2": "",
     "barcodes": "",
@@ -5207,7 +5207,7 @@
     "category": "SANDWICHES",
     "sub_category": "CLUB SANDWICHES",
     "offers": "0",
-    "total_stock": "5.0",
+    "total_stock": "4.0",
     "total_consumption": "19.0",
     "price_lbp": 300000.0,
     "price_usd": "3.33",
@@ -5314,7 +5314,7 @@
         "note": "Samir"
       }
     ],
-    "stock_in_nouna_branch": "5.0",
+    "stock_in_nouna_branch": "4.0",
     "consumption_in_nouna_branch": "19.0",
     "branches": {
       "Geitawi": {
@@ -5326,12 +5326,12 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "5.0",
+        "stock": "4.0",
         "consumption": "19.0"
       }
     },
-    "totalStock": "5",
-    "updated_at_utc": "2026-06-18T09:12:25.474074Z",
+    "totalStock": "4",
+    "updated_at_utc": "2026-06-18T09:51:23.078917Z",
     "name": "CLUB SANDWICH TURKEY&CHEESE",
     "barcode2": "",
     "barcodes": "",
@@ -13834,7 +13834,7 @@
     "category": "BROWNIES",
     "sub_category": "BROWNIES",
     "offers": "",
-    "total_stock": "21.0",
+    "total_stock": "19.0",
     "total_consumption": "34.0",
     "price_lbp": 220000.0,
     "price_usd": "2.44",
@@ -13941,8 +13941,8 @@
         "note": "zeina"
       }
     ],
-    "stock_in_nouna_branch": "21.0",
-    "totalStock": "15.0",
+    "stock_in_nouna_branch": "19.0",
+    "totalStock": "19",
     "branches": {
       "Geitawi": {
         "stock": "0.0",
@@ -13953,11 +13953,11 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "21.0",
+        "stock": "19.0",
         "consumption": "34.0"
       }
     },
-    "updated_at_utc": "2026-06-13T16:31:44.214722Z",
+    "updated_at_utc": "2026-06-18T09:51:23.080917Z",
     "consumption_in_nouna_branch": "34.0",
     "name": "NF BROOKIE",
     "subcategory": "BROWNIES",
@@ -40122,7 +40122,7 @@
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "32.0",
+    "total_stock": "28.0",
     "total_consumption": "24.0",
     "VAT": "NO",
     "price_lbp": 100000.0,
@@ -40152,15 +40152,15 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "32.0",
+        "stock": "28.0",
         "consumption": "24.0"
       }
     },
     "product_setup_save_token": "PS-SAVE-7000053-1781240980739345",
     "product_setup_saved_at_utc": "2026-06-12T05:09:40.739345Z",
-    "totalStock": "32",
-    "stock_in_nouna_branch": "32.0",
-    "updated_at_utc": "2026-06-16T15:23:45.315555Z",
+    "totalStock": "28",
+    "stock_in_nouna_branch": "28.0",
+    "updated_at_utc": "2026-06-18T09:51:23.085918Z",
     "name": "MARSHMALLOW MINI BAG NT 50G",
     "supplier": "NOUNA'S FOOD",
     "subcategory": "CANDIES",
@@ -42170,7 +42170,7 @@
     "consumption_in_geitawi_branch": "0.0",
     "stock_in_medawar_branch": "0.0",
     "consumption_in_medawar_branch": "0.0",
-    "total_stock": "16.0",
+    "total_stock": "12.0",
     "total_consumption": "0.0",
     "VAT": "NO",
     "price_lbp": 200000.0,
@@ -42200,15 +42200,15 @@
         "consumption": "0.0"
       },
       "Nouna": {
-        "stock": "16.0",
+        "stock": "12.0",
         "consumption": "0.0"
       }
     },
     "product_setup_save_token": "PS-SAVE-8000076-1781619825491515",
     "product_setup_saved_at_utc": "2026-06-16T14:23:45.491515Z",
-    "totalStock": "16",
-    "stock_in_nouna_branch": "16.0",
-    "updated_at_utc": "2026-06-17T11:15:45.369235Z",
+    "totalStock": "12",
+    "stock_in_nouna_branch": "12.0",
+    "updated_at_utc": "2026-06-18T09:51:23.085918Z",
     "name": "WORLD CUP FLAGS  BROWNIE 1PC",
     "subcategory": "WORLD CUP 2026",
     "vat": 0,
