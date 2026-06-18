@@ -16434,5 +16434,150 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1781808134152",
+    "ts": "2026-06-18T18:42:14.152720Z",
+    "createdAt": "2026-06-18T18:42:14.152720Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-18T18:42:14.152720Z"
+      }
+    ],
+    "customer": {
+      "name": "fadel hamadi",
+      "phone": "70820624",
+      "address": "mdawar\nmdawar, barazi, Floor 13, Elevator",
+      "location": "https://www.google.com/maps?q=33.900177,35.532637"
+    },
+    "customer_name": "fadel hamadi",
+    "customer_phone": "70820624",
+    "pickup": false,
+    "items": [
+      {
+        "id": "21621",
+        "name": "BISOUS POPSICLE MULBERRY",
+        "qty": 1,
+        "unitUsd": 0.83,
+        "totalUsd": 0.83,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21621.jpg"
+      },
+      {
+        "id": "21626",
+        "name": "BISOUS POPSICLE STRAWBERRY SORBET",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21626.jpg"
+      },
+      {
+        "id": "21622",
+        "name": "BISOUS POPSICLE MANGO SARBET",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21622.jpg"
+      },
+      {
+        "id": "21623",
+        "name": "BISOUS POPSICLE MELON SORBET",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21623.jpg"
+      },
+      {
+        "id": "18897",
+        "name": "BONJUS CHOCOTOP PISTACHIO",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18897.jpg"
+      },
+      {
+        "id": "300180",
+        "name": "BONJUS PRINCESSE",
+        "qty": 1,
+        "unitUsd": 0.33,
+        "totalUsd": 0.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300180.jpg"
+      },
+      {
+        "id": "17209",
+        "name": "BONJUS PRINCESSE BLACKBERY SHELL",
+        "qty": 1,
+        "unitUsd": 0.33,
+        "totalUsd": 0.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17209.jpg"
+      },
+      {
+        "id": "13972",
+        "name": "FRESCO PISTACHIO",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13972.jpg"
+      },
+      {
+        "id": "16213",
+        "name": "ICE CREAM BAR CARAMEL 70 ML",
+        "qty": 1,
+        "unitUsd": 1.22,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16213.jpg"
+      },
+      {
+        "id": "16525",
+        "name": "TROPICANA LEMON DIET",
+        "qty": 1,
+        "unitUsd": 0.44,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16525.jpg"
+      },
+      {
+        "id": "16526",
+        "name": "TROPICANA STRAWBERRY DIET",
+        "qty": 1,
+        "unitUsd": 0.44,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16526.jpg"
+      },
+      {
+        "id": "5155",
+        "name": "FRESCO CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5155.jpg"
+      },
+      {
+        "id": "13672",
+        "name": "DOUBLE SHOK VANILLE",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13672.jpg"
+      },
+      {
+        "id": "21620",
+        "name": "BISOUS BOX POPSICLE CHOCOLATE DEIT",
+        "qty": 1,
+        "unitUsd": 0.84,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21620.jpg"
+      }
+    ],
+    "totalUsd": 9.89,
+    "totalLbp": 885000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
