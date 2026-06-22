@@ -17060,5 +17060,94 @@
     "driverAckAt": "2026-06-21T17:14:58.240236Z",
     "pickedUpAt": "2026-06-21T17:17:02.443654Z",
     "deliveredAt": "2026-06-21T17:22:43.724680Z"
+  },
+  {
+    "orderId": "ord-1782124116919",
+    "ts": "2026-06-22T10:28:36.919582Z",
+    "createdAt": "2026-06-22T10:28:36.919582Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-22T10:28:36.919582Z"
+      }
+    ],
+    "customer": {
+      "name": "mohamad karaki",
+      "phone": "78853190",
+      "address": "home\nmar mkhael, fo2 ph rmeil facing Starbucks, Floor 4, No Elevator",
+      "location": "https://www.google.com/maps?q=33.896712,35.531236"
+    },
+    "customer_name": "mohamad karaki",
+    "customer_phone": "78853190",
+    "pickup": false,
+    "items": [
+      {
+        "id": "1199",
+        "name": "LIPTON ICE TEA MANGO TANGO DIET CAN 320 ML",
+        "qty": 3,
+        "unitUsd": 0.78,
+        "totalUsd": 2.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1199.jpg"
+      },
+      {
+        "id": "14836",
+        "name": "FANTASIA BUGLES CHEESE 48 GR",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14836.jpg"
+      },
+      {
+        "id": "17469",
+        "name": "MASTER COCKTAIL 60 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17469.jpg"
+      },
+      {
+        "id": "17266",
+        "name": "MASTER KETTLE COOKED SEA SALT 270 G",
+        "qty": 1,
+        "unitUsd": 2.0,
+        "totalUsd": 2.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17266.jpg"
+      },
+      {
+        "id": "15375",
+        "name": "KEE DARK CHOCOLATE SPREAD 0%SUGAR 350 G",
+        "qty": 1,
+        "unitUsd": 4.11,
+        "totalUsd": 4.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15375.jpg"
+      },
+      {
+        "id": "9625",
+        "name": "DIMEX 1 L",
+        "qty": 1,
+        "unitUsd": 0.83,
+        "totalUsd": 0.83,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID9625.jpg"
+      },
+      {
+        "id": "14544",
+        "name": "DIMEX DISHWASHING LEMON FRESH 3.7 L",
+        "qty": 1,
+        "unitUsd": 4.61,
+        "totalUsd": 4.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14544.jpg"
+      }
+    ],
+    "totalUsd": 18.6,
+    "totalLbp": 1665000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
