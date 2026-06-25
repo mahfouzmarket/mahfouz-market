@@ -17633,5 +17633,70 @@
     "driverAckAt": "2026-06-25T05:38:59.602190Z",
     "pickedUpAt": "2026-06-25T05:39:07.847869Z",
     "deliveredAt": "2026-06-25T05:46:30.621020Z"
+  },
+  {
+    "orderId": "ord-1782427310668",
+    "ts": "2026-06-25T22:41:50.668878Z",
+    "createdAt": "2026-06-25T22:41:50.668878Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-25T22:41:50.668878Z"
+      }
+    ],
+    "customer": {
+      "name": "marylyn maatouk",
+      "phone": "76798818",
+      "address": "getawi\nbwej bank libano francais, bet maatouk, Floor 0, No Elevator · VGRH+MXH, St Lois, Bayrut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891467,35.530109"
+    },
+    "customer_name": "marylyn maatouk",
+    "customer_phone": "76798818",
+    "pickup": false,
+    "items": [
+      {
+        "id": "12637",
+        "name": "MAZAYA LEMON +MINT",
+        "qty": 1,
+        "unitUsd": 1.33,
+        "totalUsd": 1.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12637.jpg"
+      },
+      {
+        "id": "19918",
+        "name": "ARUBA LEMON DRINK 30 G",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19918.jpg"
+      },
+      {
+        "id": "16213",
+        "name": "ICE CREAM BAR CARAMEL 70 ML",
+        "qty": 1,
+        "unitUsd": 1.22,
+        "totalUsd": 1.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16213.jpg"
+      },
+      {
+        "id": "21088",
+        "name": "CRUNCHY DOLSI PEANUT PUFFES",
+        "qty": 1,
+        "unitUsd": 1.94,
+        "totalUsd": 1.94,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21088.jpg"
+      }
+    ],
+    "totalUsd": 5.7,
+    "totalLbp": 510000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
