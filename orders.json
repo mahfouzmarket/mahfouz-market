@@ -17756,7 +17756,7 @@
         "name": "THE CUP VANILLE",
         "qty": 2,
         "unitUsd": 0.5,
-        "totalUsd": 1.0,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13673.jpg"
       },
       {
@@ -17824,8 +17824,8 @@
         "id": "21856",
         "name": "YAHYA CRYSTAL 400 G",
         "qty": 1,
-        "unitUsd": 2.0,
-        "totalUsd": 2.0,
+        "unitUsd": 2,
+        "totalUsd": 2,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21856.jpg"
       },
       {
@@ -17840,8 +17840,8 @@
         "id": "300203",
         "name": "MASTER KETTLE BLACK TRUFFLE 76 G",
         "qty": 1,
-        "unitUsd": 1.0,
-        "totalUsd": 1.0,
+        "unitUsd": 1,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300203.jpg"
       },
       {
@@ -17976,7 +17976,7 @@
     "totalLbp": 900000,
     "notifs": {
       "newOrderSentAt": null,
-      "notTaken5mSentAt": null,
+      "notTaken5mSentAt": "2026-06-26T19:14:27.347Z",
       "assignedDriverSentAt": null
     }
   }
