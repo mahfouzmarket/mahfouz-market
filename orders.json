@@ -18009,5 +18009,62 @@
     "driverLateNotifiedAt": "",
     "pickedUpAt": "2026-06-26T19:19:50.124414Z",
     "deliveredAt": "2026-06-26T19:22:20.392330Z"
+  },
+  {
+    "orderId": "ord-1782582187177",
+    "ts": "2026-06-27T17:43:07.177976Z",
+    "createdAt": "2026-06-27T17:43:07.177976Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-06-27T17:43:07.177976Z"
+      }
+    ],
+    "customer": {
+      "name": "ahmad ibrahim",
+      "phone": "70950196",
+      "address": "hom\ng, badour, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895802,35.532014"
+    },
+    "customer_name": "ahmad ibrahim",
+    "customer_phone": "70950196",
+    "pickup": false,
+    "items": [
+      {
+        "id": "6200",
+        "name": "ARCHI KERNELS 275G",
+        "qty": 1,
+        "unitUsd": 3.91,
+        "totalUsd": 3.91,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID6200.jpg"
+      },
+      {
+        "id": "15152",
+        "name": "CASTANIA MELON SEEDS 150G",
+        "qty": 1,
+        "unitUsd": 2.22,
+        "totalUsd": 2.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15152.jpg"
+      },
+      {
+        "id": "13399",
+        "name": "CASTANIA PUMPKIN SEEDS 160 GR",
+        "qty": 1,
+        "unitUsd": 2.33,
+        "totalUsd": 2.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13399.jpg"
+      }
+    ],
+    "totalUsd": 9.83,
+    "totalLbp": 880000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
