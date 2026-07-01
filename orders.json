@@ -18949,5 +18949,54 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
     "driverLateNotifiedAt": ""
+  },
+  {
+    "orderId": "ord-1782871915723",
+    "ts": "2026-07-01T02:11:55.723533Z",
+    "createdAt": "2026-07-01T02:11:55.723533Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-01T02:11:55.723533Z"
+      }
+    ],
+    "customer": {
+      "name": "Mia",
+      "phone": "71110775",
+      "address": "home\nmokhtar ziadeh, bineye li aa het furn joscar, Floor 2, No Elevator · call on arrival",
+      "location": "https://www.google.com/maps?q=33.892601,35.529640"
+    },
+    "customer_name": "Mia",
+    "customer_phone": "71110775",
+    "pickup": false,
+    "items": [
+      {
+        "id": "16731",
+        "name": "DRAYKE BLACK SEED FLAVOR 80 G",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16731.jpg"
+      },
+      {
+        "id": "13599",
+        "name": "SEVEN UP DIET PLASTIC 330 ML",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13599.jpg"
+      }
+    ],
+    "totalUsd": 3.35,
+    "totalLbp": 300000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
