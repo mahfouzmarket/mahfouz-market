@@ -19537,5 +19537,70 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1783020602882",
+    "ts": "2026-07-02T19:30:02.882288Z",
+    "createdAt": "2026-07-02T19:30:02.882288Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-02T19:30:02.882288Z"
+      }
+    ],
+    "customer": {
+      "name": "karim sabeh",
+      "phone": "76931642",
+      "address": "barazi\nmedawar, barazu, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900185,35.533616"
+    },
+    "customer_name": "karim sabeh",
+    "customer_phone": "76931642",
+    "pickup": false,
+    "items": [
+      {
+        "id": "17258",
+        "name": "SNIPS HONEY MUSTARD 165gr",
+        "qty": 1,
+        "unitUsd": 1.11,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17258.jpg"
+      },
+      {
+        "id": "19499",
+        "name": "SNIPS CORN COBS SWEET CHILI CORN 220G",
+        "qty": 1,
+        "unitUsd": 1.11,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19499.jpg"
+      },
+      {
+        "id": "17718",
+        "name": "BONJUS PINEAPPLE 180 ML",
+        "qty": 2,
+        "unitUsd": 0.17,
+        "totalUsd": 0.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17718.jpg"
+      },
+      {
+        "id": "19845",
+        "name": "CROISSANT CRISPY CHEESE",
+        "qty": 1,
+        "unitUsd": 0.72,
+        "totalUsd": 0.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19845.jpg"
+      }
+    ],
+    "totalUsd": 3.85,
+    "totalLbp": 345000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
