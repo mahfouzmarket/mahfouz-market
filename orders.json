@@ -19887,5 +19887,46 @@
     "driverPhone": "963 938 396 256",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1783148556626",
+    "ts": "2026-07-04T07:02:36.626553Z",
+    "createdAt": "2026-07-04T07:02:36.626553Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-04T07:02:36.626553Z"
+      }
+    ],
+    "customer": {
+      "name": "wadad matta",
+      "phone": "78856981",
+      "address": "مستشفى الجعيتاوي\nالجعيتاوي, B, الطابق 1, بدون مصعد",
+      "location": "https://www.google.com/maps?q=33.89429,35.5305097"
+    },
+    "customer_name": "wadad matta",
+    "customer_phone": "78856981",
+    "pickup": false,
+    "items": [
+      {
+        "id": "499",
+        "name": "CAFE NAJJAR 180 G",
+        "qty": 1,
+        "unitUsd": 3.61,
+        "totalUsd": 3.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID499.jpg"
+      }
+    ],
+    "totalUsd": 4.53,
+    "totalLbp": 405000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
