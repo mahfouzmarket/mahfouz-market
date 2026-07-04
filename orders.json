@@ -19983,5 +19983,46 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1783167886789",
+    "ts": "2026-07-04T12:24:46.789620Z",
+    "createdAt": "2026-07-04T12:24:46.789620Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-04T12:24:46.789620Z"
+      }
+    ],
+    "customer": {
+      "name": "ahmad ibrahim",
+      "phone": "70950196",
+      "address": "hom\ng, badour, Floor 3, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895802,35.532014"
+    },
+    "customer_name": "ahmad ibrahim",
+    "customer_phone": "70950196",
+    "pickup": false,
+    "items": [
+      {
+        "id": "8000007",
+        "name": "HALLOUM QUINOA SALAD",
+        "qty": 1,
+        "unitUsd": 8.33,
+        "totalUsd": 8.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8000007.jpg"
+      }
+    ],
+    "totalUsd": 9.72,
+    "totalLbp": 870000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
