@@ -21168,5 +21168,54 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1783548368043",
+    "ts": "2026-07-08T22:06:08.043574Z",
+    "createdAt": "2026-07-08T22:06:08.043574Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-08T22:06:08.043574Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias Mahfouz",
+      "phone": "70185604",
+      "address": "home\nst louis, 3763, Floor 5, Elevator · VGRH+JFP, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.891441,35.528371"
+    },
+    "customer_name": "Elias Mahfouz",
+    "customer_phone": "70185604",
+    "pickup": false,
+    "items": [
+      {
+        "id": "13867",
+        "name": "DOLSI CHIPS TWISTER BBQ 80 G",
+        "qty": 1,
+        "unitLbp": 80000,
+        "totalLbp": 80000,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13867.jpg"
+      }
+    ],
+    "itemsTotalUsd": 0.89,
+    "itemsTotalLbp": 80000,
+    "deliveryUsd": 0.89,
+    "deliveryLbp": 80000,
+    "deliveryFeeUsd": 0.89,
+    "deliveryFeeLbp": 80000,
+    "totalUsd": 1.79,
+    "totalLbp": 160000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
