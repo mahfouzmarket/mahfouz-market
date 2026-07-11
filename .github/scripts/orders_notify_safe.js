@@ -212,15 +212,19 @@ let firestore = null;
 async function ensureMessaging() {
   if (DRY_RUN) return null;
   if (messaging) return messaging;
-  const admin = require('firebase-admin');
+  const { cert, getApps, initializeApp } = require('firebase-admin/app');
+  const { getMessaging } = require('firebase-admin/messaging');
+  const { getFirestore } = require('firebase-admin/firestore');
   const svc = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON || '{}');
   if (!svc.project_id) throw new Error('Missing FIREBASE_SERVICE_ACCOUNT_JSON');
   if (svc.private_key && typeof svc.private_key === 'string') {
     svc.private_key = svc.private_key.replace(/\\n/g, '\n');
   }
-  admin.initializeApp({ credential: admin.credential.cert(svc) });
-  messaging = admin.messaging();
-  firestore = admin.firestore();
+  if (getApps().length === 0) {
+    initializeApp({ credential: cert(svc) });
+  }
+  messaging = getMessaging();
+  firestore = getFirestore();
   return messaging;
 }
 
