@@ -207,6 +207,7 @@ function skipReason(o) {
 }
 
 let messaging = null;
+let firestore = null;
 
 async function ensureMessaging() {
   if (DRY_RUN) return null;
@@ -219,6 +220,7 @@ async function ensureMessaging() {
   }
   admin.initializeApp({ credential: admin.credential.cert(svc) });
   messaging = admin.messaging();
+  firestore = admin.firestore();
   return messaging;
 }
 
@@ -252,6 +254,160 @@ async function send(topic, title, body, data) {
   const client = await ensureMessaging();
   const sent = await client.send(msg);
   console.log('SENT', topic, sent, data && data.orderId ? `order=${data.orderId}` : '');
+}
+
+
+function trackingId(o, id) {
+  return String(o.trackingId || o.tracking_id || id || '')
+    .trim()
+    .replace(/[^A-Za-z0-9_-]/g, '_');
+}
+
+function liveActivityVisual(o, status) {
+  if (status === 'ACCEPTED') {
+    return {
+      statusTitle: 'Your order is being prepared',
+      statusDetail: 'The market team is preparing your items.',
+      progress: 0.34,
+      isFinal: false,
+    };
+  }
+  if (status === 'ASSIGNED_DRIVER') {
+    const driver = driverName(o);
+    return {
+      statusTitle: 'Your driver is getting ready',
+      statusDetail: driver ? driver + ' is assigned.' : 'A driver is assigned.',
+      progress: 0.58,
+      isFinal: false,
+    };
+  }
+  if (status === 'PICKED_UP') {
+    return {
+      statusTitle: 'Your order is on the way',
+      statusDetail: 'Follow the driver in Mahfouz Market.',
+      progress: 0.78,
+      isFinal: false,
+    };
+  }
+  if (status === 'READY_TO_PICKUP') {
+    return {
+      statusTitle: 'Your order is ready',
+      statusDetail: 'You can pick it up from the market.',
+      progress: 1,
+      isFinal: false,
+    };
+  }
+  if (status === 'DELIVERED') {
+    return {
+      statusTitle: 'Delivered',
+      statusDetail: 'Thank you for shopping with Mahfouz Market.',
+      progress: 1,
+      isFinal: true,
+    };
+  }
+  if (status === 'CANCELLED') {
+    return {
+      statusTitle: 'Order cancelled',
+      statusDetail: 'This order is now closed.',
+      progress: 1,
+      isFinal: true,
+    };
+  }
+  return {
+    statusTitle: 'Order received',
+    statusDetail: 'We received your order and will start shortly.',
+    progress: 0.12,
+    isFinal: false,
+  };
+}
+
+function liveActivityEta(o, status) {
+  let eta = new Date(o.estimatedArrivalAt || o.etaAt || o.estimated_delivery_at || '');
+  if (Number.isNaN(eta.getTime()) && status !== 'DELIVERED' && status !== 'CANCELLED') {
+    const base = new Date(o.statusUpdatedAt || o.createdAt || o.ts || Date.now());
+    const minutes = status === 'ACCEPTED'
+      ? 35
+      : status === 'ASSIGNED_DRIVER'
+        ? 25
+        : status === 'PICKED_UP'
+          ? 18
+          : status === 'READY_TO_PICKUP'
+            ? 0
+            : 45;
+    eta = new Date(base.getTime() + minutes * 60 * 1000);
+  }
+  if (status === 'READY_TO_PICKUP') return 'Ready';
+  if (status === 'DELIVERED') return 'Done';
+  if (status === 'CANCELLED' || Number.isNaN(eta.getTime())) return '';
+  const formatted = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Beirut',
+    hour: 'numeric',
+    minute: '2-digit',
+  }).format(eta);
+  return 'By ' + formatted;
+}
+
+async function sendLiveActivity(o, id, status) {
+  if (DRY_RUN) return;
+  const tracking = trackingId(o, id);
+  if (!tracking) return;
+  try {
+    const client = await ensureMessaging();
+    if (!firestore) return;
+    const ref = firestore
+      .collection('brands')
+      .doc(BRAND_ID)
+      .collection('live_activity_tokens')
+      .doc(tracking);
+    const snapshot = await ref.get();
+    if (!snapshot.exists) {
+      console.log('LIVE_ACTIVITY_SKIP no_token', id);
+      return;
+    }
+    const registration = snapshot.data() || {};
+    const fcmToken = String(registration.fcmToken || '').trim();
+    const activityToken = String(registration.liveActivityToken || '').trim();
+    if (!fcmToken || !activityToken) {
+      console.log('LIVE_ACTIVITY_SKIP incomplete_token', id);
+      return;
+    }
+
+    const visual = liveActivityVisual(o, status);
+    const now = Math.floor(Date.now() / 1000);
+    const aps = {
+      timestamp: now,
+      event: visual.isFinal ? 'end' : 'update',
+      'content-state': {
+        statusTitle: visual.statusTitle,
+        statusDetail: visual.statusDetail,
+        etaText: liveActivityEta(o, status),
+        progress: visual.progress,
+        updatedAtEpoch: Date.now() / 1000,
+        isFinal: visual.isFinal,
+      },
+      'stale-date': now + 5 * 60,
+      'relevance-score': visual.isFinal ? 50 : 100,
+    };
+    if (visual.isFinal) aps['dismissal-date'] = now + 15 * 60;
+
+    await client.send({
+      token: fcmToken,
+      apns: {
+        liveActivityToken: activityToken,
+        headers: { 'apns-priority': '10' },
+        payload: { aps },
+      },
+    });
+    await ref.set({
+      active: !visual.isFinal,
+      status,
+      lastRemoteUpdateAt: new Date().toISOString(),
+      ...(visual.isFinal ? { expiresAt: new Date(Date.now() + 60 * 60 * 1000) } : {}),
+    }, { merge: true });
+    console.log('LIVE_ACTIVITY_SENT', status, id);
+  } catch (error) {
+    console.error('LIVE_ACTIVITY_FAILED', id, error && error.message ? error.message : error);
+  }
 }
 
 function notificationCollapseId(data) {
@@ -327,6 +483,8 @@ async function handlePushTransitions(parsed) {
     const money = amount(o);
     const moneyPart = money ? ` • ${money}` : '';
     const data = baseData(o, id, bk);
+
+    await sendLiveActivity(o, id, curSt);
 
     if (isNewOrder) {
       await send(ownerTopic(bk), `${prettyBranch(bk)} • ${name}`, `New order${moneyPart}`, {
