@@ -326,29 +326,23 @@ function liveActivityVisual(o, status) {
 }
 
 function liveActivityEta(o, status) {
-  let eta = new Date(o.estimatedArrivalAt || o.etaAt || o.estimated_delivery_at || '');
-  if (Number.isNaN(eta.getTime()) && status !== 'DELIVERED' && status !== 'CANCELLED') {
-    const base = new Date(o.statusUpdatedAt || o.createdAt || o.ts || Date.now());
-    const minutes = status === 'ACCEPTED'
-      ? 35
-      : status === 'ASSIGNED_DRIVER'
-        ? 25
-        : status === 'PICKED_UP'
-          ? 18
-          : status === 'READY_TO_PICKUP'
-            ? 0
-            : 45;
-    eta = new Date(base.getTime() + minutes * 60 * 1000);
+  const eta = new Date(o.estimatedArrivalAt || o.etaAt || o.estimated_delivery_at || '');
+  if (!Number.isNaN(eta.getTime())) {
+    if (status === 'READY_TO_PICKUP') return 'Ready';
+    const formatted = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'Asia/Beirut',
+      hour: 'numeric',
+      minute: '2-digit',
+    }).format(eta);
+    return 'By ' + formatted;
   }
+  if (status === 'ACCEPTED') return '0-1 min';
+  if (status === 'ASSIGNED_DRIVER') return '1-6 min';
+  if (status === 'PICKED_UP') return '6-9 min';
+  if (status === 'DELIVERED') return '9-10 min';
   if (status === 'READY_TO_PICKUP') return 'Ready';
-  if (status === 'DELIVERED') return 'Done';
-  if (status === 'CANCELLED' || Number.isNaN(eta.getTime())) return '';
-  const formatted = new Intl.DateTimeFormat('en-US', {
-    timeZone: 'Asia/Beirut',
-    hour: 'numeric',
-    minute: '2-digit',
-  }).format(eta);
-  return 'By ' + formatted;
+  if (status === 'CANCELLED') return '';
+  return '10 min';
 }
 
 async function sendLiveActivity(o, id, status) {
