@@ -21947,5 +21947,94 @@
     "driverPhone": "961 71 067 636",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1783757466004",
+    "ts": "2026-07-11T08:11:06.004364Z",
+    "createdAt": "2026-07-11T08:11:06.004364Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-11T08:11:06.004364Z"
+      }
+    ],
+    "customer": {
+      "name": "kasim",
+      "phone": "4407920640234",
+      "address": "Residence 4 - Apartments in Mar Mikhael\nResidence 4, Residence, Floor 03, No Elevator",
+      "location": "https://www.google.com/maps?q=33.895574,35.531152"
+    },
+    "customer_name": "kasim",
+    "customer_phone": "4407920640234",
+    "pickup": false,
+    "items": [
+      {
+        "id": "502",
+        "name": "CAFE 21",
+        "qty": 2,
+        "unitUsd": 0.33,
+        "totalUsd": 0.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID502.jpg"
+      },
+      {
+        "id": "812",
+        "name": "LUNA ICE COFFEE MOCHA 190 ML",
+        "qty": 3,
+        "unitUsd": 0.94,
+        "totalUsd": 2.82,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID812.jpg"
+      },
+      {
+        "id": "13136",
+        "name": "NESCAFE 2IN1 SUGAR FREE",
+        "qty": 3,
+        "unitUsd": 0.28,
+        "totalUsd": 0.84,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13136.jpg"
+      },
+      {
+        "id": "478",
+        "name": "NESCAFE 3IN1 MY CUP 30(20 G)",
+        "qty": 5,
+        "unitUsd": 0.28,
+        "totalUsd": 1.4,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID478.jpg"
+      },
+      {
+        "id": "13829",
+        "name": "AQUAFINA WATER 0.5 L",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13829.jpg"
+      },
+      {
+        "id": "18176",
+        "name": "AL ANDALEEB",
+        "qty": 2,
+        "unitUsd": 0.33,
+        "totalUsd": 0.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18176.jpg"
+      },
+      {
+        "id": "21224",
+        "name": "DANKEK BITES RAISIN 100 G",
+        "qty": 1,
+        "unitUsd": 1.33,
+        "totalUsd": 1.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21224.jpg"
+      }
+    ],
+    "totalUsd": 9.66,
+    "totalLbp": 865000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
