@@ -42,7 +42,7 @@ jobs:
           node-version: "20"
 
       - name: Install deps
-        run: npm i firebase-admin@12
+        run: npm i firebase-admin@14
 
       - name: Send guarded notifications
         id: notify
