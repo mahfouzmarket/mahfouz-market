@@ -23405,5 +23405,70 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784057979351",
+    "ts": "2026-07-14T19:39:39.351175Z",
+    "createdAt": "2026-07-14T19:39:39.351175Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-14T19:39:39.351175Z"
+      }
+    ],
+    "customer": {
+      "name": "eliya neim",
+      "phone": "81561584",
+      "address": "home\njeitewe, chanzelize, Floor 2, No Elevator · had araguil lhaybe",
+      "location": "https://www.google.com/maps?q=33.891325,35.525923"
+    },
+    "customer_name": "eliya neim",
+    "customer_phone": "81561584",
+    "pickup": false,
+    "items": [
+      {
+        "id": "5155",
+        "name": "FRESCO CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.5,
+        "totalUsd": 0.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5155.jpg"
+      },
+      {
+        "id": "300068",
+        "name": "MAXCONE ASHTA",
+        "qty": 1,
+        "unitUsd": 1.17,
+        "totalUsd": 1.17,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300068.jpg"
+      },
+      {
+        "id": "19572",
+        "name": "MASTER BUFFIES HOT CHEEZ BALLS 140 G",
+        "qty": 1,
+        "unitUsd": 0.83,
+        "totalUsd": 0.83,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19572.jpg"
+      },
+      {
+        "id": "14837",
+        "name": "FANTASIA PICOBELLOS 55 G",
+        "qty": 1,
+        "unitUsd": 0.67,
+        "totalUsd": 0.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14837.jpg"
+      }
+    ],
+    "totalUsd": 4.08,
+    "totalLbp": 365000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
