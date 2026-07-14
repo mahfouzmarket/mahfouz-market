@@ -23315,5 +23315,95 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784046738978",
+    "trackingId": "trk_a1398845bfdd00f2a0af585dbe036e283e11",
+    "ts": "2026-07-14T16:32:18.978511Z",
+    "createdAt": "2026-07-14T16:32:18.978511Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-14T16:32:18.978511Z"
+      }
+    ],
+    "customer": {
+      "name": "[TEST] Rami Makhool",
+      "phone": "96171674430",
+      "address": "بنايه محفوظ\nطابق ارضي\nلا يوجد مصعد",
+      "location": "https://www.google.com/maps?q=33.900890,35.527809"
+    },
+    "customer_name": "[TEST] Rami Makhool",
+    "customer_phone": "96171674430",
+    "pickup": false,
+    "items": [
+      {
+        "id": "19147",
+        "name": "SANITARY STROM DISHWASHING LIQUID 1.25 L",
+        "unitLbp": 205000,
+        "totalLbp": 205000,
+        "unitUsd": 2.28,
+        "totalUsd": 2.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19147.jpg",
+        "qty": 1
+      },
+      {
+        "id": "19235",
+        "name": "SANITA LAUNDRY DETERGENT 2.5 L",
+        "unitLbp": 635000,
+        "totalLbp": 635000,
+        "unitUsd": 7.06,
+        "totalUsd": 7.06,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19235.jpg",
+        "qty": 1
+      }
+    ],
+    "itemsTotalUsd": 9.33,
+    "itemsTotalLbp": 840000,
+    "deliveryUsd": 0.56,
+    "deliveryLbp": 50000,
+    "deliveryFeeUsd": 0.56,
+    "deliveryFeeLbp": 50000,
+    "totalUsd": 9.89,
+    "totalLbp": 890000,
+    "notifs": {
+      "newOrderSentAt": "2026-07-14T16:32:18.978511Z",
+      "notTaken5mSentAt": "2026-07-14T16:32:18.978511Z",
+      "assignedDriverSentAt": "2026-07-14T16:32:18.978511Z",
+      "testNotificationsSuppressed": true
+    },
+    "source": "whatsapp_ai_test",
+    "testMode": true,
+    "aiCustomerProfile": {
+      "customerId": "cust_1784043956410_2d9699b506",
+      "addressId": "addr_1784045856064_4f72cc4294",
+      "addressLabel": "Home",
+      "profileVersion": 1,
+      "address": {
+        "street": "",
+        "building": "",
+        "floor": "",
+        "hasElevator": null,
+        "instructions": ""
+      }
+    },
+    "aiInterpretation": {
+      "conversationId": "conv_1784046645530_35ce8a3cb9",
+      "customerConfirmedAt": "2026-07-14T16:32:18.978511Z",
+      "deliveryRulesSource": "mahfouz-market/main/delivery_rules.json",
+      "deliveryBand": "A1",
+      "deliveryCount": 1,
+      "deliveryPoints": 0.01,
+      "appVisibleTestExport": true,
+      "testExportLabel": "TEST - MahfouzOrderAI"
+    },
+    "isTestOrder": true,
+    "orderLabel": "TEST - MahfouzOrderAI",
+    "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
+    "appVisibleTestExport": true
   }
 ]
