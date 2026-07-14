@@ -22935,5 +22935,205 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784041033360",
+    "trackingId": "trk_f4f3deb59bbb00b075076c9cc4c5c5e726f3",
+    "ts": "2026-07-14T14:57:13.360882Z",
+    "createdAt": "2026-07-14T14:57:13.360882Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-14T14:57:13.360882Z"
+      }
+    ],
+    "customer": {
+      "name": "[TEST] Elias Mahfouz",
+      "phone": "971585194592",
+      "address": "جاييناوي شارع سانديس المفرق حد بتصري مرهج منرجع يمين منرجع يمين عآخر الشارع في بناية جديدة طابق الخامس.",
+      "location": "https://www.google.com/maps?q=33.891430,35.528271"
+    },
+    "customer_name": "[TEST] Elias Mahfouz",
+    "customer_phone": "971585194592",
+    "pickup": false,
+    "items": [
+      {
+        "id": "906",
+        "name": "NIDO FORTIFIED FCMP POUCH 900G",
+        "unitLbp": 945000,
+        "totalLbp": 945000,
+        "unitUsd": 10.5,
+        "totalUsd": 10.5,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID906.jpg",
+        "qty": 1
+      },
+      {
+        "id": "3078",
+        "name": "KHOURY KASHKAVAL CHEESE 400 G",
+        "unitLbp": 845000,
+        "totalLbp": 1690000,
+        "unitUsd": 9.39,
+        "totalUsd": 18.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3078.jpg",
+        "qty": 2
+      },
+      {
+        "id": "3077",
+        "name": "KHOURYKASHKAVAL CHEESE 200 G",
+        "unitLbp": 385000,
+        "totalLbp": 385000,
+        "unitUsd": 4.28,
+        "totalUsd": 4.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3077.jpg",
+        "qty": 1
+      },
+      {
+        "id": "18606",
+        "name": "BIHAR SHEEP KASHKAVAL CHEESE 180 G",
+        "unitLbp": 710000,
+        "totalLbp": 710000,
+        "unitUsd": 7.89,
+        "totalUsd": 7.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18606.jpg",
+        "qty": 1
+      },
+      {
+        "id": "15403",
+        "name": "KETTLE COOKED SEA SALT & VINEGAR 76 G",
+        "unitLbp": 90000,
+        "totalLbp": 90000,
+        "unitUsd": 1.0,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15403.jpg",
+        "qty": 1
+      },
+      {
+        "id": "2039",
+        "name": "MECH PICKLES CUCUMBER GL 600 G",
+        "unitLbp": 390000,
+        "totalLbp": 390000,
+        "unitUsd": 4.33,
+        "totalUsd": 4.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2039.jpg",
+        "qty": 1
+      },
+      {
+        "id": "16537",
+        "name": "MASSOUD PICKLED CUCUMBER 450 GR",
+        "unitLbp": 250000,
+        "totalLbp": 250000,
+        "unitUsd": 2.78,
+        "totalUsd": 2.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16537.jpg",
+        "qty": 1
+      },
+      {
+        "id": "7247",
+        "name": "MOULIN D'OR BROWN BREAD LARGE",
+        "unitLbp": 150000,
+        "totalLbp": 150000,
+        "unitUsd": 1.67,
+        "totalUsd": 1.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7247.jpg",
+        "qty": 1
+      },
+      {
+        "id": "7246",
+        "name": "AL WAFA WHITE BREAD LARGE",
+        "unitLbp": 90000,
+        "totalLbp": 90000,
+        "unitUsd": 1.0,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID7246.jpg",
+        "qty": 1
+      },
+      {
+        "id": "15135",
+        "name": "TEREA SIENNA",
+        "unitLbp": 250000,
+        "totalLbp": 250000,
+        "unitUsd": 2.78,
+        "totalUsd": 2.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15135.jpg",
+        "qty": 1
+      },
+      {
+        "id": "12962",
+        "name": "TANNOURINE WATER 2L x 6 pcs",
+        "unitLbp": 220000,
+        "totalLbp": 440000,
+        "unitUsd": 2.44,
+        "totalUsd": 4.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID12962.jpg",
+        "qty": 2
+      },
+      {
+        "id": "468",
+        "name": "CAFE NAJJAR CLASSIC NORMAL 400G",
+        "unitLbp": 715000,
+        "totalLbp": 715000,
+        "unitUsd": 7.94,
+        "totalUsd": 7.94,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID468.jpg",
+        "qty": 1
+      },
+      {
+        "id": "3309",
+        "name": "EGGS LATIF BALADE *6",
+        "unitLbp": 130000,
+        "totalLbp": 130000,
+        "unitUsd": 1.44,
+        "totalUsd": 1.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3309.jpg",
+        "qty": 1
+      }
+    ],
+    "itemsTotalUsd": 69.28,
+    "itemsTotalLbp": 6235000,
+    "deliveryUsd": 2.33,
+    "deliveryLbp": 210000,
+    "deliveryFeeUsd": 2.33,
+    "deliveryFeeLbp": 210000,
+    "totalUsd": 71.61,
+    "totalLbp": 6445000,
+    "notifs": {
+      "newOrderSentAt": "2026-07-14T14:57:13.360882Z",
+      "notTaken5mSentAt": "2026-07-14T14:57:13.360882Z",
+      "assignedDriverSentAt": "2026-07-14T14:57:13.360882Z",
+      "testNotificationsSuppressed": true
+    },
+    "source": "whatsapp_ai_test",
+    "testMode": true,
+    "aiCustomerProfile": {
+      "customerId": "cust_1784028356522_6936d3ae0f",
+      "addressId": "addr_1784029225439_ab543a83f1",
+      "addressLabel": "Home",
+      "profileVersion": 1,
+      "address": {
+        "street": "",
+        "building": "",
+        "floor": "",
+        "hasElevator": null,
+        "instructions": ""
+      }
+    },
+    "aiInterpretation": {
+      "conversationId": "conv_1783998177510_6363ee5465",
+      "customerConfirmedAt": "2026-07-14T14:57:13.360882Z",
+      "deliveryRulesSource": "mahfouz-market/main/delivery_rules.json",
+      "deliveryBand": "E5",
+      "deliveryCount": 1,
+      "deliveryPoints": 0.515,
+      "appVisibleTestExport": true,
+      "testExportLabel": "TEST - MahfouzOrderAI"
+    },
+    "isTestOrder": true,
+    "orderLabel": "TEST - MahfouzOrderAI",
+    "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
+    "appVisibleTestExport": true
   }
 ]
