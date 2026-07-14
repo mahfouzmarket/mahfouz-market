@@ -23225,5 +23225,95 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784046609508",
+    "trackingId": "trk_0cb80c6fd47b65802243984420b26958cf7f",
+    "ts": "2026-07-14T16:30:09.508264Z",
+    "createdAt": "2026-07-14T16:30:09.508264Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-14T16:30:09.508264Z"
+      }
+    ],
+    "customer": {
+      "name": "[TEST] Rami Makhool",
+      "phone": "96171674430",
+      "address": "بنايه محفوظ\nطابق ارضي\nلا يوجد مصعد",
+      "location": "https://www.google.com/maps?q=33.900890,35.527809"
+    },
+    "customer_name": "[TEST] Rami Makhool",
+    "customer_phone": "96171674430",
+    "pickup": false,
+    "items": [
+      {
+        "id": "16185",
+        "name": "LA BERGER LABAN 1KG",
+        "unitLbp": 250000,
+        "totalLbp": 250000,
+        "unitUsd": 2.78,
+        "totalUsd": 2.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16185.jpg",
+        "qty": 1
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "unitLbp": 90000,
+        "totalLbp": 90000,
+        "unitUsd": 1.0,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg",
+        "qty": 1
+      }
+    ],
+    "itemsTotalUsd": 3.78,
+    "itemsTotalLbp": 340000,
+    "deliveryUsd": 0.56,
+    "deliveryLbp": 50000,
+    "deliveryFeeUsd": 0.56,
+    "deliveryFeeLbp": 50000,
+    "totalUsd": 4.33,
+    "totalLbp": 390000,
+    "notifs": {
+      "newOrderSentAt": "2026-07-14T16:30:09.508264Z",
+      "notTaken5mSentAt": "2026-07-14T16:30:09.508264Z",
+      "assignedDriverSentAt": "2026-07-14T16:30:09.508264Z",
+      "testNotificationsSuppressed": true
+    },
+    "source": "whatsapp_ai_test",
+    "testMode": true,
+    "aiCustomerProfile": {
+      "customerId": "cust_1784043956410_2d9699b506",
+      "addressId": "addr_1784045856064_4f72cc4294",
+      "addressLabel": "Home",
+      "profileVersion": 1,
+      "address": {
+        "street": "",
+        "building": "",
+        "floor": "",
+        "hasElevator": null,
+        "instructions": ""
+      }
+    },
+    "aiInterpretation": {
+      "conversationId": "conv_1784046239121_e4bb624538",
+      "customerConfirmedAt": "2026-07-14T16:30:09.508264Z",
+      "deliveryRulesSource": "mahfouz-market/main/delivery_rules.json",
+      "deliveryBand": "A1",
+      "deliveryCount": 1,
+      "deliveryPoints": 0.01,
+      "appVisibleTestExport": true,
+      "testExportLabel": "TEST - MahfouzOrderAI"
+    },
+    "isTestOrder": true,
+    "orderLabel": "TEST - MahfouzOrderAI",
+    "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
+    "appVisibleTestExport": true
   }
 ]
