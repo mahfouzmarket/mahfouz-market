@@ -23135,5 +23135,95 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784046090855",
+    "trackingId": "trk_2e9f2fe175026a4b7c4a5c8c8e44cc66d0ec",
+    "ts": "2026-07-14T16:21:30.855304Z",
+    "createdAt": "2026-07-14T16:21:30.855304Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-14T16:21:30.855304Z"
+      }
+    ],
+    "customer": {
+      "name": "[TEST] Rami Makhool",
+      "phone": "96171674430",
+      "address": "بنايه محفوظ\nطابق ارضي\nلا يوجد مصعد",
+      "location": "https://www.google.com/maps?q=33.900890,35.527809"
+    },
+    "customer_name": "[TEST] Rami Makhool",
+    "customer_phone": "96171674430",
+    "pickup": false,
+    "items": [
+      {
+        "id": "1182",
+        "name": "PEPSI CAN 330 ML",
+        "unitLbp": 70000,
+        "totalLbp": 70000,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1182.jpg",
+        "qty": 1
+      },
+      {
+        "id": "3494",
+        "name": "UNICA *24",
+        "unitLbp": 25000,
+        "totalLbp": 25000,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID3494.jpg",
+        "qty": 1
+      }
+    ],
+    "itemsTotalUsd": 1.06,
+    "itemsTotalLbp": 95000,
+    "deliveryUsd": 0.56,
+    "deliveryLbp": 50000,
+    "deliveryFeeUsd": 0.56,
+    "deliveryFeeLbp": 50000,
+    "totalUsd": 1.61,
+    "totalLbp": 145000,
+    "notifs": {
+      "newOrderSentAt": "2026-07-14T16:21:30.855304Z",
+      "notTaken5mSentAt": "2026-07-14T16:21:30.855304Z",
+      "assignedDriverSentAt": "2026-07-14T16:21:30.855304Z",
+      "testNotificationsSuppressed": true
+    },
+    "source": "whatsapp_ai_test",
+    "testMode": true,
+    "aiCustomerProfile": {
+      "customerId": "cust_1784043956410_2d9699b506",
+      "addressId": "addr_1784045856064_4f72cc4294",
+      "addressLabel": "Home",
+      "profileVersion": 1,
+      "address": {
+        "street": "",
+        "building": "",
+        "floor": "",
+        "hasElevator": null,
+        "instructions": ""
+      }
+    },
+    "aiInterpretation": {
+      "conversationId": "conv_1784043956409_ab6a75f2ce",
+      "customerConfirmedAt": "2026-07-14T16:21:30.855304Z",
+      "deliveryRulesSource": "mahfouz-market/main/delivery_rules.json",
+      "deliveryBand": "A1",
+      "deliveryCount": 1,
+      "deliveryPoints": 0.01,
+      "appVisibleTestExport": true,
+      "testExportLabel": "TEST - MahfouzOrderAI"
+    },
+    "isTestOrder": true,
+    "orderLabel": "TEST - MahfouzOrderAI",
+    "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
+    "appVisibleTestExport": true
   }
 ]
