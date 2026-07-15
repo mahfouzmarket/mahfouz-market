@@ -23948,5 +23948,78 @@
     "driverPhone": "961 81 978 148",
     "driverAssignedNotifiedAt": "",
     "driverAckAt": ""
+  },
+  {
+    "orderId": "ord-1784138676101",
+    "ts": "2026-07-15T18:04:36.101910Z",
+    "createdAt": "2026-07-15T18:04:36.101910Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-15T18:04:36.101910Z"
+      }
+    ],
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "customer_name": "yarah kirakossian",
+    "customer_phone": "03192449",
+    "pickup": false,
+    "items": [
+      {
+        "id": "21145",
+        "name": "KLATCHI CHICKPEAS 200 G",
+        "qty": 1,
+        "unitUsd": 2.0,
+        "totalUsd": 2.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21145.jpg"
+      },
+      {
+        "id": "13477",
+        "name": "KLATCHI CRI CRI 200 G",
+        "qty": 1,
+        "unitUsd": 1.44,
+        "totalUsd": 1.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13477.jpg"
+      },
+      {
+        "id": "13826",
+        "name": "ZUBROWKA VODKA 700 ML",
+        "qty": 1,
+        "unitUsd": 5.11,
+        "totalUsd": 5.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13826.jpg"
+      },
+      {
+        "id": "300039",
+        "name": "ENGLISH CAKE JEAN LUC APRICOT TARTE 500 G",
+        "qty": 1,
+        "unitUsd": 3.33,
+        "totalUsd": 3.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300039.jpg"
+      },
+      {
+        "id": "300040",
+        "name": "ENGLISH CAKE JEAN LUC STRAEBERRY TARTE 500 G",
+        "qty": 1,
+        "unitUsd": 3.33,
+        "totalUsd": 3.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300040.jpg"
+      }
+    ],
+    "totalUsd": 19.89,
+    "totalLbp": 1780000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
