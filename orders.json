@@ -24075,5 +24075,95 @@
       "notTaken5mSentAt": "2026-07-15T19:07:38.643Z",
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1784223417595",
+    "trackingId": "trk_0bc22c5d12dfec4a2715fcf0cd509e925ed3",
+    "ts": "2026-07-16T17:36:57.595714Z",
+    "createdAt": "2026-07-16T17:36:57.595714Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-16T17:36:57.595714Z"
+      }
+    ],
+    "customer": {
+      "name": "[TEST] Elias Mahfouz",
+      "phone": "971585194592",
+      "address": "جاييناوي شارع سانديس المفرق حد بتصري مرهج منرجع يمين منرجع يمين عآخر الشارع في بناية جديدة طابق الخامس.",
+      "location": "https://www.google.com/maps?q=33.891430,35.528271"
+    },
+    "customer_name": "[TEST] Elias Mahfouz",
+    "customer_phone": "971585194592",
+    "pickup": false,
+    "items": [
+      {
+        "id": "19234",
+        "name": "CAFE CREME AROME",
+        "unitLbp": 360000,
+        "totalLbp": 360000,
+        "unitUsd": 4.0,
+        "totalUsd": 4.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19234.jpg",
+        "qty": 1
+      },
+      {
+        "id": "14178",
+        "name": "PANDA BARS PEPE LICORICE 32 G",
+        "unitLbp": 65000,
+        "totalLbp": 65000,
+        "unitUsd": 0.72,
+        "totalUsd": 0.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID14178.jpg",
+        "qty": 1
+      }
+    ],
+    "itemsTotalUsd": 4.72,
+    "itemsTotalLbp": 425000,
+    "deliveryUsd": 2.33,
+    "deliveryLbp": 210000,
+    "deliveryFeeUsd": 2.33,
+    "deliveryFeeLbp": 210000,
+    "totalUsd": 7.06,
+    "totalLbp": 635000,
+    "notifs": {
+      "newOrderSentAt": "2026-07-16T17:36:57.595714Z",
+      "notTaken5mSentAt": "2026-07-16T17:36:57.595714Z",
+      "assignedDriverSentAt": "2026-07-16T17:36:57.595714Z",
+      "testNotificationsSuppressed": true
+    },
+    "source": "whatsapp_ai_test",
+    "testMode": true,
+    "aiCustomerProfile": {
+      "customerId": "cust_1784028356522_6936d3ae0f",
+      "addressId": "addr_1784029225439_ab543a83f1",
+      "addressLabel": "Home",
+      "profileVersion": 1,
+      "address": {
+        "street": "",
+        "building": "",
+        "floor": "",
+        "hasElevator": null,
+        "instructions": ""
+      }
+    },
+    "aiInterpretation": {
+      "conversationId": "conv_1784111428719_5a9ec9545a",
+      "customerConfirmedAt": "2026-07-16T17:36:57.595714Z",
+      "deliveryRulesSource": "mahfouz-market/main/delivery_rules.json",
+      "deliveryBand": "E5",
+      "deliveryCount": 1,
+      "deliveryPoints": 0.01,
+      "appVisibleTestExport": true,
+      "testExportLabel": "TEST - MahfouzOrderAI"
+    },
+    "isTestOrder": true,
+    "orderLabel": "TEST - MahfouzOrderAI",
+    "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
+    "appVisibleTestExport": true
   }
 ]
