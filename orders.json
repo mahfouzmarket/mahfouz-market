@@ -24183,5 +24183,70 @@
     "driverAckAt": "2026-07-18T17:42:41.803679Z",
     "pickedUpAt": "2026-07-18T17:42:37.728704Z",
     "deliveredAt": "2026-07-18T17:44:04.335596Z"
+  },
+  {
+    "orderId": "ord-1784485040302",
+    "ts": "2026-07-19T18:17:20.302588Z",
+    "createdAt": "2026-07-19T18:17:20.302588Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-19T18:17:20.302588Z"
+      }
+    ],
+    "customer": {
+      "name": "karim sabeh",
+      "phone": "76931642",
+      "address": "barazi\nmedawar, barazu, Floor 10, Elevator",
+      "location": "https://www.google.com/maps?q=33.900185,35.533616"
+    },
+    "customer_name": "karim sabeh",
+    "customer_phone": "76931642",
+    "pickup": false,
+    "items": [
+      {
+        "id": "5155",
+        "name": "FRESCO CHOCOLATE",
+        "qty": 2,
+        "unitUsd": 0.5,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5155.jpg"
+      },
+      {
+        "id": "90282",
+        "name": "POPSICLE STRAWBERRY",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21626.jpg"
+      },
+      {
+        "id": "8000073",
+        "name": "POPSICLES MANGO LIGHT",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID8000073.jpg"
+      },
+      {
+        "id": "17258",
+        "name": "SNIPS HONEY MUSTARD 165gr",
+        "qty": 1,
+        "unitUsd": 1.11,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17258.jpg"
+      }
+    ],
+    "totalUsd": 4.36,
+    "totalLbp": 390000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
