@@ -24158,8 +24158,8 @@
         "id": "13296",
         "name": "MOULIN D'OR WHITE LARGE BREAD",
         "qty": 1,
-        "unitUsd": 1.0,
-        "totalUsd": 1.0,
+        "unitUsd": 1,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
       }
     ],
@@ -24213,7 +24213,7 @@
         "name": "FRESCO CHOCOLATE",
         "qty": 2,
         "unitUsd": 0.5,
-        "totalUsd": 1.0,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5155.jpg"
       },
       {
@@ -24293,16 +24293,16 @@
         "id": "16955",
         "name": "MASTER SITOS NACHO CHEESE 210 G",
         "qty": 1,
-        "unitUsd": 1.0,
-        "totalUsd": 1.0,
+        "unitUsd": 1,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16955.jpg"
       },
       {
         "id": "17467",
         "name": "MASTER SITOS CARAMELIZEO ONION 210 G",
         "qty": 1,
-        "unitUsd": 1.0,
-        "totalUsd": 1.0,
+        "unitUsd": 1,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17467.jpg"
       },
       {
@@ -24350,7 +24350,7 @@
     "totalLbp": 770000,
     "notifs": {
       "newOrderSentAt": null,
-      "notTaken5mSentAt": null,
+      "notTaken5mSentAt": "2026-07-19T19:32:59.792Z",
       "assignedDriverSentAt": null
     }
   }
