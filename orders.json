@@ -24867,5 +24867,62 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784632350391",
+    "ts": "2026-07-21T11:12:30.391491Z",
+    "createdAt": "2026-07-21T11:12:30.391491Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-21T11:12:30.391491Z"
+      }
+    ],
+    "customer": {
+      "name": "Radwyon",
+      "phone": "78910763",
+      "address": "El Camion\nQobayat, building 33, Floor 4, No Elevator · VGVJ+WH2, Beirut, Lebanon",
+      "location": "https://www.google.com/maps?q=33.894835327032816,35.53152961184261"
+    },
+    "customer_name": "Radwyon",
+    "customer_phone": "78910763",
+    "pickup": false,
+    "items": [
+      {
+        "id": "13674",
+        "name": "FRESCO VANILLE",
+        "qty": 2,
+        "unitUsd": 0.5,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13674.jpg"
+      },
+      {
+        "id": "17179",
+        "name": "AQUAFINA WATER 2 L",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17179.jpg"
+      },
+      {
+        "id": "16935",
+        "name": "SNIPS POTATO CHIPS SALT 165 G",
+        "qty": 1,
+        "unitUsd": 1.11,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16935.jpg"
+      }
+    ],
+    "totalUsd": 4.97,
+    "totalLbp": 445000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
