@@ -25370,5 +25370,122 @@
     "orderLabel": "TEST - MahfouzOrderAI",
     "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
     "appVisibleTestExport": true
+  },
+  {
+    "orderId": "ord-1784721605194",
+    "trackingId": "trk_3d1176740ae5dc80835d41dd95227cd3b7df",
+    "ts": "2026-07-22T12:00:05.194923Z",
+    "createdAt": "2026-07-22T12:00:05.194923Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-22T12:00:05.194923Z"
+      }
+    ],
+    "customer": {
+      "name": "[TEST] Elias Mahfouz",
+      "phone": "971585194592",
+      "address": "Home\nجعيتاوي, Saint louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891438,35.528275"
+    },
+    "customer_name": "[TEST] Elias Mahfouz",
+    "customer_phone": "971585194592",
+    "pickup": false,
+    "orderNotes": "الشباب بيعرفوني. تركت البوابة مفتوحة.",
+    "deliveryInstructions": "الشباب بيعرفوني. تركت البوابة مفتوحة.",
+    "items": [
+      {
+        "id": "16734",
+        "name": "SAADE PURE WATER 10 L",
+        "unitLbp": 70000,
+        "totalLbp": 140000,
+        "unitUsd": 0.78,
+        "totalUsd": 1.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16734.jpg",
+        "notes": "",
+        "qty": 2
+      },
+      {
+        "id": "16021",
+        "name": "SUCRE BAYTNA 900GR",
+        "unitLbp": 85000,
+        "totalLbp": 85000,
+        "unitUsd": 0.94,
+        "totalUsd": 0.94,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16021.jpg",
+        "notes": "المتوفر 900غ أو 500غ، وليس كيلو كامل.",
+        "qtyKg": 1.0
+      },
+      {
+        "id": "90064",
+        "name": "Eclair Vanille",
+        "unitLbp": 200000,
+        "totalLbp": 400000,
+        "unitUsd": 2.22,
+        "totalUsd": 4.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID90064.jpg",
+        "notes": "من البراد",
+        "qty": 2
+      },
+      {
+        "id": "2825",
+        "name": "DOUBLE CREME ROBOU3 TAANAYEL",
+        "unitLbp": 505000,
+        "totalLbp": 505000,
+        "unitUsd": 5.61,
+        "totalUsd": 5.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2825.jpg",
+        "notes": "",
+        "qty": 1
+      }
+    ],
+    "itemsTotalUsd": 12.56,
+    "itemsTotalLbp": 1130000,
+    "deliveryUsd": 2.78,
+    "deliveryLbp": 250000,
+    "deliveryFeeUsd": 2.78,
+    "deliveryFeeLbp": 250000,
+    "totalUsd": 15.33,
+    "totalLbp": 1380000,
+    "notifs": {
+      "newOrderSentAt": "2026-07-22T12:00:05.194923Z",
+      "notTaken5mSentAt": "2026-07-22T12:00:05.194923Z",
+      "assignedDriverSentAt": "2026-07-22T12:00:05.194923Z",
+      "testNotificationsSuppressed": true
+    },
+    "source": "whatsapp_ai_test",
+    "testMode": true,
+    "aiCustomerProfile": {
+      "customerId": "cust_1784721337283_aae4ea87cd",
+      "addressId": "addr_1784721510329_04f41a2b79",
+      "addressLabel": "Home",
+      "profileVersion": 1,
+      "address": {
+        "zone": "جعيتاوي",
+        "street": "Saint louis",
+        "building": "3763",
+        "floor": "5",
+        "hasElevator": true,
+        "instructions": ""
+      }
+    },
+    "aiInterpretation": {
+      "conversationId": "conv_1784721337281_f3f7fb7ad5",
+      "customerConfirmedAt": "2026-07-22T12:00:05.194923Z",
+      "deliveryRulesSource": "mahfouz-market/main/delivery_rules.json",
+      "deliveryBand": "F6",
+      "deliveryCount": 1,
+      "deliveryPoints": 0.92,
+      "appVisibleTestExport": true,
+      "testExportLabel": "TEST - MahfouzOrderAI"
+    },
+    "isTestOrder": true,
+    "orderLabel": "TEST - MahfouzOrderAI",
+    "staffNote": "TEST ORDER from MahfouzOrderAI; do not fulfill as production.",
+    "appVisibleTestExport": true
   }
 ]
