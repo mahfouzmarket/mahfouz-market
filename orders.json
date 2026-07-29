@@ -28436,5 +28436,62 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "",
     "pickedUpAt": "2026-07-29T20:54:05.266921Z"
+  },
+  {
+    "orderId": "ord-1785366964331",
+    "ts": "2026-07-29T23:16:04.331862Z",
+    "createdAt": "2026-07-29T23:16:04.331862Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-07-29T23:16:04.331862Z"
+      }
+    ],
+    "customer": {
+      "name": "youssef kinlawe",
+      "phone": "76437977",
+      "address": "geitaoui\ngeitaoui, hopital urgence, Floor 0, No Elevator · 76437977",
+      "location": "https://www.google.com/maps?q=33.895424,35.531673"
+    },
+    "customer_name": "youssef kinlawe",
+    "customer_phone": "76437977",
+    "pickup": false,
+    "items": [
+      {
+        "id": "5094",
+        "name": "TROPICANA ICE CREAM lemon",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5094.jpg"
+      },
+      {
+        "id": "21870",
+        "name": "TROPICANA ICE CREAM TRIO",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21870.jpg"
+      },
+      {
+        "id": "16942",
+        "name": "LES SORBETS BLUEBERRY DIET 120 ML",
+        "qty": 2,
+        "unitUsd": 1.83,
+        "totalUsd": 3.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16942.jpg"
+      }
+    ],
+    "totalUsd": 5.59,
+    "totalLbp": 500000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
