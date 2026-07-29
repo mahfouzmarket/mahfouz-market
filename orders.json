@@ -27033,7 +27033,7 @@
       {
         "id": "21955",
         "name": "LOZ AKHDAR",
-        "qtyKg": 1.0,
+        "qtyKg": 1,
         "unitUsd": 3.89,
         "totalUsd": 3.89,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21955.jpg"
@@ -27049,7 +27049,7 @@
       {
         "id": "20676",
         "name": "3ENAB ABYAD",
-        "qtyKg": 1.0,
+        "qtyKg": 1,
         "unitUsd": 4.17,
         "totalUsd": 4.17,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID20676.jpg"
@@ -27128,8 +27128,8 @@
         "id": "21145",
         "name": "KLATCHI CHICKPEAS 200 G",
         "qty": 1,
-        "unitUsd": 2.0,
-        "totalUsd": 2.0,
+        "unitUsd": 2,
+        "totalUsd": 2,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21145.jpg"
       },
       {
@@ -27152,8 +27152,8 @@
         "id": "18715",
         "name": "LOZ AOUN 100G",
         "qty": 1,
-        "unitUsd": 2.0,
-        "totalUsd": 2.0,
+        "unitUsd": 2,
+        "totalUsd": 2,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18715.jpg"
       },
       {
@@ -27192,8 +27192,8 @@
         "id": "2952",
         "name": "KHOURY GOAT LABNEH 330 G",
         "qty": 1,
-        "unitUsd": 6.0,
-        "totalUsd": 6.0,
+        "unitUsd": 6,
+        "totalUsd": 6,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2952.jpg"
       },
       {
@@ -27312,7 +27312,7 @@
         "id": "2824",
         "name": "HALLOUM ROBOU3 TAANAYEL",
         "qtyKg": 0.4,
-        "unitUsd": 7.0,
+        "unitUsd": 7,
         "totalUsd": 2.8,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2824.jpg"
       }
@@ -27754,7 +27754,7 @@
     "totalLbp": 1245000,
     "notifs": {
       "newOrderSentAt": null,
-      "notTaken5mSentAt": null,
+      "notTaken5mSentAt": "2026-07-29T07:18:18.748Z",
       "assignedDriverSentAt": null
     }
   }
