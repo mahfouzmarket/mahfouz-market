@@ -30348,5 +30348,126 @@
     "driverAssignedNotifiedAt": "",
     "driverAckAt": "2026-08-04T13:07:44.883512Z",
     "pickedUpAt": "2026-08-04T13:07:40.314668Z"
+  },
+  {
+    "orderId": "ord-1785861177205",
+    "ts": "2026-08-04T16:32:57.205008Z",
+    "createdAt": "2026-08-04T16:32:57.205008Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-08-04T16:32:57.205008Z"
+      }
+    ],
+    "customer": {
+      "name": "رهف ناصرالدين",
+      "phone": "03454806",
+      "address": "العمل\nالكرنتينا, مستشفى الكرنتينا, الطابق 2, مصعد",
+      "location": "https://www.google.com/maps?q=33.902591,35.529840"
+    },
+    "customer_name": "رهف ناصرالدين",
+    "customer_phone": "03454806",
+    "pickup": false,
+    "items": [
+      {
+        "id": "4036",
+        "name": "CHOCO PRINCE 25G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4036.jpg"
+      },
+      {
+        "id": "4935",
+        "name": "DABKE",
+        "qty": 1,
+        "unitUsd": 0.33,
+        "totalUsd": 0.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4935.jpg"
+      },
+      {
+        "id": "300349",
+        "name": "DIGESTIVE BISCUITS BARS",
+        "qty": 1,
+        "unitUsd": 0.33,
+        "totalUsd": 0.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300349.jpg"
+      },
+      {
+        "id": "19744",
+        "name": "ELEGANCE CHOCO BISCOTTO TRIPLE CHOCOLATE",
+        "qty": 1,
+        "unitUsd": 0.28,
+        "totalUsd": 0.28,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19744.jpg"
+      },
+      {
+        "id": "21270",
+        "name": "ELEGANCE SANDWICH WAFER WITH COCOA 50G",
+        "qty": 1,
+        "unitUsd": 0.44,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21270.jpg"
+      },
+      {
+        "id": "5019",
+        "name": "ETI GONG HONEY MUSTARD 34 G",
+        "qty": 1,
+        "unitUsd": 0.61,
+        "totalUsd": 0.61,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5019.jpg"
+      },
+      {
+        "id": "17774",
+        "name": "ETI POP KEK CHOCOLATE CHOCOLATE 45 G",
+        "qty": 1,
+        "unitUsd": 0.56,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17774.jpg"
+      },
+      {
+        "id": "13742",
+        "name": "MOON WAY PIE APRICOT 85 GR",
+        "qty": 1,
+        "unitUsd": 0.72,
+        "totalUsd": 0.72,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13742.jpg"
+      },
+      {
+        "id": "18695",
+        "name": "SNIPS PRETZELS KNOTS HONEY MUSTARD 250G",
+        "qty": 1,
+        "unitUsd": 1.11,
+        "totalUsd": 1.11,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18695.jpg"
+      },
+      {
+        "id": "500061",
+        "name": "LES FOLIES CHOCOLATE & CHOCOLATE CHIP 130 ML",
+        "qty": 1,
+        "unitUsd": 1.94,
+        "totalUsd": 1.94,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500061.jpg"
+      },
+      {
+        "id": "5117",
+        "name": "LES FOLIES 130 ML",
+        "qty": 2,
+        "unitUsd": 1.94,
+        "totalUsd": 3.88,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5117.jpg"
+      }
+    ],
+    "totalUsd": 11.4,
+    "totalLbp": 1020000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
