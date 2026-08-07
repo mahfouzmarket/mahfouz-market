@@ -31485,8 +31485,8 @@
         "id": "15979",
         "name": "MASTER SALT 180 G",
         "qty": 1,
-        "unitUsd": 1.0,
-        "totalUsd": 1.0,
+        "unitUsd": 1,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15979.jpg"
       }
     ],
@@ -31494,7 +31494,7 @@
     "totalLbp": 595000,
     "notifs": {
       "newOrderSentAt": null,
-      "notTaken5mSentAt": null,
+      "notTaken5mSentAt": "2026-08-07T21:37:13.497Z",
       "assignedDriverSentAt": null
     }
   }
