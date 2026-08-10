@@ -31925,8 +31925,8 @@
         "id": "16957",
         "name": "RICE CAKES UNSALTED 120 G",
         "qty": 1,
-        "unitUsd": 1.0,
-        "totalUsd": 1.0,
+        "unitUsd": 1,
+        "totalUsd": 1,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16957.jpg"
       },
       {
@@ -32018,7 +32018,7 @@
       {
         "id": "15760",
         "name": "JAZAR",
-        "qtyKg": 1.0,
+        "qtyKg": 1,
         "unitUsd": 2.22,
         "totalUsd": 2.22,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15760.jpg"
@@ -32105,14 +32105,14 @@
         "id": "17266",
         "name": "MASTER KETTLE COOKED SEA SALT 270 G",
         "qty": 1,
-        "unitUsd": 2.0,
-        "totalUsd": 2.0,
+        "unitUsd": 2,
+        "totalUsd": 2,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17266.jpg"
       },
       {
         "id": "15750",
         "name": "BATATA",
-        "qtyKg": 2.0,
+        "qtyKg": 2,
         "unitUsd": 0.78,
         "totalUsd": 1.56,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15750.jpg"
@@ -32120,7 +32120,7 @@
       {
         "id": "15751",
         "name": "BASAL YEBIS",
-        "qtyKg": 1.0,
+        "qtyKg": 1,
         "unitUsd": 0.67,
         "totalUsd": 0.67,
         "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID15751.jpg"
@@ -32216,7 +32216,7 @@
     "totalLbp": 1030000,
     "notifs": {
       "newOrderSentAt": null,
-      "notTaken5mSentAt": null,
+      "notTaken5mSentAt": "2026-08-10T17:06:33.365Z",
       "assignedDriverSentAt": null
     }
   }
