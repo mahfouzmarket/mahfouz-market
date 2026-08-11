@@ -32282,5 +32282,55 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1786461552856",
+    "trackingId": "trk_84ea23501fec16181f015a22715cce68c046",
+    "ts": "2026-08-11T15:19:12.856482Z",
+    "createdAt": "2026-08-11T15:19:12.856482Z",
+    "brand": "mahfouz_market",
+    "branch": "Medawar",
+    "branchKey": "medawar",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-08-11T15:19:12.856482Z"
+      }
+    ],
+    "customer": {
+      "name": "Elias",
+      "phone": "70185604",
+      "address": "home\nst louis, 3763, Floor 5, Elevator",
+      "location": "https://www.google.com/maps?q=33.891442,35.528268"
+    },
+    "customer_name": "Elias",
+    "customer_phone": "70185604",
+    "pickup": false,
+    "items": [
+      {
+        "id": "21633",
+        "name": "AILA CHOCO KING DARK CHOCOLATE 38GR",
+        "qty": 1,
+        "unitLbp": 40000,
+        "totalLbp": 40000,
+        "unitUsd": 0.44,
+        "totalUsd": 0.44,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21633.jpg"
+      }
+    ],
+    "itemsTotalUsd": 0.44,
+    "itemsTotalLbp": 40000,
+    "deliveryUsd": 2.33,
+    "deliveryLbp": 210000,
+    "deliveryFeeUsd": 2.33,
+    "deliveryFeeLbp": 210000,
+    "totalUsd": 2.78,
+    "totalLbp": 250000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
