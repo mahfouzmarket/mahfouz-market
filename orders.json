@@ -33064,5 +33064,142 @@
       "notTaken5mSentAt": "2026-08-14T10:27:34.857Z",
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1786708298931",
+    "ts": "2026-08-14T11:51:38.931090Z",
+    "createdAt": "2026-08-14T11:51:38.931090Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-08-14T11:51:38.931090Z"
+      }
+    ],
+    "customer": {
+      "name": "yarah kirakossian",
+      "phone": "03192449",
+      "address": "home\nqobayat street, balakjian blg, Floor 2, No Elevator · building after mokhtar kolagian, facing Dona Maria loto shop",
+      "location": "https://www.google.com/maps?q=33.893529,35.532131"
+    },
+    "customer_name": "yarah kirakossian",
+    "customer_phone": "03192449",
+    "pickup": false,
+    "items": [
+      {
+        "id": "19747",
+        "name": "ELEGANCE BISCOTTO VANILLA 34 G x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.39,
+        "totalUsd": 2.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19747.jpg"
+      },
+      {
+        "id": "19748",
+        "name": "ELEGANCE BISCOTTO DOUBLE CHOCOLATE 34G x 12 pcs",
+        "qty": 1,
+        "unitUsd": 2.39,
+        "totalUsd": 2.39,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19748.jpg"
+      },
+      {
+        "id": "13185",
+        "name": "AL OUMDA",
+        "qty": 2,
+        "unitUsd": 0.67,
+        "totalUsd": 1.34,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13185.jpg"
+      },
+      {
+        "id": "13296",
+        "name": "MOULIN D'OR WHITE LARGE BREAD",
+        "qty": 1,
+        "unitUsd": 1.0,
+        "totalUsd": 1.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13296.jpg"
+      },
+      {
+        "id": "17761",
+        "name": "DER GENERAL JASMINE 1.5 L",
+        "qty": 1,
+        "unitUsd": 2.33,
+        "totalUsd": 2.33,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17761.jpg"
+      },
+      {
+        "id": "16148",
+        "name": "SAJ MARKOUK",
+        "qty": 2,
+        "unitUsd": 0.83,
+        "totalUsd": 1.66,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID16148.jpg"
+      },
+      {
+        "id": "19973",
+        "name": "TEREA BEIGE",
+        "qty": 4,
+        "unitUsd": 2.78,
+        "totalUsd": 11.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID19973.jpg"
+      },
+      {
+        "id": "18787",
+        "name": "KAJO 100 GR",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18787.jpg"
+      },
+      {
+        "id": "18715",
+        "name": "LOZ AOUN 100G",
+        "qty": 1,
+        "unitUsd": 2.0,
+        "totalUsd": 2.0,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18715.jpg"
+      },
+      {
+        "id": "21476",
+        "name": "BIHAR COW KASHKAVAL CHEESE 275 G",
+        "qty": 1,
+        "unitUsd": 5.67,
+        "totalUsd": 5.67,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID21476.jpg"
+      },
+      {
+        "id": "500100",
+        "name": "DAIRY KHOURY GREEK YOGURT  APRICOT175 G",
+        "qty": 1,
+        "unitUsd": 1.78,
+        "totalUsd": 1.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500100.jpg"
+      },
+      {
+        "id": "500101",
+        "name": "DAIRY KHOURY GREEK YOGURT BLUWBERRY175 G",
+        "qty": 2,
+        "unitUsd": 1.78,
+        "totalUsd": 3.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500101.jpg"
+      },
+      {
+        "id": "18171",
+        "name": "7DAYS CROISSANT 60 G",
+        "qty": 4,
+        "unitUsd": 0.78,
+        "totalUsd": 3.12,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID18171.jpg"
+      }
+    ],
+    "totalUsd": 41.23,
+    "totalLbp": 3690000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
