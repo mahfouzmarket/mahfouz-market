@@ -48,7 +48,7 @@ function loadOrdersText(text) {
 
 function saveOrders(parsed) {
   const root = parsed.wrapped ? { ...parsed.root, orders: parsed.orders } : parsed.orders;
-  fs.writeFileSync(ORDERS_PATH, JSON.stringify(root, null, 2) + '\n', 'utf8');
+  fs.writeFileSync(ORDERS_PATH, JSON.stringify(root) + '\n', 'utf8');
 }
 
 function readPrevOrders() {
