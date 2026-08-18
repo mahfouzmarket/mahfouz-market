@@ -386,7 +386,7 @@ async function sendLiveActivity(o, id, status) {
       'stale-date': now + 5 * 60,
       'relevance-score': visual.isFinal ? 50 : 100,
     };
-    if (visual.isFinal) aps['dismissal-date'] = now + 15 * 60;
+    if (visual.isFinal) aps['dismissal-date'] = now;
 
     await client.send({
       token: fcmToken,
