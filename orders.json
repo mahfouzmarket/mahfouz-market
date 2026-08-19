@@ -21166,5 +21166,86 @@
       "notTaken5mSentAt": null,
       "assignedDriverSentAt": null
     }
+  },
+  {
+    "orderId": "ord-1787175686960",
+    "ts": "2026-08-19T21:41:26.960574Z",
+    "createdAt": "2026-08-19T21:41:26.960574Z",
+    "brand": "mahfouz_market",
+    "branch": "Geitawi",
+    "branchKey": "geitawi",
+    "status": "NEW",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "at": "2026-08-19T21:41:26.960574Z"
+      }
+    ],
+    "customer": {
+      "name": "said",
+      "phone": "81164376",
+      "address": ".\n., ., Floor 1, No Elevator · VGVJ+5M4، بيروت، لبنان",
+      "location": "https://www.google.com/maps?q=33.892933,35.531680"
+    },
+    "customer_name": "said",
+    "customer_phone": "81164376",
+    "pickup": false,
+    "items": [
+      {
+        "id": "5083",
+        "name": "SANDWICH VANILLE 100 G",
+        "qty": 2,
+        "unitUsd": 1.11,
+        "totalUsd": 2.22,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID5083.jpg"
+      },
+      {
+        "id": "13898",
+        "name": "DOLSI CHIPS PIZZA PUFFS 80 G",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13898.jpg"
+      },
+      {
+        "id": "17637",
+        "name": "MASTER BUFFIES CHEESE POPCORN 170 G",
+        "qty": 1,
+        "unitUsd": 0.83,
+        "totalUsd": 0.83,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID17637.jpg"
+      },
+      {
+        "id": "500017",
+        "name": "DOLSI CHIPS sweet chili 80GR",
+        "qty": 1,
+        "unitUsd": 0.89,
+        "totalUsd": 0.89,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID500017.jpg"
+      },
+      {
+        "id": "13607",
+        "name": "PEPSI DIET CAN 330 ML",
+        "qty": 1,
+        "unitUsd": 0.78,
+        "totalUsd": 0.78,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13607.jpg"
+      },
+      {
+        "id": "4693",
+        "name": "MASTRO MARIE 49G",
+        "qty": 2,
+        "unitUsd": 0.28,
+        "totalUsd": 0.56,
+        "imageURL": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID4693.jpg"
+      }
+    ],
+    "totalUsd": 7.09,
+    "totalLbp": 635000,
+    "notifs": {
+      "newOrderSentAt": null,
+      "notTaken5mSentAt": null,
+      "assignedDriverSentAt": null
+    }
   }
 ]
