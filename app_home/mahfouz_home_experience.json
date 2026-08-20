@@ -1,0 +1,74 @@
+{
+  "enabled": true,
+  "logoUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/images/logo.png",
+  "heroImageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/header/mahfouz_header_logo.jpg",
+  "heroEyebrow": "Mahfouz Market",
+  "heroTitle": "Fresh groceries, live offers, instant branch routing",
+  "heroSubtitle": "This welcome area, logo, and publicity space can change from this file without updating the app.",
+  "searchHint": "Search groceries, barcode, brand...",
+  "shortcuts": [
+    {
+      "title": "All",
+      "category": "ALL",
+      "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/categories/cat_food.png"
+    },
+    {
+      "title": "Offers",
+      "category": "HOT OFFERS",
+      "badge": "LIVE",
+      "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/categories/cat_new_items.png"
+    },
+    {
+      "title": "New",
+      "category": "NEW ITEMS",
+      "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/categories/cat_new_items.png"
+    },
+    {
+      "title": "Beverages",
+      "category": "BEVERAGES",
+      "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/categories/cat_beverages.png"
+    },
+    {
+      "title": "Chips",
+      "category": "CHIPS",
+      "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/categories/cat_chips.png"
+    },
+    {
+      "title": "Fresh",
+      "category": "VEGETABLES AND FRUITS",
+      "imageUrl": "https://raw.githubusercontent.com/mahfouzmarket/mahfouz-market/main/assets/categories/cat_veg_fruits.png"
+    }
+  ],
+  "promoTiles": [
+    {
+      "title": "Fresh picks",
+      "subtitle": "Daily essentials",
+      "category": "VEGETABLES AND FRUITS",
+      "icon": "fresh",
+      "accentColor": "#0DAA7A"
+    },
+    {
+      "title": "Offers",
+      "subtitle": "Live deals",
+      "category": "HOT OFFERS",
+      "icon": "percent",
+      "accentColor": "#E53935"
+    },
+    {
+      "title": "New arrivals",
+      "subtitle": "Just added",
+      "category": "NEW ITEMS",
+      "icon": "new",
+      "accentColor": "#5B5CE2"
+    }
+  ],
+  "wideBanners": [
+    {
+      "title": "Almaza Anti-stress Can",
+      "subtitle": "Limited edition beer campaign • 18+ only",
+      "imageUrl": "assets/images/campaigns/almaza_anti_stress_can.jpg",
+      "category": "ALCOHOL",
+      "icon": "campaign"
+    }
+  ]
+}
