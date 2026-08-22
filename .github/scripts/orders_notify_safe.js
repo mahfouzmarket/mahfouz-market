@@ -352,21 +352,23 @@ async function sendLiveActivity(o, id, status) {
   try {
     const client = await ensureMessaging();
     if (!firestore) return;
-    const ref = firestore
+    const registrations = firestore
       .collection('brands')
       .doc(BRAND_ID)
-      .collection('live_activity_tokens')
-      .doc(tracking);
-    const snapshot = await ref.get();
-    if (!snapshot.exists) {
-      console.log('LIVE_ACTIVITY_SKIP no_token', id);
-      return;
+      .collection('live_activity_tokens');
+    const directRef = registrations.doc(tracking);
+    const directSnapshot = await directRef.get();
+    let snapshots = directSnapshot.exists ? [directSnapshot] : [];
+
+    // The public compatibility feed deliberately omits the customer's private
+    // tracking id. Resolve the registration by its non-secret order id rather
+    // than exporting that private tracking credential to orders.json.
+    if (snapshots.length === 0) {
+      const byOrder = await registrations.where('orderId', '==', id).limit(10).get();
+      snapshots = byOrder.docs;
     }
-    const registration = snapshot.data() || {};
-    const fcmToken = String(registration.fcmToken || '').trim();
-    const activityToken = String(registration.liveActivityToken || '').trim();
-    if (!fcmToken || !activityToken) {
-      console.log('LIVE_ACTIVITY_SKIP incomplete_token', id);
+    if (snapshots.length === 0) {
+      console.log('LIVE_ACTIVITY_SKIP no_token', id);
       return;
     }
 
@@ -388,21 +390,34 @@ async function sendLiveActivity(o, id, status) {
     };
     if (visual.isFinal) aps['dismissal-date'] = now;
 
-    await client.send({
-      token: fcmToken,
-      apns: {
-        liveActivityToken: activityToken,
-        headers: { 'apns-priority': '10' },
-        payload: { aps },
-      },
-    });
-    await ref.set({
-      active: !visual.isFinal,
-      status,
-      lastRemoteUpdateAt: new Date().toISOString(),
-      ...(visual.isFinal ? { expiresAt: new Date(Date.now() + 60 * 60 * 1000) } : {}),
-    }, { merge: true });
-    console.log('LIVE_ACTIVITY_SENT', status, id);
+    let sent = 0;
+    for (const snapshot of snapshots) {
+      const registration = snapshot.data() || {};
+      const fcmToken = String(registration.fcmToken || '').trim();
+      const activityToken = String(registration.liveActivityToken || '').trim();
+      if (!fcmToken || !activityToken) continue;
+
+      await client.send({
+        token: fcmToken,
+        apns: {
+          liveActivityToken: activityToken,
+          headers: { 'apns-priority': '10' },
+          payload: { aps },
+        },
+      });
+      await snapshot.ref.set({
+        active: !visual.isFinal,
+        status,
+        lastRemoteUpdateAt: new Date().toISOString(),
+        ...(visual.isFinal ? { expiresAt: new Date(Date.now() + 60 * 60 * 1000) } : {}),
+      }, { merge: true });
+      sent++;
+    }
+    if (sent === 0) {
+      console.log('LIVE_ACTIVITY_SKIP incomplete_token', id);
+      return;
+    }
+    console.log('LIVE_ACTIVITY_SENT', status, id, `registrations=${sent}`);
   } catch (error) {
     console.error('LIVE_ACTIVITY_FAILED', id, error && error.message ? error.message : error);
   }
