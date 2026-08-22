@@ -4,7 +4,11 @@ const { execFileSync } = require('child_process');
 const ORDERS_PATH = process.env.ORDERS_PATH || 'orders.json';
 const BRAND_ID = process.env.BRAND_ID || 'mahfouz_market';
 const OWNER_TOPIC = (process.env.OWNER_TOPIC || '').trim();
-const DRY_RUN = String(process.env.DRY_RUN || '').toLowerCase() === 'true';
+const DRY_RUN_INPUT = String(process.env.DRY_RUN || '').trim();
+const DRY_RUN = DRY_RUN_INPUT.toLowerCase() === 'true';
+const WORKFLOW_REPAIR_ORDER_ID = DRY_RUN_INPUT.toLowerCase().startsWith('repair:')
+  ? DRY_RUN_INPUT.substring('repair:'.length).trim()
+  : '';
 const RECENT_MS = Number(process.env.RECENT_WINDOW_HOURS || 12) * 60 * 60 * 1000;
 const TIMER_LOOKBACK_MS =
   Number(process.env.TIMER_LOOKBACK_HOURS || 24) * 60 * 60 * 1000;
@@ -346,12 +350,12 @@ function liveActivityEta(o, status) {
 }
 
 async function sendLiveActivity(o, id, status) {
-  if (DRY_RUN) return;
+  if (DRY_RUN) return true;
   const tracking = trackingId(o, id);
-  if (!tracking) return;
+  if (!tracking) return false;
   try {
     const client = await ensureMessaging();
-    if (!firestore) return;
+    if (!firestore) return false;
     const registrations = firestore
       .collection('brands')
       .doc(BRAND_ID)
@@ -369,7 +373,7 @@ async function sendLiveActivity(o, id, status) {
     }
     if (snapshots.length === 0) {
       console.log('LIVE_ACTIVITY_SKIP no_token', id);
-      return;
+      return false;
     }
 
     const visual = liveActivityVisual(o, status);
@@ -415,11 +419,13 @@ async function sendLiveActivity(o, id, status) {
     }
     if (sent === 0) {
       console.log('LIVE_ACTIVITY_SKIP incomplete_token', id);
-      return;
+      return false;
     }
     console.log('LIVE_ACTIVITY_SENT', status, id, `registrations=${sent}`);
+    return true;
   } catch (error) {
     console.error('LIVE_ACTIVITY_FAILED', id, error && error.message ? error.message : error);
+    return false;
   }
 }
 
@@ -682,6 +688,23 @@ function setOutput(name, value) {
 
 async function main() {
   const parsed = loadOrdersText(fs.readFileSync(ORDERS_PATH, 'utf8'));
+
+  const repairOrderId = String(
+    process.env.LIVE_ACTIVITY_REPAIR_ORDER_ID || WORKFLOW_REPAIR_ORDER_ID,
+  ).trim();
+  if (EVENT_NAME === 'workflow_dispatch' && repairOrderId) {
+    const order = parsed.orders.find((candidate) => idOf(candidate) === repairOrderId);
+    if (!order) throw new Error(`Live Activity repair order not found: ${repairOrderId}`);
+    const repaired = await sendLiveActivity(
+      order,
+      repairOrderId,
+      effectiveStatus(order),
+    );
+    if (!repaired) throw new Error(`Live Activity repair failed: ${repairOrderId}`);
+    setOutput('orders_changed', 'false');
+    console.log('LIVE_ACTIVITY_REPAIR_DONE', repairOrderId, effectiveStatus(order));
+    return;
+  }
 
   if (EVENT_NAME === 'push') {
     const changed = changedFilesForPush();
