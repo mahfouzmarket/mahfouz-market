@@ -12,6 +12,18 @@ function parseJson(label, raw) {
 }
 
 async function main() {
+  const expectedBrandId = 'mahfouz_market';
+  const brandId = (process.env.BRAND_ID || expectedBrandId).trim();
+  if (brandId !== expectedBrandId) {
+    throw new Error(
+      `Refusing cross-brand push ping: expected ${expectedBrandId}, got ${brandId || '<empty>'}`
+    );
+  }
+  const PUSH_APP_TARGET = Object.freeze({
+    iosBundleId: 'MAHFOUZ.MARKET.MM-APP',
+    androidPackageName: 'com.mahfouzmarket.mahfouz_market',
+  });
+
   const saRaw = mustEnv('FIREBASE_SERVICE_ACCOUNT_JSON');
   const sa = parseJson('FIREBASE_SERVICE_ACCOUNT_JSON', saRaw);
 
@@ -33,14 +45,25 @@ async function main() {
   const title = (process.env.PING_TITLE || 'PING').trim();
   const body  = (process.env.PING_BODY  || 'Hello').trim();
 
-  const apnsHeaders = { 'apns-priority': '10', 'apns-push-type': 'alert' };
-  const apnsTopic = (process.env.APNS_TOPIC || '').trim();
-  if (apnsTopic) apnsHeaders['apns-topic'] = apnsTopic;
+  const requestedApnsTopic = (process.env.APNS_TOPIC || '').trim();
+  if (requestedApnsTopic && requestedApnsTopic !== PUSH_APP_TARGET.iosBundleId) {
+    throw new Error(
+      `Refusing cross-brand APNs topic: expected ${PUSH_APP_TARGET.iosBundleId}, got ${requestedApnsTopic}`
+    );
+  }
+  const apnsHeaders = {
+    'apns-priority': '10',
+    'apns-push-type': 'alert',
+    'apns-topic': PUSH_APP_TARGET.iosBundleId,
+  };
 
   const msg = {
     notification: { title, body },
     data: { kind: 'push_ping' },
-    android: { priority: 'high' },
+    android: {
+      priority: 'high',
+      restrictedPackageName: PUSH_APP_TARGET.androidPackageName,
+    },
     apns: { headers: apnsHeaders },
   };
 
