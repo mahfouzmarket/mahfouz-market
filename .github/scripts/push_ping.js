@@ -23,6 +23,7 @@ async function main() {
     iosBundleId: 'MAHFOUZ.MARKET.MM-APP',
     androidPackageName: 'com.mahfouzmarket.mahfouz_market',
   });
+  const brandAnchorTopic = `broadcast_${expectedBrandId}`;
 
   const saRaw = mustEnv('FIREBASE_SERVICE_ACCOUNT_JSON');
   const sa = parseJson('FIREBASE_SERVICE_ACCOUNT_JSON', saRaw);
@@ -68,14 +69,17 @@ async function main() {
   };
 
   if (token) {
-    const id = await admin.messaging().send({ ...msg, token });
-    console.log(`✅ sent TOKEN msgId=${id}`);
-    return;
+    throw new Error(
+      'Direct-token push ping is disabled because token app identity cannot be proven in the shared Firebase project.'
+    );
   }
-
-  if (!topic) throw new Error('Provide PING_TOPIC or PING_TOKEN');
-  const id = await admin.messaging().send({ ...msg, topic });
-  console.log(`✅ sent TOPIC=${topic} msgId=${id}`);
+  if (!topic) throw new Error('Provide PING_TOPIC');
+  const brandCondition =
+    `'${topic}' in topics && '${brandAnchorTopic}' in topics`;
+  const id = await admin.messaging().send({ ...msg, condition: brandCondition });
+  console.log(
+    `✅ sent TOPIC=${topic} anchor=${brandAnchorTopic} msgId=${id}`
+  );
 }
 
 main().catch((e) => {
